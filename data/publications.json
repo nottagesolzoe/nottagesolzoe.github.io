@@ -1,20 +1,5 @@
 [
-  {
-    "title": "A very important finding about an interesting phenomenon",
-    "authors": "Jane Placeholder, Collaborator One, Collaborator Two",
-    "publication": "Journal of Important Findings",
-    "year": "2025",
-    "url": "https://doi.org/10.0000/example.2025",
-    "pdfPath": "./docs/publications/2025_Placeholder_ImportantFinding/2025_Placeholder_ImportantFinding.pdf",
-    "bibPath": "./docs/publications/2025_Placeholder_ImportantFinding/cite.bib"
-  },
-  {
-    "title": "An earlier study that laid the groundwork",
-    "authors": "Jane Placeholder, Collaborator One",
-    "publication": "Proceedings of the Conference on Groundwork",
-    "year": "2024",
-    "url": "https://doi.org/10.0000/example.2024",
-    "pdfPath": "./docs/publications/2024_Placeholder_EarlierStudy/2024_Placeholder_EarlierStudy.pdf",
-    "bibPath": "./docs/publications/2024_Placeholder_EarlierStudy/cite.bib"
-  }
+  {"title":"Country Profiles: ATT Monitor 2025","authors":"Control Arms Secretariat","publication":"ATT Monitor 2025","year":"2025","url":"https://attmonitor.org/"},
+  {"title":"As conflicts rise, ATT states should commit to greater transparency","authors":"Sol Zoe Nottage","publication":"Forum on the Arms Trade","year":"2025","url":"https://www.forumarmstrade.org/blog/as-conflicts-rise-att-states-should-commit-to-greater-transparency"},
+  {"title":"La academia en jaque: una exploración de la incidencia femenina en el campo de las RRII en Argentina","authors":"M. Bergmann, S. Nottage, and B. Grego","publication":"Memorias del XV Congreso Nacional y VIII Internacional sobre Democracia","year":"2022","url":"http://hdl.handle.net/2133/26093"}
 ]

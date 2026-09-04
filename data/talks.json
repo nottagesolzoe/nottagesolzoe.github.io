@@ -1,14 +1,5 @@
 [
-  {
-    "title": "A very important finding about an interesting phenomenon",
-    "location": "Workshop on Interesting Things, University of Somewhere",
-    "date": "2026",
-    "link": "https://example.edu"
-  },
-  {
-    "title": "An earlier study that laid the groundwork",
-    "location": "Conference on Groundwork",
-    "date": "2024",
-    "link": "https://example.edu"
-  }
+  {"title":"ATT Monitor Arms Transfers Dashboard","location":"Working Group on Transparency and Reporting, CSP11 Preparatory Meetings","date":"2025","link":"https://attmonitor.org/en/project/presentation-of-the-att-monitor-arms-transfers-dashboard-at-the-att-working-group-on-transparency-and-reporting/"},
+  {"title":"ATT Monitor Dashboard Presentation","location":"Tenth Conference of States Parties to the Arms Trade Treaty, Geneva","date":"2024","link":"https://attmonitor.org/"},
+  {"title":"La academia en jaque","location":"XV Congress on Democracy, Rosario","date":"2022","link":"http://hdl.handle.net/2133/26093"}
 ]

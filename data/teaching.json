@@ -1,15 +1,5 @@
 [
-  {
-    "title": "Introduction to Interesting Things",
-    "role": "Instructor",
-    "institution": "University of Somewhere",
-    "term": "Spring 2026",
-    "description": "An undergraduate introduction to the field, covering foundational concepts and hands-on methods."
-  },
-  {
-    "title": "Advanced Methods Seminar",
-    "role": "Teaching Assistant",
-    "institution": "Another University",
-    "term": "Fall 2023"
-  }
+  {"title":"AI and Global Politics","role":"Teaching Assistant","institution":"Northeastern University","term":"2026–ongoing","description":"Artificial intelligence, machine learning, and data analysis in international politics."},
+  {"title":"Public Opinion and International Relations","role":"Teaching Assistant","institution":"Universidad de San Andrés and Universidad Torcuato Di Tella","term":"2021–2025"},
+  {"title":"Applied Research with R and Power BI","role":"Instructor","institution":"ORT Argentina","term":"2021–2024"}
 ]

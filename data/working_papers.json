@@ -1,18 +1,3 @@
 [
-  {
-    "title": "A new preprint that is currently under review",
-    "authors": "Jane Placeholder, Collaborator Three",
-    "url": "https://doi.org/10.48550/arXiv.0000.00000",
-    "id": "modal_placeholder_preprint",
-    "pdfPath": "./docs/publications/0_Placeholder_NewPreprint/0_Placeholder_NewPreprint.pdf",
-    "bibPath": "./docs/publications/0_Placeholder_NewPreprint/cite.bib"
-  },
-  {
-    "title": "Another working paper exploring a promising direction",
-    "authors": "Jane Placeholder",
-    "url": "https://osf.io/",
-    "id": "modal_placeholder_direction",
-    "pdfPath": "./docs/publications/0_Placeholder_PromisingDirection/0_Placeholder_PromisingDirection.pdf",
-    "bibPath": "./docs/publications/0_Placeholder_PromisingDirection/cite.bib"
-  }
+  {"title":"Judicial Sentences as Evidence for Gender Responsive Small Arms Control","authors":"Co-authored APP working paper","url":"https://docs-library.unoda.org/Programme_of_Action_on_Small_Arms_and_Light_Weapons_-NinthBiennial_Meeting_of_States_(2026)/APP_WP__Judicial_Sentences_as_Evidence_for_Gender_Responsive_Small_Arms_Control_EN.pdf","id":"judicial_sentences_gender_responsive_control"}
 ]

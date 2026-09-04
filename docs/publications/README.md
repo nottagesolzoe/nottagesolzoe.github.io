@@ -12,5 +12,5 @@ When a working paper is published, rename its directory from `0_...` to `YYYY_..
 and update the matching `pdfPath`/`bibPath` entries in `data/`. The
 `/update-site-data` skill automates this.
 
-The placeholder directories here contain `cite.bib` files only; drop each paper's
-PDF into its directory using the filename referenced by `pdfPath` in `data/`.
+Add a directory only when the corresponding publication files are available.
+Do not create sample papers or bibliographic records.

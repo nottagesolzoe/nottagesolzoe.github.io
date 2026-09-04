@@ -1,16 +1,1 @@
-{
-  "name": "Dr. Jane Placeholder",
-  "title": "Assistant Professor of Something Interesting",
-  "affiliation": "University of Somewhere",
-  "photoPath": "./assets/images/headshot.svg",
-  "bio": [
-    "I am a researcher studying interesting things. My work combines methods from one field with questions from another to understand how the world works.",
-    "Before joining the University of Somewhere, I completed my Ph.D. at Another University, where I was advised by Prof. Great Mentor."
-  ],
-  "links": [
-    { "label": "Google Scholar", "url": "https://scholar.google.com/" },
-    { "label": "GitHub", "url": "https://github.com/" },
-    { "label": "CV", "url": "./docs/cv.pdf" },
-    { "label": "Email", "url": "mailto:jane@example.edu" }
-  ]
-}
+{"name":"Sol Zoe Nottage","title":"Computational Social Scientist","affiliation":"Northeastern University","photoPath":"./assets/images/linkedin-att-geneva.jpg","bio":["Fulbright Scholar pursuing an MS in Applied Quantitative Methods and Social Analysis at Northeastern University.","Research on international security, transparency, public opinion, and human rights using quantitative and computational methods."],"links":[{"label":"LinkedIn","url":"https://www.linkedin.com/in/solzoenottage/"},{"label":"GitHub","url":"https://github.com/nottagesolzoe"},{"label":"Email","url":"mailto:nottagesolzoe@gmail.com"}]}
