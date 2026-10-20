@@ -15184,5 +15184,237 @@
         "status": "Afiliación del artículo; situación actual no verificada"
       }
     ]
+  },
+  {
+    "id": "patricia-murrieta-flores",
+    "name": "Patricia Murrieta-Flores",
+    "type": "Persona",
+    "country": "México",
+    "region": "México",
+    "affiliation": "Tecnológico de Monterrey",
+    "scope": [
+      "México"
+    ],
+    "topics": [
+      "Humanidades digitales"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Humanidades digitales y arqueología computacional. Claustro anunciado en noviembre de 2025 para apertura en agosto de 2026; no se infiere empleo actual ni residencia.",
+    "sources": [
+      {
+        "title": "Claustro anunciado",
+        "url": "https://conecta.tec.mx/es/noticias/nacional/educacion/tender-puentes-entre-la-ia-y-lo-humano-la-nueva-carrera-del-tec"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Programa o equipo institucional",
+    "baseStatus": "Participación anunciada; base por confirmar"
+  },
+  {
+    "id": "paola-ricaurte-quijano",
+    "name": "Paola Ricaurte Quijano",
+    "type": "Persona",
+    "country": "México",
+    "region": "México",
+    "affiliation": "Tecnológico de Monterrey",
+    "scope": [
+      "México"
+    ],
+    "topics": [
+      "Humanidades digitales"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Medios digitales, decolonialidad y ética de la IA. Claustro anunciado en noviembre de 2025 para apertura en agosto de 2026; no se infiere empleo actual ni residencia.",
+    "sources": [
+      {
+        "title": "Claustro anunciado",
+        "url": "https://conecta.tec.mx/es/noticias/nacional/educacion/tender-puentes-entre-la-ia-y-lo-humano-la-nueva-carrera-del-tec"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Programa o equipo institucional",
+    "baseStatus": "Participación anunciada; base por confirmar"
+  },
+  {
+    "id": "claudia-uribe",
+    "name": "Claudia Uribe",
+    "type": "Persona",
+    "country": "México",
+    "region": "México",
+    "affiliation": "Tecnológico de Monterrey",
+    "scope": [
+      "México"
+    ],
+    "topics": [
+      "Humanidades digitales"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Políticas educativas; integrante del claustro anunciado. Claustro anunciado en noviembre de 2025 para apertura en agosto de 2026; no se infiere empleo actual ni residencia.",
+    "sources": [
+      {
+        "title": "Claustro anunciado",
+        "url": "https://conecta.tec.mx/es/noticias/nacional/educacion/tender-puentes-entre-la-ia-y-lo-humano-la-nueva-carrera-del-tec"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Programa o equipo institucional",
+    "baseStatus": "Participación anunciada; base por confirmar"
+  },
+  {
+    "id": "toby-miller",
+    "name": "Toby Miller",
+    "type": "Persona",
+    "country": "México",
+    "region": "México",
+    "affiliation": "Tecnológico de Monterrey",
+    "scope": [
+      "México"
+    ],
+    "topics": [
+      "Humanidades digitales"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Estudios culturales y medios; integrante del claustro anunciado. Claustro anunciado en noviembre de 2025 para apertura en agosto de 2026; no se infiere empleo actual ni residencia.",
+    "sources": [
+      {
+        "title": "Claustro anunciado",
+        "url": "https://conecta.tec.mx/es/noticias/nacional/educacion/tender-puentes-entre-la-ia-y-lo-humano-la-nueva-carrera-del-tec"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Programa o equipo institucional",
+    "baseStatus": "Participación anunciada; base por confirmar"
+  },
+  {
+    "id": "carlos-astengo",
+    "name": "Carlos Astengo",
+    "type": "Persona",
+    "country": "México",
+    "region": "México",
+    "affiliation": "Tecnológico de Monterrey",
+    "scope": [
+      "México"
+    ],
+    "topics": [
+      "Humanidades digitales"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "IA, matemáticas aplicadas e innovación educativa. Claustro anunciado en noviembre de 2025 para apertura en agosto de 2026; no se infiere empleo actual ni residencia.",
+    "sources": [
+      {
+        "title": "Claustro anunciado",
+        "url": "https://conecta.tec.mx/es/noticias/nacional/educacion/tender-puentes-entre-la-ia-y-lo-humano-la-nueva-carrera-del-tec"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Programa o equipo institucional",
+    "baseStatus": "Participación anunciada; base por confirmar"
+  },
+  {
+    "id": "eugenio-tisselli",
+    "name": "Eugenio Tisselli",
+    "type": "Persona",
+    "country": "México",
+    "region": "México",
+    "affiliation": "Tecnológico de Monterrey",
+    "scope": [
+      "México"
+    ],
+    "topics": [
+      "Humanidades digitales"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Arte digital, programación y estudios ecológicos. Claustro anunciado en noviembre de 2025 para apertura en agosto de 2026; no se infiere empleo actual ni residencia.",
+    "sources": [
+      {
+        "title": "Claustro anunciado",
+        "url": "https://conecta.tec.mx/es/noticias/nacional/educacion/tender-puentes-entre-la-ia-y-lo-humano-la-nueva-carrera-del-tec"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Programa o equipo institucional",
+    "baseStatus": "Participación anunciada; base por confirmar"
+  },
+  {
+    "id": "german-camilo-martinez",
+    "name": "Germán Camilo Martínez",
+    "type": "Persona",
+    "country": "Colombia",
+    "region": "Andina",
+    "affiliation": "Universidad de los Andes",
+    "scope": [
+      "Colombia"
+    ],
+    "topics": [
+      "Humanidades digitales"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Coordinador Badac; proyectos digitales.",
+    "sources": [
+      {
+        "title": "Equipo institucional",
+        "url": "https://cic.uniandes.edu.co/equipo/hdig/"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Programa o equipo institucional",
+    "baseStatus": "Base regional documentada"
+  },
+  {
+    "id": "david-pena",
+    "name": "David Peña",
+    "type": "Persona",
+    "country": "Colombia",
+    "region": "Andina",
+    "affiliation": "Universidad de los Andes",
+    "scope": [
+      "Colombia"
+    ],
+    "topics": [
+      "Humanidades digitales"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Profesor asociado; programación, fabricación digital, arte y ciencia.",
+    "sources": [
+      {
+        "title": "Equipo institucional",
+        "url": "https://cic.uniandes.edu.co/equipo/hdig/"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Programa o equipo institucional",
+    "baseStatus": "Base regional documentada"
   }
 ]

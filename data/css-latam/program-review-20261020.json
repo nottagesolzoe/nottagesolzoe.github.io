@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-20",
+  "addedPeople": [
+    "Patricia Murrieta-Flores",
+    "Paola Ricaurte Quijano",
+    "Claudia Uribe",
+    "Toby Miller",
+    "Carlos Astengo",
+    "Eugenio Tisselli",
+    "Germán Camilo Martínez",
+    "David Peña"
+  ],
+  "programs": [
+    {
+      "name": "Curso Ciencias Sociales Computacionales Aplicadas",
+      "institution": "Universidad Adolfo Ibáñez",
+      "country": "Chile",
+      "type": "Curso",
+      "url": "https://www.uai.cl/postgrados/cursos/ciencias-sociales-computacionales-aplicadas",
+      "status": "Inicio anunciado: 22 de octubre de 2026; término: 26 de noviembre de 2026",
+      "description": "Datos digitales, aprendizaje automático, redes, simulaciones basadas en agentes y ética.",
+      "modality": "Zoom (Online en Vivo)",
+      "people": [
+        "Mauricio Salgado"
+      ],
+      "checked": "2026-10-20"
+    },
+    {
+      "name": "Maestría en Humanidades Digitales",
+      "institution": "Tecnológico de Monterrey",
+      "country": "México",
+      "type": "Maestría",
+      "url": "https://maestriasydiplomados.tec.mx/posgrados/maestria-en-humanidades-digitales-en-linea?locale=es-MX",
+      "status": "Programa localizado en catálogo oficial",
+      "description": "Proyectos culturales digitales y análisis de tendencias en redes sociales.",
+      "modality": "En línea",
+      "people": [],
+      "checked": "2026-10-20"
+    },
+    {
+      "name": "Licenciatura en Humanidades Digitales e Inteligencia Artificial",
+      "institution": "Tecnológico de Monterrey",
+      "country": "México",
+      "type": "Licenciatura",
+      "url": "https://conecta.tec.mx/es/noticias/nacional/educacion/tender-puentes-entre-la-ia-y-lo-humano-la-nueva-carrera-del-tec",
+      "status": "Apertura anunciada para agosto de 2026 en nota de noviembre de 2025",
+      "description": "Integra humanidades, IA, análisis de datos y procesamiento del lenguaje. Claustro anunciado, no confirmado como docencia realizada.",
+      "modality": "",
+      "people": [
+        "Patricia Murrieta-Flores",
+        "Paola Ricaurte Quijano",
+        "Claudia Uribe",
+        "Toby Miller",
+        "Carlos Astengo",
+        "Eugenio Tisselli"
+      ],
+      "checked": "2026-10-20"
+    },
+    {
+      "name": "Maestría en Humanidades Digitales",
+      "institution": "Universidad de los Andes",
+      "country": "Colombia",
+      "type": "Maestría",
+      "url": "https://www.uniandes.edu.co/es/programas/maestria-en-humanidades-digitales",
+      "status": "Programa localizado en catálogo oficial",
+      "description": "Investigación y creación sobre cultura y medios digitales.",
+      "modality": "",
+      "people": [
+        "Germán Camilo Martínez",
+        "María José Afanador Llach",
+        "David Peña"
+      ],
+      "peopleSource": "https://cic.uniandes.edu.co/equipo/hdig/",
+      "checked": "2026-10-20"
+    }
+  ],
+  "discovery": "Hallazgos del rastreo regional, seguidos hasta páginas oficiales de programas y equipos.",
+  "limitations": "No se infiere especialización CSS individual de la sola docencia. No se infiere una contratación actual a partir de un anuncio."
+}

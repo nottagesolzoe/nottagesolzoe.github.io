@@ -1,4 +1,4 @@
-"""Build a provisional South American review queue from saved source snapshots.
+"""Build a provisional regional review queue from saved source snapshots.
 Run from any directory. Requires beautifulsoup4 and openpyxl.
 An inventory entry is NOT evidence of CSS activity or a completed review.
 """
@@ -7,8 +7,10 @@ from bs4 import BeautifulSoup
 import openpyxl
 ROOT=pathlib.Path(__file__).resolve().parents[3]
 DATA=ROOT/'data/css-latam'; INPUT=pathlib.Path(__file__).parent/'inputs'
-COUNTRIES={'AR':'Argentina','CL':'Chile','UY':'Uruguay','PY':'Paraguay','BR':'Brasil','BO':'Bolivia','PE':'Perú','EC':'Ecuador','CO':'Colombia','VE':'Venezuela','GY':'Guyana','SR':'Surinam'}
+COUNTRIES={'AR':'Argentina','CL':'Chile','UY':'Uruguay','PY':'Paraguay','BR':'Brasil','BO':'Bolivia','PE':'Perú','EC':'Ecuador','CO':'Colombia','VE':'Venezuela','GY':'Guyana','SR':'Surinam','PA':'Panamá','CR':'Costa Rica','NI':'Nicaragua','HN':'Honduras','SV':'El Salvador','GT':'Guatemala','MX':'México','CU':'Cuba','DO':'República Dominicana','HT':'Haití'}
 def norm(s):return ' '.join(''.join(c for c in unicodedata.normalize('NFKD',s.lower()) if not unicodedata.combining(c)).split())
+previous_path=DATA/'university-inventory.json'
+previous={r['id']:r for r in json.loads(previous_path.read_text())} if previous_path.exists() else {}
 rows={}
 def add(country,name,source,url=None,code=None,edition=None,detail=None):
  key=(country,norm(name))
@@ -53,6 +55,25 @@ for tr in s.select('table tbody tr'):
  if len(td)>=5:
   name=td[4].get_text(' ',strip=True)
   if name and 'universidad' in name.lower():add('Paraguay',name,'py-cones',detail={'scope':'institución mencionada en oferta académica; nómina no necesariamente completa'})
+# National registers captured separately from the secondary candidate directory.
+extra=INPUT/'register-expansion.json'
+if extra.exists():
+ for source in json.loads(extra.read_text()):
+  if source.get('http')!=200:continue
+  if source['id']=='gt-ceps':
+   for entry in source.get('links',[]):
+    if 'universidad_id=' in entry['url']:
+     add('Guatemala',entry['name'],'gt-ceps',code=entry['url'].split('universidad_id=')[-1],detail={'registryPage':source['url'],'recordPath':entry['url']})
+  if source['id']=='cr-conesup':
+   for entry in source.get('options',[]):
+    if ' - ' in entry:
+     code,name=entry.split(' - ',1)
+     add('Costa Rica',name,'cr-conesup',code=code,detail={'registryPage':source['url'],'scope':'Etiqueta literal del selector CONESUP; conciliar alias, estado y sector público antes de contar universidades únicas'})
 result=sorted(rows.values(),key=lambda r:(list(COUNTRIES.values()).index(r['country']),r['name']))
+# Preserve completed review evidence and screening logs when rebuilding the frame.
+for r in result:
+ old=previous.get(r['id'],{})
+ for field in ['review','screening','cssStatus']:
+  if field in old:r[field]=old[field]
 (DATA/'university-inventory.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n')
 print(json.dumps({'records':len(result),'countries':dict(collections.Counter(r['country'] for r in result))},ensure_ascii=False))

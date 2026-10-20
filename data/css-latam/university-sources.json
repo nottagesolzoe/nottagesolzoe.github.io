@@ -133,5 +133,41 @@
     "scopeAndLimitations": "Fuente localizada; extracción pendiente",
     "status": "localizada; extracción pendiente",
     "accessDate": "2026-10-20"
+  },
+  {
+    "id": "gt-ceps",
+    "country": "Guatemala",
+    "authority": "Consejo de la Enseñanza Privada Superior",
+    "url": "https://ceps.edu.gt/ceps/",
+    "scopeAndLimitations": "Nómina de 16 universidades privadas y USAC; conciliación de denominaciones pendiente",
+    "status": "extraída",
+    "accessDate": "2026-10-20"
+  },
+  {
+    "id": "cr-conesup",
+    "country": "Costa Rica",
+    "authority": "CONESUP / Ministerio de Educación Pública",
+    "url": "https://ws.mep.go.cr/consultas/frmprincipal.aspx",
+    "scopeAndLimitations": "58 etiquetas del selector; no equiparar a instituciones vigentes únicas; completar públicas",
+    "status": "extraída",
+    "accessDate": "2026-10-20"
+  },
+  {
+    "id": "hn-des",
+    "country": "Honduras",
+    "authority": "Dirección de Educación Superior / UNAH",
+    "url": "https://des.unah.edu.hn/sistema-de-educacion-superior/instituciones/",
+    "scopeAndLimitations": "La página informa 22 instituciones; nombres en componentes visuales pendientes de extracción",
+    "status": "página consultada",
+    "accessDate": "2026-10-20"
+  },
+  {
+    "id": "mx-anuies",
+    "country": "México",
+    "authority": "ANUIES",
+    "url": "https://www.anuies.mx/anuies/instituciones-de-educacion-superior/",
+    "scopeAndLimitations": "278 afiliadas; no constituye el universo nacional de universidades",
+    "status": "página consultada",
+    "accessDate": "2026-10-20"
   }
 ]
