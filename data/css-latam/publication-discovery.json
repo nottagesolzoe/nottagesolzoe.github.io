@@ -1,0 +1,114 @@
+{
+  "checked": "2026-10-20",
+  "status": "Primera búsqueda bibliográfica; cobertura regional pendiente",
+  "queries": [
+    {
+      "query": "site.arxiv.org/abs \"Chile\" \"social media\"",
+      "engine": "web search",
+      "status": "consultada"
+    },
+    {
+      "query": "site.arxiv.org/abs \"political\" \"Brazil\"",
+      "engine": "web search",
+      "status": "consultada"
+    },
+    {
+      "query": "site.arxiv.org/abs \"social\" \"Uruguay\" \"networks\"",
+      "engine": "web search",
+      "status": "consultada"
+    },
+    {
+      "query": "site.arxiv.org/abs \"Mexico\" \"misinformation\"",
+      "engine": "web search",
+      "status": "consultada"
+    },
+    {
+      "url": "https://scholar.google.com/scholar?q=%22computational+social+science%22+%22Mexico%22",
+      "status": "error de acceso; no se consultaron resultados directamente"
+    }
+  ],
+  "works": [
+    {
+      "id": "arxiv:2306.14378",
+      "url": "https://arxiv.org/html/2306.14378v1",
+      "year": 2023,
+      "title": "A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic",
+      "decision": "Aplicación social computacional y afiliaciones chilenas verificadas en el artículo; conciliación con directorio pendiente",
+      "doi": "10.3390/app13095347",
+      "authors": [
+        "Marcelo Mendoza",
+        "Sebastián Valenzuela",
+        "Enrique Núñez-Mussa",
+        "Fabián Padilla",
+        "Eliana Providel",
+        "Sebastián Campos",
+        "Renato Bassi",
+        "Andrea Riquelme",
+        "Valeria Aldana",
+        "Claudia López"
+      ],
+      "affiliationNote": "Enrique Núñez-Mussa figura en Michigan State University, Estados Unidos. Los otros nueve autores consignan instituciones en Chile. Son afiliaciones de 2023, no cargos actuales."
+    },
+    {
+      "id": "arxiv:1805.01589",
+      "url": "https://arxiv.org/abs/1805.01589",
+      "year": 2018,
+      "title": "When Politicians Talk About Politics: Identifying Political Tweets of Brazilian Congressmen",
+      "authors": [
+        "Lucas S. Oliveira",
+        "Pedro O. S. Vaz de Melo",
+        "Marcelo S. Amaral",
+        "José Antônio G. Pinho"
+      ],
+      "decision": "Método y autoría verificados; afiliaciones pendientes de texto completo"
+    },
+    {
+      "id": "arxiv:2504.08960",
+      "url": "https://arxiv.org/html/2504.08960v1",
+      "year": 2025,
+      "title": "Quantifying the Spread of Online Incivility in Brazilian Politics",
+      "decision": "Objeto de estudio Brasil, pero afiliaciones del artículo en Suiza y España. No clasificar como producción desde LATAM con esta evidencia."
+    }
+  ],
+  "integrationRuns": [
+    {
+      "date": "2026-10-20",
+      "added": [
+        "Enrique Núñez-Mussa",
+        "Fabián Padilla",
+        "Eliana Providel",
+        "Sebastián Campos",
+        "Renato Bassi",
+        "Andrea Riquelme",
+        "Valeria Aldana",
+        "Claudia López",
+        "Jorge Saldivar",
+        "Cristhian Parra",
+        "Mical Laconich",
+        "Luca Cernuzzi"
+      ],
+      "updated": [
+        "Marcelo Mendoza",
+        "Sebastián Valenzuela"
+      ],
+      "note": "No se añadieron vínculos de coautoría al grafo todavía; requieren conciliar el corpus y regenerar la proyección."
+    },
+    {
+      "date": "2026-10-20",
+      "added": [
+        "Cristina Soto-Rojas",
+        "Carlos Gamboa-Venegas",
+        "Adriana Céspedes-Vindas",
+        "James Edward Humberstone Morales",
+        "Fernando José Alvarez Alens"
+      ],
+      "note": "Afiliaciones históricas y correos institucionales publicados en artículos."
+    }
+  ],
+  "nameDiscrepancies": [
+    {
+      "source": "https://investiga.conare.ac.cr/index.php/2024/07/18/mediatic-una-plataforma-de-analisis-costarricense/",
+      "note": "La nota alterna Adriana Céspedes Vindas y Adriana Segura Castillo. Se retiene el nombre Adriana Céspedes-Vindas del artículo científico y no se crea una segunda persona."
+    }
+  ]
+}

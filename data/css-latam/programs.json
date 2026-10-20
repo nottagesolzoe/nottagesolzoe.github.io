@@ -174,15 +174,25 @@
     "checked": "2026-10-20"
   },
   {
-    "name": "Escuela Internacional en Ciencias Sociales Computacionales",
+    "name": "Escuela Internacional en Ciencias Sociales Computacionales 2023 (IMFD-CICADA-UMAD)",
     "institution": "Universidad de la República / UMAD",
     "country": "Uruguay",
     "type": "Escuela",
-    "url": "https://cienciassociales.edu.uy/estudiantes/herramientas-computacionales-y-de-la-ciencia-de-datos-para-la-investigacion-social/",
+    "url": "https://cicada.uy/course/escuela-internacional-ciencias-sociales-computacionales-2023/",
     "status": "Edición histórica de 2023",
     "description": "Formación y debate sobre herramientas computacionales para investigación social. No se interpreta la participación en la apertura como docencia o coautoría.",
     "modality": "No verificada",
-    "people": [],
+    "people": [
+      "Juan Pablo Luna",
+      "Sebastián Valenzuela",
+      "Magdalena Saldaña",
+      "Felipe Bravo",
+      "Natalia da Silva",
+      "Nicolás Schmidt",
+      "Elina Gómez",
+      "Juan Reutter",
+      "Lorena Etcheverry"
+    ],
     "checked": "2026-10-20"
   },
   {
@@ -309,5 +319,148 @@
     "people": [],
     "checked": "2026-10-20",
     "category": "IA y educación"
+  },
+  {
+    "name": "SICSS-Uruguay",
+    "institution": "University of the Republic (Udelar)",
+    "country": "Uruguay",
+    "type": "Escuela",
+    "url": "https://sicss.io/2024/uruguay/",
+    "status": "Edición 2024 finalizada",
+    "description": "Plantel, expositores y participantes publicados en la página People. Los invitados internacionales conservan su ubicación institucional documentada.",
+    "modality": "",
+    "people": [
+      "Guillermo Lezama",
+      "Elina Gómez",
+      "Fabricio Carneiro",
+      "Nicolás Schmidt",
+      "Ivan Schuliaquer",
+      "Sergio Toro",
+      "Martín Opertti",
+      "Germán Rosati",
+      "Ignacio Zuasnabar",
+      "Jimena Torres",
+      "Sara González"
+    ],
+    "checked": "2026-10-20"
+  },
+  {
+    "name": "SICSS-Uruguay",
+    "institution": "University of the Republic (Udelar)",
+    "country": "Uruguay",
+    "type": "Escuela",
+    "url": "https://sicss.io/2026/uruguay/",
+    "status": "Edición 2026 anunciada. SICSS indica 29/10–06/11; la noticia de FCS indica 28/10–05/11. Fechas sin conciliar.",
+    "description": "Plantel, expositores y participantes publicados en la página People. Los invitados internacionales conservan su ubicación institucional documentada.",
+    "modality": "",
+    "people": [
+      "Elina Gómez",
+      "Fabricio Carneiro",
+      "Malena Montano",
+      "Mariana Seco",
+      "Esteban García",
+      "Nahuel Roel",
+      "María José Afanador Llach",
+      "Agustín Nieto"
+    ],
+    "checked": "2026-10-20"
+  },
+  {
+    "name": "Introducción a la IA para Científicos Sociales",
+    "institution": "Universidad Católica del Uruguay · Escuela en Métodos",
+    "country": "Uruguay",
+    "type": "Curso",
+    "url": "https://www.ucu.edu.uy/categoria/Escuela-en-Metodos-367",
+    "status": "Edición de invierno 2026 finalizada",
+    "description": "Curso incluido en el catálogo oficial de la Escuela en Métodos.",
+    "modality": "",
+    "people": [
+      "Danilo Freire"
+    ],
+    "checked": "2026-10-20"
+  },
+  {
+    "name": "Texto como Datos: Métodos Computacionales en Ciencias Sociales",
+    "institution": "Universidad Católica del Uruguay · Escuela en Métodos",
+    "country": "Uruguay",
+    "type": "Curso",
+    "url": "https://www.ucu.edu.uy/categoria/Escuela-en-Metodos-367",
+    "status": "Edición de invierno 2026 finalizada",
+    "description": "Curso incluido en el catálogo oficial de la Escuela en Métodos.",
+    "modality": "",
+    "people": [
+      "Ayelén Vanegas"
+    ],
+    "checked": "2026-10-20"
+  },
+  {
+    "name": "Análisis espacial con sistemas de información geográfica",
+    "institution": "Universidad Católica del Uruguay · Escuela en Métodos",
+    "country": "Uruguay",
+    "type": "Curso",
+    "url": "https://www.ucu.edu.uy/categoria/Escuela-en-Metodos-367",
+    "status": "Edición de invierno 2026 finalizada",
+    "description": "Curso incluido en el catálogo oficial de la Escuela en Métodos.",
+    "modality": "",
+    "people": [
+      "Diego Hernández"
+    ],
+    "checked": "2026-10-20"
+  },
+  {
+    "name": "Visualización de datos",
+    "institution": "Universidad Católica del Uruguay · Escuela en Métodos",
+    "country": "Uruguay",
+    "type": "Curso",
+    "url": "https://www.ucu.edu.uy/categoria/Escuela-en-Metodos-367",
+    "status": "Edición de invierno 2026 finalizada",
+    "description": "Curso incluido en el catálogo oficial de la Escuela en Métodos.",
+    "modality": "",
+    "people": [
+      "Mateo Villamizar"
+    ],
+    "checked": "2026-10-20"
+  },
+  {
+    "name": "Modelos categóricos, de elección y conteo",
+    "institution": "Universidad Católica del Uruguay · Escuela en Métodos",
+    "country": "Uruguay",
+    "type": "Curso",
+    "url": "https://www.ucu.edu.uy/categoria/Escuela-en-Metodos-367",
+    "status": "Edición de invierno 2026 finalizada",
+    "description": "Curso incluido en el catálogo oficial de la Escuela en Métodos.",
+    "modality": "",
+    "people": [
+      "José Rivero"
+    ],
+    "checked": "2026-10-20"
+  },
+  {
+    "name": "Introducción a la programación en R",
+    "institution": "Universidad Católica del Uruguay · Escuela en Métodos",
+    "country": "Uruguay",
+    "type": "Curso",
+    "url": "https://www.ucu.edu.uy/categoria/Escuela-en-Metodos-367",
+    "status": "Edición de invierno 2026 finalizada",
+    "description": "Curso incluido en el catálogo oficial de la Escuela en Métodos.",
+    "modality": "",
+    "people": [
+      "Martín Opertti"
+    ],
+    "checked": "2026-10-20"
+  },
+  {
+    "name": "Introducción a la programación Python",
+    "institution": "Universidad Católica del Uruguay · Escuela en Métodos",
+    "country": "Uruguay",
+    "type": "Curso",
+    "url": "https://www.ucu.edu.uy/categoria/Escuela-en-Metodos-367",
+    "status": "Edición de invierno 2026 finalizada",
+    "description": "Curso incluido en el catálogo oficial de la Escuela en Métodos.",
+    "modality": "",
+    "people": [
+      "Ornella Novino"
+    ],
+    "checked": "2026-10-20"
   }
 ]

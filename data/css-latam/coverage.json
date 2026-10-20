@@ -30,7 +30,7 @@
     {
       "country": "Argentina",
       "institution": "UNSAM",
-      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "stage": "Programa revisado",
       "url": "https://www.unsam.edu.ar/escuelas/eidaes/671/idaes/ciencias-sociales-computacionales-humanidades-digitales",
       "date": "2026-10-20",
       "peopleReviewed": [
@@ -51,7 +51,7 @@
     {
       "country": "Argentina",
       "institution": "UNC / Universidad Nacional de Villa María",
-      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "stage": "Programa revisado",
       "url": "https://sociales.unc.edu.ar/content/diplomatura-universitaria-de-estudios-avanzados-en-ciencia-de-datos-para-ciencias-sociales",
       "date": "2026-10-20",
       "peopleReviewed": [
@@ -64,7 +64,7 @@
     {
       "country": "Argentina",
       "institution": "CETyS / Universidad de San Andrés",
-      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "stage": "Programa revisado",
       "url": "https://pensarcondatos.com/sobre-nosotros/",
       "date": "2026-10-20",
       "peopleReviewed": [
@@ -75,7 +75,7 @@
     {
       "country": "Perú",
       "institution": "QLAB / PUCP",
-      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "stage": "Programa revisado",
       "url": "https://qlab.pucp.edu.pe/cursos/diplomatura-qlab",
       "date": "2026-10-20",
       "peopleReviewed": [
@@ -89,7 +89,7 @@
     {
       "country": "Chile",
       "institution": "Universidad del Desarrollo",
-      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "stage": "Programa revisado",
       "url": "https://gobierno.udd.cl/dccs/admision/",
       "date": "2026-10-20",
       "peopleReviewed": []
@@ -97,7 +97,7 @@
     {
       "country": "Chile",
       "institution": "Pontificia Universidad Católica de Chile",
-      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "stage": "Programa revisado",
       "url": "https://educacioncontinua.uc.cl/programas/ciencia-de-datos-sociales-aprende-a-obtener-y-analizar-datos-sociales-desde-internet/",
       "date": "2026-10-20",
       "peopleReviewed": [
@@ -108,7 +108,7 @@
     {
       "country": "Brasil",
       "institution": "FGV Comunicação",
-      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "stage": "Programa revisado",
       "url": "https://mestrado-doutorado.fgv.br/curso/mestrado-profissional/rio-de-janeiro/comunicacao-digital-e-cultura-de-dados",
       "date": "2026-10-20",
       "peopleReviewed": []
@@ -116,7 +116,7 @@
     {
       "country": "Argentina",
       "institution": "UNSAM",
-      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "stage": "Programa revisado",
       "url": "https://sicss.io/2026/buenos-aires/",
       "date": "2026-10-20",
       "peopleReviewed": []
@@ -124,7 +124,7 @@
     {
       "country": "Brasil",
       "institution": "SICSS Brazil",
-      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "stage": "Programa revisado",
       "url": "https://sicss.io/2026/brazil/",
       "date": "2026-10-20",
       "peopleReviewed": []
@@ -132,7 +132,7 @@
     {
       "country": "Colombia",
       "institution": "Universidad de los Andes",
-      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "stage": "Programa revisado",
       "url": "https://cienciassociales.uniandes.edu.co/programas/escuela-de-verano-metodologias-de-investigacion-critica-en-ciencias-sociales/",
       "date": "2026-10-20",
       "peopleReviewed": []
@@ -140,7 +140,7 @@
     {
       "country": "Uruguay",
       "institution": "Universidad de la República / UMAD",
-      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "stage": "Programa revisado",
       "url": "https://cienciassociales.edu.uy/estudiantes/herramientas-computacionales-y-de-la-ciencia-de-datos-para-la-investigacion-social/",
       "date": "2026-10-20",
       "peopleReviewed": []
@@ -148,7 +148,7 @@
     {
       "country": "Costa Rica",
       "institution": "FLACSO Costa Rica",
-      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "stage": "Programa revisado",
       "url": "https://www.flacso.ac.cr/es/noticias/informacion/258-inicia-la-viii-edicion-de-la-escuela-de-verano",
       "date": "2026-10-20",
       "peopleReviewed": []
@@ -313,6 +313,82 @@
       "url": "https://www.fcjs.unl.edu.ar/estudiantes/diplomaturas-universitarias/",
       "date": "2026-10-20",
       "peopleReviewed": []
+    },
+    {
+      "country": "Uruguay",
+      "institution": "Universidad de la República",
+      "stage": "Leídas las listas de docentes, expositores, asistentes y participantes de SICSS-Uruguay 2024 y 2026; roles y años registrados.",
+      "url": "https://sicss.io/2026/uruguay/people",
+      "date": "2026-10-20",
+      "peopleReviewed": [
+        "Guillermo Lezama",
+        "Elina Gómez",
+        "Fabricio Carneiro",
+        "Nicolás Schmidt",
+        "Ivan Schuliaquer",
+        "Sergio Toro",
+        "Martín Opertti",
+        "Germán Rosati",
+        "Ignacio Zuasnabar",
+        "Jimena Torres",
+        "Sara González",
+        "Andrés Wilkins",
+        "Goodfred Schwendenwein",
+        "Patricia Catz",
+        "Virginia Recagno",
+        "Oscar Javier Maldonado Castañeda",
+        "Simón Herrera",
+        "Favio Di Ciocco",
+        "Daniel Soto",
+        "Manuela Rivero",
+        "Joaquín Gimeno",
+        "Adrián Morchio",
+        "Gabriela Mathieu",
+        "Sofía Machado",
+        "Joaquín Trinidad",
+        "Elina Gómez",
+        "Fabricio Carneiro",
+        "Malena Montano",
+        "Mariana Seco",
+        "Esteban García",
+        "Nahuel Roel",
+        "María José Afanador Llach",
+        "Agustín Nieto",
+        "Pablo Seguel",
+        "Romina De León",
+        "Sabrina Siniscalchi",
+        "Camilo Martínez Rodríguez",
+        "Muriel Taks",
+        "Andrés Manrique",
+        "Roberto García Ferreira",
+        "Gustavo Cánepa",
+        "Sebastián Sabini",
+        "Camilo López Burian",
+        "Clara Musto",
+        "Cecilia Lara",
+        "Paulina Peña Pallauta",
+        "Carolina Vicario",
+        "Pablo García-Maldonado",
+        "Lucía Verónica Martínez Hernández",
+        "Natalia Rodríguez Reyes",
+        "Constanza Arraño Astete"
+      ]
+    },
+    {
+      "country": "Uruguay",
+      "institution": "Universidad Católica del Uruguay",
+      "stage": "Leído el catálogo Escuela en Métodos 2026; registrados siete cursos con sus instructores publicados.",
+      "url": "https://www.ucu.edu.uy/categoria/Escuela-en-Metodos-367",
+      "date": "2026-10-20",
+      "peopleReviewed": [
+        "Danilo Freire",
+        "Ayelén Vanegas",
+        "Diego Hernández",
+        "Mateo Villamizar",
+        "José Rivero",
+        "Martín Opertti",
+        "Ornella Novino"
+      ]
     }
   ],
   "protocol": "projects/redes-css-latam/research/protocolo-operativo.json",

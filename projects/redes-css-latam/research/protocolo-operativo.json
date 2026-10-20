@@ -1,17 +1,62 @@
 {
   "version": "2026-10-20",
   "author": "Sol Zoe Nottage",
-  "countryOrder": ["Argentina", "Chile", "Uruguay", "Paraguay", "Brasil", "Bolivia", "Perú", "Ecuador", "Colombia", "Venezuela", "Guyana", "Surinam", "Panamá", "Costa Rica", "Nicaragua", "Honduras", "El Salvador", "Guatemala", "México", "Cuba", "República Dominicana", "Haití"],
+  "countryOrder": [
+    "Argentina",
+    "Chile",
+    "Uruguay",
+    "Paraguay",
+    "Brasil",
+    "Bolivia",
+    "Perú",
+    "Ecuador",
+    "Colombia",
+    "Venezuela",
+    "Guyana",
+    "Surinam",
+    "Panamá",
+    "Costa Rica",
+    "Nicaragua",
+    "Honduras",
+    "El Salvador",
+    "Guatemala",
+    "México",
+    "Cuba",
+    "República Dominicana",
+    "Haití"
+  ],
   "inclusion": {
     "required": "Evidencia explícita de métodos computacionales, IA o análisis de datos aplicados a fenómenos sociales, humanidades, educación, gobierno o políticas públicas.",
-    "examples": ["Ciencias sociales computacionales", "IA y políticas públicas", "Humanidades digitales", "Análisis computacional de comunicación política", "Datos públicos, cívicos y urbanos"],
-    "excluded": ["IA general sin aplicación social documentada", "Ciencia de datos general sin aplicación social documentada", "Afiliación o especialidad inferida solo por pertenecer a una institución"],
+    "examples": [
+      "Ciencias sociales computacionales",
+      "IA y políticas públicas",
+      "Humanidades digitales",
+      "Análisis computacional de comunicación política",
+      "Datos públicos, cívicos y urbanos"
+    ],
+    "excluded": [
+      "IA general sin aplicación social documentada",
+      "Ciencia de datos general sin aplicación social documentada",
+      "Afiliación o especialidad inferida solo por pertenecer a una institución"
+    ],
     "publicSector": "Infraestructura y gestión de datos públicos se incluyen como datos sociales aplicados. No se equiparan automáticamente con investigación CSS."
   },
   "frames": [
-    {"sector": "Universidades", "source": "Registro nacional oficial; conciliar altas, bajas, sedes y denominaciones", "exhaustiveness": "Solo evaluable contra una edición y universo explícitos"},
-    {"sector": "Sector público", "source": "Listado oficial de jurisdicciones y organismos nacionales, provinciales/estatales y municipales; portales y organigramas", "exhaustiveness": "Cobertura por nivel territorial; ciudades pendientes no equivalen a ausencia"},
-    {"sector": "Think tanks y consultoras", "source": "Directorios institucionales y vínculos documentados desde programas, proyectos y eventos", "exhaustiveness": "Marco abierto, sin afirmar un universo exhaustivo"}
+    {
+      "sector": "Universidades",
+      "source": "Registro nacional oficial; conciliar altas, bajas, sedes y denominaciones",
+      "exhaustiveness": "Solo evaluable contra una edición y universo explícitos"
+    },
+    {
+      "sector": "Sector público",
+      "source": "Listado oficial de jurisdicciones y organismos nacionales, provinciales/estatales y municipales; portales y organigramas",
+      "exhaustiveness": "Cobertura por nivel territorial; ciudades pendientes no equivalen a ausencia"
+    },
+    {
+      "sector": "Think tanks y consultoras",
+      "source": "Directorios institucionales y vínculos documentados desde programas, proyectos y eventos",
+      "exhaustiveness": "Marco abierto, sin afirmar un universo exhaustivo"
+    }
   ],
   "institutionChecklist": [
     "Confirmar identidad, sitio oficial, sedes y edición del registro",
@@ -24,9 +69,68 @@
     "Comprobar identidad de personas y publicaciones; registrar vínculos con fuente",
     "Registrar exclusiones, páginas inaccesibles y búsquedas sin hallazgos"
   ],
-  "states": ["pendiente", "en revisión", "revisión parcial", "revisado con hallazgos", "revisado sin hallazgos en las fuentes consultadas", "acceso bloqueado"],
+  "states": [
+    "pendiente",
+    "en revisión",
+    "revisión parcial",
+    "revisado con hallazgos",
+    "revisado sin hallazgos en las fuentes consultadas",
+    "acceso bloqueado"
+  ],
   "closureRule": "Una institución solo puede marcarse revisada cuando se documentaron todos los pasos aplicables. Una descarga o búsqueda automatizada no cierra la revisión. Ningún país se marca completo con instituciones pendientes o un marco sin conciliar.",
-  "relationTypes": ["docencia en programa", "coordinación de programa", "exposición en evento", "integrante de equipo", "cargo público documentado", "organización de evento", "convenio o proyecto documentado", "coautoría"],
-  "minimumEvidence": ["institución de origen", "URL", "fecha de consulta", "cohorte o fecha del evento si consta", "rol explícito", "decisión de inclusión y motivo"],
-  "discoveryRule": "Programas y charlas generan candidatos y vínculos de participación, no coautorías ni empleos permanentes. Los vínculos históricos conservan su temporalidad."
+  "relationTypes": [
+    "docencia en programa",
+    "coordinación de programa",
+    "exposición en evento",
+    "integrante de equipo",
+    "cargo público documentado",
+    "organización de evento",
+    "convenio o proyecto documentado",
+    "coautoría"
+  ],
+  "minimumEvidence": [
+    "institución de origen",
+    "URL",
+    "fecha de consulta",
+    "cohorte o fecha del evento si consta",
+    "rol explícito",
+    "decisión de inclusión y motivo"
+  ],
+  "discoveryRule": "Programas y charlas generan candidatos y vínculos de participación, no coautorías ni empleos permanentes. Los vínculos históricos conservan su temporalidad.",
+  "publicationDiscovery": {
+    "appliesTo": "Todos los países de countryOrder, además del recorrido institucional",
+    "sources": [
+      "Google Scholar",
+      "arXiv",
+      "SciELO",
+      "Redalyc",
+      "LA Referencia",
+      "Repositorios institucionales",
+      "OpenAlex",
+      "Semantic Scholar"
+    ],
+    "queries": [
+      "computational social science",
+      "ciencias sociales computacionales",
+      "ciências sociais computacionais",
+      "text as data política",
+      "humanidades digitales",
+      "humanidades digitais",
+      "social network analysis",
+      "IA políticas públicas",
+      "misinformation social media"
+    ],
+    "procedure": [
+      "Combinar familias temáticas con país, variantes lingüísticas e instituciones del registro nacional",
+      "Registrar consulta exacta, plataforma, fecha, páginas de resultados efectivamente consultadas y fallos de acceso",
+      "Leer resumen y métodos para comprobar aplicación social computacional",
+      "Extraer autores y afiliaciones del texto completo, con año y fuente",
+      "Buscar perfiles institucionales para verificar situación actual; no inferir país por objeto de estudio, nombre o nacionalidad",
+      "Seguir coautores, referencias y trabajos que citan el artículo; registrar generación y artículo de origen",
+      "Deduplicar DOI, arXiv y versión editorial antes de contar trabajos o construir coautorías",
+      "Conservar candidatos sin afiliación verificada fuera de los recuentos de base regional confirmada"
+    ],
+    "accessRule": "Un fallo de acceso en Scholar no se registra como consulta completada ni como ausencia de resultados. Usar fuentes alternativas y conservar el fallo.",
+    "timeRule": "Sin restricción temporal inicial; separar afiliación histórica y actual. Registrar límites de cada consulta."
+  }
 }

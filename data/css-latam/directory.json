@@ -52,7 +52,8 @@
     "affiliation": "UNSAM / CONICET · factor~data",
     "scope": [
       "Argentina",
-      "Colombia"
+      "Colombia",
+      "Uruguay"
     ],
     "topics": [
       "Desigualdad y desarrollo",
@@ -78,6 +79,10 @@
       {
         "title": "Referencia documentada",
         "url": "https://arxiv.org/abs/2407.07258"
+      },
+      {
+        "title": "SICSS-Uruguay 2024: People",
+        "url": "https://sicss.io/2024/uruguay/people"
       }
     ],
     "publication": [
@@ -89,7 +94,17 @@
     "linkedin": "https://ar.linkedin.com/in/germ%C3%A1n-rosati-53637263",
     "checked": "2026-09-27",
     "evidence": "Publicación o proyecto",
-    "baseStatus": "Base regional documentada"
+    "baseStatus": "Base regional documentada",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2024",
+        "role": "Exposición",
+        "sourceRole": "Speakers",
+        "period": "2024",
+        "status": "documentada",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ]
   },
   {
     "id": "recuero",
@@ -213,7 +228,17 @@
     "linkedin": "https://cl.linkedin.com/in/sebasti%C3%A1n-valenzuela-94334b24",
     "checked": "2026-09-27",
     "evidence": "Publicación o proyecto",
-    "baseStatus": "Base regional documentada"
+    "baseStatus": "Base regional documentada",
+    "publicationEvidence": [
+      {
+        "title": "A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic",
+        "url": "https://arxiv.org/html/2306.14378v1",
+        "year": 2023,
+        "affiliation": "Pontificia Universidad Católica de Chile",
+        "country": "Chile",
+        "status": "Afiliación del artículo; situación actual no verificada"
+      }
+    ]
   },
   {
     "id": "mendoza",
@@ -254,7 +279,17 @@
     "linkedin": "https://cl.linkedin.com/in/marcelo-mendoza-87575b15b",
     "checked": "2026-09-27",
     "evidence": "Publicación o proyecto",
-    "baseStatus": "Base regional documentada"
+    "baseStatus": "Base regional documentada",
+    "publicationEvidence": [
+      {
+        "title": "A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic",
+        "url": "https://arxiv.org/html/2306.14378v1",
+        "year": 2023,
+        "affiliation": "Pontificia Universidad Católica de Chile",
+        "country": "Chile",
+        "status": "Afiliación del artículo; situación actual no verificada"
+      }
+    ]
   },
   {
     "id": "candia",
@@ -476,6 +511,14 @@
       {
         "title": "Referencia documentada",
         "url": "https://www.elinagomez.com/blog/2025-02-09-violencia-mujerespol/"
+      },
+      {
+        "title": "SICSS-Uruguay 2024: People",
+        "url": "https://sicss.io/2024/uruguay/people"
+      },
+      {
+        "title": "SICSS-Uruguay 2026: People",
+        "url": "https://sicss.io/2026/uruguay/people"
       }
     ],
     "publication": [
@@ -487,7 +530,25 @@
     "linkedin": "",
     "checked": "2026-10-19",
     "evidence": "Publicación o proyecto",
-    "baseStatus": "Base regional documentada"
+    "baseStatus": "Base regional documentada",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2024",
+        "role": "Docencia",
+        "sourceRole": "Faculty",
+        "period": "2024",
+        "status": "documentada",
+        "url": "https://sicss.io/2024/uruguay/people"
+      },
+      {
+        "event": "SICSS-Uruguay 2026",
+        "role": "Docencia",
+        "sourceRole": "Faculty",
+        "period": "2026",
+        "status": "anunciada",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ]
   },
   {
     "id": "sosa",
@@ -547,7 +608,8 @@
     "region": "Región andina",
     "affiliation": "Universidad del Rosario · DISORLAB / Fairwork Colombia",
     "scope": [
-      "Colombia"
+      "Colombia",
+      "Uruguay"
     ],
     "topics": [
       "Trabajo y plataformas",
@@ -576,6 +638,10 @@
       {
         "title": "Referencia documentada",
         "url": "https://www.tandfonline.com/doi/full/10.1080/25729861.2021.1874744"
+      },
+      {
+        "title": "SICSS-Uruguay 2024: People",
+        "url": "https://sicss.io/2024/uruguay/people"
       }
     ],
     "publication": [
@@ -587,7 +653,17 @@
     "linkedin": "https://www.linkedin.com/in/oscar-javier-maldonado-casta%C3%B1eda-61107b14/",
     "checked": "2026-10-19",
     "evidence": "Publicación o proyecto",
-    "baseStatus": "Base regional documentada"
+    "baseStatus": "Base regional documentada",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2024",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2024",
+        "status": "documentada",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ]
   },
   {
     "id": "magallanes",
@@ -2315,7 +2391,8 @@
     "region": "Cono Sur",
     "affiliation": "CONICET / Universidad Nacional de Mar del Plata",
     "scope": [
-      "Argentina"
+      "Argentina",
+      "Uruguay"
     ],
     "topics": [
       "Trabajo y economía",
@@ -2335,6 +2412,10 @@
       {
         "title": "Identificador de investigador",
         "url": "https://orcid.org/0000-0003-4467-873X"
+      },
+      {
+        "title": "SICSS-Uruguay 2026: People",
+        "url": "https://sicss.io/2026/uruguay/people"
       }
     ],
     "publication": null,
@@ -2342,7 +2423,17 @@
     "linkedin": "",
     "checked": "2026-10-19",
     "evidence": "Línea institucional documentada",
-    "baseStatus": "Base regional documentada"
+    "baseStatus": "Base regional documentada",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2026",
+        "role": "Exposición",
+        "sourceRole": "Speakers",
+        "period": "2026",
+        "status": "anunciada",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ]
   },
   {
     "id": "jussara",
@@ -3538,7 +3629,8 @@
     "region": "Región andina",
     "affiliation": "Universidad de los Andes, Narrativas Digitales",
     "scope": [
-      "Colombia"
+      "Colombia",
+      "Uruguay"
     ],
     "topics": [
       "Historia digital",
@@ -3559,6 +3651,10 @@
       {
         "title": "Publicación / proyecto de referencia",
         "url": "https://historiasinternet.uniandes.edu.co/acerca-de/"
+      },
+      {
+        "title": "SICSS-Uruguay 2026: People",
+        "url": "https://sicss.io/2026/uruguay/people"
       }
     ],
     "publication": [
@@ -3570,7 +3666,17 @@
     "linkedin": "",
     "checked": "2026-10-19",
     "evidence": "Publicación o proyecto",
-    "baseStatus": "Base regional documentada"
+    "baseStatus": "Base regional documentada",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2026",
+        "role": "Exposición",
+        "sourceRole": "Speakers",
+        "period": "2026",
+        "status": "anunciada",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ]
   },
   {
     "id": "orellana",
@@ -3728,6 +3834,14 @@
       {
         "title": "Perfil / evidencia institucional o del investigador",
         "url": "https://sicss.io/2026/uruguay/people"
+      },
+      {
+        "title": "SICSS-Uruguay 2024: People",
+        "url": "https://sicss.io/2024/uruguay/people"
+      },
+      {
+        "title": "SICSS-Uruguay 2026: People",
+        "url": "https://sicss.io/2026/uruguay/people"
       }
     ],
     "publication": null,
@@ -3735,7 +3849,25 @@
     "linkedin": "",
     "checked": "2026-10-19",
     "evidence": "Línea institucional documentada",
-    "baseStatus": "Base regional documentada"
+    "baseStatus": "Base regional documentada",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2024",
+        "role": "Docencia",
+        "sourceRole": "Faculty",
+        "period": "2024",
+        "status": "documentada",
+        "url": "https://sicss.io/2024/uruguay/people"
+      },
+      {
+        "event": "SICSS-Uruguay 2026",
+        "role": "Docencia",
+        "sourceRole": "Faculty",
+        "period": "2026",
+        "status": "anunciada",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ]
   },
   {
     "id": "roel",
@@ -3762,6 +3894,10 @@
       {
         "title": "Perfil / evidencia institucional o del investigador",
         "url": "https://sicss.io/2026/uruguay/people"
+      },
+      {
+        "title": "SICSS-Uruguay 2026: People",
+        "url": "https://sicss.io/2026/uruguay/people"
       }
     ],
     "publication": null,
@@ -3769,7 +3905,17 @@
     "linkedin": "",
     "checked": "2026-10-19",
     "evidence": "Línea institucional documentada",
-    "baseStatus": "Base regional documentada"
+    "baseStatus": "Base regional documentada",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2026",
+        "role": "Docencia",
+        "sourceRole": "Faculty",
+        "period": "2026",
+        "status": "anunciada",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ]
   },
   {
     "id": "cristancho",
@@ -9434,6 +9580,10 @@
       {
         "title": "Publicación o proyecto de referencia",
         "url": "https://martinopertti.github.io/Publications/"
+      },
+      {
+        "title": "SICSS-Uruguay 2024: People",
+        "url": "https://sicss.io/2024/uruguay/people"
       }
     ],
     "publication": [
@@ -9445,7 +9595,24 @@
     "linkedin": "",
     "checked": "2026-10-19",
     "evidence": "Publicación o proyecto",
-    "baseStatus": "Base fuera de LATAM"
+    "baseStatus": "Base fuera de LATAM",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2024",
+        "role": "Exposición",
+        "sourceRole": "Speakers",
+        "period": "2024",
+        "status": "documentada",
+        "url": "https://sicss.io/2024/uruguay/people"
+      },
+      {
+        "event": "Escuela en Métodos",
+        "program": "Introducción a la programación en R",
+        "role": "Docencia",
+        "period": "2026",
+        "url": "https://www.ucu.edu.uy/categoria/Escuela-en-Metodos-367"
+      }
+    ]
   },
   {
     "id": "juan-ariel-bogliaccini",
@@ -12318,5 +12485,2704 @@
     "checked": "2026-10-20",
     "evidence": "Cargo y participación en evento documentados en 2024",
     "baseStatus": "Base histórica documentada; actual pendiente"
+  },
+  {
+    "id": "guillermo-lezama",
+    "name": "Guillermo Lezama",
+    "type": "Persona",
+    "country": "Estados Unidos",
+    "region": "Fuera de LATAM",
+    "affiliation": "University of Pittsburgh",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en el plantel publicado de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2024: People",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base histórica documentada; actual pendiente",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2024",
+        "role": "Docencia",
+        "sourceRole": "Faculty",
+        "period": "2024",
+        "status": "documentada",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "nicolas-schmidt",
+    "name": "Nicolás Schmidt",
+    "type": "Persona",
+    "country": "Uruguay",
+    "region": "Cono Sur",
+    "affiliation": "Unidad de Métodos y Acceso a Datos (UMAD), Universidad de la República",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en el plantel publicado de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2024: People",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base histórica documentada; actual pendiente",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2024",
+        "role": "Docencia",
+        "sourceRole": "Faculty",
+        "period": "2024",
+        "status": "documentada",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "ivan-schuliaquer",
+    "name": "Ivan Schuliaquer",
+    "type": "Persona",
+    "country": "Argentina",
+    "region": "Cono Sur",
+    "affiliation": "CONICET / Universidad Nacional de San Martín",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2024: People",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base histórica documentada; actual pendiente",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2024",
+        "role": "Exposición",
+        "sourceRole": "Speakers",
+        "period": "2024",
+        "status": "documentada",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "sergio-toro",
+    "name": "Sergio Toro",
+    "type": "Persona",
+    "country": "Chile",
+    "region": "Cono Sur",
+    "affiliation": "Universidad Mayor",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2024: People",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base histórica documentada; actual pendiente",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2024",
+        "role": "Exposición",
+        "sourceRole": "Speakers",
+        "period": "2024",
+        "status": "documentada",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "ignacio-zuasnabar",
+    "name": "Ignacio Zuasnabar",
+    "type": "Persona",
+    "country": "Uruguay",
+    "region": "Cono Sur",
+    "affiliation": "Universidad Católica del Uruguay / Universidad de Montevideo / Equipos Consultores",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2024: People",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "https://uy.linkedin.com/in/ignacio-zuasnabar-4656008",
+    "checked": "2026-10-20",
+    "baseStatus": "Base histórica documentada; actual pendiente",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2024",
+        "role": "Exposición",
+        "sourceRole": "Speakers",
+        "period": "2024",
+        "status": "documentada",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "jimena-torres",
+    "name": "Jimena Torres",
+    "type": "Persona",
+    "country": "Base principal por confirmar",
+    "region": "Por clasificar",
+    "affiliation": "",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2024: People",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "https://uy.linkedin.com/in/jimena-torres-%C3%A1lvarez-a584521a3",
+    "checked": "2026-10-20",
+    "baseStatus": "Base por confirmar",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2024",
+        "role": "Exposición",
+        "sourceRole": "Speakers",
+        "period": "2024",
+        "status": "documentada",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "sara-gonzalez",
+    "name": "Sara González",
+    "type": "Persona",
+    "country": "Base principal por confirmar",
+    "region": "Por clasificar",
+    "affiliation": "",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2024: People",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "https://uy.linkedin.com/in/sara-victoria-gonz%C3%A1lez-57b99321a",
+    "checked": "2026-10-20",
+    "baseStatus": "Base por confirmar",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2024",
+        "role": "Asistencia docente",
+        "sourceRole": "Teaching Assistants",
+        "period": "2024",
+        "status": "documentada",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "andres-wilkins",
+    "name": "Andrés Wilkins",
+    "type": "Persona",
+    "country": "Base principal por confirmar",
+    "region": "Por clasificar",
+    "affiliation": "",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2024: People",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base por confirmar",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2024",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2024",
+        "status": "documentada",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "goodfred-schwendenwein",
+    "name": "Goodfred Schwendenwein",
+    "type": "Persona",
+    "country": "Uruguay",
+    "region": "Cono Sur",
+    "affiliation": "Universidad de la República",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2024: People",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base histórica documentada; actual pendiente",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2024",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2024",
+        "status": "documentada",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "patricia-catz",
+    "name": "Patricia Catz",
+    "type": "Persona",
+    "country": "Base principal por confirmar",
+    "region": "Por clasificar",
+    "affiliation": "",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2024: People",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base por confirmar",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2024",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2024",
+        "status": "documentada",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "virginia-recagno",
+    "name": "Virginia Recagno",
+    "type": "Persona",
+    "country": "Base principal por confirmar",
+    "region": "Por clasificar",
+    "affiliation": "",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2024: People",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base por confirmar",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2024",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2024",
+        "status": "documentada",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "simon-herrera",
+    "name": "Simón Herrera",
+    "type": "Persona",
+    "country": "Base principal por confirmar",
+    "region": "Por clasificar",
+    "affiliation": "",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2024: People",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base por confirmar",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2024",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2024",
+        "status": "documentada",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "favio-di-ciocco",
+    "name": "Favio Di Ciocco",
+    "type": "Persona",
+    "country": "Argentina",
+    "region": "Cono Sur",
+    "affiliation": "Universidad de Buenos Aires",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2024: People",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base histórica documentada; actual pendiente",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2024",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2024",
+        "status": "documentada",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "daniel-soto",
+    "name": "Daniel Soto",
+    "type": "Persona",
+    "country": "Perú",
+    "region": "Región andina",
+    "affiliation": "Ministerio de Educación",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2024: People",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base histórica documentada; actual pendiente",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2024",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2024",
+        "status": "documentada",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "manuela-rivero",
+    "name": "Manuela Rivero",
+    "type": "Persona",
+    "country": "Uruguay",
+    "region": "Cono Sur",
+    "affiliation": "Cifra",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2024: People",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base histórica documentada; actual pendiente",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2024",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2024",
+        "status": "documentada",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "joaquin-gimeno",
+    "name": "Joaquín Gimeno",
+    "type": "Persona",
+    "country": "Base principal por confirmar",
+    "region": "Por clasificar",
+    "affiliation": "",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2024: People",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base por confirmar",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2024",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2024",
+        "status": "documentada",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "adrian-morchio",
+    "name": "Adrián Morchio",
+    "type": "Persona",
+    "country": "Base principal por confirmar",
+    "region": "Por clasificar",
+    "affiliation": "",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2024: People",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base por confirmar",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2024",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2024",
+        "status": "documentada",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "gabriela-mathieu",
+    "name": "Gabriela Mathieu",
+    "type": "Persona",
+    "country": "Base principal por confirmar",
+    "region": "Por clasificar",
+    "affiliation": "",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2024: People",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base por confirmar",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2024",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2024",
+        "status": "documentada",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "sofia-machado",
+    "name": "Sofía Machado",
+    "type": "Persona",
+    "country": "Base principal por confirmar",
+    "region": "Por clasificar",
+    "affiliation": "",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2024: People",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base por confirmar",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2024",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2024",
+        "status": "documentada",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "joaquin-trinidad",
+    "name": "Joaquín Trinidad",
+    "type": "Persona",
+    "country": "Base principal por confirmar",
+    "region": "Por clasificar",
+    "affiliation": "",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2024: People",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base por confirmar",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2024",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2024",
+        "status": "documentada",
+        "url": "https://sicss.io/2024/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "malena-montano",
+    "name": "Malena Montano",
+    "type": "Persona",
+    "country": "Uruguay",
+    "region": "Cono Sur",
+    "affiliation": "Universidad de la República",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en el plantel publicado de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2026: People",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base regional documentada",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2026",
+        "role": "Docencia",
+        "sourceRole": "Faculty",
+        "period": "2026",
+        "status": "anunciada",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "mariana-seco",
+    "name": "Mariana Seco",
+    "type": "Persona",
+    "country": "Uruguay",
+    "region": "Cono Sur",
+    "affiliation": "Instituto de Investigación sobre Justicia Social y Desigualdades, Universidad de la República",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en el plantel publicado de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2026: People",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base regional documentada",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2026",
+        "role": "Docencia",
+        "sourceRole": "Faculty",
+        "period": "2026",
+        "status": "anunciada",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "esteban-garcia",
+    "name": "Esteban García",
+    "type": "Persona",
+    "country": "Uruguay",
+    "region": "Cono Sur",
+    "affiliation": "Unidad de Métodos y Acceso a Datos (UMAD), Universidad de la República",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en el plantel publicado de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2026: People",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base regional documentada",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2026",
+        "role": "Docencia",
+        "sourceRole": "Faculty",
+        "period": "2026",
+        "status": "anunciada",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "pablo-seguel",
+    "name": "Pablo Seguel",
+    "type": "Persona",
+    "country": "Chile",
+    "region": "Cono Sur",
+    "affiliation": "Universidad Alberto Hurtado",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2026: People",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base regional documentada",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2026",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2026",
+        "status": "anunciada",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "romina-de-leon",
+    "name": "Romina De León",
+    "type": "Persona",
+    "country": "Argentina",
+    "region": "Cono Sur",
+    "affiliation": "CONICET / UBA",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2026: People",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base regional documentada",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2026",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2026",
+        "status": "anunciada",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "sabrina-siniscalchi",
+    "name": "Sabrina Siniscalchi",
+    "type": "Persona",
+    "country": "Uruguay",
+    "region": "Cono Sur",
+    "affiliation": "Universidad de la República",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2026: People",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base regional documentada",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2026",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2026",
+        "status": "anunciada",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "camilo-martinez-rodriguez",
+    "name": "Camilo Martínez Rodríguez",
+    "type": "Persona",
+    "country": "Uruguay",
+    "region": "Cono Sur",
+    "affiliation": "Universidad de la República",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2026: People",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base regional documentada",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2026",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2026",
+        "status": "anunciada",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "muriel-taks",
+    "name": "Muriel Taks",
+    "type": "Persona",
+    "country": "Base principal por confirmar",
+    "region": "Por clasificar",
+    "affiliation": "",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2026: People",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base por confirmar",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2026",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2026",
+        "status": "anunciada",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "andres-manrique",
+    "name": "Andrés Manrique",
+    "type": "Persona",
+    "country": "Uruguay",
+    "region": "Cono Sur",
+    "affiliation": "Universidad Católica del Uruguay",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2026: People",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base regional documentada",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2026",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2026",
+        "status": "anunciada",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "roberto-garcia-ferreira",
+    "name": "Roberto García Ferreira",
+    "type": "Persona",
+    "country": "Uruguay",
+    "region": "Cono Sur",
+    "affiliation": "Universidad de la República",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2026: People",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base regional documentada",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2026",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2026",
+        "status": "anunciada",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "gustavo-canepa",
+    "name": "Gustavo Cánepa",
+    "type": "Persona",
+    "country": "Base principal por confirmar",
+    "region": "Por clasificar",
+    "affiliation": "",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2026: People",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base por confirmar",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2026",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2026",
+        "status": "anunciada",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "sebastian-sabini",
+    "name": "Sebastián Sabini",
+    "type": "Persona",
+    "country": "Uruguay",
+    "region": "Cono Sur",
+    "affiliation": "Universidad de la República / Poder Legislativo",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2026: People",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base regional documentada",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2026",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2026",
+        "status": "anunciada",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "camilo-lopez-burian",
+    "name": "Camilo López Burian",
+    "type": "Persona",
+    "country": "Uruguay",
+    "region": "Cono Sur",
+    "affiliation": "Universidad de la República",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2026: People",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base regional documentada",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2026",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2026",
+        "status": "anunciada",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "clara-musto",
+    "name": "Clara Musto",
+    "type": "Persona",
+    "country": "Uruguay",
+    "region": "Cono Sur",
+    "affiliation": "Universidad de la República",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2026: People",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base regional documentada",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2026",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2026",
+        "status": "anunciada",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "cecilia-lara",
+    "name": "Cecilia Lara",
+    "type": "Persona",
+    "country": "Uruguay",
+    "region": "Cono Sur",
+    "affiliation": "Universidad de la República",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2026: People",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base regional documentada",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2026",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2026",
+        "status": "anunciada",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "paulina-pena-pallauta",
+    "name": "Paulina Peña Pallauta",
+    "type": "Persona",
+    "country": "Chile",
+    "region": "Cono Sur",
+    "affiliation": "Universidad de Playa Ancha / Universidad Diego Portales",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2026: People",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base regional documentada",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2026",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2026",
+        "status": "anunciada",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "carolina-vicario",
+    "name": "Carolina Vicario",
+    "type": "Persona",
+    "country": "Uruguay",
+    "region": "Cono Sur",
+    "affiliation": "Universidad de la República",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2026: People",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base regional documentada",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2026",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2026",
+        "status": "anunciada",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "pablo-garcia-maldonado",
+    "name": "Pablo García-Maldonado",
+    "type": "Persona",
+    "country": "Colombia",
+    "region": "Región andina",
+    "affiliation": "Universidad de los Andes",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2026: People",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base regional documentada",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2026",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2026",
+        "status": "anunciada",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "lucia-veronica-martinez-hernandez",
+    "name": "Lucía Verónica Martínez Hernández",
+    "type": "Persona",
+    "country": "Uruguay",
+    "region": "Cono Sur",
+    "affiliation": "Universidad de la República / Museo de la Memoria",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2026: People",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base regional documentada",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2026",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2026",
+        "status": "anunciada",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "natalia-rodriguez-reyes",
+    "name": "Natalia Rodríguez Reyes",
+    "type": "Persona",
+    "country": "Uruguay",
+    "region": "Cono Sur",
+    "affiliation": "Universidad de la República",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2026: People",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base regional documentada",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2026",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2026",
+        "status": "anunciada",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "constanza-arrano-astete",
+    "name": "Constanza Arraño Astete",
+    "type": "Persona",
+    "country": "Chile",
+    "region": "Cono Sur",
+    "affiliation": "Pontificia Universidad Católica de Chile",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Figura en la lista oficial de SICSS-Uruguay. La participación documentada no se interpreta como afiliación laboral a la institución anfitriona.",
+    "sources": [
+      {
+        "title": "SICSS-Uruguay 2026: People",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base regional documentada",
+    "evidence": "Rol publicado en programa CSS",
+    "participations": [
+      {
+        "event": "SICSS-Uruguay 2026",
+        "role": "Participación",
+        "sourceRole": "Participants",
+        "period": "2026",
+        "status": "anunciada",
+        "url": "https://sicss.io/2026/uruguay/people"
+      }
+    ]
+  },
+  {
+    "id": "danilo-freire",
+    "name": "Danilo Freire",
+    "type": "Persona",
+    "country": "Estados Unidos",
+    "region": "Fuera de LATAM",
+    "affiliation": "Emory University",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Métodos de investigación",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Datos sociales aplicados",
+    "description": "Docencia publicada en la Escuela en Métodos de la Universidad Católica del Uruguay, edición 2026.",
+    "sources": [
+      {
+        "title": "Escuela en Métodos: curso y docente",
+        "url": "https://www.ucu.edu.uy/categoria/Escuela-en-Metodos-367"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base por confirmar",
+    "evidence": "Programa y docente identificados en catálogo oficial",
+    "participations": [
+      {
+        "event": "Escuela en Métodos",
+        "program": "Introducción a la IA para Científicos Sociales",
+        "role": "Docencia",
+        "period": "2026",
+        "url": "https://www.ucu.edu.uy/categoria/Escuela-en-Metodos-367"
+      }
+    ]
+  },
+  {
+    "id": "ayelen-vanegas",
+    "name": "Ayelén Vanegas",
+    "type": "Persona",
+    "country": "Uruguay",
+    "region": "Cono Sur",
+    "affiliation": "Universidad Católica del Uruguay",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Métodos de investigación",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Datos sociales aplicados",
+    "description": "Docencia publicada en la Escuela en Métodos de la Universidad Católica del Uruguay, edición 2026.",
+    "sources": [
+      {
+        "title": "Escuela en Métodos: curso y docente",
+        "url": "https://www.ucu.edu.uy/categoria/Escuela-en-Metodos-367"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base regional documentada",
+    "evidence": "Programa y docente identificados en catálogo oficial",
+    "participations": [
+      {
+        "event": "Escuela en Métodos",
+        "program": "Texto como Datos: Métodos Computacionales en Ciencias Sociales",
+        "role": "Docencia",
+        "period": "2026",
+        "url": "https://www.ucu.edu.uy/categoria/Escuela-en-Metodos-367"
+      }
+    ]
+  },
+  {
+    "id": "diego-hernandez",
+    "name": "Diego Hernández",
+    "type": "Persona",
+    "country": "Uruguay",
+    "region": "Cono Sur",
+    "affiliation": "Universidad Católica del Uruguay",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Métodos de investigación",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Datos sociales aplicados",
+    "description": "Docencia publicada en la Escuela en Métodos de la Universidad Católica del Uruguay, edición 2026.",
+    "sources": [
+      {
+        "title": "Escuela en Métodos: curso y docente",
+        "url": "https://www.ucu.edu.uy/categoria/Escuela-en-Metodos-367"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base regional documentada",
+    "evidence": "Programa y docente identificados en catálogo oficial",
+    "participations": [
+      {
+        "event": "Escuela en Métodos",
+        "program": "Análisis espacial con sistemas de información geográfica",
+        "role": "Docencia",
+        "period": "2026",
+        "url": "https://www.ucu.edu.uy/categoria/Escuela-en-Metodos-367"
+      }
+    ]
+  },
+  {
+    "id": "mateo-villamizar",
+    "name": "Mateo Villamizar",
+    "type": "Persona",
+    "country": "Uruguay",
+    "region": "Cono Sur",
+    "affiliation": "Universidad Católica del Uruguay",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Métodos de investigación",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Datos sociales aplicados",
+    "description": "Docencia publicada en la Escuela en Métodos de la Universidad Católica del Uruguay, edición 2026.",
+    "sources": [
+      {
+        "title": "Escuela en Métodos: curso y docente",
+        "url": "https://www.ucu.edu.uy/categoria/Escuela-en-Metodos-367"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base regional documentada",
+    "evidence": "Programa y docente identificados en catálogo oficial",
+    "participations": [
+      {
+        "event": "Escuela en Métodos",
+        "program": "Visualización de datos",
+        "role": "Docencia",
+        "period": "2026",
+        "url": "https://www.ucu.edu.uy/categoria/Escuela-en-Metodos-367"
+      }
+    ]
+  },
+  {
+    "id": "jose-rivero",
+    "name": "José Rivero",
+    "type": "Persona",
+    "country": "Uruguay",
+    "region": "Cono Sur",
+    "affiliation": "Universidad Católica del Uruguay",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Métodos de investigación",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Datos sociales aplicados",
+    "description": "Docencia publicada en la Escuela en Métodos de la Universidad Católica del Uruguay, edición 2026.",
+    "sources": [
+      {
+        "title": "Escuela en Métodos: curso y docente",
+        "url": "https://www.ucu.edu.uy/categoria/Escuela-en-Metodos-367"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base regional documentada",
+    "evidence": "Programa y docente identificados en catálogo oficial",
+    "participations": [
+      {
+        "event": "Escuela en Métodos",
+        "program": "Modelos categóricos, de elección y conteo",
+        "role": "Docencia",
+        "period": "2026",
+        "url": "https://www.ucu.edu.uy/categoria/Escuela-en-Metodos-367"
+      }
+    ]
+  },
+  {
+    "id": "ornella-novino",
+    "name": "Ornella Novino",
+    "type": "Persona",
+    "country": "Base principal por confirmar",
+    "region": "Por clasificar",
+    "affiliation": "The Sandbox Game",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Métodos de investigación",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Datos sociales aplicados",
+    "description": "Docencia publicada en la Escuela en Métodos de la Universidad Católica del Uruguay, edición 2026.",
+    "sources": [
+      {
+        "title": "Escuela en Métodos: curso y docente",
+        "url": "https://www.ucu.edu.uy/categoria/Escuela-en-Metodos-367"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base por confirmar",
+    "evidence": "Programa y docente identificados en catálogo oficial",
+    "participations": [
+      {
+        "event": "Escuela en Métodos",
+        "program": "Introducción a la programación Python",
+        "role": "Docencia",
+        "period": "2026",
+        "url": "https://www.ucu.edu.uy/categoria/Escuela-en-Metodos-367"
+      }
+    ]
+  },
+  {
+    "id": "natalia-da-silva",
+    "name": "Natalia da Silva",
+    "type": "Persona",
+    "country": "Uruguay",
+    "region": "Cono Sur",
+    "affiliation": "Instituto de Estadística, Universidad de la República",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Datos sociales aplicados",
+    "description": "Docente en la Escuela Internacional en Ciencias Sociales Computacionales 2023 (IMFD-CICADA-UMAD).",
+    "sources": [
+      {
+        "title": "Programa y docentes de la escuela de 2023",
+        "url": "https://cicada.uy/course/escuela-internacional-ciencias-sociales-computacionales-2023/"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base histórica documentada; actual pendiente",
+    "evidence": "Docencia y afiliación publicadas en 2023"
+  },
+  {
+    "id": "lorena-etcheverry",
+    "name": "Lorena Etcheverry",
+    "type": "Persona",
+    "country": "Uruguay",
+    "region": "Cono Sur",
+    "affiliation": "Instituto de Computación, Universidad de la República",
+    "scope": [
+      "Uruguay"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Formación"
+    ],
+    "methods": [],
+    "fit": "Datos sociales aplicados",
+    "description": "Docente en la Escuela Internacional en Ciencias Sociales Computacionales 2023 (IMFD-CICADA-UMAD).",
+    "sources": [
+      {
+        "title": "Programa y docentes de la escuela de 2023",
+        "url": "https://cicada.uy/course/escuela-internacional-ciencias-sociales-computacionales-2023/"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "baseStatus": "Base histórica documentada; actual pendiente",
+    "evidence": "Docencia y afiliación publicadas en 2023"
+  },
+  {
+    "id": "enrique-nunez-mussa",
+    "name": "Enrique Núñez-Mussa",
+    "type": "Persona",
+    "country": "Estados Unidos",
+    "region": "Fuera de LATAM",
+    "affiliation": "Michigan State University (artículo de 2023)",
+    "scope": [
+      "Chile"
+    ],
+    "topics": [
+      "Desinformación"
+    ],
+    "methods": [
+      "Análisis de redes"
+    ],
+    "fit": "CSS directa",
+    "description": "Coautoría de un estudio de circulación de desinformación en Twitter, Facebook e Instagram durante crisis políticas y sanitarias en Chile. La afiliación corresponde a 2023; el cargo actual no está verificado.",
+    "sources": [
+      {
+        "title": "A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic",
+        "url": "https://arxiv.org/html/2306.14378v1"
+      }
+    ],
+    "publication": [
+      "A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic",
+      "https://arxiv.org/html/2306.14378v1",
+      "Artículo de 2023. Afiliaciones históricas verificadas en el texto."
+    ],
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Publicación o proyecto",
+    "baseStatus": "Afiliación histórica documentada",
+    "publicationEvidence": [
+      {
+        "title": "A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic",
+        "url": "https://arxiv.org/html/2306.14378v1",
+        "year": 2023,
+        "affiliation": "Michigan State University",
+        "country": "Estados Unidos",
+        "status": "Afiliación del artículo; situación actual no verificada"
+      }
+    ]
+  },
+  {
+    "id": "fabian-padilla",
+    "name": "Fabián Padilla",
+    "type": "Persona",
+    "country": "Chile",
+    "region": "Cono Sur",
+    "affiliation": "Fast Check CL (artículo de 2023)",
+    "scope": [
+      "Chile"
+    ],
+    "topics": [
+      "Desinformación"
+    ],
+    "methods": [
+      "Análisis de redes"
+    ],
+    "fit": "CSS directa",
+    "description": "Coautoría de un estudio de circulación de desinformación en Twitter, Facebook e Instagram durante crisis políticas y sanitarias en Chile. La afiliación corresponde a 2023; el cargo actual no está verificado.",
+    "sources": [
+      {
+        "title": "A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic",
+        "url": "https://arxiv.org/html/2306.14378v1"
+      }
+    ],
+    "publication": [
+      "A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic",
+      "https://arxiv.org/html/2306.14378v1",
+      "Artículo de 2023. Afiliaciones históricas verificadas en el texto."
+    ],
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Publicación o proyecto",
+    "baseStatus": "Afiliación histórica documentada",
+    "publicationEvidence": [
+      {
+        "title": "A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic",
+        "url": "https://arxiv.org/html/2306.14378v1",
+        "year": 2023,
+        "affiliation": "Fast Check CL",
+        "country": "Chile",
+        "status": "Afiliación del artículo; situación actual no verificada"
+      }
+    ]
+  },
+  {
+    "id": "eliana-providel",
+    "name": "Eliana Providel",
+    "type": "Persona",
+    "country": "Chile",
+    "region": "Cono Sur",
+    "affiliation": "Universidad de Valparaíso (artículo de 2023)",
+    "scope": [
+      "Chile"
+    ],
+    "topics": [
+      "Desinformación"
+    ],
+    "methods": [
+      "Análisis de redes"
+    ],
+    "fit": "CSS directa",
+    "description": "Coautoría de un estudio de circulación de desinformación en Twitter, Facebook e Instagram durante crisis políticas y sanitarias en Chile. La afiliación corresponde a 2023; el cargo actual no está verificado.",
+    "sources": [
+      {
+        "title": "A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic",
+        "url": "https://arxiv.org/html/2306.14378v1"
+      }
+    ],
+    "publication": [
+      "A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic",
+      "https://arxiv.org/html/2306.14378v1",
+      "Artículo de 2023. Afiliaciones históricas verificadas en el texto."
+    ],
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Publicación o proyecto",
+    "baseStatus": "Afiliación histórica documentada",
+    "publicationEvidence": [
+      {
+        "title": "A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic",
+        "url": "https://arxiv.org/html/2306.14378v1",
+        "year": 2023,
+        "affiliation": "Universidad de Valparaíso",
+        "country": "Chile",
+        "status": "Afiliación del artículo; situación actual no verificada"
+      }
+    ]
+  },
+  {
+    "id": "sebastian-campos",
+    "name": "Sebastián Campos",
+    "type": "Persona",
+    "country": "Chile",
+    "region": "Cono Sur",
+    "affiliation": "Universidad Técnica Federico Santa María (artículo de 2023)",
+    "scope": [
+      "Chile"
+    ],
+    "topics": [
+      "Desinformación"
+    ],
+    "methods": [
+      "Análisis de redes"
+    ],
+    "fit": "CSS directa",
+    "description": "Coautoría de un estudio de circulación de desinformación en Twitter, Facebook e Instagram durante crisis políticas y sanitarias en Chile. La afiliación corresponde a 2023; el cargo actual no está verificado.",
+    "sources": [
+      {
+        "title": "A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic",
+        "url": "https://arxiv.org/html/2306.14378v1"
+      }
+    ],
+    "publication": [
+      "A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic",
+      "https://arxiv.org/html/2306.14378v1",
+      "Artículo de 2023. Afiliaciones históricas verificadas en el texto."
+    ],
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Publicación o proyecto",
+    "baseStatus": "Afiliación histórica documentada",
+    "publicationEvidence": [
+      {
+        "title": "A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic",
+        "url": "https://arxiv.org/html/2306.14378v1",
+        "year": 2023,
+        "affiliation": "Universidad Técnica Federico Santa María",
+        "country": "Chile",
+        "status": "Afiliación del artículo; situación actual no verificada"
+      }
+    ]
+  },
+  {
+    "id": "renato-bassi",
+    "name": "Renato Bassi",
+    "type": "Persona",
+    "country": "Chile",
+    "region": "Cono Sur",
+    "affiliation": "Universidad Técnica Federico Santa María (artículo de 2023)",
+    "scope": [
+      "Chile"
+    ],
+    "topics": [
+      "Desinformación"
+    ],
+    "methods": [
+      "Análisis de redes"
+    ],
+    "fit": "CSS directa",
+    "description": "Coautoría de un estudio de circulación de desinformación en Twitter, Facebook e Instagram durante crisis políticas y sanitarias en Chile. La afiliación corresponde a 2023; el cargo actual no está verificado.",
+    "sources": [
+      {
+        "title": "A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic",
+        "url": "https://arxiv.org/html/2306.14378v1"
+      }
+    ],
+    "publication": [
+      "A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic",
+      "https://arxiv.org/html/2306.14378v1",
+      "Artículo de 2023. Afiliaciones históricas verificadas en el texto."
+    ],
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Publicación o proyecto",
+    "baseStatus": "Afiliación histórica documentada",
+    "publicationEvidence": [
+      {
+        "title": "A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic",
+        "url": "https://arxiv.org/html/2306.14378v1",
+        "year": 2023,
+        "affiliation": "Universidad Técnica Federico Santa María",
+        "country": "Chile",
+        "status": "Afiliación del artículo; situación actual no verificada"
+      }
+    ]
+  },
+  {
+    "id": "andrea-riquelme",
+    "name": "Andrea Riquelme",
+    "type": "Persona",
+    "country": "Chile",
+    "region": "Cono Sur",
+    "affiliation": "Universidad de Talca (artículo de 2023)",
+    "scope": [
+      "Chile"
+    ],
+    "topics": [
+      "Desinformación"
+    ],
+    "methods": [
+      "Análisis de redes"
+    ],
+    "fit": "CSS directa",
+    "description": "Coautoría de un estudio de circulación de desinformación en Twitter, Facebook e Instagram durante crisis políticas y sanitarias en Chile. La afiliación corresponde a 2023; el cargo actual no está verificado.",
+    "sources": [
+      {
+        "title": "A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic",
+        "url": "https://arxiv.org/html/2306.14378v1"
+      }
+    ],
+    "publication": [
+      "A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic",
+      "https://arxiv.org/html/2306.14378v1",
+      "Artículo de 2023. Afiliaciones históricas verificadas en el texto."
+    ],
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Publicación o proyecto",
+    "baseStatus": "Afiliación histórica documentada",
+    "publicationEvidence": [
+      {
+        "title": "A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic",
+        "url": "https://arxiv.org/html/2306.14378v1",
+        "year": 2023,
+        "affiliation": "Universidad de Talca",
+        "country": "Chile",
+        "status": "Afiliación del artículo; situación actual no verificada"
+      }
+    ]
+  },
+  {
+    "id": "valeria-aldana",
+    "name": "Valeria Aldana",
+    "type": "Persona",
+    "country": "Chile",
+    "region": "Cono Sur",
+    "affiliation": "Universidad San Sebastián (artículo de 2023)",
+    "scope": [
+      "Chile"
+    ],
+    "topics": [
+      "Desinformación"
+    ],
+    "methods": [
+      "Análisis de redes"
+    ],
+    "fit": "CSS directa",
+    "description": "Coautoría de un estudio de circulación de desinformación en Twitter, Facebook e Instagram durante crisis políticas y sanitarias en Chile. La afiliación corresponde a 2023; el cargo actual no está verificado.",
+    "sources": [
+      {
+        "title": "A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic",
+        "url": "https://arxiv.org/html/2306.14378v1"
+      }
+    ],
+    "publication": [
+      "A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic",
+      "https://arxiv.org/html/2306.14378v1",
+      "Artículo de 2023. Afiliaciones históricas verificadas en el texto."
+    ],
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Publicación o proyecto",
+    "baseStatus": "Afiliación histórica documentada",
+    "publicationEvidence": [
+      {
+        "title": "A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic",
+        "url": "https://arxiv.org/html/2306.14378v1",
+        "year": 2023,
+        "affiliation": "Universidad San Sebastián",
+        "country": "Chile",
+        "status": "Afiliación del artículo; situación actual no verificada"
+      }
+    ]
+  },
+  {
+    "id": "claudia-lopez",
+    "name": "Claudia López",
+    "type": "Persona",
+    "country": "Chile",
+    "region": "Cono Sur",
+    "affiliation": "Universidad Técnica Federico Santa María (artículo de 2023)",
+    "scope": [
+      "Chile"
+    ],
+    "topics": [
+      "Desinformación"
+    ],
+    "methods": [
+      "Análisis de redes"
+    ],
+    "fit": "CSS directa",
+    "description": "Coautoría de un estudio de circulación de desinformación en Twitter, Facebook e Instagram durante crisis políticas y sanitarias en Chile. La afiliación corresponde a 2023; el cargo actual no está verificado.",
+    "sources": [
+      {
+        "title": "A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic",
+        "url": "https://arxiv.org/html/2306.14378v1"
+      }
+    ],
+    "publication": [
+      "A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic",
+      "https://arxiv.org/html/2306.14378v1",
+      "Artículo de 2023. Afiliaciones históricas verificadas en el texto."
+    ],
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Publicación o proyecto",
+    "baseStatus": "Afiliación histórica documentada",
+    "publicationEvidence": [
+      {
+        "title": "A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic",
+        "url": "https://arxiv.org/html/2306.14378v1",
+        "year": 2023,
+        "affiliation": "Universidad Técnica Federico Santa María",
+        "country": "Chile",
+        "status": "Afiliación del artículo; situación actual no verificada"
+      }
+    ]
+  },
+  {
+    "id": "jorge-saldivar",
+    "name": "Jorge Saldivar",
+    "type": "Persona",
+    "country": "España",
+    "region": "Fuera de LATAM",
+    "affiliation": "Complutense University of Madrid (artículo de 2022)",
+    "scope": [
+      "Paraguay"
+    ],
+    "topics": [
+      "Política y democracia"
+    ],
+    "methods": [
+      "Análisis de redes"
+    ],
+    "fit": "CSS directa",
+    "description": "Coautoría de un análisis de conversaciones, influencia y actividad electoral en Twitter durante las elecciones paraguayas de 2017–2018. La afiliación corresponde a 2022; el cargo actual no está verificado.",
+    "sources": [
+      {
+        "title": "The electoral success of social media losers: a study on the usage and influence of Twitter in times of elections in Paraguay",
+        "url": "https://link.springer.com/article/10.1007/s43545-022-00392-x"
+      }
+    ],
+    "publication": [
+      "The electoral success of social media losers: a study on the usage and influence of Twitter in times of elections in Paraguay",
+      "https://link.springer.com/article/10.1007/s43545-022-00392-x",
+      "Artículo de 2022. Afiliaciones históricas verificadas en el texto."
+    ],
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Publicación o proyecto",
+    "baseStatus": "Afiliación histórica documentada",
+    "publicationEvidence": [
+      {
+        "title": "The electoral success of social media losers: a study on the usage and influence of Twitter in times of elections in Paraguay",
+        "url": "https://link.springer.com/article/10.1007/s43545-022-00392-x",
+        "year": 2022,
+        "affiliation": "Complutense University of Madrid",
+        "country": "España",
+        "status": "Afiliación del artículo; situación actual no verificada"
+      }
+    ]
+  },
+  {
+    "id": "cristhian-parra",
+    "name": "Cristhian Parra",
+    "type": "Persona",
+    "country": "Paraguay",
+    "region": "Cono Sur",
+    "affiliation": "United Nations Development Programme, Asuncion (artículo de 2022)",
+    "scope": [
+      "Paraguay"
+    ],
+    "topics": [
+      "Política y democracia"
+    ],
+    "methods": [
+      "Análisis de redes"
+    ],
+    "fit": "CSS directa",
+    "description": "Coautoría de un análisis de conversaciones, influencia y actividad electoral en Twitter durante las elecciones paraguayas de 2017–2018. La afiliación corresponde a 2022; el cargo actual no está verificado.",
+    "sources": [
+      {
+        "title": "The electoral success of social media losers: a study on the usage and influence of Twitter in times of elections in Paraguay",
+        "url": "https://link.springer.com/article/10.1007/s43545-022-00392-x"
+      }
+    ],
+    "publication": [
+      "The electoral success of social media losers: a study on the usage and influence of Twitter in times of elections in Paraguay",
+      "https://link.springer.com/article/10.1007/s43545-022-00392-x",
+      "Artículo de 2022. Afiliaciones históricas verificadas en el texto."
+    ],
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Publicación o proyecto",
+    "baseStatus": "Afiliación histórica documentada",
+    "publicationEvidence": [
+      {
+        "title": "The electoral success of social media losers: a study on the usage and influence of Twitter in times of elections in Paraguay",
+        "url": "https://link.springer.com/article/10.1007/s43545-022-00392-x",
+        "year": 2022,
+        "affiliation": "United Nations Development Programme, Asuncion",
+        "country": "Paraguay",
+        "status": "Afiliación del artículo; situación actual no verificada"
+      }
+    ]
+  },
+  {
+    "id": "mical-laconich",
+    "name": "Mical Laconich",
+    "type": "Persona",
+    "country": "Reino Unido",
+    "region": "Fuera de LATAM",
+    "affiliation": "University of Cambridge (artículo de 2022)",
+    "scope": [
+      "Paraguay"
+    ],
+    "topics": [
+      "Política y democracia"
+    ],
+    "methods": [
+      "Análisis de redes"
+    ],
+    "fit": "CSS directa",
+    "description": "Coautoría de un análisis de conversaciones, influencia y actividad electoral en Twitter durante las elecciones paraguayas de 2017–2018. La afiliación corresponde a 2022; el cargo actual no está verificado.",
+    "sources": [
+      {
+        "title": "The electoral success of social media losers: a study on the usage and influence of Twitter in times of elections in Paraguay",
+        "url": "https://link.springer.com/article/10.1007/s43545-022-00392-x"
+      }
+    ],
+    "publication": [
+      "The electoral success of social media losers: a study on the usage and influence of Twitter in times of elections in Paraguay",
+      "https://link.springer.com/article/10.1007/s43545-022-00392-x",
+      "Artículo de 2022. Afiliaciones históricas verificadas en el texto."
+    ],
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Publicación o proyecto",
+    "baseStatus": "Afiliación histórica documentada",
+    "publicationEvidence": [
+      {
+        "title": "The electoral success of social media losers: a study on the usage and influence of Twitter in times of elections in Paraguay",
+        "url": "https://link.springer.com/article/10.1007/s43545-022-00392-x",
+        "year": 2022,
+        "affiliation": "University of Cambridge",
+        "country": "Reino Unido",
+        "status": "Afiliación del artículo; situación actual no verificada"
+      }
+    ]
+  },
+  {
+    "id": "luca-cernuzzi",
+    "name": "Luca Cernuzzi",
+    "type": "Persona",
+    "country": "Paraguay",
+    "region": "Cono Sur",
+    "affiliation": "Catholic University Nuestra Señora de la Asuncion (artículo de 2022)",
+    "scope": [
+      "Paraguay"
+    ],
+    "topics": [
+      "Política y democracia"
+    ],
+    "methods": [
+      "Análisis de redes"
+    ],
+    "fit": "CSS directa",
+    "description": "Coautoría de un análisis de conversaciones, influencia y actividad electoral en Twitter durante las elecciones paraguayas de 2017–2018. La afiliación corresponde a 2022; el cargo actual no está verificado.",
+    "sources": [
+      {
+        "title": "The electoral success of social media losers: a study on the usage and influence of Twitter in times of elections in Paraguay",
+        "url": "https://link.springer.com/article/10.1007/s43545-022-00392-x"
+      }
+    ],
+    "publication": [
+      "The electoral success of social media losers: a study on the usage and influence of Twitter in times of elections in Paraguay",
+      "https://link.springer.com/article/10.1007/s43545-022-00392-x",
+      "Artículo de 2022. Afiliaciones históricas verificadas en el texto."
+    ],
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Publicación o proyecto",
+    "baseStatus": "Afiliación histórica documentada",
+    "publicationEvidence": [
+      {
+        "title": "The electoral success of social media losers: a study on the usage and influence of Twitter in times of elections in Paraguay",
+        "url": "https://link.springer.com/article/10.1007/s43545-022-00392-x",
+        "year": 2022,
+        "affiliation": "Catholic University Nuestra Señora de la Asuncion",
+        "country": "Paraguay",
+        "status": "Afiliación del artículo; situación actual no verificada"
+      }
+    ]
+  },
+  {
+    "id": "cristina-soto-rojas",
+    "name": "Cristina Soto-Rojas",
+    "type": "Persona",
+    "country": "Costa Rica",
+    "region": "Centroamérica",
+    "affiliation": "Centro Nacional de Alta Tecnología (artículo de 2020)",
+    "scope": [
+      "Costa Rica"
+    ],
+    "topics": [
+      "Comunicación digital"
+    ],
+    "methods": [
+      "Análisis de redes"
+    ],
+    "fit": "CSS directa",
+    "description": "Desarrollo de una plataforma para analizar comunidades e interacciones en medios digitales costarricenses, utilizando MongoDB, Spark y R. Afiliación documentada en 2020; situación actual pendiente de verificación.",
+    "sources": [
+      {
+        "title": "MediaTIC: Una plataforma analítica de medios digitales costarricenses en redes sociales",
+        "url": "https://revistas.tec.ac.cr/index.php/tec_marcha/article/view/5070"
+      }
+    ],
+    "publication": [
+      "MediaTIC: Una plataforma analítica de medios digitales costarricenses en redes sociales",
+      "https://revistas.tec.ac.cr/index.php/tec_marcha/article/view/5070",
+      "Artículo de 2020; afiliación histórica."
+    ],
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Publicación o proyecto",
+    "baseStatus": "Afiliación histórica documentada",
+    "publicationEvidence": [
+      {
+        "title": "MediaTIC: Una plataforma analítica de medios digitales costarricenses en redes sociales",
+        "url": "https://revistas.tec.ac.cr/index.php/tec_marcha/article/view/5070",
+        "year": 2020,
+        "affiliation": "Centro Nacional de Alta Tecnología",
+        "country": "Costa Rica",
+        "status": "Afiliación del artículo; situación actual no verificada"
+      }
+    ]
+  },
+  {
+    "id": "carlos-gamboa-venegas",
+    "name": "Carlos Gamboa-Venegas",
+    "type": "Persona",
+    "country": "Costa Rica",
+    "region": "Centroamérica",
+    "affiliation": "Centro Nacional de Alta Tecnología (artículo de 2020)",
+    "scope": [
+      "Costa Rica"
+    ],
+    "topics": [
+      "Comunicación digital"
+    ],
+    "methods": [
+      "Análisis de redes"
+    ],
+    "fit": "CSS directa",
+    "description": "Desarrollo de una plataforma para analizar comunidades e interacciones en medios digitales costarricenses, utilizando MongoDB, Spark y R. Afiliación documentada en 2020; situación actual pendiente de verificación.",
+    "sources": [
+      {
+        "title": "MediaTIC: Una plataforma analítica de medios digitales costarricenses en redes sociales",
+        "url": "https://revistas.tec.ac.cr/index.php/tec_marcha/article/view/5070"
+      }
+    ],
+    "publication": [
+      "MediaTIC: Una plataforma analítica de medios digitales costarricenses en redes sociales",
+      "https://revistas.tec.ac.cr/index.php/tec_marcha/article/view/5070",
+      "Artículo de 2020; afiliación histórica."
+    ],
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Publicación o proyecto",
+    "baseStatus": "Afiliación histórica documentada",
+    "publicationEvidence": [
+      {
+        "title": "MediaTIC: Una plataforma analítica de medios digitales costarricenses en redes sociales",
+        "url": "https://revistas.tec.ac.cr/index.php/tec_marcha/article/view/5070",
+        "year": 2020,
+        "affiliation": "Centro Nacional de Alta Tecnología",
+        "country": "Costa Rica",
+        "status": "Afiliación del artículo; situación actual no verificada"
+      }
+    ]
+  },
+  {
+    "id": "adriana-cespedes-vindas",
+    "name": "Adriana Céspedes-Vindas",
+    "type": "Persona",
+    "country": "Costa Rica",
+    "region": "Centroamérica",
+    "affiliation": "Universidad Estatal a Distancia (artículo de 2020)",
+    "scope": [
+      "Costa Rica"
+    ],
+    "topics": [
+      "Comunicación digital"
+    ],
+    "methods": [
+      "Análisis de redes"
+    ],
+    "fit": "CSS directa",
+    "description": "Desarrollo de una plataforma para analizar comunidades e interacciones en medios digitales costarricenses, utilizando MongoDB, Spark y R. Afiliación documentada en 2020; situación actual pendiente de verificación.",
+    "sources": [
+      {
+        "title": "MediaTIC: Una plataforma analítica de medios digitales costarricenses en redes sociales",
+        "url": "https://revistas.tec.ac.cr/index.php/tec_marcha/article/view/5070"
+      }
+    ],
+    "publication": [
+      "MediaTIC: Una plataforma analítica de medios digitales costarricenses en redes sociales",
+      "https://revistas.tec.ac.cr/index.php/tec_marcha/article/view/5070",
+      "Artículo de 2020; afiliación histórica."
+    ],
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Publicación o proyecto",
+    "baseStatus": "Afiliación histórica documentada",
+    "publicationEvidence": [
+      {
+        "title": "MediaTIC: Una plataforma analítica de medios digitales costarricenses en redes sociales",
+        "url": "https://revistas.tec.ac.cr/index.php/tec_marcha/article/view/5070",
+        "year": 2020,
+        "affiliation": "Universidad Estatal a Distancia",
+        "country": "Costa Rica",
+        "status": "Afiliación del artículo; situación actual no verificada"
+      }
+    ]
+  },
+  {
+    "id": "james-edward-humberstone-morales",
+    "name": "James Edward Humberstone Morales",
+    "type": "Persona",
+    "country": "El Salvador",
+    "region": "Centroamérica",
+    "affiliation": "Universidad Francisco Gavidia (artículo de 2019)",
+    "scope": [
+      "El Salvador"
+    ],
+    "topics": [
+      "Comunicación digital"
+    ],
+    "methods": [
+      "Análisis de redes"
+    ],
+    "fit": "CSS directa",
+    "description": "Análisis de redes sociales y detección de comunidades en Twitter en el contexto de las elecciones presidenciales salvadoreñas de 2019. Afiliación documentada en 2019; situación actual pendiente de verificación.",
+    "sources": [
+      {
+        "title": "Análisis de redes sociales: Identificación de comunidades virtuales en Twitter",
+        "url": "https://ri.ufg.edu.sv/jspui/bitstream/11592/9307/1/9095-Texto%20del%20art%C3%ADculo-32560-1-10-20200123.pdf"
+      }
+    ],
+    "publication": [
+      "Análisis de redes sociales: Identificación de comunidades virtuales en Twitter",
+      "https://ri.ufg.edu.sv/jspui/bitstream/11592/9307/1/9095-Texto%20del%20art%C3%ADculo-32560-1-10-20200123.pdf",
+      "Artículo de 2019; afiliación histórica."
+    ],
+    "email": "jhumberstone@ufg.edu.sv",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Publicación o proyecto",
+    "baseStatus": "Afiliación histórica documentada",
+    "publicationEvidence": [
+      {
+        "title": "Análisis de redes sociales: Identificación de comunidades virtuales en Twitter",
+        "url": "https://ri.ufg.edu.sv/jspui/bitstream/11592/9307/1/9095-Texto%20del%20art%C3%ADculo-32560-1-10-20200123.pdf",
+        "year": 2019,
+        "affiliation": "Universidad Francisco Gavidia",
+        "country": "El Salvador",
+        "status": "Afiliación del artículo; situación actual no verificada"
+      }
+    ]
+  },
+  {
+    "id": "fernando-jose-alvarez-alens",
+    "name": "Fernando José Alvarez Alens",
+    "type": "Persona",
+    "country": "El Salvador",
+    "region": "Centroamérica",
+    "affiliation": "Universidad Francisco Gavidia (artículo de 2019)",
+    "scope": [
+      "El Salvador"
+    ],
+    "topics": [
+      "Comunicación digital"
+    ],
+    "methods": [
+      "Análisis de redes"
+    ],
+    "fit": "CSS directa",
+    "description": "Análisis de redes sociales y detección de comunidades en Twitter en el contexto de las elecciones presidenciales salvadoreñas de 2019. Afiliación documentada en 2019; situación actual pendiente de verificación.",
+    "sources": [
+      {
+        "title": "Análisis de redes sociales: Identificación de comunidades virtuales en Twitter",
+        "url": "https://ri.ufg.edu.sv/jspui/bitstream/11592/9307/1/9095-Texto%20del%20art%C3%ADculo-32560-1-10-20200123.pdf"
+      }
+    ],
+    "publication": [
+      "Análisis de redes sociales: Identificación de comunidades virtuales en Twitter",
+      "https://ri.ufg.edu.sv/jspui/bitstream/11592/9307/1/9095-Texto%20del%20art%C3%ADculo-32560-1-10-20200123.pdf",
+      "Artículo de 2019; afiliación histórica."
+    ],
+    "email": "ia.feralens@ufg.edu.sv",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Publicación o proyecto",
+    "baseStatus": "Afiliación histórica documentada",
+    "publicationEvidence": [
+      {
+        "title": "Análisis de redes sociales: Identificación de comunidades virtuales en Twitter",
+        "url": "https://ri.ufg.edu.sv/jspui/bitstream/11592/9307/1/9095-Texto%20del%20art%C3%ADculo-32560-1-10-20200123.pdf",
+        "year": 2019,
+        "affiliation": "Universidad Francisco Gavidia",
+        "country": "El Salvador",
+        "status": "Afiliación del artículo; situación actual no verificada"
+      }
+    ]
   }
 ]
