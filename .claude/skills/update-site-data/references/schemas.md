@@ -170,3 +170,6 @@ Metric and layout reproduction: `python3 projects/redes-css-latam/research/build
 
 ### CSS dashboard update
 `geography.json` adds Natural Earth country boundaries and source attribution. `programs.category` distinguishes public-policy applications and general technical training. The default view is geographic. Shared filters update directory totals, selected programs and induced coauthor graph counts, components and maximum degree in browser. Stored centralities remain full-corpus archival values. Report has no named individual rankings. Institutional filtering follows documented affiliation/teaching edges. Country is an institutional association, not personal coordinates or confirmed residence.
+
+### CSS LATAM: university inventory (2026-10-20)
+`data/css-latam/university-inventory.json`: array of provisional institution records; `id`, `country`, `name`, `websites` (URL, provenance, status), `sources` (source id, retrieval date, optional registry code, edition and detail), `review` (programs/institutes/people/publications), `cssStatus`, `identityStatus`. Rows are NOT a count of distinct universities; unresolved aliases are retained. `university-sources.json` contains scope, URL, status and snapshot hashes. Build with `research/build_inventory.py`; download inputs separately. No automatic admission from GitHub submissions.

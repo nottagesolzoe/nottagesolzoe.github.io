@@ -1,0 +1,63 @@
+name: Solicitar incorporación al directorio CSS LATAM
+description: Proponer un perfil, una institución o un programa para revisión.
+title: "[CSS LATAM] Solicitud de incorporación: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Este formulario es público y requiere una cuenta de GitHub. No incluyas datos privados. La solicitud será revisada antes de incorporarse al dashboard; enviarla no publica automáticamente un perfil.
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo de incorporación
+      options:
+        - Persona
+        - Institución o iniciativa
+        - Programa de formación
+        - Corrección de un registro
+    validations:
+      required: true
+  - type: input
+    id: nombre
+    attributes:
+      label: Nombre público
+    validations:
+      required: true
+  - type: input
+    id: pais
+    attributes:
+      label: País e institución vinculada
+    validations:
+      required: true
+  - type: textarea
+    id: actividad
+    attributes:
+      label: Actividad y temas de trabajo
+      description: Explicá la relación con las ciencias sociales computacionales o el uso de datos para estudiar problemas sociales.
+    validations:
+      required: true
+  - type: textarea
+    id: fuentes
+    attributes:
+      label: Fuentes públicas
+      description: Enlaces a perfil institucional, publicaciones, proyectos o programa académico que permitan comprobar la información.
+    validations:
+      required: true
+  - type: input
+    id: linkedin
+    attributes:
+      label: LinkedIn público (opcional)
+  - type: input
+    id: email
+    attributes:
+      label: Correo institucional público (opcional)
+      description: Solo si ya está publicado y se desea incluir en el directorio.
+  - type: checkboxes
+    id: consentimiento
+    attributes:
+      label: Publicación y revisión
+      options:
+        - label: Entiendo que esta solicitud es pública, que los datos podrán incorporarse al directorio tras su revisión y que no se garantiza la inclusión.
+          required: true
+        - label: La información aportada es pública o cuento con autorización para compartirla.
+          required: true

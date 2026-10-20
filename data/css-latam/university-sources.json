@@ -1,0 +1,137 @@
+[
+  {
+    "id": "hipo",
+    "country": null,
+    "authority": "Directorio secundario de dominios",
+    "url": "https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json",
+    "scopeAndLimitations": "Candidatos; no registro oficial ni exhaustivo",
+    "status": "extraída",
+    "accessDate": "2026-10-20",
+    "snapshotFile": "university-domains.json",
+    "sha256": "4c8b526235db4b1c78706608558c497240537fe97cb601003e60464052896fce"
+  },
+  {
+    "id": "ar-cin",
+    "country": "Argentina",
+    "authority": "Consejo Interuniversitario Nacional",
+    "url": "https://www.cin.edu.ar/instituciones-universitarias/",
+    "scopeAndLimitations": "Universidades públicas; falta conciliar registro nacional y privadas",
+    "status": "extraída",
+    "accessDate": "2026-10-20",
+    "snapshotFile": "argentina.txt",
+    "sha256": "3e0a8b1e07083bd7e6eaa7e3311fcb01c54edcf1ba6ae3fb52e81b155faaa1d0"
+  },
+  {
+    "id": "cl-mineduc",
+    "country": "Chile",
+    "authority": "MINEDUC",
+    "url": "https://ayudamineduc.cl/sites/default/files/ies_vig_may_26.xlsx",
+    "scopeAndLimitations": "Nómina mayo 2026; solo filas de tipo universidad",
+    "status": "extraída",
+    "accessDate": "2026-10-20",
+    "snapshotFile": "chile.xlsx",
+    "sha256": "886013448464478336767673e4d0f11853b37fd227c20e7170ea17faa6f792ad"
+  },
+  {
+    "id": "co-men",
+    "country": "Colombia",
+    "authority": "Ministerio de Educación Nacional",
+    "url": "https://www.datos.gov.co/resource/n5yy-8nav.json?$limit=5000",
+    "scopeAndLimitations": "Solo carácter Universidad; actualización declarada 2022-07-08; vigencia pendiente",
+    "status": "extraída",
+    "accessDate": "2026-10-20",
+    "snapshotFile": "colombia.txt",
+    "sha256": "e2aa04d4df057117f02eb4eed225e725907b76386a965e90e2850a71951a549c"
+  },
+  {
+    "id": "ec-ces-publicas",
+    "country": "Ecuador",
+    "authority": "CES",
+    "url": "https://www.ces.gob.ec/?page_id=328",
+    "scopeAndLimitations": "Universidades y escuelas politécnicas públicas",
+    "status": "extraída",
+    "accessDate": "2026-10-20",
+    "snapshotFile": "ecuador.txt",
+    "sha256": "b5b326e7c037e45e8dec8999b0988b5ed88da720c5bbcde18907cd460c786c3d"
+  },
+  {
+    "id": "ec-ces-cofinanciadas",
+    "country": "Ecuador",
+    "authority": "CES",
+    "url": "https://www.ces.gob.ec/?page_id=5398",
+    "scopeAndLimitations": "Particulares cofinanciadas",
+    "status": "extraída",
+    "accessDate": "2026-10-20",
+    "snapshotFile": "ecuador-cofinanciadas.txt",
+    "sha256": "f1c3318da97c9b9476fa2534db6f7d7b7b91965efd88c8ff77fa4e28d23281f4"
+  },
+  {
+    "id": "ec-ces-autofinanciadas",
+    "country": "Ecuador",
+    "authority": "CES",
+    "url": "https://www.ces.gob.ec/?page_id=1540",
+    "scopeAndLimitations": "Particulares autofinanciadas",
+    "status": "extraída",
+    "accessDate": "2026-10-20",
+    "snapshotFile": "ecuador-autofinanciadas.txt",
+    "sha256": "3f55a8e7692f87aef413e45faddb8523d5174fe5214b4485d582e0b6e9fe0f95"
+  },
+  {
+    "id": "pe-sunedu",
+    "country": "Perú",
+    "authority": "SUNEDU",
+    "url": "https://www.sunedu.gob.pe/lista-de-universidades-licenciadas/",
+    "scopeAndLimitations": "Universidades licenciadas; tabla incluye licencias de 2026",
+    "status": "extraída",
+    "accessDate": "2026-10-20",
+    "snapshotFile": "peru.txt",
+    "sha256": "6d85e759a36453567b219f548251a902692f1286e8a1a4533b070f313b26c68d"
+  },
+  {
+    "id": "py-cones",
+    "country": "Paraguay",
+    "authority": "CONES",
+    "url": "https://cones.gov.py/category/ofertas-academicas/universidades/",
+    "scopeAndLimitations": "Nombres derivados de oferta académica en página; revisión de paginación y cobertura pendiente",
+    "status": "extraída",
+    "accessDate": "2026-10-20",
+    "snapshotFile": "paraguay.txt",
+    "sha256": "da356431fcef818af2ffa79c94798a30419c6ac5d68820d1d909fa60e73ccba7"
+  },
+  {
+    "id": "uy-mec",
+    "country": "Uruguay",
+    "authority": "MEC",
+    "url": "https://www.gub.uy/ministerio-educacion-cultura/politicas-y-gestion/instituciones-terciarias-privadas-autorizadas-carreras-reconocidas-privadas",
+    "scopeAndLimitations": "Fuente localizada; extracción pendiente; privadas y ciertas carreras públicas",
+    "status": "localizada; extracción pendiente",
+    "accessDate": "2026-10-20"
+  },
+  {
+    "id": "br-emec",
+    "country": "Brasil",
+    "authority": "MEC",
+    "url": "https://emec.mec.gov.br/",
+    "scopeAndLimitations": "Registro nacional localizado; extracción pendiente",
+    "status": "localizada; extracción pendiente",
+    "accessDate": "2026-10-20"
+  },
+  {
+    "id": "bo-minedu",
+    "country": "Bolivia",
+    "authority": "Ministerio de Educación",
+    "url": "https://www.minedu.gob.bo/files/GUIA-UNIVERSIDADES.pdf",
+    "scopeAndLimitations": "Guía edición 2016; actualización y extracción pendientes",
+    "status": "localizada; extracción pendiente",
+    "accessDate": "2026-10-20"
+  },
+  {
+    "id": "ve-opsu",
+    "country": "Venezuela",
+    "authority": "OPSU",
+    "url": "https://loeu.opsu.gob.ve/ieu/",
+    "scopeAndLimitations": "Fuente localizada; extracción pendiente",
+    "status": "localizada; extracción pendiente",
+    "accessDate": "2026-10-20"
+  }
+]
