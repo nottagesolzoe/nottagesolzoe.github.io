@@ -283,5 +283,19 @@
       "result": "Oferta e iniciativas localizadas; no equivale a barrido exhaustivo de universidades."
     }
   ],
-  "collectionLogLimit": "Los perfiles anteriores conservan fuentes y fechas, pero no existe un registro exhaustivo de cada consulta histórica. Las consultas nuevas se documentan desde este corte."
+  "collectionLogLimit": "Los perfiles anteriores conservan fuentes y fechas, pero no existe un registro exhaustivo de cada consulta histórica. Las consultas nuevas se documentan desde este corte.",
+  "updates": [
+    {
+      "date": "2026-10-20",
+      "change": "Aplicación social explícita como criterio; exclusión documentada de 5 programas generales y 15 perfiles cuya única evidencia era docencia general. Incorporación de 9 docentes históricos de UNaB, 5 organismos/portales/iniciativas públicos y una responsable documentada en 2024.",
+      "files": [
+        "scope-exclusions.json",
+        "research-relations.json",
+        "public-sector-review.json",
+        "argentina-register-2024.json",
+        "university-screening-ar.json"
+      ],
+      "note": "Rastreo preliminar y transcripción registral no equivalen a revisión institucional exhaustiva."
+    }
+  ]
 }

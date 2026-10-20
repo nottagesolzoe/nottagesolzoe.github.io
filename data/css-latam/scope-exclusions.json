@@ -1,0 +1,527 @@
+{
+  "date": "2026-10-20",
+  "reason": "Se conserva fuera del dashboard: la evidencia disponible corresponde a formación general en IA o datos y no acredita aplicación social explícita. No implica ausencia de trabajo social de estas personas.",
+  "programs": [
+    {
+      "name": "Diplomatura en Inteligencia Artificial",
+      "institution": "Universidad Austral",
+      "country": "Argentina",
+      "type": "Diplomatura",
+      "url": "https://www.austral.edu.ar/ingenieria/ingenieria-posgrados/ia/diplomatura-en-inteligencia-artificial/",
+      "status": "Oferta documentada; próxima inscripción por confirmar",
+      "description": "Formación técnica para diseñar y aplicar modelos de IA. Se incluye como oferta afín; el programa no acredita por sí solo investigación social computacional.",
+      "modality": "Por confirmar",
+      "people": [
+        "Diego Adrián Castro",
+        "Juan Pablo Sokil",
+        "Horacio G. Arrigo",
+        "Pablo Galiana",
+        "Ignacio Berdiñas"
+      ],
+      "checked": "2026-10-20",
+      "category": "IA y datos: formación general"
+    },
+    {
+      "name": "Maestría y Especialización en Ciencia de Datos",
+      "institution": "ITBA",
+      "country": "Argentina",
+      "type": "Maestría y especialización",
+      "url": "https://www.itba.edu.ar/posgrado/especializacion-en-ciencia-de-datos/",
+      "status": "Oferta 2027; mes de inicio por confirmar",
+      "description": "Análisis de datos, aprendizaje automático y datos geográficos; incluye una electiva de movilidad. La página contiene fechas de inicio 2027 contradictorias (mayo y junio).",
+      "modality": "Presencial",
+      "people": [
+        "Alejandro Vaisman",
+        "Ariel Aizemberg",
+        "Andrea Rey",
+        "Gustavo Denicolay Pacheco",
+        "Juliana Gambini",
+        "Leticia Gómez",
+        "Alicia Mon",
+        "Horacio Kuna"
+      ],
+      "checked": "2026-10-20",
+      "category": "IA y datos: formación general"
+    },
+    {
+      "name": "Certificación Profesional en Inteligencia Artificial — Intensivo Verano",
+      "institution": "ITBA",
+      "country": "Argentina",
+      "type": "Certificación",
+      "url": "https://ar.programasinnovacion.itba.edu.ar/productos/general/certificacion-profesional-en-inteligencia-artificial-intensivo-verano/",
+      "status": "Edición de febrero de 2026; sin vacantes publicadas",
+      "description": "42 horas de formación técnica en IA y robótica. Figura sin vacantes en la página de esa edición.",
+      "modality": "Presencial",
+      "people": [
+        "Marcela Riccillo"
+      ],
+      "checked": "2026-10-20",
+      "category": "IA y datos: formación general"
+    },
+    {
+      "name": "Diplomatura de Posgrado en Inteligencia Artificial",
+      "institution": "Universidad Nacional de Cuyo",
+      "country": "Argentina",
+      "type": "Diplomatura",
+      "url": "https://ingenieria.uncuyo.edu.ar/estudios/diplomatura/212",
+      "status": "Oferta documentada; próxima inscripción por confirmar",
+      "description": "El catálogo indexado incluye ética, aprendizaje automático y procesamiento de texto. La consulta completa devolvió 403; datos de cursada pendientes.",
+      "modality": "Por confirmar",
+      "people": [],
+      "checked": "2026-10-20",
+      "category": "IA y datos: formación general"
+    },
+    {
+      "name": "MicroMaster en Data Analytics",
+      "institution": "Universidad Torcuato Di Tella",
+      "country": "Argentina",
+      "type": "MicroMaster",
+      "url": "https://www.utdt.edu/ver_contenido.php?id_contenido=23492&id_item_menu=38903",
+      "status": "Oferta documentada; próxima inscripción por confirmar",
+      "description": "Existencia y dirección verificadas en el perfil institucional de su director. Plan completo y próxima cohorte pendientes.",
+      "modality": "Por confirmar",
+      "people": [
+        "Hernán Czemerinski"
+      ],
+      "checked": "2026-10-20",
+      "category": "IA y datos: formación general"
+    }
+  ],
+  "people": [
+    {
+      "id": "diego-adrian-castro",
+      "name": "Diego Adrián Castro",
+      "type": "Persona",
+      "country": "Argentina",
+      "region": "Cono Sur",
+      "affiliation": "Universidad Austral (docencia)",
+      "scope": [
+        "Argentina"
+      ],
+      "topics": [
+        "IA y ciencia de datos"
+      ],
+      "methods": [],
+      "fit": "Área afín",
+      "description": "Integra el equipo de la Diplomatura en Inteligencia Artificial. Formación técnica general; aplicación a investigación social pendiente de revisar.",
+      "sources": [
+        {
+          "title": "Programa y equipo docente",
+          "url": "https://www.austral.edu.ar/ingenieria/ingenieria-posgrados/ia/diplomatura-en-inteligencia-artificial/"
+        }
+      ],
+      "publication": null,
+      "email": "",
+      "linkedin": "",
+      "checked": "2026-10-20",
+      "evidence": "Docencia en programa",
+      "baseStatus": "Base por confirmar"
+    },
+    {
+      "id": "juan-pablo-sokil",
+      "name": "Juan Pablo Sokil",
+      "type": "Persona",
+      "country": "Argentina",
+      "region": "Cono Sur",
+      "affiliation": "Universidad Austral (docencia)",
+      "scope": [
+        "Argentina"
+      ],
+      "topics": [
+        "IA y ciencia de datos"
+      ],
+      "methods": [],
+      "fit": "Área afín",
+      "description": "Integra el equipo de la Diplomatura en Inteligencia Artificial. Formación técnica general; aplicación a investigación social pendiente de revisar.",
+      "sources": [
+        {
+          "title": "Programa y equipo docente",
+          "url": "https://www.austral.edu.ar/ingenieria/ingenieria-posgrados/ia/diplomatura-en-inteligencia-artificial/"
+        }
+      ],
+      "publication": null,
+      "email": "",
+      "linkedin": "",
+      "checked": "2026-10-20",
+      "evidence": "Docencia en programa",
+      "baseStatus": "Base por confirmar"
+    },
+    {
+      "id": "horacio-g-arrigo",
+      "name": "Horacio G. Arrigo",
+      "type": "Persona",
+      "country": "Argentina",
+      "region": "Cono Sur",
+      "affiliation": "Universidad Austral (docencia)",
+      "scope": [
+        "Argentina"
+      ],
+      "topics": [
+        "IA y ciencia de datos"
+      ],
+      "methods": [],
+      "fit": "Área afín",
+      "description": "Integra el equipo de la Diplomatura en Inteligencia Artificial. Formación técnica general; aplicación a investigación social pendiente de revisar.",
+      "sources": [
+        {
+          "title": "Programa y equipo docente",
+          "url": "https://www.austral.edu.ar/ingenieria/ingenieria-posgrados/ia/diplomatura-en-inteligencia-artificial/"
+        }
+      ],
+      "publication": null,
+      "email": "",
+      "linkedin": "",
+      "checked": "2026-10-20",
+      "evidence": "Docencia en programa",
+      "baseStatus": "Base por confirmar"
+    },
+    {
+      "id": "pablo-galiana",
+      "name": "Pablo Galiana",
+      "type": "Persona",
+      "country": "Argentina",
+      "region": "Cono Sur",
+      "affiliation": "Universidad Austral (docencia)",
+      "scope": [
+        "Argentina"
+      ],
+      "topics": [
+        "IA y ciencia de datos"
+      ],
+      "methods": [],
+      "fit": "Área afín",
+      "description": "Integra el equipo de la Diplomatura en Inteligencia Artificial. Formación técnica general; aplicación a investigación social pendiente de revisar.",
+      "sources": [
+        {
+          "title": "Programa y equipo docente",
+          "url": "https://www.austral.edu.ar/ingenieria/ingenieria-posgrados/ia/diplomatura-en-inteligencia-artificial/"
+        }
+      ],
+      "publication": null,
+      "email": "",
+      "linkedin": "",
+      "checked": "2026-10-20",
+      "evidence": "Docencia en programa",
+      "baseStatus": "Base por confirmar"
+    },
+    {
+      "id": "ignacio-berdinas",
+      "name": "Ignacio Berdiñas",
+      "type": "Persona",
+      "country": "Argentina",
+      "region": "Cono Sur",
+      "affiliation": "Universidad Austral (docencia)",
+      "scope": [
+        "Argentina"
+      ],
+      "topics": [
+        "IA y ciencia de datos"
+      ],
+      "methods": [],
+      "fit": "Área afín",
+      "description": "Integra el equipo de la Diplomatura en Inteligencia Artificial. Formación técnica general; aplicación a investigación social pendiente de revisar.",
+      "sources": [
+        {
+          "title": "Programa y equipo docente",
+          "url": "https://www.austral.edu.ar/ingenieria/ingenieria-posgrados/ia/diplomatura-en-inteligencia-artificial/"
+        }
+      ],
+      "publication": null,
+      "email": "",
+      "linkedin": "",
+      "checked": "2026-10-20",
+      "evidence": "Docencia en programa",
+      "baseStatus": "Base por confirmar"
+    },
+    {
+      "id": "alejandro-vaisman",
+      "name": "Alejandro Vaisman",
+      "type": "Persona",
+      "country": "Argentina",
+      "region": "Cono Sur",
+      "affiliation": "ITBA (docencia)",
+      "scope": [
+        "Argentina"
+      ],
+      "topics": [
+        "IA y ciencia de datos"
+      ],
+      "methods": [],
+      "fit": "Área afín",
+      "description": "Integra el equipo de la Maestría y Especialización en Ciencia de Datos. Se registra como formación afín; no se presupone especialización individual en CSS.",
+      "sources": [
+        {
+          "title": "Programa y equipo docente",
+          "url": "https://www.itba.edu.ar/posgrado/especializacion-en-ciencia-de-datos/"
+        }
+      ],
+      "publication": null,
+      "email": "",
+      "linkedin": "",
+      "checked": "2026-10-20",
+      "evidence": "Docencia en programa",
+      "baseStatus": "Base por confirmar"
+    },
+    {
+      "id": "ariel-aizemberg",
+      "name": "Ariel Aizemberg",
+      "type": "Persona",
+      "country": "Argentina",
+      "region": "Cono Sur",
+      "affiliation": "ITBA (docencia)",
+      "scope": [
+        "Argentina"
+      ],
+      "topics": [
+        "IA y ciencia de datos"
+      ],
+      "methods": [],
+      "fit": "Área afín",
+      "description": "Integra el equipo de la Maestría y Especialización en Ciencia de Datos. Se registra como formación afín; no se presupone especialización individual en CSS.",
+      "sources": [
+        {
+          "title": "Programa y equipo docente",
+          "url": "https://www.itba.edu.ar/posgrado/especializacion-en-ciencia-de-datos/"
+        }
+      ],
+      "publication": null,
+      "email": "",
+      "linkedin": "",
+      "checked": "2026-10-20",
+      "evidence": "Docencia en programa",
+      "baseStatus": "Base por confirmar"
+    },
+    {
+      "id": "andrea-rey",
+      "name": "Andrea Rey",
+      "type": "Persona",
+      "country": "Argentina",
+      "region": "Cono Sur",
+      "affiliation": "ITBA (docencia)",
+      "scope": [
+        "Argentina"
+      ],
+      "topics": [
+        "IA y ciencia de datos"
+      ],
+      "methods": [],
+      "fit": "Área afín",
+      "description": "Integra el equipo de la Maestría y Especialización en Ciencia de Datos. Se registra como formación afín; no se presupone especialización individual en CSS.",
+      "sources": [
+        {
+          "title": "Programa y equipo docente",
+          "url": "https://www.itba.edu.ar/posgrado/especializacion-en-ciencia-de-datos/"
+        }
+      ],
+      "publication": null,
+      "email": "",
+      "linkedin": "",
+      "checked": "2026-10-20",
+      "evidence": "Docencia en programa",
+      "baseStatus": "Base por confirmar"
+    },
+    {
+      "id": "gustavo-denicolay-pacheco",
+      "name": "Gustavo Denicolay Pacheco",
+      "type": "Persona",
+      "country": "Argentina",
+      "region": "Cono Sur",
+      "affiliation": "ITBA (docencia)",
+      "scope": [
+        "Argentina"
+      ],
+      "topics": [
+        "IA y ciencia de datos"
+      ],
+      "methods": [],
+      "fit": "Área afín",
+      "description": "Integra el equipo de la Maestría y Especialización en Ciencia de Datos. Se registra como formación afín; no se presupone especialización individual en CSS.",
+      "sources": [
+        {
+          "title": "Programa y equipo docente",
+          "url": "https://www.itba.edu.ar/posgrado/especializacion-en-ciencia-de-datos/"
+        }
+      ],
+      "publication": null,
+      "email": "",
+      "linkedin": "",
+      "checked": "2026-10-20",
+      "evidence": "Docencia en programa",
+      "baseStatus": "Base por confirmar"
+    },
+    {
+      "id": "juliana-gambini",
+      "name": "Juliana Gambini",
+      "type": "Persona",
+      "country": "Argentina",
+      "region": "Cono Sur",
+      "affiliation": "ITBA (docencia)",
+      "scope": [
+        "Argentina"
+      ],
+      "topics": [
+        "IA y ciencia de datos"
+      ],
+      "methods": [],
+      "fit": "Área afín",
+      "description": "Integra el equipo de la Maestría y Especialización en Ciencia de Datos. Se registra como formación afín; no se presupone especialización individual en CSS.",
+      "sources": [
+        {
+          "title": "Programa y equipo docente",
+          "url": "https://www.itba.edu.ar/posgrado/especializacion-en-ciencia-de-datos/"
+        }
+      ],
+      "publication": null,
+      "email": "",
+      "linkedin": "",
+      "checked": "2026-10-20",
+      "evidence": "Docencia en programa",
+      "baseStatus": "Base por confirmar"
+    },
+    {
+      "id": "leticia-gomez",
+      "name": "Leticia Gómez",
+      "type": "Persona",
+      "country": "Argentina",
+      "region": "Cono Sur",
+      "affiliation": "ITBA (docencia)",
+      "scope": [
+        "Argentina"
+      ],
+      "topics": [
+        "IA y ciencia de datos"
+      ],
+      "methods": [],
+      "fit": "Área afín",
+      "description": "Integra el equipo de la Maestría y Especialización en Ciencia de Datos. Se registra como formación afín; no se presupone especialización individual en CSS.",
+      "sources": [
+        {
+          "title": "Programa y equipo docente",
+          "url": "https://www.itba.edu.ar/posgrado/especializacion-en-ciencia-de-datos/"
+        }
+      ],
+      "publication": null,
+      "email": "",
+      "linkedin": "",
+      "checked": "2026-10-20",
+      "evidence": "Docencia en programa",
+      "baseStatus": "Base por confirmar"
+    },
+    {
+      "id": "alicia-mon",
+      "name": "Alicia Mon",
+      "type": "Persona",
+      "country": "Argentina",
+      "region": "Cono Sur",
+      "affiliation": "ITBA (docencia)",
+      "scope": [
+        "Argentina"
+      ],
+      "topics": [
+        "IA y ciencia de datos"
+      ],
+      "methods": [],
+      "fit": "Área afín",
+      "description": "Integra el equipo de la Maestría y Especialización en Ciencia de Datos. Se registra como formación afín; no se presupone especialización individual en CSS.",
+      "sources": [
+        {
+          "title": "Programa y equipo docente",
+          "url": "https://www.itba.edu.ar/posgrado/especializacion-en-ciencia-de-datos/"
+        }
+      ],
+      "publication": null,
+      "email": "",
+      "linkedin": "",
+      "checked": "2026-10-20",
+      "evidence": "Docencia en programa",
+      "baseStatus": "Base por confirmar"
+    },
+    {
+      "id": "horacio-kuna",
+      "name": "Horacio Kuna",
+      "type": "Persona",
+      "country": "Argentina",
+      "region": "Cono Sur",
+      "affiliation": "ITBA (docencia)",
+      "scope": [
+        "Argentina"
+      ],
+      "topics": [
+        "IA y ciencia de datos"
+      ],
+      "methods": [],
+      "fit": "Área afín",
+      "description": "Integra el equipo de la Maestría y Especialización en Ciencia de Datos. Se registra como formación afín; no se presupone especialización individual en CSS.",
+      "sources": [
+        {
+          "title": "Programa y equipo docente",
+          "url": "https://www.itba.edu.ar/posgrado/especializacion-en-ciencia-de-datos/"
+        }
+      ],
+      "publication": null,
+      "email": "",
+      "linkedin": "",
+      "checked": "2026-10-20",
+      "evidence": "Docencia en programa",
+      "baseStatus": "Base por confirmar"
+    },
+    {
+      "id": "marcela-riccillo",
+      "name": "Marcela Riccillo",
+      "type": "Persona",
+      "country": "Argentina",
+      "region": "Cono Sur",
+      "affiliation": "ITBA (docencia)",
+      "scope": [
+        "Argentina"
+      ],
+      "topics": [
+        "IA y ciencia de datos"
+      ],
+      "methods": [],
+      "fit": "Área afín",
+      "description": "Docente de la certificación de IA. Su inclusión corresponde a formación técnica afín.",
+      "sources": [
+        {
+          "title": "Programa y equipo docente",
+          "url": "https://ar.programasinnovacion.itba.edu.ar/productos/general/certificacion-profesional-en-inteligencia-artificial-intensivo-verano/"
+        }
+      ],
+      "publication": null,
+      "email": "",
+      "linkedin": "",
+      "checked": "2026-10-20",
+      "evidence": "Docencia en programa",
+      "baseStatus": "Base por confirmar"
+    },
+    {
+      "id": "hernan-czemerinski",
+      "name": "Hernán Czemerinski",
+      "type": "Persona",
+      "country": "Argentina",
+      "region": "Cono Sur",
+      "affiliation": "Universidad Torcuato Di Tella (docencia)",
+      "scope": [
+        "Argentina"
+      ],
+      "topics": [
+        "IA y ciencia de datos"
+      ],
+      "methods": [],
+      "fit": "Área afín",
+      "description": "Dirige el MicroMaster en Data Analytics y trabaja en educación en computación.",
+      "sources": [
+        {
+          "title": "Programa y equipo docente",
+          "url": "https://www.utdt.edu/ver_contenido.php?id_contenido=23492&id_item_menu=38903"
+        }
+      ],
+      "publication": null,
+      "email": "hernan.czemerinski@utdt.edu",
+      "linkedin": "",
+      "checked": "2026-10-20",
+      "evidence": "Docencia en programa",
+      "baseStatus": "Base por confirmar"
+    }
+  ]
+}

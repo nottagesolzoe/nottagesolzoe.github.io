@@ -1,0 +1,110 @@
+[
+  {
+    "source": "martin-ivan-schuster",
+    "target": "inst-unab",
+    "weight": 1,
+    "evidenceUrl": "https://www1.unab.edu.ar/ciencias-computacionales/",
+    "relation": "Coordinación académica en programa",
+    "period": "2024–2025",
+    "checked": "2026-10-20",
+    "program": "Especialización en Ciencias Sociales Computacionales",
+    "sourceInstitution": "Universidad Nacional Guillermo Brown"
+  },
+  {
+    "source": "julian-ansaldo",
+    "target": "inst-unab",
+    "weight": 1,
+    "evidenceUrl": "https://www1.unab.edu.ar/ciencias-computacionales/",
+    "relation": "Docencia en programa",
+    "period": "2024–2025",
+    "checked": "2026-10-20",
+    "program": "Especialización en Ciencias Sociales Computacionales",
+    "sourceInstitution": "Universidad Nacional Guillermo Brown"
+  },
+  {
+    "source": "clara-cali-mella",
+    "target": "inst-unab",
+    "weight": 1,
+    "evidenceUrl": "https://www1.unab.edu.ar/ciencias-computacionales/",
+    "relation": "Docencia en programa",
+    "period": "2024–2025",
+    "checked": "2026-10-20",
+    "program": "Especialización en Ciencias Sociales Computacionales",
+    "sourceInstitution": "Universidad Nacional Guillermo Brown"
+  },
+  {
+    "source": "joaquin-carrascosa",
+    "target": "inst-unab",
+    "weight": 1,
+    "evidenceUrl": "https://www1.unab.edu.ar/ciencias-computacionales/",
+    "relation": "Docencia en programa",
+    "period": "2024–2025",
+    "checked": "2026-10-20",
+    "program": "Especialización en Ciencias Sociales Computacionales",
+    "sourceInstitution": "Universidad Nacional Guillermo Brown"
+  },
+  {
+    "source": "sebastian-frittaoni",
+    "target": "inst-unab",
+    "weight": 1,
+    "evidenceUrl": "https://www1.unab.edu.ar/ciencias-computacionales/",
+    "relation": "Docencia en programa",
+    "period": "2024–2025",
+    "checked": "2026-10-20",
+    "program": "Especialización en Ciencias Sociales Computacionales",
+    "sourceInstitution": "Universidad Nacional Guillermo Brown"
+  },
+  {
+    "source": "barbara-estevez-leston",
+    "target": "inst-unab",
+    "weight": 1,
+    "evidenceUrl": "https://www1.unab.edu.ar/ciencias-computacionales/",
+    "relation": "Docencia en programa",
+    "period": "2024–2025",
+    "checked": "2026-10-20",
+    "program": "Especialización en Ciencias Sociales Computacionales",
+    "sourceInstitution": "Universidad Nacional Guillermo Brown"
+  },
+  {
+    "source": "florencia-luduena",
+    "target": "inst-unab",
+    "weight": 1,
+    "evidenceUrl": "https://www1.unab.edu.ar/ciencias-computacionales/",
+    "relation": "Docencia en programa",
+    "period": "2024–2025",
+    "checked": "2026-10-20",
+    "program": "Especialización en Ciencias Sociales Computacionales",
+    "sourceInstitution": "Universidad Nacional Guillermo Brown"
+  },
+  {
+    "source": "paula-luvini",
+    "target": "inst-unab",
+    "weight": 1,
+    "evidenceUrl": "https://www1.unab.edu.ar/ciencias-computacionales/",
+    "relation": "Docencia en programa",
+    "period": "2024–2025",
+    "checked": "2026-10-20",
+    "program": "Especialización en Ciencias Sociales Computacionales",
+    "sourceInstitution": "Universidad Nacional Guillermo Brown"
+  },
+  {
+    "source": "renzo-polo",
+    "target": "inst-unab",
+    "weight": 1,
+    "evidenceUrl": "https://www1.unab.edu.ar/ciencias-computacionales/",
+    "relation": "Docencia en programa",
+    "period": "2024–2025",
+    "checked": "2026-10-20",
+    "program": "Especialización en Ciencias Sociales Computacionales",
+    "sourceInstitution": "Universidad Nacional Guillermo Brown"
+  },
+  {
+    "source": "daniela-garcia-datos",
+    "target": "direccion-datos-abiertos-ar",
+    "weight": 1,
+    "relation": "Cargo público documentado",
+    "period": "2024-10",
+    "evidenceUrl": "https://www.argentina.gob.ar/noticias/se-realizo-una-nueva-edicion-de-las-jornadas-de-datos-abiertos-con-las-jurisdicciones",
+    "checked": "2026-10-20"
+  }
+]

@@ -23,7 +23,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 3,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "28a316b5bae039c4",
@@ -49,7 +55,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "bdb2aac0ba7b6870",
@@ -75,7 +87,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 1,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "36afc186bcbef312",
@@ -101,7 +119,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 4,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "064fe49d09eab83c",
@@ -127,7 +151,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 1,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "3106a3aafc4646c6",
@@ -153,7 +183,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "7e66d476709b482b",
@@ -179,7 +215,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 1,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "3f9f2f90fc28c9f2",
@@ -205,7 +247,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "acceso pendiente; robots no recuperado",
+      "responses": 0,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "fcb96ea1ef82c50d",
@@ -225,7 +273,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "sin web; localización pendiente",
+      "responses": 0,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "f5f5751975135c0a",
@@ -251,7 +305,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "0a5a3d8bd5a96e98",
@@ -277,7 +337,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "acceso pendiente; robots no recuperado",
+      "responses": 0,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "0bd760f987a42ecf",
@@ -303,7 +369,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "acceso pendiente; robots no recuperado",
+      "responses": 0,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "cbac68d8668f3f14",
@@ -338,7 +410,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "acceso pendiente; robots no recuperado",
+      "responses": 0,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "bc1a088fae2c07e9",
@@ -364,7 +442,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 3,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "b8cf623c9bb14095",
@@ -390,7 +474,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 1,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "1f42d75fc12a331c",
@@ -416,7 +506,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 4,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "4585ef1f442912b7",
@@ -442,7 +538,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "acceso pendiente; robots no recuperado",
+      "responses": 0,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "adfdf5cda068b895",
@@ -468,7 +570,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "acceso pendiente; robots no recuperado",
+      "responses": 0,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "48b395f122fe3f73",
@@ -494,7 +602,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 4,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "d1f4848ec16d6534",
@@ -520,7 +634,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 3,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "a5d4f5045e210cca",
@@ -546,7 +666,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "acceso pendiente; robots no recuperado",
+      "responses": 0,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "e991108de63c30de",
@@ -572,7 +698,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "aeb9aeead9f0f43d",
@@ -598,7 +730,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 4,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "9df6b34a877c0353",
@@ -624,7 +762,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "e4a900a9369296ed",
@@ -650,7 +794,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 4,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "24e929be8bc0e9fb",
@@ -685,7 +835,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "acceso pendiente; robots no recuperado",
+      "responses": 0,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "9c0b969ccc08df5a",
@@ -711,7 +867,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "2297ccf8e719c583",
@@ -737,7 +899,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "robots inaccesible; revisión manual pendiente",
+      "responses": 0,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "fc04efe8b687590e",
@@ -763,7 +931,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 1,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "56e8545f66c9952d",
@@ -789,7 +963,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 1,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "a5952d9e80c1b674",
@@ -815,7 +995,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 1,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "4ba2253759a08824",
@@ -841,7 +1027,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 3,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "a9fd764c9b226a88",
@@ -867,7 +1059,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "acceso pendiente; robots no recuperado",
+      "responses": 0,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "6693d435b77fe676",
@@ -893,7 +1091,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 4,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "d97e1de9bdfcd7d6",
@@ -919,7 +1123,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "f590d22d2f690389",
@@ -945,7 +1155,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "04958bc8639f61a0",
@@ -971,7 +1187,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 1,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "bee00ccc48f65acb",
@@ -997,7 +1219,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "d36375b00d09f6c1",
@@ -1023,7 +1251,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "1ffa348d249ab6ee",
@@ -1049,7 +1283,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "bafd328c023f5216",
@@ -1075,7 +1315,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 1,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "b4f5fd9a26b75b47",
@@ -1101,7 +1347,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 1,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "038c3d224b5f4f02",
@@ -1127,7 +1379,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 1,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "d01c21ef1f7b4c2e",
@@ -1162,7 +1420,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 3,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "a2097ca44be1596b",
@@ -1191,13 +1455,19 @@
       }
     ],
     "review": {
-      "programs": "pendiente",
+      "programs": "revisión parcial; programa CSS y oferta localizada",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "9 personas documentadas en cohorte 2024–2025; revisión individual pendiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 4,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "f2e636b746b92e85",
@@ -1223,7 +1493,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "acceso pendiente; robots no recuperado",
+      "responses": 0,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "5d96a92acd4c281c",
@@ -1249,7 +1525,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 1,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "2119b1e05637b559",
@@ -1275,7 +1557,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "73f60254b5f18171",
@@ -1310,7 +1598,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 1,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "db803d6d107786c2",
@@ -1345,7 +1639,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "acceso pendiente; robots no recuperado",
+      "responses": 0,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "c4feb5a1c184b0b7",
@@ -1380,7 +1680,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "a69393a12244f78f",
@@ -1415,7 +1721,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 1,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "62fa809bcb5ab6d0",
@@ -1450,7 +1762,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 3,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "0c54b2851de8f03e",
@@ -1485,7 +1803,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 3,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "db29e20da7362077",
@@ -1520,7 +1844,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "acceso pendiente; robots no recuperado",
+      "responses": 0,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "0ba534958302989b",
@@ -1546,7 +1876,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 4,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "1f779841f701d502",
@@ -1581,7 +1917,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 4,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "10ab7623545f17d2",
@@ -1616,7 +1958,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "acceso pendiente; robots no recuperado",
+      "responses": 0,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "7004e7c0fc536f0f",
@@ -1642,7 +1990,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 3,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "7a9d08a8b53fa11a",
@@ -1668,7 +2022,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 3,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "5bec49bc3ca393dc",
@@ -1703,7 +2063,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "acceso pendiente; robots no recuperado",
+      "responses": 0,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "c9f58303427cfff8",
@@ -1738,7 +2104,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "robots inaccesible; revisión manual pendiente",
+      "responses": 0,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "236ad318eba7792e",
@@ -1773,7 +2145,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 4,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "71873c9a2d75ddaa",
@@ -1808,7 +2186,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 3,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "fec75e41e9fd4d88",
@@ -1843,7 +2227,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "acceso pendiente; robots no recuperado",
+      "responses": 0,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "eac8c216dbb05540",
@@ -1878,7 +2268,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "e0abbde153a2c54e",
@@ -1913,7 +2309,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 3,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "d46c2a5ef357e2cb",
@@ -1948,7 +2350,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 4,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "3b50465a26e047f1",
@@ -1983,7 +2391,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 3,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "0cd2c02c50c28e56",
@@ -2018,7 +2432,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 4,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "5138e4e61aa35258",
@@ -2053,7 +2473,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "4345e70c2bbee850",
@@ -2088,7 +2514,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 1,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "6b2541450428ea0d",
@@ -2123,7 +2555,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 4,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "a8acdf135096996f",
@@ -2158,7 +2596,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 3,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "d5da2894a008ea02",
@@ -2193,7 +2637,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "acceso pendiente; robots no recuperado",
+      "responses": 0,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "02e5b042fb469ea1",
@@ -2228,7 +2678,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 3,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "bdd1c3b2e80520ac",
@@ -2263,7 +2719,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "2893cbd5f2b97fbf",
@@ -2298,7 +2760,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 3,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "5724d3c6dd102da5",
@@ -2333,7 +2801,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 3,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "993321fa2a2048e2",
@@ -2359,7 +2833,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "1a59ff6558d9657d",
@@ -2394,7 +2874,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "3bd168eedec49834",
@@ -2429,7 +2915,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "3e8fc79acd60e6cd",
@@ -2455,7 +2947,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 4,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "8d5cc30e731bd222",
@@ -2490,7 +2988,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "d38eb8afc3051869",
@@ -2516,7 +3020,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "3620d6bce51675d0",
@@ -2551,7 +3061,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "acceso pendiente; robots no recuperado",
+      "responses": 0,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "6304c152d80ddde4",
@@ -2586,7 +3102,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "936cda04a727b5c8",
@@ -2621,7 +3143,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "dea2c3f65afe2a20",
@@ -2656,7 +3184,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 3,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "6351ad3b180417a9",
@@ -2682,7 +3216,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 2,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "1f557f647e8b71af",
@@ -2717,7 +3257,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "acceso pendiente; robots no recuperado",
+      "responses": 0,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "8c5315917da76f83",
@@ -2743,7 +3289,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 2,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "bbefc7f37bc38140",
@@ -2778,7 +3330,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 1,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "b68367d7e51975a1",
@@ -2813,7 +3371,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "05f11cc3c609b9c1",
@@ -2848,7 +3412,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 1,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "59b0d14f8b7d21dc",
@@ -2883,7 +3453,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 4,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "4d1f7e4f5e90e20c",
@@ -2918,7 +3494,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 1,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "d91acb904908fdc3",
@@ -2953,7 +3535,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 2,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "4598069c08984b2b",
@@ -2988,7 +3576,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 2,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "00273b8ee2142295",
@@ -3023,7 +3617,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "f15199baa0d7e9d3",
@@ -3058,7 +3658,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "f89bb03085f60659",
@@ -3093,7 +3699,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 3,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "31fda1b2c2ae1685",
@@ -3128,7 +3740,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 2,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "bb3e109a0591eefa",
@@ -3163,7 +3781,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "ceee27831d02c557",
@@ -3189,7 +3813,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "e26624fb1f63eff5",
@@ -3215,7 +3845,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 1,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "ff459684d78dc9f6",
@@ -3250,7 +3886,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "6a7fa13fd7c9c4ae",
@@ -3276,7 +3918,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 3,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "e83ff92c5185a38d",
@@ -3311,7 +3959,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 2,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "b160c1a7dec27a9b",
@@ -3337,7 +3991,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 2,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "a15e89b93ce7dc35",
@@ -3363,7 +4023,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "acceso pendiente; robots no recuperado",
+      "responses": 0,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "6cb340e3d2ef923a",
@@ -3398,7 +4064,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "3f73f0867ec368e2",
@@ -3424,7 +4096,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 4,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "dc360ff74ee23dd2",
@@ -3450,7 +4128,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 3,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "c23f1d13b2b3330c",
@@ -3476,7 +4160,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 1,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "997d01151ff4df90",
@@ -3506,7 +4196,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 4,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "8c8a21afd07e2aa8",
@@ -3532,7 +4228,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "9ac0ad0dc0db88de",
@@ -3558,7 +4260,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 3,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "b7d90fa80688b23f",
@@ -3584,7 +4292,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "acceso pendiente; robots no recuperado",
+      "responses": 0,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "390601805137c3bb",
@@ -3610,7 +4324,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 1,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "e1bf16e29792c84c",
@@ -3636,7 +4356,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "caff68bfa33766ec",
@@ -3662,7 +4388,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 1,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "6dbaded9d3273486",
@@ -3688,7 +4420,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 4,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "3458cb58d0e09dfd",
@@ -3714,7 +4452,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "09f876c90b256e36",
@@ -3740,7 +4484,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 1,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "e908952f2f152bcb",
@@ -3766,7 +4516,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 1,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "9e30545de050d749",
@@ -3792,7 +4548,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "acceso pendiente; robots no recuperado",
+      "responses": 0,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "08dee18587fe1d87",
@@ -3827,7 +4589,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 3,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "789c39ed9a4773cd",
@@ -3853,7 +4621,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "robots inaccesible; revisión manual pendiente",
+      "responses": 0,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "27dcdc23ac57fae4",
@@ -3879,7 +4653,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 3,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "e48f142f416bcd73",
@@ -3905,7 +4685,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "d23634aa2649e0d0",
@@ -3931,7 +4717,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 3,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "41e9c919511e5e5d",
@@ -3957,7 +4749,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 3,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "7ad6f6511f8b5b6f",
@@ -3983,7 +4781,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "presente en fuente institucional; vigencia según edición"
+    "identityStatus": "presente en fuente institucional; vigencia según edición",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 3,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "71aae9360e3723ca",
@@ -4009,7 +4813,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 4,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "21c324d879c6dd93",
@@ -4035,7 +4845,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 2,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "058bdf400413b92a",
@@ -4061,7 +4877,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 5,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "ac09941d88d64c56",
@@ -4087,7 +4909,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "rastreo preliminar; revisión institucional pendiente",
+      "responses": 4,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "9ecb09e11747927d",
@@ -4113,7 +4941,13 @@
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
-    "identityStatus": "pendiente de conciliación con registro nacional"
+    "identityStatus": "pendiente de conciliación con registro nacional",
+    "screening": {
+      "date": "2026-10-20",
+      "status": "acceso pendiente; robots no recuperado",
+      "responses": 0,
+      "log": "university-screening-ar.json"
+    }
   },
   {
     "id": "18ff9da2ca8b23bf",

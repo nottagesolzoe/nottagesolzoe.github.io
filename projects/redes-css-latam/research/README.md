@@ -47,3 +47,16 @@ Se utilizó ChatGPT, mediante Codex, para asistir la búsqueda, programación de
 OpenAI. (2026). *ChatGPT* [Herramienta de inteligencia artificial, utilizada mediante Codex]. https://chatgpt.com/
 
 El directorio de dominios utilizado como punto de partida corresponde a [Hipo/university-domains-list](https://github.com/Hipo/university-domains-list). Cada registro conserva su procedencia. Las fuentes originales mantienen sus respectivos derechos; la publicación de enlaces y datos no concede una licencia general sobre sus contenidos.
+
+## Versiones de idioma
+
+El dashboard está disponible en `/projects/redes-css-latam/` (español) y `/projects/redes-css-latam/en/` (inglés). Ambos utilizan los mismos JSON y conservan filtros al cambiar idioma. Los nombres y notas de fuentes se mantienen en su idioma original; la interfaz, el informe y la metodología tienen versión inglesa. Tras editar la interfaz española, regenerar y verificar ambas versiones:
+
+```sh
+python3 projects/redes-css-latam/research/build_english_page.py
+python3 projects/redes-css-latam/research/build_english_js.py
+```
+
+## Rastreo preliminar
+
+`screen_university_sites.py` procesa todos los sitios disponibles de un país en el inventario provisional, hasta cinco páginas por origen y seis orígenes en paralelo, con consulta de robots. Guarda respuestas, errores y enlaces candidatos. No incorpora personas ni cierra revisiones institucionales. El rastreo argentino publicado incluye sitios sin acceso y nombres aún pendientes de conciliación. `argentina-register-2024.json` transcribe las entradas numeradas de cuatro secciones del registro oficial de 2024; incluye repeticiones y no es una tabla de instituciones únicas. La revisión de universidades extranjeras y organismos internacionales del mismo documento debe registrarse por separado.

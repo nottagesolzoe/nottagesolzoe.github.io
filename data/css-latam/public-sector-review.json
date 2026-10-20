@@ -1,0 +1,55 @@
+{
+  "country": "Argentina",
+  "date": "2026-10-20",
+  "status": "revisión parcial; marco territorial completo pendiente",
+  "method": "Revisar por nivel territorial el portal, organismo responsable, proyectos y equipos. No inferir cargos actuales de noticias históricas.",
+  "reviews": [
+    {
+      "recordId": "datos-abiertos-pba",
+      "jurisdiction": "Buenos Aires",
+      "level": "Provincial",
+      "source": "https://catalogo.datos.gba.gob.ar/es_AR/",
+      "status": "portal o iniciativa revisado; equipo pendiente",
+      "checked": "2026-10-20"
+    },
+    {
+      "recordId": "rosario-datos",
+      "jurisdiction": "Rosario, Santa Fe",
+      "level": "Municipal",
+      "source": "https://datos.rosario.gob.ar/",
+      "status": "portal o iniciativa revisado; equipo pendiente",
+      "checked": "2026-10-20"
+    },
+    {
+      "recordId": "ladat-rosario",
+      "jurisdiction": "Rosario, Santa Fe",
+      "level": "Municipal",
+      "source": "https://www.rosario.gob.ar/inicio/plan-de-digitalizacion",
+      "status": "portal o iniciativa revisado; equipo pendiente",
+      "checked": "2026-10-20"
+    },
+    {
+      "recordId": "dgaiga-caba",
+      "jurisdiction": "Ciudad Autónoma de Buenos Aires",
+      "level": "Ciudad autónoma",
+      "source": "https://buenosaires.gob.ar/gcaba_historico/legalytecnica/informacionpublicaygobiernoabierto",
+      "status": "portal o iniciativa revisado; equipo pendiente",
+      "checked": "2026-10-20"
+    },
+    {
+      "recordId": "direccion-datos-abiertos-ar",
+      "jurisdiction": "Argentina",
+      "level": "Nacional",
+      "source": "https://www.argentina.gob.ar/noticias/se-realizo-una-nueva-edicion-de-las-jornadas-de-datos-abiertos-con-las-jurisdicciones",
+      "status": "portal o iniciativa revisado; equipo pendiente",
+      "checked": "2026-10-20"
+    }
+  ],
+  "people": [
+    {
+      "id": "daniela-garcia-datos",
+      "period": "2024-10",
+      "source": "https://www.argentina.gob.ar/noticias/se-realizo-una-nueva-edicion-de-las-jornadas-de-datos-abiertos-con-las-jurisdicciones"
+    }
+  ]
+}

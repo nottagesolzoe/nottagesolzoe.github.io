@@ -76,3 +76,17 @@ Los estados de revisión de programas, institutos, personas y publicaciones se r
 
 ## Solicitudes de incorporación
 La página ofrece un formulario público mediante GitHub Issues. Solicita nombre, país, institución, descripción del trabajo y fuentes públicas; correo institucional y LinkedIn son opcionales. Cada solicitud requiere revisión y deduplicación antes de su incorporación. Las solicitudes no alimentan automáticamente los recuentos del dashboard.
+
+## Procedimiento de investigación por país y ampliación al sector público
+La revisión adopta el protocolo operativo publicado en `protocolo-operativo.json`. El marco universitario debe conciliarse con una nómina oficial antes de calcular porcentajes de cobertura. La revisión de cada web comprende catálogos, unidades académicas, programas pertinentes, docentes, eventos, centros y organizaciones asociadas. La inclusión exige aplicación social explícita de IA, métodos computacionales o análisis de datos. La IA general no satisface ese criterio.
+
+La unidad de evidencia es un vínculo documentado: persona-programa, persona-evento, persona-equipo o institución-proyecto. Se conservan rol, URL, fecha de consulta y temporalidad disponible. Participar en una charla no acredita empleo en la universidad organizadora. Compartir una charla o un programa no constituye coautoría. La condición de integrante del ecosistema no acredita por sí misma una especialidad investigadora individual.
+
+El sector público constituye un marco complementario: organismos nacionales, provincias o estados y municipios. Se registran portales de datos abiertos, unidades de análisis, laboratorios públicos y personas con funciones documentadas. Su clasificación inicial corresponde a datos sociales aplicados o infraestructura de datos públicos; CSS directa requiere evidencia adicional. Los portales, organismos responsables y equipos se distinguen para evitar contar un mismo organismo varias veces. Las jurisdicciones todavía no revisadas permanecen pendientes.
+
+El rastreo automatizado solo identifica páginas candidatas. Las coincidencias de palabras clave no producen incorporaciones automáticas ni justifican declarar una institución revisada. El protocolo exige registro de páginas consultadas, obstáculos y resultados, incluidos casos sin hallazgos. El marco de think tanks y consultoras se amplía mediante directorios y referencias institucionales, sin atribuirle exhaustividad.
+
+## Concentración territorial: análisis previsto
+La medición por provincia, estado y ciudad queda pendiente de verificar ubicaciones institucionales. Se distinguirán personas, instituciones e iniciativas; un portal no se contará además como un organismo independiente sin justificar la unidad. La localización no se inferirá de una docencia virtual ni se confundirá con residencia personal.
+
+Se calcularán frecuencias, proporciones sobre registros geolocalizados del país seleccionado y el índice de Herfindahl (suma de las proporciones territoriales al cuadrado). Los casos con varias ubicaciones requerirán asignación fraccionaria documentada. Se informarán casos sin localización, regla temporal y cobertura por jurisdicción. Estos indicadores describirán la concentración del relevamiento observado, no la del campo completo. No se publican todavía estimaciones provinciales.

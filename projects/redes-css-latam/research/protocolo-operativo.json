@@ -1,0 +1,32 @@
+{
+  "version": "2026-10-20",
+  "author": "Sol Zoe Nottage",
+  "countryOrder": ["Argentina", "Chile", "Uruguay", "Paraguay", "Brasil", "Bolivia", "Perú", "Ecuador", "Colombia", "Venezuela", "Guyana", "Surinam", "Panamá", "Costa Rica", "Nicaragua", "Honduras", "El Salvador", "Guatemala", "México", "Cuba", "República Dominicana", "Haití"],
+  "inclusion": {
+    "required": "Evidencia explícita de métodos computacionales, IA o análisis de datos aplicados a fenómenos sociales, humanidades, educación, gobierno o políticas públicas.",
+    "examples": ["Ciencias sociales computacionales", "IA y políticas públicas", "Humanidades digitales", "Análisis computacional de comunicación política", "Datos públicos, cívicos y urbanos"],
+    "excluded": ["IA general sin aplicación social documentada", "Ciencia de datos general sin aplicación social documentada", "Afiliación o especialidad inferida solo por pertenecer a una institución"],
+    "publicSector": "Infraestructura y gestión de datos públicos se incluyen como datos sociales aplicados. No se equiparan automáticamente con investigación CSS."
+  },
+  "frames": [
+    {"sector": "Universidades", "source": "Registro nacional oficial; conciliar altas, bajas, sedes y denominaciones", "exhaustiveness": "Solo evaluable contra una edición y universo explícitos"},
+    {"sector": "Sector público", "source": "Listado oficial de jurisdicciones y organismos nacionales, provinciales/estatales y municipales; portales y organigramas", "exhaustiveness": "Cobertura por nivel territorial; ciudades pendientes no equivalen a ausencia"},
+    {"sector": "Think tanks y consultoras", "source": "Directorios institucionales y vínculos documentados desde programas, proyectos y eventos", "exhaustiveness": "Marco abierto, sin afirmar un universo exhaustivo"}
+  ],
+  "institutionChecklist": [
+    "Confirmar identidad, sitio oficial, sedes y edición del registro",
+    "Revisar catálogo de grados, posgrados, diplomaturas, cursos y educación continua",
+    "Buscar en facultades de ciencias sociales, humanidades, gobierno y áreas interdisciplinarias",
+    "Evaluar programas contra criterio de aplicación social explícita",
+    "Leer planes, planteles docentes, autoridades académicas y cohortes",
+    "Revisar agenda, noticias, seminarios y charlas; registrar expositores y fechas",
+    "Revisar centros, laboratorios y proyectos; seguir organizaciones asociadas",
+    "Comprobar identidad de personas y publicaciones; registrar vínculos con fuente",
+    "Registrar exclusiones, páginas inaccesibles y búsquedas sin hallazgos"
+  ],
+  "states": ["pendiente", "en revisión", "revisión parcial", "revisado con hallazgos", "revisado sin hallazgos en las fuentes consultadas", "acceso bloqueado"],
+  "closureRule": "Una institución solo puede marcarse revisada cuando se documentaron todos los pasos aplicables. Una descarga o búsqueda automatizada no cierra la revisión. Ningún país se marca completo con instituciones pendientes o un marco sin conciliar.",
+  "relationTypes": ["docencia en programa", "coordinación de programa", "exposición en evento", "integrante de equipo", "cargo público documentado", "organización de evento", "convenio o proyecto documentado", "coautoría"],
+  "minimumEvidence": ["institución de origen", "URL", "fecha de consulta", "cohorte o fecha del evento si consta", "rol explícito", "decisión de inclusión y motivo"],
+  "discoveryRule": "Programas y charlas generan candidatos y vínculos de participación, no coautorías ni empleos permanentes. Los vínculos históricos conservan su temporalidad."
+}

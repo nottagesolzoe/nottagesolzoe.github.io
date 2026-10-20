@@ -1,1 +1,326 @@
-{"status": "Cobertura parcial. Inventarios nacionales pendientes de completar.", "sequence": "Argentina → inventarios y revisión por país en el resto de LATAM", "nationalSources": [{"country": "Argentina", "url": "https://www.argentina.gob.ar/educacion/universidades/informacion-universitaria/instituciones-universitarias", "status": "Fuente oficial localizada; inventario aún no extraído completamente"}], "reviews": [{"country": "Argentina", "institution": "Universidad Nacional Guillermo Brown", "stage": "Programa revisado; universidad no revisada exhaustivamente", "url": "https://www.unab.edu.ar/especializacion-cs-computacionales/", "date": "2026-10-20", "peopleReviewed": []}, {"country": "Argentina", "institution": "UNSAM", "stage": "Programa revisado; universidad no revisada exhaustivamente", "url": "https://www.unsam.edu.ar/escuelas/eidaes/671/idaes/ciencias-sociales-computacionales-humanidades-digitales", "date": "2026-10-20", "peopleReviewed": ["Germán Rosati", "Pablo Tiscornia", "Guido Weksler", "Florencia Piñeyrúa", "Nayla Sol Garcilazo", "Santiago Núñez Rimedio", "Valentín Álvarez", "Magalí Rodrigues Pires", "José Sánchez", "Tomás Maguire", "Zacarías Abuchanab", "Joaquín Zajac"]}, {"country": "Argentina", "institution": "UNC / Universidad Nacional de Villa María", "stage": "Programa revisado; universidad no revisada exhaustivamente", "url": "https://sociales.unc.edu.ar/content/diplomatura-universitaria-de-estudios-avanzados-en-ciencia-de-datos-para-ciencias-sociales", "date": "2026-10-20", "peopleReviewed": ["Susana Morales", "Valentín Basel", "Gabriela Artazo", "Miguel Pagano"]}, {"country": "Argentina", "institution": "CETyS / Universidad de San Andrés", "stage": "Programa revisado; universidad no revisada exhaustivamente", "url": "https://pensarcondatos.com/sobre-nosotros/", "date": "2026-10-20", "peopleReviewed": ["Carolina Aguerre", "Carolina Gruffat"]}, {"country": "Perú", "institution": "QLAB / PUCP", "stage": "Programa revisado; universidad no revisada exhaustivamente", "url": "https://qlab.pucp.edu.pe/cursos/diplomatura-qlab", "date": "2026-10-20", "peopleReviewed": ["Pavel Coronado", "Angelo Cozzubo", "Brian Alarcón", "José Incio", "Yuriko Sosa"]}, {"country": "Chile", "institution": "Universidad del Desarrollo", "stage": "Programa revisado; universidad no revisada exhaustivamente", "url": "https://gobierno.udd.cl/dccs/admision/", "date": "2026-10-20", "peopleReviewed": []}, {"country": "Chile", "institution": "Pontificia Universidad Católica de Chile", "stage": "Programa revisado; universidad no revisada exhaustivamente", "url": "https://educacioncontinua.uc.cl/programas/ciencia-de-datos-sociales-aprende-a-obtener-y-analizar-datos-sociales-desde-internet/", "date": "2026-10-20", "peopleReviewed": ["Mauricio Bucca", "Pablo Beytía"]}, {"country": "Brasil", "institution": "FGV Comunicação", "stage": "Programa revisado; universidad no revisada exhaustivamente", "url": "https://mestrado-doutorado.fgv.br/curso/mestrado-profissional/rio-de-janeiro/comunicacao-digital-e-cultura-de-dados", "date": "2026-10-20", "peopleReviewed": []}, {"country": "Argentina", "institution": "UNSAM", "stage": "Programa revisado; universidad no revisada exhaustivamente", "url": "https://sicss.io/2026/buenos-aires/", "date": "2026-10-20", "peopleReviewed": []}, {"country": "Brasil", "institution": "SICSS Brazil", "stage": "Programa revisado; universidad no revisada exhaustivamente", "url": "https://sicss.io/2026/brazil/", "date": "2026-10-20", "peopleReviewed": []}, {"country": "Colombia", "institution": "Universidad de los Andes", "stage": "Programa revisado; universidad no revisada exhaustivamente", "url": "https://cienciassociales.uniandes.edu.co/programas/escuela-de-verano-metodologias-de-investigacion-critica-en-ciencias-sociales/", "date": "2026-10-20", "peopleReviewed": []}, {"country": "Uruguay", "institution": "Universidad de la República / UMAD", "stage": "Programa revisado; universidad no revisada exhaustivamente", "url": "https://cienciassociales.edu.uy/estudiantes/herramientas-computacionales-y-de-la-ciencia-de-datos-para-la-investigacion-social/", "date": "2026-10-20", "peopleReviewed": []}, {"country": "Costa Rica", "institution": "FLACSO Costa Rica", "stage": "Programa revisado; universidad no revisada exhaustivamente", "url": "https://www.flacso.ac.cr/es/noticias/informacion/258-inicia-la-viii-edicion-de-la-escuela-de-verano", "date": "2026-10-20", "peopleReviewed": []}, {"country": "Argentina", "institution": "Universidad Torcuato Di Tella", "stage": "Programa y contenidos revisados; equipo publicado registrado", "url": "https://www.utdt.edu/ver_contenido.php?id_contenido=25468&id_item_menu=41804", "date": "2026-10-20", "peopleReviewed": ["Eduardo Levy Yeyati", "Soledad Guilera", "Ernesto Mislej", "Julia Pomares", "Emiliano Pereiro", "Ángeles Cortesi", "Adolfo Rubinstein", "Darío Judzik", "Mónica Tepfer", "Facundo Armas"]}, {"country": "Argentina", "institution": "Universidad Austral", "stage": "Programa y contenidos revisados; equipo publicado registrado", "url": "https://www.austral.edu.ar/escueladegobierno/posgrados/politicas-publicas/diplomatura-en-gobierno-5-0/", "date": "2026-10-20", "peopleReviewed": ["Jorge Vilas Díaz Colodrero", "Lucía Bellocchio", "Juan Gowland", "Juan Segundo Hevia", "Marcos Vilas Graffigna", "Juan Vila", "Lucas Jolías"]}, {"country": "Argentina", "institution": "Universidad Austral", "stage": "Programa y contenidos revisados; equipo publicado registrado", "url": "https://www.austral.edu.ar/ingenieria/ingenieria-posgrados/ia/diplomatura-en-inteligencia-artificial/", "date": "2026-10-20", "peopleReviewed": ["Diego Adrián Castro", "Juan Pablo Sokil", "Horacio G. Arrigo", "Pablo Galiana", "Ignacio Berdiñas"]}, {"country": "Argentina", "institution": "ITBA", "stage": "Programa y contenidos revisados; equipo publicado registrado", "url": "https://www.itba.edu.ar/posgrado/especializacion-en-ciencia-de-datos/", "date": "2026-10-20", "peopleReviewed": ["Alejandro Vaisman", "Ariel Aizemberg", "Andrea Rey", "Gustavo Denicolay Pacheco", "Juliana Gambini", "Leticia Gómez", "Alicia Mon", "Horacio Kuna"]}, {"country": "Argentina", "institution": "ITBA", "stage": "Programa y contenidos revisados; equipo publicado registrado", "url": "https://ar.programasinnovacion.itba.edu.ar/productos/general/certificacion-profesional-en-inteligencia-artificial-intensivo-verano/", "date": "2026-10-20", "peopleReviewed": ["Marcela Riccillo"]}, {"country": "Argentina", "institution": "Universidad de Buenos Aires", "stage": "Programa revisado; equipo docente pendiente", "url": "https://codigo.rec.uba.ar/libro-xiv-facultad-de-psicologia-titulo-8-capitulo-x/", "date": "2026-10-20", "peopleReviewed": []}, {"country": "Argentina", "institution": "UTN · Facultad Regional La Plata", "stage": "Programa revisado; equipo docente pendiente", "url": "https://www.frlp.utn.edu.ar/diplomatura-transformacion-publica-digital", "date": "2026-10-20", "peopleReviewed": []}, {"country": "Argentina", "institution": "Universidad Nacional de La Plata", "stage": "Programa y contenidos revisados; equipo publicado registrado", "url": "https://www.econo.unlp.edu.ar/dgp", "date": "2026-10-20", "peopleReviewed": ["Emilio Zaidman", "Marcos Makón"]}, {"country": "Argentina", "institution": "Universidad Nacional de Cuyo / Universidad Politécnica de Madrid", "stage": "Programa revisado; equipo docente pendiente", "url": "https://www.uncuyo.edu.ar/ciencia_tecnica_y_posgrado/lanzamientomicromaestria", "date": "2026-10-20", "peopleReviewed": []}, {"country": "Argentina", "institution": "Universidad Nacional de Cuyo", "stage": "Programa revisado; equipo docente pendiente", "url": "https://ingenieria.uncuyo.edu.ar/estudios/diplomatura/212", "date": "2026-10-20", "peopleReviewed": []}, {"country": "Argentina", "institution": "FLACSO Argentina · PENT", "stage": "Programa revisado; equipo docente pendiente", "url": "https://pent.flacso.org.ar/formacion", "date": "2026-10-20", "peopleReviewed": []}, {"country": "Argentina", "institution": "Universidad Torcuato Di Tella", "stage": "Programa y contenidos revisados; equipo publicado registrado", "url": "https://www.utdt.edu/ver_contenido.php?id_contenido=23492&id_item_menu=38903", "date": "2026-10-20", "peopleReviewed": ["Hernán Czemerinski"]}, {"country": "Argentina", "institution": "Universidad de San Andrés", "stage": "Seminario de Aplicación de Ciencia de Datos al Ámbito Público identificado en perfil docente; programa completo pendiente", "url": "https://www.udesa.edu.ar/cuerpo-docente/guillermina-fernandez-lovell", "date": "2026-10-20", "peopleReviewed": []}, {"country": "Argentina", "institution": "Universidad Nacional de Rosario", "stage": "Catálogo y referencias de Polilab localizados; revisión de oferta específica pendiente", "url": "https://unr.edu.ar/buscador-de-carreras-y-diplomaturas/", "date": "2026-10-20", "peopleReviewed": []}, {"country": "Argentina", "institution": "Universidad Nacional del Litoral", "stage": "Consulta inicial sin programa CSS confirmado; revisión de otras unidades pendiente", "url": "https://www.fcjs.unl.edu.ar/estudiantes/diplomaturas-universitarias/", "date": "2026-10-20", "peopleReviewed": []}]}
+{
+  "status": "Cobertura parcial. Inventarios nacionales pendientes de completar.",
+  "sequence": "Argentina → inventarios y revisión por país en el resto de LATAM",
+  "nationalSources": [
+    {
+      "country": "Argentina",
+      "url": "https://www.argentina.gob.ar/educacion/universidades/informacion-universitaria/instituciones-universitarias",
+      "status": "Fuente oficial localizada; inventario aún no extraído completamente"
+    }
+  ],
+  "reviews": [
+    {
+      "country": "Argentina",
+      "institution": "Universidad Nacional Guillermo Brown",
+      "stage": "Programa CSS y plantel 2024–2025 revisados; revisión integral de la universidad pendiente",
+      "url": "https://www.unab.edu.ar/especializacion-cs-computacionales/",
+      "date": "2026-10-20",
+      "peopleReviewed": [
+        "Martín Iván Schuster",
+        "Julián Ansaldo",
+        "Clara Calí Mella",
+        "Joaquín Carrascosa",
+        "Sebastián Frittaoni",
+        "Bárbara Estévez Leston",
+        "Florencia Ludueña",
+        "Paula Luvini",
+        "Renzo Polo"
+      ]
+    },
+    {
+      "country": "Argentina",
+      "institution": "UNSAM",
+      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "url": "https://www.unsam.edu.ar/escuelas/eidaes/671/idaes/ciencias-sociales-computacionales-humanidades-digitales",
+      "date": "2026-10-20",
+      "peopleReviewed": [
+        "Germán Rosati",
+        "Pablo Tiscornia",
+        "Guido Weksler",
+        "Florencia Piñeyrúa",
+        "Nayla Sol Garcilazo",
+        "Santiago Núñez Rimedio",
+        "Valentín Álvarez",
+        "Magalí Rodrigues Pires",
+        "José Sánchez",
+        "Tomás Maguire",
+        "Zacarías Abuchanab",
+        "Joaquín Zajac"
+      ]
+    },
+    {
+      "country": "Argentina",
+      "institution": "UNC / Universidad Nacional de Villa María",
+      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "url": "https://sociales.unc.edu.ar/content/diplomatura-universitaria-de-estudios-avanzados-en-ciencia-de-datos-para-ciencias-sociales",
+      "date": "2026-10-20",
+      "peopleReviewed": [
+        "Susana Morales",
+        "Valentín Basel",
+        "Gabriela Artazo",
+        "Miguel Pagano"
+      ]
+    },
+    {
+      "country": "Argentina",
+      "institution": "CETyS / Universidad de San Andrés",
+      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "url": "https://pensarcondatos.com/sobre-nosotros/",
+      "date": "2026-10-20",
+      "peopleReviewed": [
+        "Carolina Aguerre",
+        "Carolina Gruffat"
+      ]
+    },
+    {
+      "country": "Perú",
+      "institution": "QLAB / PUCP",
+      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "url": "https://qlab.pucp.edu.pe/cursos/diplomatura-qlab",
+      "date": "2026-10-20",
+      "peopleReviewed": [
+        "Pavel Coronado",
+        "Angelo Cozzubo",
+        "Brian Alarcón",
+        "José Incio",
+        "Yuriko Sosa"
+      ]
+    },
+    {
+      "country": "Chile",
+      "institution": "Universidad del Desarrollo",
+      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "url": "https://gobierno.udd.cl/dccs/admision/",
+      "date": "2026-10-20",
+      "peopleReviewed": []
+    },
+    {
+      "country": "Chile",
+      "institution": "Pontificia Universidad Católica de Chile",
+      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "url": "https://educacioncontinua.uc.cl/programas/ciencia-de-datos-sociales-aprende-a-obtener-y-analizar-datos-sociales-desde-internet/",
+      "date": "2026-10-20",
+      "peopleReviewed": [
+        "Mauricio Bucca",
+        "Pablo Beytía"
+      ]
+    },
+    {
+      "country": "Brasil",
+      "institution": "FGV Comunicação",
+      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "url": "https://mestrado-doutorado.fgv.br/curso/mestrado-profissional/rio-de-janeiro/comunicacao-digital-e-cultura-de-dados",
+      "date": "2026-10-20",
+      "peopleReviewed": []
+    },
+    {
+      "country": "Argentina",
+      "institution": "UNSAM",
+      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "url": "https://sicss.io/2026/buenos-aires/",
+      "date": "2026-10-20",
+      "peopleReviewed": []
+    },
+    {
+      "country": "Brasil",
+      "institution": "SICSS Brazil",
+      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "url": "https://sicss.io/2026/brazil/",
+      "date": "2026-10-20",
+      "peopleReviewed": []
+    },
+    {
+      "country": "Colombia",
+      "institution": "Universidad de los Andes",
+      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "url": "https://cienciassociales.uniandes.edu.co/programas/escuela-de-verano-metodologias-de-investigacion-critica-en-ciencias-sociales/",
+      "date": "2026-10-20",
+      "peopleReviewed": []
+    },
+    {
+      "country": "Uruguay",
+      "institution": "Universidad de la República / UMAD",
+      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "url": "https://cienciassociales.edu.uy/estudiantes/herramientas-computacionales-y-de-la-ciencia-de-datos-para-la-investigacion-social/",
+      "date": "2026-10-20",
+      "peopleReviewed": []
+    },
+    {
+      "country": "Costa Rica",
+      "institution": "FLACSO Costa Rica",
+      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "url": "https://www.flacso.ac.cr/es/noticias/informacion/258-inicia-la-viii-edicion-de-la-escuela-de-verano",
+      "date": "2026-10-20",
+      "peopleReviewed": []
+    },
+    {
+      "country": "Argentina",
+      "institution": "Universidad Torcuato Di Tella",
+      "stage": "Programa y contenidos revisados; equipo publicado registrado",
+      "url": "https://www.utdt.edu/ver_contenido.php?id_contenido=25468&id_item_menu=41804",
+      "date": "2026-10-20",
+      "peopleReviewed": [
+        "Eduardo Levy Yeyati",
+        "Soledad Guilera",
+        "Ernesto Mislej",
+        "Julia Pomares",
+        "Emiliano Pereiro",
+        "Ángeles Cortesi",
+        "Adolfo Rubinstein",
+        "Darío Judzik",
+        "Mónica Tepfer",
+        "Facundo Armas"
+      ]
+    },
+    {
+      "country": "Argentina",
+      "institution": "Universidad Austral",
+      "stage": "Programa y contenidos revisados; equipo publicado registrado",
+      "url": "https://www.austral.edu.ar/escueladegobierno/posgrados/politicas-publicas/diplomatura-en-gobierno-5-0/",
+      "date": "2026-10-20",
+      "peopleReviewed": [
+        "Jorge Vilas Díaz Colodrero",
+        "Lucía Bellocchio",
+        "Juan Gowland",
+        "Juan Segundo Hevia",
+        "Marcos Vilas Graffigna",
+        "Juan Vila",
+        "Lucas Jolías"
+      ]
+    },
+    {
+      "country": "Argentina",
+      "institution": "Universidad Austral",
+      "stage": "Programa y contenidos revisados; equipo publicado registrado",
+      "url": "https://www.austral.edu.ar/ingenieria/ingenieria-posgrados/ia/diplomatura-en-inteligencia-artificial/",
+      "date": "2026-10-20",
+      "peopleReviewed": [
+        "Diego Adrián Castro",
+        "Juan Pablo Sokil",
+        "Horacio G. Arrigo",
+        "Pablo Galiana",
+        "Ignacio Berdiñas"
+      ]
+    },
+    {
+      "country": "Argentina",
+      "institution": "ITBA",
+      "stage": "Programa y contenidos revisados; equipo publicado registrado",
+      "url": "https://www.itba.edu.ar/posgrado/especializacion-en-ciencia-de-datos/",
+      "date": "2026-10-20",
+      "peopleReviewed": [
+        "Alejandro Vaisman",
+        "Ariel Aizemberg",
+        "Andrea Rey",
+        "Gustavo Denicolay Pacheco",
+        "Juliana Gambini",
+        "Leticia Gómez",
+        "Alicia Mon",
+        "Horacio Kuna"
+      ]
+    },
+    {
+      "country": "Argentina",
+      "institution": "ITBA",
+      "stage": "Programa y contenidos revisados; equipo publicado registrado",
+      "url": "https://ar.programasinnovacion.itba.edu.ar/productos/general/certificacion-profesional-en-inteligencia-artificial-intensivo-verano/",
+      "date": "2026-10-20",
+      "peopleReviewed": [
+        "Marcela Riccillo"
+      ]
+    },
+    {
+      "country": "Argentina",
+      "institution": "Universidad de Buenos Aires",
+      "stage": "Programa revisado; equipo docente pendiente",
+      "url": "https://codigo.rec.uba.ar/libro-xiv-facultad-de-psicologia-titulo-8-capitulo-x/",
+      "date": "2026-10-20",
+      "peopleReviewed": []
+    },
+    {
+      "country": "Argentina",
+      "institution": "UTN · Facultad Regional La Plata",
+      "stage": "Programa revisado; equipo docente pendiente",
+      "url": "https://www.frlp.utn.edu.ar/diplomatura-transformacion-publica-digital",
+      "date": "2026-10-20",
+      "peopleReviewed": []
+    },
+    {
+      "country": "Argentina",
+      "institution": "Universidad Nacional de La Plata",
+      "stage": "Programa y contenidos revisados; equipo publicado registrado",
+      "url": "https://www.econo.unlp.edu.ar/dgp",
+      "date": "2026-10-20",
+      "peopleReviewed": [
+        "Emilio Zaidman",
+        "Marcos Makón"
+      ]
+    },
+    {
+      "country": "Argentina",
+      "institution": "Universidad Nacional de Cuyo / Universidad Politécnica de Madrid",
+      "stage": "Programa revisado; equipo docente pendiente",
+      "url": "https://www.uncuyo.edu.ar/ciencia_tecnica_y_posgrado/lanzamientomicromaestria",
+      "date": "2026-10-20",
+      "peopleReviewed": []
+    },
+    {
+      "country": "Argentina",
+      "institution": "Universidad Nacional de Cuyo",
+      "stage": "Programa revisado; equipo docente pendiente",
+      "url": "https://ingenieria.uncuyo.edu.ar/estudios/diplomatura/212",
+      "date": "2026-10-20",
+      "peopleReviewed": []
+    },
+    {
+      "country": "Argentina",
+      "institution": "FLACSO Argentina · PENT",
+      "stage": "Programa revisado; equipo docente pendiente",
+      "url": "https://pent.flacso.org.ar/formacion",
+      "date": "2026-10-20",
+      "peopleReviewed": []
+    },
+    {
+      "country": "Argentina",
+      "institution": "Universidad Torcuato Di Tella",
+      "stage": "Programa y contenidos revisados; equipo publicado registrado",
+      "url": "https://www.utdt.edu/ver_contenido.php?id_contenido=23492&id_item_menu=38903",
+      "date": "2026-10-20",
+      "peopleReviewed": [
+        "Hernán Czemerinski"
+      ]
+    },
+    {
+      "country": "Argentina",
+      "institution": "Universidad de San Andrés",
+      "stage": "Seminario de Aplicación de Ciencia de Datos al Ámbito Público identificado en perfil docente; programa completo pendiente",
+      "url": "https://www.udesa.edu.ar/cuerpo-docente/guillermina-fernandez-lovell",
+      "date": "2026-10-20",
+      "peopleReviewed": []
+    },
+    {
+      "country": "Argentina",
+      "institution": "Universidad Nacional de Rosario",
+      "stage": "Catálogo y referencias de Polilab localizados; revisión de oferta específica pendiente",
+      "url": "https://unr.edu.ar/buscador-de-carreras-y-diplomaturas/",
+      "date": "2026-10-20",
+      "peopleReviewed": []
+    },
+    {
+      "country": "Argentina",
+      "institution": "Universidad Nacional del Litoral",
+      "stage": "Consulta inicial sin programa CSS confirmado; revisión de otras unidades pendiente",
+      "url": "https://www.fcjs.unl.edu.ar/estudiantes/diplomaturas-universitarias/",
+      "date": "2026-10-20",
+      "peopleReviewed": []
+    }
+  ],
+  "protocol": "projects/redes-css-latam/research/protocolo-operativo.json",
+  "screening": {
+    "country": "Argentina",
+    "inventoryRows": 139,
+    "pageResponses": 365,
+    "status": "preliminar; no completa revisión",
+    "file": "university-screening-ar.json"
+  }
+}

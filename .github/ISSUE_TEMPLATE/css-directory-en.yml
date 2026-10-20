@@ -1,0 +1,63 @@
+name: Request inclusion in the CSS LATAM directory
+description: Suggest a profile, institution or program for review.
+title: "[CSS LATAM] Inclusion request: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This form is public and requires a GitHub account. Do not include private information. Requests are reviewed before inclusion; submitting does not automatically publish a profile.
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Type of request
+      options:
+        - Person
+        - Institution or initiative
+        - Learning program
+        - Correction
+    validations:
+      required: true
+  - type: input
+    id: nombre
+    attributes:
+      label: Public name
+    validations:
+      required: true
+  - type: input
+    id: pais
+    attributes:
+      label: Country and institution
+    validations:
+      required: true
+  - type: textarea
+    id: actividad
+    attributes:
+      label: Work and topics
+      description: Describe the connection to computational social science or the use of data for social and public-policy questions.
+    validations:
+      required: true
+  - type: textarea
+    id: fuentes
+    attributes:
+      label: Public sources
+      description: Links to institutional profiles, publications, projects or programs that support the information.
+    validations:
+      required: true
+  - type: input
+    id: linkedin
+    attributes:
+      label: Public LinkedIn profile (optional)
+  - type: input
+    id: email
+    attributes:
+      label: Public institutional email (optional)
+      description: Only if already public and intended for inclusion in the directory.
+  - type: checkboxes
+    id: consentimiento
+    attributes:
+      label: Publication and review
+      options:
+        - label: I understand this request is public, its information may be included after review, and inclusion is not guaranteed.
+          required: true
+        - label: The information provided is public or I have permission to share it.
+          required: true
