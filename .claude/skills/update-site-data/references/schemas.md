@@ -167,3 +167,6 @@ Rendered by `projects/redes-css-latam/map.js`. Public source records only.
 - `project.json`: title, description, label, url, rendered on Projects by `js/css-project-card.js`.
 
 Metric and layout reproduction: `python3 projects/redes-css-latam/research/build_network.py` (networkx 3.7). The script checks the coauthor projection against the reviewed corpus and recalculates centralities. Source collection is documented separately in research/metodologia.md.
+
+### CSS dashboard update
+`geography.json` adds Natural Earth country boundaries and source attribution. `programs.category` distinguishes public-policy applications and general technical training. The default view is geographic. Shared filters update directory totals, selected programs and induced coauthor graph counts, components and maximum degree in browser. Stored centralities remain full-corpus archival values. Report has no named individual rankings. Institutional filtering follows documented affiliation/teaching edges. Country is an institutional association, not personal coordinates or confirmed residence.

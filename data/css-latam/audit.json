@@ -239,6 +239,26 @@
       "date": "2026-10-20",
       "decision": "Simplificar lenguaje de navegación y fichas; reservar métodos y términos técnicos para el informe.",
       "reason": "Preferencia expresa de la usuaria."
+    },
+    {
+      "date": "2026-10-20",
+      "decision": "Distinguir CSS, IA aplicada al ámbito público y formación general en IA; la docencia no implica residencia ni coautoría.",
+      "reason": "Revisión de oferta Austral, UTDT, ITBA y otras universidades"
+    },
+    {
+      "date": "2026-10-20",
+      "decision": "Registrar fechas y cargas horarias contradictorias sin escoger una versión arbitrariamente.",
+      "reason": "UTDT contiene 4/5 meses y 93/111 horas; ITBA contiene mayo/junio 2027"
+    },
+    {
+      "date": "2026-10-20",
+      "decision": "Mapa geográfico por país institucional, sin coordenadas personales. Cifras del dashboard calculadas sobre filtros activos.",
+      "reason": "Solicitud de la usuaria"
+    },
+    {
+      "date": "2026-10-20",
+      "decision": "Dashboard con mapa geográfico, filtros compartidos y texto dinámico; redacción impersonal y autoría individual de Sol Zoe Nottage.",
+      "reason": "Solicitud expresa de la autora"
     }
   ],
   "searchLog": [

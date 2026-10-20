@@ -43,3 +43,19 @@ El script build_network.py comprueba que cada arista de coautoría se deriva del
 
 ### Presentación del informe
 Por solicitud de la autora, el informe presenta resultados estructurales agregados y gráficos por país e institución, sin rankings nominales de personas. Los nombres se conservan en el explorador y en las fichas para facilitar la búsqueda.
+
+## Actualización del dashboard y oferta universitaria (20 de octubre de 2026)
+La autoría corresponde a Sol Zoe Nottage. La presentación utiliza redacción impersonal.
+
+Se amplió la revisión de oferta argentina mediante consultas por dominio universitario y lectura de programas, contenidos y equipos. Se incorporaron ofertas de UTDT, Austral, ITBA, UBA, UTN La Plata, UNLP, UNCUYO y FLACSO. UdeSA, UNR y UNL cuentan con búsquedas adicionales registradas, sin declarar completa la revisión de sus catálogos. El registro incluye 25 programas y 318 personas; las incorporaciones provenientes de programas de IA general se clasifican como áreas afines, no como CSS confirmada.
+
+La Diplomatura en IA y Políticas Públicas de UTDT se registró bajo su nombre oficial. Se separó del MicroMaster en Data Analytics. Se detectaron versiones incompatibles de horas y duración en la página UTDT y de mes de inicio en ITBA; no se eligió arbitrariamente una versión. Dos páginas de UNCUYO devolvieron HTTP 403; sus anuncios indexados se conservan con verificación ampliada pendiente. Los docentes se incorporan por participación documentada, con base laboral por confirmar cuando no se dispone de perfil individual.
+
+El mapa utiliza geometrías públicas de Natural Earth a escala 1:110m. El país identifica un vínculo institucional documentado o previamente consignado en el directorio; no es un domicilio, nacionalidad ni coordenada personal. No se infieren ciudades. Las personas fuera del recorte latinoamericano permanecen accesibles mediante filtros.
+
+### Texto e indicadores dinámicos
+Los filtros de país, región, institución, área, tema y búsqueda se combinan por intersección. Los indicadores de personas y organizaciones cuentan los registros que cumplen esos filtros. Los programas se seleccionan por país, texto, equipo documentado y vínculo institucional, según el filtro activo. Los recuentos no implican convocatorias abiertas.
+
+Para los indicadores bibliográficos se seleccionan los autores que cumplen los filtros y se conserva cada arista solo cuando ambos extremos pertenecen a esa selección (subgrafo inducido). El recuento de publicaciones incluye trabajos con al menos un autor seleccionado. Por ello puede haber publicaciones aun cuando no existan pares de coautores dentro de la selección. Se recalculan autores, aristas, componentes, tamaño del componente principal y grado máximo. El gráfico de países mantiene el subconjunto CSS directa con base regional documentada; el mapa muestra el directorio más amplio, con sus categorías diferenciadas.
+
+Esta especificación reemplaza la decisión inicial de mantener las métricas fijas al filtrar. Las centralidades archivadas en network.json describen el corpus completo; el texto dinámico del informe usa los recuentos y componentes calculados en el navegador. No se muestran rankings nominales en el informe.
