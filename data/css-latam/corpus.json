@@ -1,1 +1,1763 @@
-[{"source": "https://doi.org/10.1111/jtsb.12004", "title": "Emergence and Communication in Computational Sociology", "authors": [{"name": "Mauricio Salgado", "orcid": "", "affiliations": ["GSADI: Analytical Sociology and Institutional Design Group Department of Sociology Universitat Autònoma de Barcelona  B Building Campus UAB 08193 Bellaterra Spain"]}, {"name": "Nigel Gilbert", "orcid": "", "affiliations": ["CRESS: Centre for Research in Social Simulation Department of Sociology University of Surrey  Guildford Surrey GU2 7XH U.K."]}], "date": "2012-10-22", "doi": "10.1111/jtsb.12004", "type": "journal-article", "provider": "Crossref", "metadata_url": "https://api.crossref.org/works/10.1111/jtsb.12004", "id": "paper-0bdc5b782f8a", "authorIds": ["mauricio-salgado", "author-nigel-gilbert"], "institutions": ["GSADI: Analytical Sociology and Institutional Design Group Department of Sociology Universitat Autònoma de Barcelona  B Building Campus UAB 08193 Bellaterra Spain", "CRESS: Centre for Research in Social Simulation Department of Sociology University of Surrey  Guildford Surrey GU2 7XH U.K."]}, {"source": "https://www.scielo.org.mx/scielo.php?lng=es&pid=S2448-49112022000200105&script=sci_arttext&tlng=es", "title": "Opiniones públicas en los discursos mediáticos tradicionales-oficiales en Twitter  durante las consultas populares: Referendo Constitucional de Cuba en 2019", "authors": [{"name": "Milagros Alonso Pérez", "orcid": "", "affiliations": []}, {"name": "Rafael Fonseca Valido", "orcid": "", "affiliations": []}], "date": "2022-7-3", "doi": "10.22201/fcpys.24484911e.2022.33.80998", "type": "journal-article", "provider": "Crossref", "metadata_url": "https://api.crossref.org/works?rows=1&query.title=Opiniones%20p%C3%BAblicas%20en%20los%20discursos%20medi%C3%A1ticos%20tradicionales-oficiales%20en%20Twitter%20durante%20las%20consultas%20populares%3A%20Referendo%20Constitucional%20de%20Cuba%20en%202019", "id": "paper-1b486ed8316c", "authorIds": ["milagros-alonso-perez", "rafael-fonseca-valido"], "institutions": []}, {"source": "https://research.ibm.com/publications/analyzing-textual-misinformation-shared-in-whatsapp-groups", "title": "Analyzing Textual (Mis)Information Shared in WhatsApp Groups", "authors": [{"name": "Gustavo Resende", "orcid": "", "affiliations": ["Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"]}, {"name": "Philipe de Freitas Melo", "orcid": "", "affiliations": ["Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"]}, {"name": "Julio Cesar Soares dos Reis", "orcid": "", "affiliations": ["Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"]}, {"name": "Marisa Vasconcelos", "orcid": "", "affiliations": ["IBM Research, São Paulo, Brazil"]}, {"name": "Jussara Marques de Almeida", "orcid": "", "affiliations": ["Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"]}, {"name": "Fabrício Benevenuto", "orcid": "", "affiliations": ["Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"]}], "date": "2019-6-26", "doi": "10.1145/3292522.3326029", "type": "proceedings-article", "provider": "Crossref", "metadata_url": "https://api.crossref.org/works?rows=1&query.title=Analyzing%20textual%20%28Mis%29information%20shared%20in%20WhatsApp%20groups", "id": "paper-204fd9a7160f", "authorIds": ["author-gustavo-resende", "author-philipe-de-freitas-melo", "julio-cesar-soares-dos-reis", "marisa-vasconcelos", "jussara", "benevenuto"], "institutions": ["UFMG", "IBM Research, São Paulo, Brazil"]}, {"source": "https://arxiv.org/abs/2105.07523", "title": "Analyzing the \"Sleeping Giants\" Activism Model in Brazil", "authors": [{"name": "Bárbara Gomes Ribeiro", "affiliations": []}, {"name": "Manoel Horta Ribeiro", "affiliations": []}, {"name": "Virgílio Almeida", "affiliations": []}, {"name": "Wagner Meira Júnior", "affiliations": []}], "date": "2021/05/16", "doi": "", "type": "preprint", "provider": "arXiv", "metadata_url": null, "id": "paper-2c23b1693790", "authorIds": ["author-barbara-gomes-ribeiro", "author-manoel-horta-ribeiro", "valmeida", "meira"], "institutions": []}, {"source": "https://arxiv.org/abs/2310.08701", "title": "Analyzing User Ideologies and Shared News During the 2019 Argentinian Elections", "authors": [{"name": "Sofía Morena del Pozo", "affiliations": []}, {"name": "Sebastián Pinto", "affiliations": []}, {"name": "Matteo Serafino", "affiliations": []}, {"name": "Lucio Garcia", "affiliations": []}, {"name": "Hernán A Makse", "affiliations": []}, {"name": "Pablo Balenzuela", "affiliations": []}], "date": "2023/10/12", "doi": "", "type": "preprint", "provider": "arXiv", "metadata_url": null, "id": "paper-325c86d4f47d", "authorIds": ["author-sofia-morena-del-pozo", "pinto", "author-matteo-serafino", "author-lucio-garcia", "author-hernan-a-makse", "balenzuela"], "institutions": []}, {"source": "https://arxiv.org/abs/2306.14378", "title": "A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic", "authors": [{"name": "Marcelo Mendoza", "affiliations": []}, {"name": "Sebastián Valenzuela", "affiliations": []}, {"name": "Enrique Núñez-Mussa", "affiliations": []}, {"name": "Fabián Padilla", "affiliations": []}, {"name": "Eliana Providel", "affiliations": []}, {"name": "Sebastián Campos", "affiliations": []}, {"name": "Renato Bassi", "affiliations": []}, {"name": "Andrea Riquelme", "affiliations": []}, {"name": "Valeria Aldana", "affiliations": []}, {"name": "Claudia López", "affiliations": []}], "date": "2023/06/26", "doi": "10.3390/app13095347", "type": "preprint", "provider": "arXiv", "metadata_url": null, "id": "paper-333a99301364", "authorIds": ["mendoza", "valenzuela", "author-enrique-nunez-mussa", "author-fabian-padilla", "author-eliana-providel", "author-sebastian-campos", "author-renato-bassi", "author-andrea-riquelme", "author-valeria-aldana", "author-claudia-lopez"], "institutions": []}, {"source": "https://arxiv.org/abs/2109.10462", "title": "A Hierarchical Network-Oriented Analysis of User Participation in Misinformation Spread on WhatsApp", "authors": [{"name": "Gabriel Peres Nobre", "affiliations": []}, {"name": "Carlos Henrique Gomes Ferreira", "affiliations": []}, {"name": "Jussara Marques de Almeida", "affiliations": []}], "date": "2021/09/22", "doi": "", "type": "preprint", "provider": "arXiv", "metadata_url": null, "id": "paper-34bf7ad4455e", "authorIds": ["author-gabriel-peres-nobre", "carlos-henrique-gomes-ferreira", "jussara"], "institutions": []}, {"source": "https://research.ibm.com/publications/identifying-and-characterizing-alternative-news-media-on-facebook", "title": "Identifying and Characterizing Alternative News Media on Facebook", "authors": [{"name": "Samuel S. Guimaraes", "orcid": "", "affiliations": []}, {"name": "Julio Cesar Soares dos Reis", "orcid": "", "affiliations": []}, {"name": "Lucas Lima", "orcid": "", "affiliations": []}, {"name": "Filipe Nunes Ribeiro", "orcid": "", "affiliations": []}, {"name": "Marisa Vasconcelos", "orcid": "", "affiliations": []}, {"name": "Jisun An", "orcid": "", "affiliations": []}, {"name": "Haewoon Kwak", "orcid": "", "affiliations": []}, {"name": "Fabricio Benevenuto", "orcid": "", "affiliations": []}], "date": "2020-12-7", "doi": "10.1109/asonam49781.2020.9381424", "type": "proceedings-article", "provider": "Crossref", "metadata_url": "https://api.crossref.org/works?rows=1&query.title=Identifying%20and%20Characterizing%20Alternative%20News%20Media%20on%20Facebook", "id": "paper-34d71ba91d0d", "authorIds": ["author-samuel-s-guimaraes", "julio-cesar-soares-dos-reis", "author-lucas-lima", "filipe-nunes-ribeiro", "marisa-vasconcelos", "author-jisun-an", "author-haewoon-kwak", "benevenuto"], "institutions": []}, {"source": "https://arxiv.org/abs/2311.10837", "title": "Evaluating the Relationship Between News Source Sharing and Political Beliefs", "authors": [{"name": "Sofía Morena del Pozo", "affiliations": []}, {"name": "Sebastián Pinto", "affiliations": []}, {"name": "Matteo Serafino", "affiliations": []}, {"name": "Federico Moss", "affiliations": []}, {"name": "Tomás Cicchini", "affiliations": []}, {"name": "Hernán A Makse", "affiliations": []}, {"name": "Pablo Balenzuela", "affiliations": []}], "date": "2023/11/17", "doi": "", "type": "preprint", "provider": "arXiv", "metadata_url": null, "id": "paper-36e1417e78b3", "authorIds": ["author-sofia-morena-del-pozo", "pinto", "author-matteo-serafino", "author-federico-moss", "author-tomas-cicchini", "author-hernan-a-makse", "balenzuela"], "institutions": []}, {"source": "https://arxiv.org/abs/2308.14782", "title": "Helping Fact-Checkers Identify Fake News Stories Shared through Images on WhatsApp", "authors": [{"name": "Julio Cesar Soares dos Reis", "affiliations": []}, {"name": "Philipe de Freitas Melo", "affiliations": []}, {"name": "Fabiano Belém", "affiliations": []}, {"name": "Fabricio Murai", "affiliations": []}, {"name": "Jussara Marques de Almeida", "affiliations": []}, {"name": "Fabricio Benevenuto", "affiliations": []}], "date": "2023/08/28", "doi": "", "type": "preprint", "provider": "arXiv", "metadata_url": null, "id": "paper-3ef26ae2ad26", "authorIds": ["julio-cesar-soares-dos-reis", "author-philipe-de-freitas-melo", "author-fabiano-belem", "fabricio-murai", "jussara", "benevenuto"], "institutions": []}, {"source": "https://doi.org/10.15517/aciep.v0i14.54481", "title": "Análisis computacional del uso de Twitter durante los debates presidenciales del 2022 en Costa Rica", "authors": [{"name": "Elías Chavarría-Mora", "orcid": "https://orcid.org/0000-0001-6424-3915", "affiliations": []}], "date": "2023-7-4", "doi": "10.15517/aciep.v0i14.54481", "type": "journal-article", "provider": "Crossref", "metadata_url": "https://api.crossref.org/works/10.15517/aciep.v0i14.54481", "id": "paper-42e149ba433c", "authorIds": ["chavarria"], "institutions": []}, {"source": "https://doi.org/10.22201/dgtic.26832968e.2025.13.52", "title": "Exploración de la Comunicación Visual del Cambio Climático mediante la Clasificación Automática de Imágenes", "authors": [{"name": "Gabriela Elisa Sued", "orcid": "https://orcid.org/0000-0002-4516-678X", "affiliations": []}, {"name": "Wilmer Efrén Pereira-González", "orcid": "https://orcid.org/0000-0001-9699-7121", "affiliations": []}, {"name": "Judith Zubieta-García", "orcid": "https://orcid.org/0000-0001-5983-987X", "affiliations": []}], "date": "2025-9-5", "doi": "10.22201/dgtic.26832968e.2025.13.52", "type": "journal-article", "provider": "Crossref", "metadata_url": "https://api.crossref.org/works/10.22201/dgtic.26832968e.2025.13.52", "id": "paper-47d732761da8", "authorIds": ["gabriela-elisa-sued", "author-wilmer-efren-pereira-gonzalez", "author-judith-zubieta-garcia"], "institutions": []}, {"source": "https://arxiv.org/abs/1905.00825", "title": "Characterizing Attention Cascades in WhatsApp Groups", "authors": [{"name": "Josemar Alves Caetano", "affiliations": []}, {"name": "Gabriel Magno", "affiliations": []}, {"name": "Marcos André Gonçalves", "affiliations": []}, {"name": "Jussara Marques de Almeida", "affiliations": []}, {"name": "Humberto Torres Marques Neto", "affiliations": []}, {"name": "Virgílio Almeida", "affiliations": []}], "date": "2019/05/02", "doi": "10.1145/3292522.3326018", "type": "preprint", "provider": "arXiv", "metadata_url": null, "id": "paper-510d53f9f1a2", "authorIds": ["author-josemar-alves-caetano", "author-gabriel-magno", "marcos-andre-goncalves", "jussara", "humberto-torres-marques-neto", "valmeida"], "institutions": []}, {"source": "https://doi.org/10.3390/agriculture16101027", "title": "Territorial Governance in Family Farming: A Social Network Analysis in Itapúa, Paraguay", "authors": [{"name": "Lorena María Selent Chaparro", "orcid": "https://orcid.org/0000-0003-1843-8193", "affiliations": ["Department of Agricultural Economics, Higher Technical School of Agricultural and Forestry Engineering (ETSIAM), Universidad de Córdoba, Rabanales University Campus, 14071 Córdoba, Spain"]}, {"name": "Pedro Sánchez-Zamora", "orcid": "https://orcid.org/0000-0002-2331-602X", "affiliations": ["Department of Agricultural Economics, Higher Technical School of Agricultural and Forestry Engineering (ETSIAM), Universidad de Córdoba, Rabanales University Campus, 14071 Córdoba, Spain"]}, {"name": "Rosa Gallardo-Cobos", "orcid": "https://orcid.org/0000-0002-2676-360X", "affiliations": ["Department of Agricultural Economics, Higher Technical School of Agricultural and Forestry Engineering (ETSIAM), Universidad de Córdoba, Rabanales University Campus, 14071 Córdoba, Spain"]}], "date": "2026-5-8", "doi": "10.3390/agriculture16101027", "type": "journal-article", "provider": "Crossref", "metadata_url": "https://api.crossref.org/works/10.3390/agriculture16101027", "id": "paper-588917150518", "authorIds": ["lorena-maria-selent-chaparro", "author-pedro-sanchez-zamora", "author-rosa-gallardo-cobos"], "institutions": ["Universidad de Córdoba (España)"]}, {"source": "https://netlab.eco.ufrj.br/post/greenwashing-and-deceptive-energy-transitions-unmasking-socioenvironmental-disinformation-and-techn", "title": "Climate Change Disinformation| Greenwashing and Deceptive Energy Transitions: Unmasking Socioenvironmental Disinformation and Technosolutionism in LinkedIn Ads", "authors": [{"name": "Marina Loureiro", "orcid": "", "affiliations": []}, {"name": "Julia Dias", "orcid": "", "affiliations": []}, {"name": "Bianca Melo", "orcid": "", "affiliations": []}, {"name": "Nicole Sanchotene", "orcid": "", "affiliations": []}, {"name": "Débora Salles", "orcid": "", "affiliations": []}, {"name": "Marie Santini", "orcid": "", "affiliations": []}, {"name": "Fernando Ferreira", "orcid": "", "affiliations": []}], "date": "2026-10-8", "doi": "10.65476/s92qta53", "type": "journal-article", "provider": "Crossref", "metadata_url": "https://api.crossref.org/works?rows=1&query.title=Greenwashing%20and%20Deceptive%20Energy%20Transitions%3A%20Unmasking%20Socioenvironmental%20Disinformation%20and%20Technosolutionism%20in%20LinkedIn%20Ads", "id": "paper-5ed12f5033c8", "authorIds": ["marina-loureiro", "julia-dias", "bianca-melo", "nicole-sanchotene", "debora-salles", "marie-santini", "fernando-ferreira"], "institutions": []}, {"source": "https://arxiv.org/abs/2006.02471", "title": "Can WhatsApp Benefit from Debunked Fact-Checked Stories to Reduce Misinformation?", "authors": [{"name": "Julio Cesar Soares dos Reis", "affiliations": []}, {"name": "Philipe de Freitas Melo", "affiliations": []}, {"name": "Kiran Garimella", "affiliations": []}, {"name": "Fabrício Benevenuto", "affiliations": []}], "date": "2020/06/03", "doi": "", "type": "preprint", "provider": "arXiv", "metadata_url": null, "id": "paper-7a3a69698f74", "authorIds": ["julio-cesar-soares-dos-reis", "author-philipe-de-freitas-melo", "author-kiran-garimella", "benevenuto"], "institutions": []}, {"source": "https://arxiv.org/abs/2309.11062", "title": "The social stratification of internal migration and daily mobility during the COVID-19 pandemic", "authors": [{"name": "Erick Elejalde", "affiliations": []}, {"name": "Leo Ferres", "affiliations": []}, {"name": "Víctor Navarro", "affiliations": []}, {"name": "Loreto Bravo", "affiliations": []}, {"name": "Emilio Zagheni", "affiliations": []}], "date": "2023/09/20", "doi": "", "type": "preprint", "provider": "arXiv", "metadata_url": null, "id": "paper-7acfff643f00", "authorIds": ["author-erick-elejalde", "ferres", "author-victor-navarro", "bravo", "author-emilio-zagheni"], "institutions": []}, {"source": "https://doi.org/10.1111/lsq.12481", "title": "Social media versus surveys: A new scalable approach to understanding legislators' discourse", "authors": [{"name": "Valentina González‐Rostani", "orcid": "", "affiliations": ["Department of Politics Princeton University  Princeton New Jersey USA", "Department of Political Science and International Relations University of Southern California  Los Angeles California USA"]}, {"name": "José Incio", "orcid": "", "affiliations": ["Department of Social Sciences Pontificia Universidad Católica del Perú  Lima Peru"]}, {"name": "Guillermo Lezama", "orcid": "https://orcid.org/0000-0002-0193-4513", "affiliations": ["Department of Economics University of Pittsburgh  Pittsburgh Pennsylvania USA"]}], "date": "2024-10-4", "doi": "10.1111/lsq.12481", "type": "journal-article", "provider": "Crossref", "metadata_url": "https://api.crossref.org/works/10.1111/lsq.12481", "id": "paper-835f89523bfb", "authorIds": ["author-valentina-gonzalezrostani", "jose-incio", "author-guillermo-lezama"], "institutions": ["Department of Politics Princeton University  Princeton New Jersey USA", "Department of Political Science and International Relations University of Southern California  Los Angeles California USA", "PUCP", "Department of Economics University of Pittsburgh  Pittsburgh Pennsylvania USA"]}, {"source": "https://discovery.ucl.ac.uk/id/eprint/10118149/", "title": "Policy priority inference: A computational framework to analyze the allocation of resources for the sustainable development goals", "authors": [{"name": "Omar A. Guerrero", "orcid": "https://orcid.org/0000-0003-4039-1811", "affiliations": []}, {"name": "Gonzalo Castañeda", "orcid": "", "affiliations": []}], "date": "2020", "doi": "10.1017/dap.2020.18", "type": "journal-article", "provider": "Crossref", "metadata_url": "https://api.crossref.org/works?rows=1&query.title=Policy%20priority%20inference%3A%20A%20computational%20framework%20to%20analyze%20the%20allocation%20of%20resources%20for%20the%20sustainable%20development%20goals", "id": "paper-86fb46ee091b", "authorIds": ["guerrero", "castaneda"], "institutions": []}, {"source": "https://arxiv.org/abs/2104.13353", "title": "Identifying tax evasion in Mexico with tools from network science and machine learning", "authors": [{"name": "Martín Zumaya Hernández", "affiliations": []}, {"name": "Rita Guerrero", "affiliations": []}, {"name": "Eduardo Islas", "affiliations": []}, {"name": "Omar Pineda", "affiliations": []}, {"name": "Carlos Gershenson", "affiliations": []}, {"name": "Gerardo Iñiguez González", "affiliations": []}, {"name": "Carlos Francisco Pineda Zorrilla", "affiliations": []}], "date": "2021/04/24", "doi": "10.1007/978-3-030-81484-7_6", "type": "preprint", "provider": "arXiv", "metadata_url": null, "id": "paper-8a0979557882", "authorIds": ["martin-zumaya-hernandez", "author-rita-guerrero", "author-eduardo-islas", "author-omar-pineda", "gershenson", "iniguez", "pineda"], "institutions": []}, {"source": "https://arxiv.org/abs/2005.10019", "title": "Every Colour You Are: Stance Prediction and Turnaround in Controversial Issues", "authors": [{"name": "Eduardo Graells-Garrido", "affiliations": []}, {"name": "Ricardo Baeza-Yates", "affiliations": []}, {"name": "Mounia Lalmas", "affiliations": []}], "date": "2020/05/19", "doi": "10.1145/3394231.3397907", "type": "preprint", "provider": "arXiv", "metadata_url": null, "id": "paper-930feb0b8491", "authorIds": ["graells", "author-ricardo-baeza-yates", "author-mounia-lalmas"], "institutions": []}, {"source": "https://arxiv.org/abs/2504.15871", "title": "Sustained changes to urban mobility after COVID-19 amplified socio-economic inequalities in Latin America", "authors": [{"name": "Carmen Cabrera", "affiliations": []}, {"name": "Miguel González-Leonardo", "affiliations": []}, {"name": "Andrea Nasuto", "affiliations": []}, {"name": "Ruth Neville", "affiliations": []}, {"name": "Francisco Rowe", "affiliations": []}], "date": "2025/04/22", "doi": "", "type": "preprint", "provider": "arXiv", "metadata_url": null, "id": "paper-984e6e123f9e", "authorIds": ["author-carmen-cabrera", "author-miguel-gonzalez-leonardo", "author-andrea-nasuto", "author-ruth-neville", "rowe"], "institutions": []}, {"source": "https://arxiv.org/abs/2112.09763", "title": "News-sharing on Twitter reveals emergent fragmentation of media agenda and persistent polarization", "authors": [{"name": "Tomas Cicchini", "affiliations": []}, {"name": "Sofia Morena del Pozo", "affiliations": []}, {"name": "Enzo Tagliazucchi", "affiliations": []}, {"name": "Pablo Balenzuela", "affiliations": []}], "date": "2021/12/17", "doi": "", "type": "preprint", "provider": "arXiv", "metadata_url": null, "id": "paper-99255183af7b", "authorIds": ["author-tomas-cicchini", "author-sofia-morena-del-pozo", "author-enzo-tagliazucchi", "balenzuela"], "institutions": []}, {"source": "https://www.nature.com/articles/s41598-024-53337-0", "title": "Framing fact-checks as a “confirmation” increases engagement with corrections of misinformation: a four-country study", "authors": [{"name": "Natalia Aruguete", "orcid": "", "affiliations": []}, {"name": "Flavia Batista", "orcid": "", "affiliations": []}, {"name": "Ernesto Calvo", "orcid": "", "affiliations": []}, {"name": "Matias Guizzo-Altube", "orcid": "", "affiliations": []}, {"name": "Carlos Scartascini", "orcid": "", "affiliations": []}, {"name": "Tiago Ventura", "orcid": "", "affiliations": []}], "date": "2024-2-8", "doi": "10.1038/s41598-024-53337-0", "type": "journal-article", "provider": "Crossref", "metadata_url": "https://api.crossref.org/works?rows=1&query.title=Framing%20fact-checks%20as%20a%20%E2%80%9Cconfirmation%E2%80%9D%20increases%20engagement%20with%20corrections%20of%20misinformation%3A%20a%20four-country%20study", "id": "paper-9bcc06d40d1e", "authorIds": ["aruguete", "author-flavia-batista", "calvo", "author-matias-guizzo-altube", "author-carlos-scartascini", "ventura"], "institutions": []}, {"source": "https://www.cambridge.org/core/books/abs/computational-social-science/using-machine-learning-algorithms-to-detect-election-fraud/D5A97EFE215F9271E576DC7DFC2C21C1", "title": "Using Machine Learning Algorithms to Detect Election Fraud", "authors": [{"name": "Ines Levin", "orcid": "", "affiliations": ["University of Georgia"]}, {"name": "Julia Pomares", "orcid": "", "affiliations": ["CIPPEC"]}, {"name": "R. Michael Alvarez", "orcid": "", "affiliations": ["California Institute of Technology"]}], "date": "2016-1-31", "doi": "10.1017/cbo9781316257340.012", "type": "book-chapter", "provider": "Crossref", "metadata_url": "https://api.crossref.org/works?rows=1&query.title=Using%20Machine%20Learning%20Algorithms%20to%20Detect%20Election%20Fraud", "id": "paper-9e0e68553869", "authorIds": ["author-ines-levin", "julia-pomares", "author-r-michael-alvarez"], "institutions": ["University of Georgia", "CIPPEC", "California Institute of Technology"]}, {"source": "https://arxiv.org/abs/2407.07258", "title": "Identification of emotions on Twitter during the 2022 electoral process in Colombia", "authors": [{"name": "Juan Jose Iguaran Fernandez", "affiliations": []}, {"name": "Juan Manuel Perez", "affiliations": []}, {"name": "German Rosati", "affiliations": []}], "date": "2024/07/09", "doi": "", "type": "preprint", "provider": "arXiv", "metadata_url": null, "id": "paper-a1e2843c02ad", "authorIds": ["author-juan-jose-iguaran-fernandez", "author-juan-manuel-perez", "rosati"], "institutions": []}, {"source": "https://arxiv.org/abs/2501.15351", "title": "Fairness in LLM-Generated Surveys", "authors": [{"name": "Andrés Abeliuk", "affiliations": []}, {"name": "Vanessa Gaete", "affiliations": []}, {"name": "Naim Bro", "affiliations": []}], "date": "2025/01/25", "doi": "10.1140/epjds/s13688-026-00673-y", "type": "preprint", "provider": "arXiv", "metadata_url": null, "id": "paper-a91a5af554ed", "authorIds": ["abeliuk", "author-vanessa-gaete", "bro"], "institutions": []}, {"source": "https://ojs.aaai.org/index.php/ICWSM/article/download/35857/38011/39925", "title": "From Fake News to Real Protests: WhatsApp’s Role in Brazilian Political Coordination", "authors": [{"name": "Daniel Kansaon", "orcid": "", "affiliations": []}, {"name": "Philipe de Freitas Melo", "orcid": "", "affiliations": []}, {"name": "Savvas Zannettou", "orcid": "", "affiliations": []}, {"name": "Fabricio Benevenuto", "orcid": "", "affiliations": []}], "date": "2025-6-7", "doi": "10.1609/icwsm.v19i1.35857", "type": "journal-article", "provider": "Crossref", "metadata_url": "https://api.crossref.org/works?rows=1&query.title=From%20Fake%20News%20to%20Real%20Protests%3A%20WhatsApp%E2%80%99s%20Role%20in%20Brazilian%20Political%20Coordination", "id": "paper-ab12a7a4559d", "authorIds": ["author-daniel-kansaon", "author-philipe-de-freitas-melo", "author-savvas-zannettou", "benevenuto"], "institutions": []}, {"source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9170096/", "title": "Citizens at the forefront of the constitutional debate: Voluntary citizen participation determinants and emergent content in Chile", "authors": [{"name": "María Paz Raveau", "orcid": "", "affiliations": []}, {"name": "Juan Pablo Couyoumdjian", "orcid": "", "affiliations": []}, {"name": "Claudio Fuentes-Bravo", "orcid": "", "affiliations": []}, {"name": "Carlos Rodríguez-Sickert", "orcid": "", "affiliations": []}, {"name": "Cristian Candia", "orcid": "https://orcid.org/0000-0002-9654-543X", "affiliations": []}], "date": "2022-6-6", "doi": "10.1371/journal.pone.0267443", "type": "journal-article", "provider": "Crossref", "metadata_url": "https://api.crossref.org/works?rows=1&query.title=Citizens%20at%20the%20forefront%20of%20the%20constitutional%20debate%3A%20Voluntary%20citizen%20participation%20determinants%20and%20emergent%20content%20in%20Chile", "id": "paper-acd05f013e99", "authorIds": ["raveau", "couyoumdjian", "author-claudio-fuentes-bravo", "rodriguezsickert", "candia"], "institutions": []}, {"source": "https://www.cambridge.org/core/books/data-visualization-for-social-and-policy-research/838FB8048E5A925B2CDB7C21027CC066", "title": "Data Visualization for Social and Policy Research", "authors": [{"name": "José Manuel Magallanes", "orcid": "", "affiliations": []}], "date": "2022-3-10", "doi": "10.1017/9781108625425", "type": "monograph", "provider": "Crossref", "metadata_url": "https://api.crossref.org/works?rows=1&query.title=Data%20Visualization%20for%20Social%20and%20Policy%20Research", "id": "paper-b3e56b9512dd", "authorIds": ["magallanes"], "institutions": []}, {"source": "https://arxiv.org/abs/1909.08740", "title": "Can WhatsApp Counter Misinformation by Limiting Message Forwarding?", "authors": [{"name": "Philipe de Freitas Melo", "affiliations": []}, {"name": "Carolina Coimbra Vieira", "affiliations": []}, {"name": "Kiran Garimella", "affiliations": []}, {"name": "Pedro Olmo Stancioli Vaz de Melo", "affiliations": []}, {"name": "Fabrício Benevenuto", "affiliations": []}], "date": "2019/09/18", "doi": "", "type": "preprint", "provider": "arXiv", "metadata_url": null, "id": "paper-c708244c9bd2", "authorIds": ["author-philipe-de-freitas-melo", "author-carolina-coimbra-vieira", "author-kiran-garimella", "pedro-olmo-stancioli-vaz-de-melo", "benevenuto"], "institutions": []}, {"source": "https://arxiv.org/abs/2401.02395", "title": "Analyzing Misinformation Claims During the 2022 Brazilian General Election on WhatsApp, Twitter, and Kwai", "authors": [{"name": "Scott A. Hale", "affiliations": []}, {"name": "Adriano Belisario", "affiliations": []}, {"name": "Ahmed Mostafa", "affiliations": []}, {"name": "Chico Camargo", "affiliations": []}], "date": "2024/01/04", "doi": "", "type": "preprint", "provider": "arXiv", "metadata_url": null, "id": "paper-c7e37628ca7e", "authorIds": ["author-scott-a-hale", "adriano-belisario", "author-ahmed-mostafa", "chico-camargo"], "institutions": []}, {"source": "https://arxiv.org/abs/1901.08105", "title": "Construcción de un Mapa de Vulnerabilidad Sanitaria en Argentina a partir de datos públicos", "authors": [{"name": "Antonio Vázquez Brust", "affiliations": []}, {"name": "Tomás Olego", "affiliations": []}, {"name": "Germán Rosati", "affiliations": []}], "date": "2018/11/23", "doi": "", "type": "preprint", "provider": "arXiv", "metadata_url": null, "id": "paper-d3867a285e66", "authorIds": ["vazquezbrust", "author-tomas-olego", "rosati"], "institutions": []}, {"source": "https://aclanthology.org/2026.propor-2.34.pdf", "title": "Social-RAG: A Retrieval-Augmented Generation Pipeline for Computational Social Science Research on Telegram", "authors": [{"name": "Leonardo F. Nascimento", "orcid": "https://orcid.org/0000-0003-2929-1115", "affiliations": []}, {"name": "Eric Brasil", "orcid": "https://orcid.org/0000-0001-5067-8475", "affiliations": []}, {"name": "Ruan Arthur Lima Santos", "orcid": "https://orcid.org/0009-0003-1358-4690", "affiliations": []}, {"name": "Gabriel Andrade", "orcid": "", "affiliations": []}, {"name": "Ricardo Sodré Andrade", "orcid": "", "affiliations": []}, {"name": "Tarssio Barreto", "orcid": "", "affiliations": []}], "date": "2026-2-19", "doi": "10.31235/osf.io/wmc2q_v1", "type": "posted-content", "provider": "Crossref", "metadata_url": "https://api.crossref.org/works?rows=1&query.title=Social-RAG%3A%20A%20retrieval-augmented%20generation%20pipeline%20for%20computational%20social%20science%20research%20on%20Telegram", "id": "paper-d8e93d1d388c", "authorIds": ["nascimento", "author-eric-brasil", "author-ruan-arthur-lima-santos", "author-gabriel-andrade", "author-ricardo-sodre-andrade", "author-tarssio-barreto"], "institutions": []}, {"source": "https://www.tandfonline.com/doi/full/10.1080/25729861.2021.1874744", "title": "Connective data: Markov chain models and the datafication of cervical cancer and HPV vaccination in Colombia", "authors": [{"name": "Oscar Javier Maldonado Castañeda", "orcid": "https://orcid.org/0000-0002-0142-3625", "affiliations": ["Escuela de Ciencias Humanas, Universidad del Rosario, Bogotá, Colombia"]}], "date": "2021-1-1", "doi": "10.1080/25729861.2021.1874744", "type": "journal-article", "provider": "Crossref", "metadata_url": "https://api.crossref.org/works/10.1080/25729861.2021.1874744", "id": "paper-dd3a98c2fda8", "authorIds": ["maldonado"], "institutions": ["Universidad del Rosario"]}, {"source": "https://arxiv.org/abs/1511.06656", "title": "A Study of Age and Gender seen through Mobile Phone Usage Patterns in Mexico", "authors": [{"name": "Carlos Sarraute", "affiliations": []}, {"name": "Pablo Blanc", "affiliations": []}, {"name": "Javier Burroni", "affiliations": []}], "date": "2015/11/20", "doi": "10.1109/ASONAM.2014.6921683", "type": "preprint", "provider": "arXiv", "metadata_url": null, "id": "paper-e5cbeb0e6c13", "authorIds": ["sarraute", "author-pablo-blanc", "author-javier-burroni"], "institutions": []}, {"source": "https://www.dim.uchile.cl/~furrutia/", "title": "Automatically Detecting Incoherent Written Math Answers of Fourth-Graders", "authors": [{"name": "Felipe Urrutia Vargas", "orcid": "https://orcid.org/0000-0003-0809-5334", "affiliations": ["Centro de Investigación Avanzada en Educación, Instituto de Educación, Universidad de Chile, Santiago 8320000, Chile"]}, {"name": "Roberto Araya", "orcid": "https://orcid.org/0000-0003-2598-8994", "affiliations": ["Centro de Investigación Avanzada en Educación, Instituto de Educación, Universidad de Chile, Santiago 8320000, Chile"]}], "date": "2023-7-10", "doi": "10.3390/systems11070353", "type": "journal-article", "provider": "Crossref", "metadata_url": "https://api.crossref.org/works?rows=1&query.title=Automatically%20Detecting%20Incoherent%20Written%20Math%20Answers%20of%20Fourth-Graders", "id": "paper-e8098fe3ae11", "authorIds": ["felipe-urrutia-vargas", "author-roberto-araya"], "institutions": ["Universidad de Chile"]}, {"source": "https://esla.letras.uc.cl/index.php/rcp/article/download/4550/4218", "title": "La fragilidad de los consensos. Polarización ideológica en el Chile post Pinochet", "authors": [{"name": "Jaime Lindh", "orcid": "", "affiliations": []}, {"name": "Jorge Fábrega", "orcid": "", "affiliations": []}, {"name": "Jorge González", "orcid": "", "affiliations": []}], "date": "2019-4", "doi": "10.4067/s0718-090x2019000100099", "type": "journal-article", "provider": "Crossref", "metadata_url": "https://api.crossref.org/works?rows=1&query.title=La%20fragilidad%20de%20los%20consensos.%20Polarizaci%C3%B3n%20ideol%C3%B3gica%20en%20el%20Chile%20post%20Pinochet", "id": "paper-e893d3db3dcc", "authorIds": ["author-jaime-lindh", "fabrega", "author-jorge-gonzalez"], "institutions": []}, {"source": "https://arxiv.org/abs/2306.01197", "title": "Surname affinity in Santiago, Chile: A network-based approach that uncovers urban segregation", "authors": [{"name": "Naim Bro", "affiliations": []}, {"name": "Marcelo Mendoza", "affiliations": []}], "date": "2023/06/01", "doi": "10.1371/journal.pone.0244372", "type": "preprint", "provider": "arXiv", "metadata_url": null, "id": "paper-eee4b9b980d7", "authorIds": ["bro", "mendoza"], "institutions": []}, {"source": "https://doi.org/10.1080/14680777.2022.2047090", "title": "Large-scale computational content analysis on magazines targeting men and women: the case of Argentina 2008-2018", "authors": [{"name": "Diego Kozlowski", "orcid": "https://orcid.org/0000-0002-5396-3471", "affiliations": ["Faculty of Science, Technology and Medicine, University of Luxembourg, Esch-sur-Alzette, Luxembourg"]}, {"name": "Gabriela Lozano", "orcid": "", "affiliations": ["Interdisciplinary Institute of Gender Studies, University of Buenos Aires, Buenos Aires, Argentina"]}, {"name": "Carla M. Felcher", "orcid": "", "affiliations": ["Instituto de Fisiología, Biología Molecular y Neurociencias (IFIBYNE), CONICET-Universidad de Buenos Aires, Buenos Aires, Argentina"]}, {"name": "Fernando Gonzalez", "orcid": "", "affiliations": ["Maestría en Explotación de Datos y, Descubrimiento del Conocimiento, Departamento de Computación, Universidad de Buenos Aires, Argentina"]}, {"name": "Edgar Altszyler", "orcid": "https://orcid.org/0000-0002-9397-8168", "affiliations": ["Maestría en Explotación de Datos y, Descubrimiento del Conocimiento, Departamento de Computación, Universidad de Buenos Aires, Argentina", "Departamento de Computación, FCEyN, Universidad de Buenos Aires. Instituto de Investigación en Ciencias de la Computación, Argentina"]}], "date": "2022-3-13", "doi": "10.1080/14680777.2022.2047090", "type": "journal-article", "provider": "Crossref", "metadata_url": "https://api.crossref.org/works/10.1080/14680777.2022.2047090", "id": "paper-f5ec43f4a45c", "authorIds": ["kozlowski", "author-gabriela-lozano", "author-carla-m-felcher", "author-fernando-gonzalez", "author-edgar-altszyler"], "institutions": ["University of Luxembourg", "Universidad de Buenos Aires", "CONICET"]}]
+[
+  {
+    "source": "https://doi.org/10.1111/jtsb.12004",
+    "title": "Emergence and Communication in Computational Sociology",
+    "authors": [
+      {
+        "name": "Mauricio Salgado",
+        "orcid": "",
+        "affiliations": [
+          "GSADI: Analytical Sociology and Institutional Design Group Department of Sociology Universitat Autònoma de Barcelona  B Building Campus UAB 08193 Bellaterra Spain"
+        ]
+      },
+      {
+        "name": "Nigel Gilbert",
+        "orcid": "",
+        "affiliations": [
+          "CRESS: Centre for Research in Social Simulation Department of Sociology University of Surrey  Guildford Surrey GU2 7XH U.K."
+        ]
+      }
+    ],
+    "date": "2012-10-22",
+    "doi": "10.1111/jtsb.12004",
+    "type": "journal-article",
+    "provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1111/jtsb.12004",
+    "id": "paper-0bdc5b782f8a",
+    "authorIds": [
+      "mauricio-salgado",
+      "author-nigel-gilbert"
+    ],
+    "institutions": [
+      "GSADI: Analytical Sociology and Institutional Design Group Department of Sociology Universitat Autònoma de Barcelona  B Building Campus UAB 08193 Bellaterra Spain",
+      "CRESS: Centre for Research in Social Simulation Department of Sociology University of Surrey  Guildford Surrey GU2 7XH U.K."
+    ]
+  },
+  {
+    "source": "https://www.scielo.org.mx/scielo.php?lng=es&pid=S2448-49112022000200105&script=sci_arttext&tlng=es",
+    "title": "Opiniones públicas en los discursos mediáticos tradicionales-oficiales en Twitter  durante las consultas populares: Referendo Constitucional de Cuba en 2019",
+    "authors": [
+      {
+        "name": "Milagros Alonso Pérez",
+        "orcid": "",
+        "affiliations": []
+      },
+      {
+        "name": "Rafael Fonseca Valido",
+        "orcid": "",
+        "affiliations": []
+      }
+    ],
+    "date": "2022-7-3",
+    "doi": "10.22201/fcpys.24484911e.2022.33.80998",
+    "type": "journal-article",
+    "provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works?rows=1&query.title=Opiniones%20p%C3%BAblicas%20en%20los%20discursos%20medi%C3%A1ticos%20tradicionales-oficiales%20en%20Twitter%20durante%20las%20consultas%20populares%3A%20Referendo%20Constitucional%20de%20Cuba%20en%202019",
+    "id": "paper-1b486ed8316c",
+    "authorIds": [
+      "milagros-alonso-perez",
+      "rafael-fonseca-valido"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://research.ibm.com/publications/analyzing-textual-misinformation-shared-in-whatsapp-groups",
+    "title": "Analyzing Textual (Mis)Information Shared in WhatsApp Groups",
+    "authors": [
+      {
+        "name": "Gustavo Resende",
+        "orcid": "",
+        "affiliations": [
+          "Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ]
+      },
+      {
+        "name": "Philipe de Freitas Melo",
+        "orcid": "",
+        "affiliations": [
+          "Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ]
+      },
+      {
+        "name": "Julio Cesar Soares dos Reis",
+        "orcid": "",
+        "affiliations": [
+          "Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ]
+      },
+      {
+        "name": "Marisa Vasconcelos",
+        "orcid": "",
+        "affiliations": [
+          "IBM Research, São Paulo, Brazil"
+        ]
+      },
+      {
+        "name": "Jussara Marques de Almeida",
+        "orcid": "",
+        "affiliations": [
+          "Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ]
+      },
+      {
+        "name": "Fabrício Benevenuto",
+        "orcid": "",
+        "affiliations": [
+          "Universidade Federal de Minas Gerais, Belo Horizonte, Brazil"
+        ]
+      }
+    ],
+    "date": "2019-6-26",
+    "doi": "10.1145/3292522.3326029",
+    "type": "proceedings-article",
+    "provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works?rows=1&query.title=Analyzing%20textual%20%28Mis%29information%20shared%20in%20WhatsApp%20groups",
+    "id": "paper-204fd9a7160f",
+    "authorIds": [
+      "author-gustavo-resende",
+      "author-philipe-de-freitas-melo",
+      "julio-cesar-soares-dos-reis",
+      "marisa-vasconcelos",
+      "jussara",
+      "benevenuto"
+    ],
+    "institutions": [
+      "UFMG",
+      "IBM Research, São Paulo, Brazil"
+    ]
+  },
+  {
+    "source": "https://arxiv.org/abs/2105.07523",
+    "title": "Analyzing the \"Sleeping Giants\" Activism Model in Brazil",
+    "authors": [
+      {
+        "name": "Bárbara Gomes Ribeiro",
+        "affiliations": []
+      },
+      {
+        "name": "Manoel Horta Ribeiro",
+        "affiliations": []
+      },
+      {
+        "name": "Virgílio Almeida",
+        "affiliations": []
+      },
+      {
+        "name": "Wagner Meira Júnior",
+        "affiliations": []
+      }
+    ],
+    "date": "2021/05/16",
+    "doi": "",
+    "type": "preprint",
+    "provider": "arXiv",
+    "metadata_url": null,
+    "id": "paper-2c23b1693790",
+    "authorIds": [
+      "author-barbara-gomes-ribeiro",
+      "author-manoel-horta-ribeiro",
+      "valmeida",
+      "meira"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://arxiv.org/abs/2310.08701",
+    "title": "Analyzing User Ideologies and Shared News During the 2019 Argentinian Elections",
+    "authors": [
+      {
+        "name": "Sofía Morena del Pozo",
+        "affiliations": []
+      },
+      {
+        "name": "Sebastián Pinto",
+        "affiliations": []
+      },
+      {
+        "name": "Matteo Serafino",
+        "affiliations": []
+      },
+      {
+        "name": "Lucio Garcia",
+        "affiliations": []
+      },
+      {
+        "name": "Hernán A Makse",
+        "affiliations": []
+      },
+      {
+        "name": "Pablo Balenzuela",
+        "affiliations": []
+      }
+    ],
+    "date": "2023/10/12",
+    "doi": "",
+    "type": "preprint",
+    "provider": "arXiv",
+    "metadata_url": null,
+    "id": "paper-325c86d4f47d",
+    "authorIds": [
+      "author-sofia-morena-del-pozo",
+      "pinto",
+      "author-matteo-serafino",
+      "author-lucio-garcia",
+      "author-hernan-a-makse",
+      "balenzuela"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://arxiv.org/abs/2306.14378",
+    "title": "A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic",
+    "authors": [
+      {
+        "name": "Marcelo Mendoza",
+        "affiliations": [
+          "Pontificia Universidad Católica de Chile"
+        ]
+      },
+      {
+        "name": "Sebastián Valenzuela",
+        "affiliations": [
+          "Pontificia Universidad Católica de Chile"
+        ]
+      },
+      {
+        "name": "Enrique Núñez-Mussa",
+        "affiliations": [
+          "Michigan State University"
+        ]
+      },
+      {
+        "name": "Fabián Padilla",
+        "affiliations": [
+          "Fast Check CL"
+        ]
+      },
+      {
+        "name": "Eliana Providel",
+        "affiliations": [
+          "Universidad de Valparaíso"
+        ]
+      },
+      {
+        "name": "Sebastián Campos",
+        "affiliations": [
+          "Universidad Técnica Federico Santa María"
+        ]
+      },
+      {
+        "name": "Renato Bassi",
+        "affiliations": [
+          "Universidad Técnica Federico Santa María"
+        ]
+      },
+      {
+        "name": "Andrea Riquelme",
+        "affiliations": [
+          "Universidad de Talca"
+        ]
+      },
+      {
+        "name": "Valeria Aldana",
+        "affiliations": [
+          "Universidad San Sebastián"
+        ]
+      },
+      {
+        "name": "Claudia López",
+        "affiliations": [
+          "Universidad Técnica Federico Santa María"
+        ]
+      }
+    ],
+    "date": "2023/06/26",
+    "doi": "10.3390/app13095347",
+    "type": "preprint",
+    "provider": "arXiv",
+    "metadata_url": null,
+    "id": "paper-333a99301364",
+    "authorIds": [
+      "mendoza",
+      "valenzuela",
+      "author-enrique-nunez-mussa",
+      "author-fabian-padilla",
+      "author-eliana-providel",
+      "author-sebastian-campos",
+      "author-renato-bassi",
+      "author-andrea-riquelme",
+      "author-valeria-aldana",
+      "author-claudia-lopez"
+    ],
+    "institutions": [
+      "Pontificia Universidad Católica de Chile",
+      "Michigan State University",
+      "Fast Check CL",
+      "Universidad de Valparaíso",
+      "Universidad Técnica Federico Santa María",
+      "Universidad de Talca",
+      "Universidad San Sebastián"
+    ],
+    "institutionIds": [
+      "inst-pontificia-universidad-catolica-de-chile",
+      "inst-michigan-state-university",
+      "inst-fast-check-cl",
+      "inst-universidad-de-valparaiso",
+      "inst-universidad-tecnica-federico-santa-maria",
+      "inst-universidad-de-talca",
+      "inst-universidad-san-sebastian"
+    ],
+    "affiliationSource": "https://arxiv.org/html/2306.14378v1"
+  },
+  {
+    "source": "https://arxiv.org/abs/2109.10462",
+    "title": "A Hierarchical Network-Oriented Analysis of User Participation in Misinformation Spread on WhatsApp",
+    "authors": [
+      {
+        "name": "Gabriel Peres Nobre",
+        "affiliations": []
+      },
+      {
+        "name": "Carlos Henrique Gomes Ferreira",
+        "affiliations": []
+      },
+      {
+        "name": "Jussara Marques de Almeida",
+        "affiliations": []
+      }
+    ],
+    "date": "2021/09/22",
+    "doi": "",
+    "type": "preprint",
+    "provider": "arXiv",
+    "metadata_url": null,
+    "id": "paper-34bf7ad4455e",
+    "authorIds": [
+      "author-gabriel-peres-nobre",
+      "carlos-henrique-gomes-ferreira",
+      "jussara"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://research.ibm.com/publications/identifying-and-characterizing-alternative-news-media-on-facebook",
+    "title": "Identifying and Characterizing Alternative News Media on Facebook",
+    "authors": [
+      {
+        "name": "Samuel S. Guimaraes",
+        "orcid": "",
+        "affiliations": []
+      },
+      {
+        "name": "Julio Cesar Soares dos Reis",
+        "orcid": "",
+        "affiliations": []
+      },
+      {
+        "name": "Lucas Lima",
+        "orcid": "",
+        "affiliations": []
+      },
+      {
+        "name": "Filipe Nunes Ribeiro",
+        "orcid": "",
+        "affiliations": []
+      },
+      {
+        "name": "Marisa Vasconcelos",
+        "orcid": "",
+        "affiliations": []
+      },
+      {
+        "name": "Jisun An",
+        "orcid": "",
+        "affiliations": []
+      },
+      {
+        "name": "Haewoon Kwak",
+        "orcid": "",
+        "affiliations": []
+      },
+      {
+        "name": "Fabricio Benevenuto",
+        "orcid": "",
+        "affiliations": []
+      }
+    ],
+    "date": "2020-12-7",
+    "doi": "10.1109/asonam49781.2020.9381424",
+    "type": "proceedings-article",
+    "provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works?rows=1&query.title=Identifying%20and%20Characterizing%20Alternative%20News%20Media%20on%20Facebook",
+    "id": "paper-34d71ba91d0d",
+    "authorIds": [
+      "author-samuel-s-guimaraes",
+      "julio-cesar-soares-dos-reis",
+      "author-lucas-lima",
+      "filipe-nunes-ribeiro",
+      "marisa-vasconcelos",
+      "author-jisun-an",
+      "author-haewoon-kwak",
+      "benevenuto"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://arxiv.org/abs/2311.10837",
+    "title": "Evaluating the Relationship Between News Source Sharing and Political Beliefs",
+    "authors": [
+      {
+        "name": "Sofía Morena del Pozo",
+        "affiliations": []
+      },
+      {
+        "name": "Sebastián Pinto",
+        "affiliations": []
+      },
+      {
+        "name": "Matteo Serafino",
+        "affiliations": []
+      },
+      {
+        "name": "Federico Moss",
+        "affiliations": []
+      },
+      {
+        "name": "Tomás Cicchini",
+        "affiliations": []
+      },
+      {
+        "name": "Hernán A Makse",
+        "affiliations": []
+      },
+      {
+        "name": "Pablo Balenzuela",
+        "affiliations": []
+      }
+    ],
+    "date": "2023/11/17",
+    "doi": "",
+    "type": "preprint",
+    "provider": "arXiv",
+    "metadata_url": null,
+    "id": "paper-36e1417e78b3",
+    "authorIds": [
+      "author-sofia-morena-del-pozo",
+      "pinto",
+      "author-matteo-serafino",
+      "author-federico-moss",
+      "author-tomas-cicchini",
+      "author-hernan-a-makse",
+      "balenzuela"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://arxiv.org/abs/2308.14782",
+    "title": "Helping Fact-Checkers Identify Fake News Stories Shared through Images on WhatsApp",
+    "authors": [
+      {
+        "name": "Julio Cesar Soares dos Reis",
+        "affiliations": []
+      },
+      {
+        "name": "Philipe de Freitas Melo",
+        "affiliations": []
+      },
+      {
+        "name": "Fabiano Belém",
+        "affiliations": []
+      },
+      {
+        "name": "Fabricio Murai",
+        "affiliations": []
+      },
+      {
+        "name": "Jussara Marques de Almeida",
+        "affiliations": []
+      },
+      {
+        "name": "Fabricio Benevenuto",
+        "affiliations": []
+      }
+    ],
+    "date": "2023/08/28",
+    "doi": "",
+    "type": "preprint",
+    "provider": "arXiv",
+    "metadata_url": null,
+    "id": "paper-3ef26ae2ad26",
+    "authorIds": [
+      "julio-cesar-soares-dos-reis",
+      "author-philipe-de-freitas-melo",
+      "author-fabiano-belem",
+      "fabricio-murai",
+      "jussara",
+      "benevenuto"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://doi.org/10.15517/aciep.v0i14.54481",
+    "title": "Análisis computacional del uso de Twitter durante los debates presidenciales del 2022 en Costa Rica",
+    "authors": [
+      {
+        "name": "Elías Chavarría-Mora",
+        "orcid": "https://orcid.org/0000-0001-6424-3915",
+        "affiliations": []
+      }
+    ],
+    "date": "2023-7-4",
+    "doi": "10.15517/aciep.v0i14.54481",
+    "type": "journal-article",
+    "provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.15517/aciep.v0i14.54481",
+    "id": "paper-42e149ba433c",
+    "authorIds": [
+      "chavarria"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://doi.org/10.22201/dgtic.26832968e.2025.13.52",
+    "title": "Exploración de la Comunicación Visual del Cambio Climático mediante la Clasificación Automática de Imágenes",
+    "authors": [
+      {
+        "name": "Gabriela Elisa Sued",
+        "orcid": "https://orcid.org/0000-0002-4516-678X",
+        "affiliations": []
+      },
+      {
+        "name": "Wilmer Efrén Pereira-González",
+        "orcid": "https://orcid.org/0000-0001-9699-7121",
+        "affiliations": []
+      },
+      {
+        "name": "Judith Zubieta-García",
+        "orcid": "https://orcid.org/0000-0001-5983-987X",
+        "affiliations": []
+      }
+    ],
+    "date": "2025-9-5",
+    "doi": "10.22201/dgtic.26832968e.2025.13.52",
+    "type": "journal-article",
+    "provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.22201/dgtic.26832968e.2025.13.52",
+    "id": "paper-47d732761da8",
+    "authorIds": [
+      "gabriela-elisa-sued",
+      "author-wilmer-efren-pereira-gonzalez",
+      "author-judith-zubieta-garcia"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://arxiv.org/abs/1905.00825",
+    "title": "Characterizing Attention Cascades in WhatsApp Groups",
+    "authors": [
+      {
+        "name": "Josemar Alves Caetano",
+        "affiliations": []
+      },
+      {
+        "name": "Gabriel Magno",
+        "affiliations": []
+      },
+      {
+        "name": "Marcos André Gonçalves",
+        "affiliations": []
+      },
+      {
+        "name": "Jussara Marques de Almeida",
+        "affiliations": []
+      },
+      {
+        "name": "Humberto Torres Marques Neto",
+        "affiliations": []
+      },
+      {
+        "name": "Virgílio Almeida",
+        "affiliations": []
+      }
+    ],
+    "date": "2019/05/02",
+    "doi": "10.1145/3292522.3326018",
+    "type": "preprint",
+    "provider": "arXiv",
+    "metadata_url": null,
+    "id": "paper-510d53f9f1a2",
+    "authorIds": [
+      "author-josemar-alves-caetano",
+      "author-gabriel-magno",
+      "marcos-andre-goncalves",
+      "jussara",
+      "humberto-torres-marques-neto",
+      "valmeida"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://doi.org/10.3390/agriculture16101027",
+    "title": "Territorial Governance in Family Farming: A Social Network Analysis in Itapúa, Paraguay",
+    "authors": [
+      {
+        "name": "Lorena María Selent Chaparro",
+        "orcid": "https://orcid.org/0000-0003-1843-8193",
+        "affiliations": [
+          "Department of Agricultural Economics, Higher Technical School of Agricultural and Forestry Engineering (ETSIAM), Universidad de Córdoba, Rabanales University Campus, 14071 Córdoba, Spain"
+        ]
+      },
+      {
+        "name": "Pedro Sánchez-Zamora",
+        "orcid": "https://orcid.org/0000-0002-2331-602X",
+        "affiliations": [
+          "Department of Agricultural Economics, Higher Technical School of Agricultural and Forestry Engineering (ETSIAM), Universidad de Córdoba, Rabanales University Campus, 14071 Córdoba, Spain"
+        ]
+      },
+      {
+        "name": "Rosa Gallardo-Cobos",
+        "orcid": "https://orcid.org/0000-0002-2676-360X",
+        "affiliations": [
+          "Department of Agricultural Economics, Higher Technical School of Agricultural and Forestry Engineering (ETSIAM), Universidad de Córdoba, Rabanales University Campus, 14071 Córdoba, Spain"
+        ]
+      }
+    ],
+    "date": "2026-5-8",
+    "doi": "10.3390/agriculture16101027",
+    "type": "journal-article",
+    "provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.3390/agriculture16101027",
+    "id": "paper-588917150518",
+    "authorIds": [
+      "lorena-maria-selent-chaparro",
+      "author-pedro-sanchez-zamora",
+      "author-rosa-gallardo-cobos"
+    ],
+    "institutions": [
+      "Universidad de Córdoba (España)"
+    ]
+  },
+  {
+    "source": "https://netlab.eco.ufrj.br/post/greenwashing-and-deceptive-energy-transitions-unmasking-socioenvironmental-disinformation-and-techn",
+    "title": "Climate Change Disinformation| Greenwashing and Deceptive Energy Transitions: Unmasking Socioenvironmental Disinformation and Technosolutionism in LinkedIn Ads",
+    "authors": [
+      {
+        "name": "Marina Loureiro",
+        "orcid": "",
+        "affiliations": []
+      },
+      {
+        "name": "Julia Dias",
+        "orcid": "",
+        "affiliations": []
+      },
+      {
+        "name": "Bianca Melo",
+        "orcid": "",
+        "affiliations": []
+      },
+      {
+        "name": "Nicole Sanchotene",
+        "orcid": "",
+        "affiliations": []
+      },
+      {
+        "name": "Débora Salles",
+        "orcid": "",
+        "affiliations": []
+      },
+      {
+        "name": "Marie Santini",
+        "orcid": "",
+        "affiliations": []
+      },
+      {
+        "name": "Fernando Ferreira",
+        "orcid": "",
+        "affiliations": []
+      }
+    ],
+    "date": "2026-10-8",
+    "doi": "10.65476/s92qta53",
+    "type": "journal-article",
+    "provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works?rows=1&query.title=Greenwashing%20and%20Deceptive%20Energy%20Transitions%3A%20Unmasking%20Socioenvironmental%20Disinformation%20and%20Technosolutionism%20in%20LinkedIn%20Ads",
+    "id": "paper-5ed12f5033c8",
+    "authorIds": [
+      "marina-loureiro",
+      "julia-dias",
+      "bianca-melo",
+      "nicole-sanchotene",
+      "debora-salles",
+      "marie-santini",
+      "fernando-ferreira"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://arxiv.org/abs/2006.02471",
+    "title": "Can WhatsApp Benefit from Debunked Fact-Checked Stories to Reduce Misinformation?",
+    "authors": [
+      {
+        "name": "Julio Cesar Soares dos Reis",
+        "affiliations": []
+      },
+      {
+        "name": "Philipe de Freitas Melo",
+        "affiliations": []
+      },
+      {
+        "name": "Kiran Garimella",
+        "affiliations": []
+      },
+      {
+        "name": "Fabrício Benevenuto",
+        "affiliations": []
+      }
+    ],
+    "date": "2020/06/03",
+    "doi": "",
+    "type": "preprint",
+    "provider": "arXiv",
+    "metadata_url": null,
+    "id": "paper-7a3a69698f74",
+    "authorIds": [
+      "julio-cesar-soares-dos-reis",
+      "author-philipe-de-freitas-melo",
+      "author-kiran-garimella",
+      "benevenuto"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://arxiv.org/abs/2309.11062",
+    "title": "The social stratification of internal migration and daily mobility during the COVID-19 pandemic",
+    "authors": [
+      {
+        "name": "Erick Elejalde",
+        "affiliations": []
+      },
+      {
+        "name": "Leo Ferres",
+        "affiliations": []
+      },
+      {
+        "name": "Víctor Navarro",
+        "affiliations": []
+      },
+      {
+        "name": "Loreto Bravo",
+        "affiliations": []
+      },
+      {
+        "name": "Emilio Zagheni",
+        "affiliations": []
+      }
+    ],
+    "date": "2023/09/20",
+    "doi": "",
+    "type": "preprint",
+    "provider": "arXiv",
+    "metadata_url": null,
+    "id": "paper-7acfff643f00",
+    "authorIds": [
+      "author-erick-elejalde",
+      "ferres",
+      "author-victor-navarro",
+      "bravo",
+      "author-emilio-zagheni"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://doi.org/10.1111/lsq.12481",
+    "title": "Social media versus surveys: A new scalable approach to understanding legislators' discourse",
+    "authors": [
+      {
+        "name": "Valentina González‐Rostani",
+        "orcid": "",
+        "affiliations": [
+          "Department of Politics Princeton University  Princeton New Jersey USA",
+          "Department of Political Science and International Relations University of Southern California  Los Angeles California USA"
+        ]
+      },
+      {
+        "name": "José Incio",
+        "orcid": "",
+        "affiliations": [
+          "Department of Social Sciences Pontificia Universidad Católica del Perú  Lima Peru"
+        ]
+      },
+      {
+        "name": "Guillermo Lezama",
+        "orcid": "https://orcid.org/0000-0002-0193-4513",
+        "affiliations": [
+          "Department of Economics University of Pittsburgh  Pittsburgh Pennsylvania USA"
+        ]
+      }
+    ],
+    "date": "2024-10-4",
+    "doi": "10.1111/lsq.12481",
+    "type": "journal-article",
+    "provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1111/lsq.12481",
+    "id": "paper-835f89523bfb",
+    "authorIds": [
+      "author-valentina-gonzalezrostani",
+      "jose-incio",
+      "author-guillermo-lezama"
+    ],
+    "institutions": [
+      "Department of Politics Princeton University  Princeton New Jersey USA",
+      "Department of Political Science and International Relations University of Southern California  Los Angeles California USA",
+      "PUCP",
+      "Department of Economics University of Pittsburgh  Pittsburgh Pennsylvania USA"
+    ]
+  },
+  {
+    "source": "https://discovery.ucl.ac.uk/id/eprint/10118149/",
+    "title": "Policy priority inference: A computational framework to analyze the allocation of resources for the sustainable development goals",
+    "authors": [
+      {
+        "name": "Omar A. Guerrero",
+        "orcid": "https://orcid.org/0000-0003-4039-1811",
+        "affiliations": []
+      },
+      {
+        "name": "Gonzalo Castañeda",
+        "orcid": "",
+        "affiliations": []
+      }
+    ],
+    "date": "2020",
+    "doi": "10.1017/dap.2020.18",
+    "type": "journal-article",
+    "provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works?rows=1&query.title=Policy%20priority%20inference%3A%20A%20computational%20framework%20to%20analyze%20the%20allocation%20of%20resources%20for%20the%20sustainable%20development%20goals",
+    "id": "paper-86fb46ee091b",
+    "authorIds": [
+      "guerrero",
+      "castaneda"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://arxiv.org/abs/2104.13353",
+    "title": "Identifying tax evasion in Mexico with tools from network science and machine learning",
+    "authors": [
+      {
+        "name": "Martín Zumaya Hernández",
+        "affiliations": []
+      },
+      {
+        "name": "Rita Guerrero",
+        "affiliations": []
+      },
+      {
+        "name": "Eduardo Islas",
+        "affiliations": []
+      },
+      {
+        "name": "Omar Pineda",
+        "affiliations": []
+      },
+      {
+        "name": "Carlos Gershenson",
+        "affiliations": []
+      },
+      {
+        "name": "Gerardo Iñiguez González",
+        "affiliations": []
+      },
+      {
+        "name": "Carlos Francisco Pineda Zorrilla",
+        "affiliations": []
+      }
+    ],
+    "date": "2021/04/24",
+    "doi": "10.1007/978-3-030-81484-7_6",
+    "type": "preprint",
+    "provider": "arXiv",
+    "metadata_url": null,
+    "id": "paper-8a0979557882",
+    "authorIds": [
+      "martin-zumaya-hernandez",
+      "author-rita-guerrero",
+      "author-eduardo-islas",
+      "author-omar-pineda",
+      "gershenson",
+      "iniguez",
+      "pineda"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://arxiv.org/abs/2005.10019",
+    "title": "Every Colour You Are: Stance Prediction and Turnaround in Controversial Issues",
+    "authors": [
+      {
+        "name": "Eduardo Graells-Garrido",
+        "affiliations": []
+      },
+      {
+        "name": "Ricardo Baeza-Yates",
+        "affiliations": []
+      },
+      {
+        "name": "Mounia Lalmas",
+        "affiliations": []
+      }
+    ],
+    "date": "2020/05/19",
+    "doi": "10.1145/3394231.3397907",
+    "type": "preprint",
+    "provider": "arXiv",
+    "metadata_url": null,
+    "id": "paper-930feb0b8491",
+    "authorIds": [
+      "graells",
+      "author-ricardo-baeza-yates",
+      "author-mounia-lalmas"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://arxiv.org/abs/2504.15871",
+    "title": "Sustained changes to urban mobility after COVID-19 amplified socio-economic inequalities in Latin America",
+    "authors": [
+      {
+        "name": "Carmen Cabrera",
+        "affiliations": []
+      },
+      {
+        "name": "Miguel González-Leonardo",
+        "affiliations": []
+      },
+      {
+        "name": "Andrea Nasuto",
+        "affiliations": []
+      },
+      {
+        "name": "Ruth Neville",
+        "affiliations": []
+      },
+      {
+        "name": "Francisco Rowe",
+        "affiliations": []
+      }
+    ],
+    "date": "2025/04/22",
+    "doi": "",
+    "type": "preprint",
+    "provider": "arXiv",
+    "metadata_url": null,
+    "id": "paper-984e6e123f9e",
+    "authorIds": [
+      "author-carmen-cabrera",
+      "author-miguel-gonzalez-leonardo",
+      "author-andrea-nasuto",
+      "author-ruth-neville",
+      "rowe"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://arxiv.org/abs/2112.09763",
+    "title": "News-sharing on Twitter reveals emergent fragmentation of media agenda and persistent polarization",
+    "authors": [
+      {
+        "name": "Tomas Cicchini",
+        "affiliations": []
+      },
+      {
+        "name": "Sofia Morena del Pozo",
+        "affiliations": []
+      },
+      {
+        "name": "Enzo Tagliazucchi",
+        "affiliations": []
+      },
+      {
+        "name": "Pablo Balenzuela",
+        "affiliations": []
+      }
+    ],
+    "date": "2021/12/17",
+    "doi": "",
+    "type": "preprint",
+    "provider": "arXiv",
+    "metadata_url": null,
+    "id": "paper-99255183af7b",
+    "authorIds": [
+      "author-tomas-cicchini",
+      "author-sofia-morena-del-pozo",
+      "author-enzo-tagliazucchi",
+      "balenzuela"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://www.nature.com/articles/s41598-024-53337-0",
+    "title": "Framing fact-checks as a “confirmation” increases engagement with corrections of misinformation: a four-country study",
+    "authors": [
+      {
+        "name": "Natalia Aruguete",
+        "orcid": "",
+        "affiliations": []
+      },
+      {
+        "name": "Flavia Batista",
+        "orcid": "",
+        "affiliations": []
+      },
+      {
+        "name": "Ernesto Calvo",
+        "orcid": "",
+        "affiliations": []
+      },
+      {
+        "name": "Matias Guizzo-Altube",
+        "orcid": "",
+        "affiliations": []
+      },
+      {
+        "name": "Carlos Scartascini",
+        "orcid": "",
+        "affiliations": []
+      },
+      {
+        "name": "Tiago Ventura",
+        "orcid": "",
+        "affiliations": []
+      }
+    ],
+    "date": "2024-2-8",
+    "doi": "10.1038/s41598-024-53337-0",
+    "type": "journal-article",
+    "provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works?rows=1&query.title=Framing%20fact-checks%20as%20a%20%E2%80%9Cconfirmation%E2%80%9D%20increases%20engagement%20with%20corrections%20of%20misinformation%3A%20a%20four-country%20study",
+    "id": "paper-9bcc06d40d1e",
+    "authorIds": [
+      "aruguete",
+      "author-flavia-batista",
+      "calvo",
+      "author-matias-guizzo-altube",
+      "author-carlos-scartascini",
+      "ventura"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://www.cambridge.org/core/books/abs/computational-social-science/using-machine-learning-algorithms-to-detect-election-fraud/D5A97EFE215F9271E576DC7DFC2C21C1",
+    "title": "Using Machine Learning Algorithms to Detect Election Fraud",
+    "authors": [
+      {
+        "name": "Ines Levin",
+        "orcid": "",
+        "affiliations": [
+          "University of Georgia"
+        ]
+      },
+      {
+        "name": "Julia Pomares",
+        "orcid": "",
+        "affiliations": [
+          "CIPPEC"
+        ]
+      },
+      {
+        "name": "R. Michael Alvarez",
+        "orcid": "",
+        "affiliations": [
+          "California Institute of Technology"
+        ]
+      }
+    ],
+    "date": "2016-1-31",
+    "doi": "10.1017/cbo9781316257340.012",
+    "type": "book-chapter",
+    "provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works?rows=1&query.title=Using%20Machine%20Learning%20Algorithms%20to%20Detect%20Election%20Fraud",
+    "id": "paper-9e0e68553869",
+    "authorIds": [
+      "author-ines-levin",
+      "julia-pomares",
+      "author-r-michael-alvarez"
+    ],
+    "institutions": [
+      "University of Georgia",
+      "CIPPEC",
+      "California Institute of Technology"
+    ]
+  },
+  {
+    "source": "https://arxiv.org/abs/2407.07258",
+    "title": "Identification of emotions on Twitter during the 2022 electoral process in Colombia",
+    "authors": [
+      {
+        "name": "Juan Jose Iguaran Fernandez",
+        "affiliations": []
+      },
+      {
+        "name": "Juan Manuel Perez",
+        "affiliations": []
+      },
+      {
+        "name": "German Rosati",
+        "affiliations": []
+      }
+    ],
+    "date": "2024/07/09",
+    "doi": "",
+    "type": "preprint",
+    "provider": "arXiv",
+    "metadata_url": null,
+    "id": "paper-a1e2843c02ad",
+    "authorIds": [
+      "author-juan-jose-iguaran-fernandez",
+      "author-juan-manuel-perez",
+      "rosati"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://arxiv.org/abs/2501.15351",
+    "title": "Fairness in LLM-Generated Surveys",
+    "authors": [
+      {
+        "name": "Andrés Abeliuk",
+        "affiliations": []
+      },
+      {
+        "name": "Vanessa Gaete",
+        "affiliations": []
+      },
+      {
+        "name": "Naim Bro",
+        "affiliations": []
+      }
+    ],
+    "date": "2025/01/25",
+    "doi": "10.1140/epjds/s13688-026-00673-y",
+    "type": "preprint",
+    "provider": "arXiv",
+    "metadata_url": null,
+    "id": "paper-a91a5af554ed",
+    "authorIds": [
+      "abeliuk",
+      "author-vanessa-gaete",
+      "bro"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://ojs.aaai.org/index.php/ICWSM/article/download/35857/38011/39925",
+    "title": "From Fake News to Real Protests: WhatsApp’s Role in Brazilian Political Coordination",
+    "authors": [
+      {
+        "name": "Daniel Kansaon",
+        "orcid": "",
+        "affiliations": []
+      },
+      {
+        "name": "Philipe de Freitas Melo",
+        "orcid": "",
+        "affiliations": []
+      },
+      {
+        "name": "Savvas Zannettou",
+        "orcid": "",
+        "affiliations": []
+      },
+      {
+        "name": "Fabricio Benevenuto",
+        "orcid": "",
+        "affiliations": []
+      }
+    ],
+    "date": "2025-6-7",
+    "doi": "10.1609/icwsm.v19i1.35857",
+    "type": "journal-article",
+    "provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works?rows=1&query.title=From%20Fake%20News%20to%20Real%20Protests%3A%20WhatsApp%E2%80%99s%20Role%20in%20Brazilian%20Political%20Coordination",
+    "id": "paper-ab12a7a4559d",
+    "authorIds": [
+      "author-daniel-kansaon",
+      "author-philipe-de-freitas-melo",
+      "author-savvas-zannettou",
+      "benevenuto"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9170096/",
+    "title": "Citizens at the forefront of the constitutional debate: Voluntary citizen participation determinants and emergent content in Chile",
+    "authors": [
+      {
+        "name": "María Paz Raveau",
+        "orcid": "",
+        "affiliations": []
+      },
+      {
+        "name": "Juan Pablo Couyoumdjian",
+        "orcid": "",
+        "affiliations": []
+      },
+      {
+        "name": "Claudio Fuentes-Bravo",
+        "orcid": "",
+        "affiliations": []
+      },
+      {
+        "name": "Carlos Rodríguez-Sickert",
+        "orcid": "",
+        "affiliations": []
+      },
+      {
+        "name": "Cristian Candia",
+        "orcid": "https://orcid.org/0000-0002-9654-543X",
+        "affiliations": []
+      }
+    ],
+    "date": "2022-6-6",
+    "doi": "10.1371/journal.pone.0267443",
+    "type": "journal-article",
+    "provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works?rows=1&query.title=Citizens%20at%20the%20forefront%20of%20the%20constitutional%20debate%3A%20Voluntary%20citizen%20participation%20determinants%20and%20emergent%20content%20in%20Chile",
+    "id": "paper-acd05f013e99",
+    "authorIds": [
+      "raveau",
+      "couyoumdjian",
+      "author-claudio-fuentes-bravo",
+      "rodriguezsickert",
+      "candia"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://www.cambridge.org/core/books/data-visualization-for-social-and-policy-research/838FB8048E5A925B2CDB7C21027CC066",
+    "title": "Data Visualization for Social and Policy Research",
+    "authors": [
+      {
+        "name": "José Manuel Magallanes",
+        "orcid": "",
+        "affiliations": []
+      }
+    ],
+    "date": "2022-3-10",
+    "doi": "10.1017/9781108625425",
+    "type": "monograph",
+    "provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works?rows=1&query.title=Data%20Visualization%20for%20Social%20and%20Policy%20Research",
+    "id": "paper-b3e56b9512dd",
+    "authorIds": [
+      "magallanes"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://arxiv.org/abs/1909.08740",
+    "title": "Can WhatsApp Counter Misinformation by Limiting Message Forwarding?",
+    "authors": [
+      {
+        "name": "Philipe de Freitas Melo",
+        "affiliations": []
+      },
+      {
+        "name": "Carolina Coimbra Vieira",
+        "affiliations": []
+      },
+      {
+        "name": "Kiran Garimella",
+        "affiliations": []
+      },
+      {
+        "name": "Pedro Olmo Stancioli Vaz de Melo",
+        "affiliations": []
+      },
+      {
+        "name": "Fabrício Benevenuto",
+        "affiliations": []
+      }
+    ],
+    "date": "2019/09/18",
+    "doi": "",
+    "type": "preprint",
+    "provider": "arXiv",
+    "metadata_url": null,
+    "id": "paper-c708244c9bd2",
+    "authorIds": [
+      "author-philipe-de-freitas-melo",
+      "author-carolina-coimbra-vieira",
+      "author-kiran-garimella",
+      "pedro-olmo-stancioli-vaz-de-melo",
+      "benevenuto"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://arxiv.org/abs/2401.02395",
+    "title": "Analyzing Misinformation Claims During the 2022 Brazilian General Election on WhatsApp, Twitter, and Kwai",
+    "authors": [
+      {
+        "name": "Scott A. Hale",
+        "affiliations": []
+      },
+      {
+        "name": "Adriano Belisario",
+        "affiliations": []
+      },
+      {
+        "name": "Ahmed Mostafa",
+        "affiliations": []
+      },
+      {
+        "name": "Chico Camargo",
+        "affiliations": []
+      }
+    ],
+    "date": "2024/01/04",
+    "doi": "",
+    "type": "preprint",
+    "provider": "arXiv",
+    "metadata_url": null,
+    "id": "paper-c7e37628ca7e",
+    "authorIds": [
+      "author-scott-a-hale",
+      "adriano-belisario",
+      "author-ahmed-mostafa",
+      "chico-camargo"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://arxiv.org/abs/1901.08105",
+    "title": "Construcción de un Mapa de Vulnerabilidad Sanitaria en Argentina a partir de datos públicos",
+    "authors": [
+      {
+        "name": "Antonio Vázquez Brust",
+        "affiliations": []
+      },
+      {
+        "name": "Tomás Olego",
+        "affiliations": []
+      },
+      {
+        "name": "Germán Rosati",
+        "affiliations": []
+      }
+    ],
+    "date": "2018/11/23",
+    "doi": "",
+    "type": "preprint",
+    "provider": "arXiv",
+    "metadata_url": null,
+    "id": "paper-d3867a285e66",
+    "authorIds": [
+      "vazquezbrust",
+      "author-tomas-olego",
+      "rosati"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://aclanthology.org/2026.propor-2.34.pdf",
+    "title": "Social-RAG: A Retrieval-Augmented Generation Pipeline for Computational Social Science Research on Telegram",
+    "authors": [
+      {
+        "name": "Leonardo F. Nascimento",
+        "orcid": "https://orcid.org/0000-0003-2929-1115",
+        "affiliations": []
+      },
+      {
+        "name": "Eric Brasil",
+        "orcid": "https://orcid.org/0000-0001-5067-8475",
+        "affiliations": []
+      },
+      {
+        "name": "Ruan Arthur Lima Santos",
+        "orcid": "https://orcid.org/0009-0003-1358-4690",
+        "affiliations": []
+      },
+      {
+        "name": "Gabriel Andrade",
+        "orcid": "",
+        "affiliations": []
+      },
+      {
+        "name": "Ricardo Sodré Andrade",
+        "orcid": "",
+        "affiliations": []
+      },
+      {
+        "name": "Tarssio Barreto",
+        "orcid": "",
+        "affiliations": []
+      }
+    ],
+    "date": "2026-2-19",
+    "doi": "10.31235/osf.io/wmc2q_v1",
+    "type": "posted-content",
+    "provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works?rows=1&query.title=Social-RAG%3A%20A%20retrieval-augmented%20generation%20pipeline%20for%20computational%20social%20science%20research%20on%20Telegram",
+    "id": "paper-d8e93d1d388c",
+    "authorIds": [
+      "nascimento",
+      "author-eric-brasil",
+      "author-ruan-arthur-lima-santos",
+      "author-gabriel-andrade",
+      "author-ricardo-sodre-andrade",
+      "author-tarssio-barreto"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://www.tandfonline.com/doi/full/10.1080/25729861.2021.1874744",
+    "title": "Connective data: Markov chain models and the datafication of cervical cancer and HPV vaccination in Colombia",
+    "authors": [
+      {
+        "name": "Oscar Javier Maldonado Castañeda",
+        "orcid": "https://orcid.org/0000-0002-0142-3625",
+        "affiliations": [
+          "Escuela de Ciencias Humanas, Universidad del Rosario, Bogotá, Colombia"
+        ]
+      }
+    ],
+    "date": "2021-1-1",
+    "doi": "10.1080/25729861.2021.1874744",
+    "type": "journal-article",
+    "provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1080/25729861.2021.1874744",
+    "id": "paper-dd3a98c2fda8",
+    "authorIds": [
+      "maldonado"
+    ],
+    "institutions": [
+      "Universidad del Rosario"
+    ]
+  },
+  {
+    "source": "https://arxiv.org/abs/1511.06656",
+    "title": "A Study of Age and Gender seen through Mobile Phone Usage Patterns in Mexico",
+    "authors": [
+      {
+        "name": "Carlos Sarraute",
+        "affiliations": []
+      },
+      {
+        "name": "Pablo Blanc",
+        "affiliations": []
+      },
+      {
+        "name": "Javier Burroni",
+        "affiliations": []
+      }
+    ],
+    "date": "2015/11/20",
+    "doi": "10.1109/ASONAM.2014.6921683",
+    "type": "preprint",
+    "provider": "arXiv",
+    "metadata_url": null,
+    "id": "paper-e5cbeb0e6c13",
+    "authorIds": [
+      "sarraute",
+      "author-pablo-blanc",
+      "author-javier-burroni"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://www.dim.uchile.cl/~furrutia/",
+    "title": "Automatically Detecting Incoherent Written Math Answers of Fourth-Graders",
+    "authors": [
+      {
+        "name": "Felipe Urrutia Vargas",
+        "orcid": "https://orcid.org/0000-0003-0809-5334",
+        "affiliations": [
+          "Centro de Investigación Avanzada en Educación, Instituto de Educación, Universidad de Chile, Santiago 8320000, Chile"
+        ]
+      },
+      {
+        "name": "Roberto Araya",
+        "orcid": "https://orcid.org/0000-0003-2598-8994",
+        "affiliations": [
+          "Centro de Investigación Avanzada en Educación, Instituto de Educación, Universidad de Chile, Santiago 8320000, Chile"
+        ]
+      }
+    ],
+    "date": "2023-7-10",
+    "doi": "10.3390/systems11070353",
+    "type": "journal-article",
+    "provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works?rows=1&query.title=Automatically%20Detecting%20Incoherent%20Written%20Math%20Answers%20of%20Fourth-Graders",
+    "id": "paper-e8098fe3ae11",
+    "authorIds": [
+      "felipe-urrutia-vargas",
+      "author-roberto-araya"
+    ],
+    "institutions": [
+      "Universidad de Chile"
+    ]
+  },
+  {
+    "source": "https://esla.letras.uc.cl/index.php/rcp/article/download/4550/4218",
+    "title": "La fragilidad de los consensos. Polarización ideológica en el Chile post Pinochet",
+    "authors": [
+      {
+        "name": "Jaime Lindh",
+        "orcid": "",
+        "affiliations": []
+      },
+      {
+        "name": "Jorge Fábrega",
+        "orcid": "",
+        "affiliations": []
+      },
+      {
+        "name": "Jorge González",
+        "orcid": "",
+        "affiliations": []
+      }
+    ],
+    "date": "2019-4",
+    "doi": "10.4067/s0718-090x2019000100099",
+    "type": "journal-article",
+    "provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works?rows=1&query.title=La%20fragilidad%20de%20los%20consensos.%20Polarizaci%C3%B3n%20ideol%C3%B3gica%20en%20el%20Chile%20post%20Pinochet",
+    "id": "paper-e893d3db3dcc",
+    "authorIds": [
+      "author-jaime-lindh",
+      "fabrega",
+      "author-jorge-gonzalez"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://arxiv.org/abs/2306.01197",
+    "title": "Surname affinity in Santiago, Chile: A network-based approach that uncovers urban segregation",
+    "authors": [
+      {
+        "name": "Naim Bro",
+        "affiliations": []
+      },
+      {
+        "name": "Marcelo Mendoza",
+        "affiliations": []
+      }
+    ],
+    "date": "2023/06/01",
+    "doi": "10.1371/journal.pone.0244372",
+    "type": "preprint",
+    "provider": "arXiv",
+    "metadata_url": null,
+    "id": "paper-eee4b9b980d7",
+    "authorIds": [
+      "bro",
+      "mendoza"
+    ],
+    "institutions": []
+  },
+  {
+    "source": "https://doi.org/10.1080/14680777.2022.2047090",
+    "title": "Large-scale computational content analysis on magazines targeting men and women: the case of Argentina 2008-2018",
+    "authors": [
+      {
+        "name": "Diego Kozlowski",
+        "orcid": "https://orcid.org/0000-0002-5396-3471",
+        "affiliations": [
+          "Faculty of Science, Technology and Medicine, University of Luxembourg, Esch-sur-Alzette, Luxembourg"
+        ]
+      },
+      {
+        "name": "Gabriela Lozano",
+        "orcid": "",
+        "affiliations": [
+          "Interdisciplinary Institute of Gender Studies, University of Buenos Aires, Buenos Aires, Argentina"
+        ]
+      },
+      {
+        "name": "Carla M. Felcher",
+        "orcid": "",
+        "affiliations": [
+          "Instituto de Fisiología, Biología Molecular y Neurociencias (IFIBYNE), CONICET-Universidad de Buenos Aires, Buenos Aires, Argentina"
+        ]
+      },
+      {
+        "name": "Fernando Gonzalez",
+        "orcid": "",
+        "affiliations": [
+          "Maestría en Explotación de Datos y, Descubrimiento del Conocimiento, Departamento de Computación, Universidad de Buenos Aires, Argentina"
+        ]
+      },
+      {
+        "name": "Edgar Altszyler",
+        "orcid": "https://orcid.org/0000-0002-9397-8168",
+        "affiliations": [
+          "Maestría en Explotación de Datos y, Descubrimiento del Conocimiento, Departamento de Computación, Universidad de Buenos Aires, Argentina",
+          "Departamento de Computación, FCEyN, Universidad de Buenos Aires. Instituto de Investigación en Ciencias de la Computación, Argentina"
+        ]
+      }
+    ],
+    "date": "2022-3-13",
+    "doi": "10.1080/14680777.2022.2047090",
+    "type": "journal-article",
+    "provider": "Crossref",
+    "metadata_url": "https://api.crossref.org/works/10.1080/14680777.2022.2047090",
+    "id": "paper-f5ec43f4a45c",
+    "authorIds": [
+      "kozlowski",
+      "author-gabriela-lozano",
+      "author-carla-m-felcher",
+      "author-fernando-gonzalez",
+      "author-edgar-altszyler"
+    ],
+    "institutions": [
+      "University of Luxembourg",
+      "Universidad de Buenos Aires",
+      "CONICET"
+    ]
+  },
+  {
+    "id": "paper-4e2d21f71dd6",
+    "title": "The electoral success of social media losers: a study on the usage and influence of Twitter in times of elections in Paraguay",
+    "source": "https://link.springer.com/article/10.1007/s43545-022-00392-x",
+    "metadata_url": "https://link.springer.com/article/10.1007/s43545-022-00392-x",
+    "provider": "Texto completo revisado",
+    "doi": "10.1007/s43545-022-00392-x",
+    "date": "2022",
+    "type": "journal-article",
+    "authors": [
+      {
+        "name": "Jorge Saldivar",
+        "orcid": "",
+        "affiliations": [
+          "Complutense University of Madrid"
+        ]
+      },
+      {
+        "name": "Cristhian Parra",
+        "orcid": "",
+        "affiliations": [
+          "United Nations Development Programme, Asuncion"
+        ]
+      },
+      {
+        "name": "Mical Laconich",
+        "orcid": "",
+        "affiliations": [
+          "University of Cambridge"
+        ]
+      },
+      {
+        "name": "Luca Cernuzzi",
+        "orcid": "",
+        "affiliations": [
+          "Catholic University Nuestra Señora de la Asuncion"
+        ]
+      }
+    ],
+    "authorIds": [
+      "jorge-saldivar",
+      "cristhian-parra",
+      "mical-laconich",
+      "luca-cernuzzi"
+    ],
+    "institutions": [
+      "Complutense University of Madrid",
+      "United Nations Development Programme, Asuncion",
+      "University of Cambridge",
+      "Catholic University Nuestra Señora de la Asuncion"
+    ],
+    "institutionIds": [
+      "inst-complutense-university-of-madrid",
+      "inst-united-nations-development-programme-asuncion",
+      "inst-university-of-cambridge",
+      "inst-catholic-university-nuestra-senora-de-la-asuncion"
+    ],
+    "affiliationSource": "https://link.springer.com/article/10.1007/s43545-022-00392-x"
+  },
+  {
+    "id": "paper-04e7da05580f",
+    "title": "MediaTIC: Una plataforma analítica de medios digitales costarricenses en redes sociales",
+    "source": "https://revistas.tec.ac.cr/index.php/tec_marcha/article/view/5070",
+    "metadata_url": "https://revistas.tec.ac.cr/index.php/tec_marcha/article/view/5070",
+    "provider": "Texto completo revisado",
+    "doi": "10.18845/tm.v33i5.5070",
+    "date": "2020",
+    "type": "journal-article",
+    "authors": [
+      {
+        "name": "Cristina Soto-Rojas",
+        "orcid": "",
+        "affiliations": [
+          "Centro Nacional de Alta Tecnología"
+        ]
+      },
+      {
+        "name": "Carlos Gamboa-Venegas",
+        "orcid": "",
+        "affiliations": [
+          "Centro Nacional de Alta Tecnología"
+        ]
+      },
+      {
+        "name": "Adriana Céspedes-Vindas",
+        "orcid": "",
+        "affiliations": [
+          "Universidad Estatal a Distancia"
+        ]
+      }
+    ],
+    "authorIds": [
+      "cristina-soto-rojas",
+      "carlos-gamboa-venegas",
+      "adriana-cespedes-vindas"
+    ],
+    "institutions": [
+      "Centro Nacional de Alta Tecnología",
+      "Universidad Estatal a Distancia"
+    ],
+    "institutionIds": [
+      "inst-centro-nacional-de-alta-tecnologia",
+      "inst-universidad-estatal-a-distancia"
+    ],
+    "affiliationSource": "https://revistas.tec.ac.cr/index.php/tec_marcha/article/view/5070"
+  },
+  {
+    "id": "paper-62ac0594b2ee",
+    "title": "Análisis de redes sociales: Identificación de comunidades virtuales en Twitter",
+    "source": "https://ri.ufg.edu.sv/jspui/bitstream/11592/9307/1/9095-Texto%20del%20art%C3%ADculo-32560-1-10-20200123.pdf",
+    "metadata_url": "https://ri.ufg.edu.sv/jspui/bitstream/11592/9307/1/9095-Texto%20del%20art%C3%ADculo-32560-1-10-20200123.pdf",
+    "provider": "Texto completo revisado",
+    "doi": "",
+    "date": "2019",
+    "type": "journal-article",
+    "authors": [
+      {
+        "name": "James Edward Humberstone Morales",
+        "orcid": "",
+        "affiliations": [
+          "Universidad Francisco Gavidia"
+        ]
+      },
+      {
+        "name": "Fernando José Alvarez Alens",
+        "orcid": "",
+        "affiliations": [
+          "Universidad Francisco Gavidia"
+        ]
+      }
+    ],
+    "authorIds": [
+      "james-edward-humberstone-morales",
+      "fernando-jose-alvarez-alens"
+    ],
+    "institutions": [
+      "Universidad Francisco Gavidia"
+    ],
+    "institutionIds": [
+      "inst-universidad-francisco-gavidia"
+    ],
+    "affiliationSource": "https://ri.ufg.edu.sv/jspui/bitstream/11592/9307/1/9095-Texto%20del%20art%C3%ADculo-32560-1-10-20200123.pdf"
+  }
+]

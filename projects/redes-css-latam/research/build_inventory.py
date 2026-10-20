@@ -69,6 +69,17 @@ if extra.exists():
     if ' - ' in entry:
      code,name=entry.split(' - ',1)
      add('Costa Rica',name,'cr-conesup',code=code,detail={'registryPage':source['url'],'scope':'Etiqueta literal del selector CONESUP; conciliar alias, estado y sector público antes de contar universidades únicas'})
+# Official university detail pages provide site addresses and academic-unit links.
+guatemala_details=INPUT/'gt-register-details.json'
+if guatemala_details.exists():
+ for entry in json.loads(guatemala_details.read_text()):
+  if entry.get('http')==200:
+   for url in entry.get('websites') or [None]:
+    add('Guatemala',entry['name'],'gt-ceps',url,code=entry['source'].split('universidad_id=')[-1],detail={'registryPage':entry['source'],'academicUnits':entry.get('units',[])})
+mexico_register=INPUT/'mx-dgesui.json'
+if mexico_register.exists():
+ for entry in json.loads(mexico_register.read_text())['institutions']:
+  add('México',entry['name'],'mx-dgesui',entry['website'],code=entry['code'],detail={'registryPage':entry['source'],'scope':'Directorio DGESUI: UPE, UPEAS, UI; no cubre todas las IES de México'})
 result=sorted(rows.values(),key=lambda r:(list(COUNTRIES.values()).index(r['country']),r['name']))
 # Preserve completed review evidence and screening logs when rebuilding the frame.
 for r in result:

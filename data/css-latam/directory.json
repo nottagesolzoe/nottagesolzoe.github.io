@@ -15416,5 +15416,266 @@
     "checked": "2026-10-20",
     "evidence": "Programa o equipo institucional",
     "baseStatus": "Base regional documentada"
+  },
+  {
+    "id": "giulianna-zambrano",
+    "name": "Giulianna Zambrano",
+    "type": "Persona",
+    "country": "Ecuador",
+    "region": "Andina",
+    "affiliation": "Universidad San Francisco de Quito",
+    "scope": [
+      "Ecuador"
+    ],
+    "topics": [
+      "Humanidades digitales"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Humanidades digitales y literatura. Perfil institucional: profesora titular agregada e investigadora.",
+    "sources": [
+      {
+        "title": "Directorio institucional",
+        "url": "https://www.usfq.edu.ec/es/taxonomy/term/87456"
+      }
+    ],
+    "publication": null,
+    "email": "mgzambrano@usfq.edu.ec",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Programa o equipo institucional",
+    "baseStatus": "Base regional documentada"
+  },
+  {
+    "id": "elisa-sevilla",
+    "name": "Elisa Sevilla",
+    "type": "Persona",
+    "country": "Ecuador",
+    "region": "Andina",
+    "affiliation": "Universidad San Francisco de Quito",
+    "scope": [
+      "Ecuador"
+    ],
+    "topics": [
+      "Humanidades digitales"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Humanidades digitales; profesora y co-coordinadora del Instituto de Estudios Avanzados en Desigualdades.",
+    "sources": [
+      {
+        "title": "Directorio institucional",
+        "url": "https://www.usfq.edu.ec/es/taxonomy/term/87456"
+      }
+    ],
+    "publication": null,
+    "email": "esevillap@usfq.edu.ec",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Programa o equipo institucional",
+    "baseStatus": "Base regional documentada"
+  },
+  {
+    "id": "renato-souza",
+    "name": "Renato Souza",
+    "type": "Persona",
+    "country": "Brasil",
+    "region": "Brasil",
+    "affiliation": "FGV CPDOC (2022)",
+    "scope": [
+      "Brasil"
+    ],
+    "topics": [
+      "Humanidades digitales"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Docencia de Python y conferencia sobre web semántica y acervos digitales. Participación documentada en 2022; no acredita continuidad del cargo.",
+    "sources": [
+      {
+        "title": "Programa y participantes",
+        "url": "https://cpdoc.fgv.br/2022-dh-css"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Programa o equipo institucional",
+    "baseStatus": "Afiliación histórica documentada"
+  },
+  {
+    "id": "suemi-higuchi",
+    "name": "Suemi Higuchi",
+    "type": "Persona",
+    "country": "Brasil",
+    "region": "Brasil",
+    "affiliation": "FGV CPDOC (2022)",
+    "scope": [
+      "Brasil"
+    ],
+    "topics": [
+      "Humanidades digitales"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Debatedora en sesión sobre web semántica y acervos digitales. Participación documentada en 2022; no acredita continuidad del cargo.",
+    "sources": [
+      {
+        "title": "Programa y participantes",
+        "url": "https://cpdoc.fgv.br/2022-dh-css"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Programa o equipo institucional",
+    "baseStatus": "Afiliación histórica documentada"
+  },
+  {
+    "id": "jairo-nicolau",
+    "name": "Jairo Nicolau",
+    "type": "Persona",
+    "country": "Brasil",
+    "region": "Brasil",
+    "affiliation": "FGV CPDOC (2022)",
+    "scope": [
+      "Brasil"
+    ],
+    "topics": [
+      "Humanidades digitales"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Debatedor en sesión sobre ciencia de datos social. Participación documentada en 2022; no acredita continuidad del cargo.",
+    "sources": [
+      {
+        "title": "Programa y participantes",
+        "url": "https://cpdoc.fgv.br/2022-dh-css"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Programa o equipo institucional",
+    "baseStatus": "Afiliación histórica documentada"
+  },
+  {
+    "id": "jimmy-medeiros",
+    "name": "Jimmy Medeiros",
+    "type": "Persona",
+    "country": "Brasil",
+    "region": "Brasil",
+    "affiliation": "FGV CPDOC (2022)",
+    "scope": [
+      "Brasil"
+    ],
+    "topics": [
+      "Humanidades digitales"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Debatedor en sesión sobre ciencia de datos social. Participación documentada en 2022; no acredita continuidad del cargo.",
+    "sources": [
+      {
+        "title": "Programa y participantes",
+        "url": "https://cpdoc.fgv.br/2022-dh-css"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Programa o equipo institucional",
+    "baseStatus": "Afiliación histórica documentada"
+  },
+  {
+    "id": "martim-passos",
+    "name": "Martim Passos",
+    "type": "Persona",
+    "country": "Brasil",
+    "region": "Brasil",
+    "affiliation": "Instituto Moreira Salles (2022)",
+    "scope": [
+      "Brasil"
+    ],
+    "topics": [
+      "Humanidades digitales"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Sesión sobre IIIF y patrimonio cultural. Participación documentada en 2022; no acredita continuidad del cargo.",
+    "sources": [
+      {
+        "title": "Programa y participantes",
+        "url": "https://cpdoc.fgv.br/2022-dh-css"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Programa o equipo institucional",
+    "baseStatus": "Afiliación histórica documentada"
+  },
+  {
+    "id": "eduardo-mello",
+    "name": "Eduardo Mello",
+    "type": "Persona",
+    "country": "Brasil",
+    "region": "Brasil",
+    "affiliation": "FGV RI (2022)",
+    "scope": [
+      "Brasil"
+    ],
+    "topics": [
+      "Humanidades digitales"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Debatedor en sesión sobre habilidades computacionales para científicos sociales. Participación documentada en 2022; no acredita continuidad del cargo.",
+    "sources": [
+      {
+        "title": "Programa y participantes",
+        "url": "https://cpdoc.fgv.br/2022-dh-css"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Programa o equipo institucional",
+    "baseStatus": "Afiliación histórica documentada"
+  },
+  {
+    "id": "ricardo-alonzo-fernandez-salguero",
+    "name": "Ricardo Alonzo Fernández Salguero",
+    "type": "Persona",
+    "country": "España",
+    "region": "Fuera de LATAM",
+    "affiliation": "Universidad Politécnica de Cataluña (2025)",
+    "scope": [
+      "Bolivia"
+    ],
+    "topics": [
+      "Métodos y formación"
+    ],
+    "methods": [],
+    "fit": "Especialidad individual pendiente",
+    "description": "Instructor de Ciencias Sociales con Python en la UAGRM; la fuente identifica afiliación en España. Participación documentada en 2025; no acredita continuidad del cargo.",
+    "sources": [
+      {
+        "title": "Programa y participantes",
+        "url": "https://cir.uagrm.edu.bo/courses.html"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-20",
+    "evidence": "Programa o equipo institucional",
+    "baseStatus": "Afiliación histórica documentada"
   }
 ]

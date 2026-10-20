@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-20",
+  "registers": [
+    {
+      "country": "Guatemala",
+      "source": "https://ceps.edu.gt/ceps/",
+      "institutionsListed": 17,
+      "officialWebsiteAddresses": 16,
+      "academicUnitPagesRetrieved": 176,
+      "decision": "Revisar planes, docentes y proyectos en sitios institucionales; los títulos del registro no bastan para clasificar CSS.",
+      "closed": false
+    },
+    {
+      "country": "México",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones",
+      "pagesRetrieved": 7,
+      "institutionRecords": 78,
+      "scope": "UPE, UPEAS y UI. Complementar universidades federales, tecnológicas, politécnicas y privadas.",
+      "closed": false
+    },
+    {
+      "country": "Brasil",
+      "source": "https://dadosabertos.mec.gov.br/images/conteudo/Ind-ensino-superior/2022/PDA_Lista_Instituicoes_Ensino_Superior_do_Brasil_EMEC.csv",
+      "http": 403,
+      "sourceEdition": "2022",
+      "decision": "Archivo no recuperado. No incorporado como registro verificado; buscar descarga oficial alternativa.",
+      "closed": false
+    }
+  ]
+}

@@ -1,0 +1,581 @@
+{
+  "scope": "UPE, UPEAS y UI; no representa todas las IES mexicanas",
+  "pages": [
+    {
+      "url": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=0",
+      "records": 12
+    },
+    {
+      "url": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=1",
+      "records": 12
+    },
+    {
+      "url": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=2",
+      "records": 12
+    },
+    {
+      "url": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=3",
+      "records": 12
+    },
+    {
+      "url": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=4",
+      "records": 12
+    },
+    {
+      "url": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=5",
+      "records": 12
+    },
+    {
+      "url": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=6",
+      "records": 6
+    }
+  ],
+  "institutions": [
+    {
+      "name": "Benemérita Universidad Autónoma de Puebla",
+      "website": "https://www.buap.mx/",
+      "code": "1261",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=0",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "El Colegio de Chihuahua",
+      "website": "http://www.colech.edu.mx/",
+      "code": "1284",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=0",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "El Colegio de Morelos",
+      "website": "https://elcolegiodemorelos.edu.mx/",
+      "code": "1312",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=0",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "El Colegio de Sonora",
+      "website": "https://www.colson.edu.mx/",
+      "code": "1283",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=0",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Instituto Campechano",
+      "website": "http://instcamp.edu.mx/#",
+      "code": "1276",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=0",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Instituto Tecnológico de Sonora",
+      "website": "https://www.itson.mx/Paginas/index.aspx/",
+      "code": "1271",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=0",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Autónoma Benito Juárez de Oaxaca",
+      "website": "http://www.uabjo.mx/",
+      "code": "1315",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=0",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Autónoma Comunal de Oaxaca",
+      "website": "https://uaco.edu.mx/",
+      "code": "16937",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=0",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Autónoma de Aguascalientes",
+      "website": "https://www.uaa.mx/",
+      "code": "1252",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=0",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Autónoma de Baja California",
+      "website": "http://www.uabc.mx/",
+      "code": "1260",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=0",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Autónoma de Baja California Sur",
+      "website": "http://www.uabcs.mx/",
+      "code": "1262",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=0",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Autónoma de Campeche",
+      "website": "https://www.uacam.mx/",
+      "code": "1274",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=0",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Autónoma de Chiapas",
+      "website": "http://www.unach.mx/",
+      "code": "1277",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=1",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Autónoma de Chihuahua",
+      "website": "https://www.uach.mx/",
+      "code": "1281",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=1",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Autónoma de Ciencias y Artes de Chiapas",
+      "website": "https://www.unicach.mx/",
+      "code": "1278",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=1",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Autónoma de Ciudad Juárez",
+      "website": "http://www.uacj.mx/",
+      "code": "1282",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=1",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Autónoma de Coahuila",
+      "website": "http://www.uadec.mx/",
+      "code": "1295",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=1",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Autónoma de Guerrero",
+      "website": "https://www.uagro.mx/",
+      "code": "1300",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=1",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Autónoma de Nayarit",
+      "website": "http://www.uan.edu.mx/",
+      "code": "1313",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=1",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Autónoma de Nuevo León",
+      "website": "http://www.uanl.mx/",
+      "code": "1314",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=1",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Autónoma de Occidente",
+      "website": "https://uadeo.mx/",
+      "code": "1250",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=1",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Autónoma de Querétaro",
+      "website": "https://www.uaq.mx/",
+      "code": "1266",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=1",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Autónoma de San Luis Potosí",
+      "website": "http://www.uaslp.mx/",
+      "code": "1272",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=1",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Autónoma de Sinaloa",
+      "website": "http://www.uas.edu.mx/",
+      "code": "1255",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=1",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Autónoma de Tamaulipas",
+      "website": "https://www.uat.edu.mx/",
+      "code": "1290",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=2",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Autónoma de Tlaxcala",
+      "website": "https://www.uatx.mx/",
+      "code": "1291",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=2",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Autónoma de Yucatán",
+      "website": "http://www.uady.mx/",
+      "code": "1293",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=2",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Autónoma de Zacatecas \"Francisco García Salinas\"",
+      "website": "https://www.uaz.edu.mx/",
+      "code": "1299",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=2",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Autónoma del Carmen",
+      "website": "http://www.unacar.mx/",
+      "code": "1275",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=2",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Autónoma del Estado de Hidalgo",
+      "website": "https://www.uaeh.edu.mx/",
+      "code": "1302",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=2",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Autónoma del Estado de México",
+      "website": "http://www.uaemex.mx/",
+      "code": "1304",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=2",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Autónoma del Estado de Morelos",
+      "website": "https://www.uaem.mx/",
+      "code": "1311",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=2",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Autónoma del Estado de Quintana Roo",
+      "website": "http://www.uqroo.mx/",
+      "code": "1267",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=2",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Autónoma Indígena de México",
+      "website": "https://www.uaim.edu.mx/portal/",
+      "code": "1268",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=2",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad de Colima",
+      "website": "https://www.ucol.mx/",
+      "code": "1296",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=2",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad de Guadalajara",
+      "website": "http://www.udg.mx/",
+      "code": "1249",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=2",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad de Guanajuato",
+      "website": "http://www.ugto.mx/",
+      "code": "1298",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=3",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad de la Cañada",
+      "website": "http://www.unca.edu.mx/",
+      "code": "1253",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=3",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad de la Ciénega del Estado de Michoacán de Ocampo",
+      "website": "https://ucemich.edu.mx/",
+      "code": "1316",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=3",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad de la Sierra",
+      "website": "http://www.unisierra.edu.mx/",
+      "code": "1286",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=3",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad de la Sierra Juárez",
+      "website": "http://www.unsij.edu.mx/",
+      "code": "1257",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=3",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad de la Sierra Sur",
+      "website": "http://www.unsis.edu.mx/",
+      "code": "1258",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=3",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad de Oriente",
+      "website": "http://www.uno.edu.mx/",
+      "code": "1294",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=3",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad de Sonora",
+      "website": "https://www.unison.mx/",
+      "code": "1279",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=3",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad del Caribe",
+      "website": "http://www.unicaribe.mx/",
+      "code": "1269",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=3",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad del Istmo",
+      "website": "http://www.unistmo.edu.mx/",
+      "code": "1254",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=3",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad del Mar",
+      "website": "http://www.umar.mx/",
+      "code": "1251",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=3",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad del Papaloapan",
+      "website": "https://www.unpa.edu.mx/",
+      "code": "1256",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=3",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad del Pueblo Yaqui",
+      "website": "https://uniyaqui.sonora.edu.mx",
+      "code": "16573",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=4",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Estatal de Sonora",
+      "website": "https://www.ues.mx/",
+      "code": "1285",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=4",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Estatal del Valle de Ecatepec",
+      "website": "http://www.uneve.edu.mx/",
+      "code": "1306",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=4",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Estatal del Valle de Toluca",
+      "website": "https://unevt.edomex.gob.mx/",
+      "code": "1307",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=4",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Intercultural de Baja California",
+      "website": "https://uibc.edu.mx/",
+      "code": "16436",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=4",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Intercultural de Campeche",
+      "website": "https://uicam.edu.mx/",
+      "code": "16480",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=4",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Intercultural de Chiapas",
+      "website": "https://www.unich.edu.mx/",
+      "code": "1280",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=4",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Intercultural de Colima",
+      "website": "https://uicolima.edu.mx",
+      "code": "16437",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=4",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Intercultural de Jalisco",
+      "website": "https://www.uij.edu.mx/",
+      "code": "16881",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=4",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Intercultural de San Luis Potosí",
+      "website": "https://www.uicslp.edu.mx/",
+      "code": "1273",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=4",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Intercultural de Tlaxcala",
+      "website": "https://uit.edu.mx/",
+      "code": "16607",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=4",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Intercultural del Estado de Guanajuato",
+      "website": "https://uigto.com.mx",
+      "code": "16438",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=4",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Intercultural del Estado de Guerrero",
+      "website": "https://uiegedu.com/",
+      "code": "1301",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=5",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Intercultural del Estado de Hidalgo",
+      "website": "http://www.uiceh.edu.mx/",
+      "code": "1303",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=5",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Intercultural del Estado de México",
+      "website": "http://uiem.edomex.gob.mx/",
+      "code": "1308",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=5",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Intercultural del Estado de Puebla",
+      "website": "https://www.uiep.edu.mx/",
+      "code": "1265",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=5",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Intercultural del Estado de Tabasco",
+      "website": "http://www.uiet.edu.mx/",
+      "code": "1289",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=5",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Intercultural del Pueblo",
+      "website": "https://uip.edu.mx/",
+      "code": "16879",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=5",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Intercultural Indígena de Michoacán",
+      "website": "https://www.uiim.edu.mx/",
+      "code": "1310",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=5",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Intercultural Maya de Quintana Roo",
+      "website": "http://uimqroo.edu.mx/",
+      "code": "1270",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=5",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Intercultural para la Igualdad",
+      "website": "https://www.uniti.edu.mx/",
+      "code": "16880",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=5",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Interserrana del Estado de Puebla-Ahuacatlán",
+      "website": "https://www.uiepa.edu.mx/",
+      "code": "1264",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=5",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Interserrana del Estado de Puebla-Chilchotla",
+      "website": "http://uich.edu.mx/",
+      "code": "1263",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=5",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Juárez Autónoma de Tabasco",
+      "website": "http://www.ujat.mx/",
+      "code": "1287",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=5",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Juárez del Estado de Durango",
+      "website": "https://www.ujed.mx/",
+      "code": "1297",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=6",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Mexiquense del Bicentenario",
+      "website": "http://umb.edomex.gob.mx/",
+      "code": "1305",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=6",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Michoacana de San Nicolás de Hidalgo",
+      "website": "http://www.umich.mx/",
+      "code": "1309",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=6",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Popular de la Chontalpa",
+      "website": "https://upch.mx/",
+      "code": "1288",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=6",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Tecnológica de la Mixteca",
+      "website": "http://www.utm.mx/",
+      "code": "1259",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=6",
+      "retrieved": "2026-10-20"
+    },
+    {
+      "name": "Universidad Veracruzana",
+      "website": "https://www.uv.mx/",
+      "code": "1292",
+      "source": "https://dgesui.ses.sep.gob.mx/instituciones?categoria=All&combine=&estado=All&page=6",
+      "retrieved": "2026-10-20"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "date": "2026-10-20",
+  "works": [
+    {
+      "url": "https://arxiv.org/html/2306.14378v1",
+      "title": "A study on information disorders on social networks during the Chilean social outbreak and COVID-19 pandemic",
+      "year": 2023,
+      "scope": [
+        "Chile"
+      ],
+      "topic": "Desinformación",
+      "description": "Coautoría de un estudio de circulación de desinformación en Twitter, Facebook e Instagram durante crisis políticas y sanitarias en Chile.",
+      "authors": [
+        [
+          "Marcelo Mendoza",
+          "Pontificia Universidad Católica de Chile",
+          "Chile"
+        ],
+        [
+          "Sebastián Valenzuela",
+          "Pontificia Universidad Católica de Chile",
+          "Chile"
+        ],
+        [
+          "Enrique Núñez-Mussa",
+          "Michigan State University",
+          "Estados Unidos"
+        ],
+        [
+          "Fabián Padilla",
+          "Fast Check CL",
+          "Chile"
+        ],
+        [
+          "Eliana Providel",
+          "Universidad de Valparaíso",
+          "Chile"
+        ],
+        [
+          "Sebastián Campos",
+          "Universidad Técnica Federico Santa María",
+          "Chile"
+        ],
+        [
+          "Renato Bassi",
+          "Universidad Técnica Federico Santa María",
+          "Chile"
+        ],
+        [
+          "Andrea Riquelme",
+          "Universidad de Talca",
+          "Chile"
+        ],
+        [
+          "Valeria Aldana",
+          "Universidad San Sebastián",
+          "Chile"
+        ],
+        [
+          "Claudia López",
+          "Universidad Técnica Federico Santa María",
+          "Chile"
+        ]
+      ],
+      "doi": "10.3390/app13095347"
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s43545-022-00392-x",
+      "title": "The electoral success of social media losers: a study on the usage and influence of Twitter in times of elections in Paraguay",
+      "year": 2022,
+      "scope": [
+        "Paraguay"
+      ],
+      "topic": "Política y democracia",
+      "description": "Coautoría de un análisis de conversaciones, influencia y actividad electoral en Twitter durante las elecciones paraguayas de 2017–2018.",
+      "authors": [
+        [
+          "Jorge Saldivar",
+          "Complutense University of Madrid",
+          "España"
+        ],
+        [
+          "Cristhian Parra",
+          "United Nations Development Programme, Asuncion",
+          "Paraguay"
+        ],
+        [
+          "Mical Laconich",
+          "University of Cambridge",
+          "Reino Unido"
+        ],
+        [
+          "Luca Cernuzzi",
+          "Catholic University Nuestra Señora de la Asuncion",
+          "Paraguay"
+        ]
+      ],
+      "doi": "10.1007/s43545-022-00392-x"
+    },
+    {
+      "title": "MediaTIC: Una plataforma analítica de medios digitales costarricenses en redes sociales",
+      "url": "https://revistas.tec.ac.cr/index.php/tec_marcha/article/view/5070",
+      "year": 2020,
+      "doi": "10.18845/tm.v33i5.5070",
+      "authors": [
+        [
+          "Cristina Soto-Rojas",
+          "Centro Nacional de Alta Tecnología",
+          "Costa Rica"
+        ],
+        [
+          "Carlos Gamboa-Venegas",
+          "Centro Nacional de Alta Tecnología",
+          "Costa Rica"
+        ],
+        [
+          "Adriana Céspedes-Vindas",
+          "Universidad Estatal a Distancia",
+          "Costa Rica"
+        ]
+      ]
+    },
+    {
+      "title": "Análisis de redes sociales: Identificación de comunidades virtuales en Twitter",
+      "url": "https://ri.ufg.edu.sv/jspui/bitstream/11592/9307/1/9095-Texto%20del%20art%C3%ADculo-32560-1-10-20200123.pdf",
+      "year": 2019,
+      "doi": "",
+      "authors": [
+        [
+          "James Edward Humberstone Morales",
+          "Universidad Francisco Gavidia",
+          "El Salvador"
+        ],
+        [
+          "Fernando José Alvarez Alens",
+          "Universidad Francisco Gavidia",
+          "El Salvador"
+        ]
+      ]
+    }
+  ],
+  "integratedIds": [
+    "paper-4e2d21f71dd6",
+    "paper-04e7da05580f",
+    "paper-62ac0594b2ee"
+  ],
+  "rule": "Coautoría por artículo; afiliaciones temporales del artículo, sin inferir cargo actual."
+}

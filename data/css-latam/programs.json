@@ -524,5 +524,59 @@
     ],
     "peopleSource": "https://cic.uniandes.edu.co/equipo/hdig/",
     "checked": "2026-10-20"
+  },
+  {
+    "name": "Ciencias Sociales con Python",
+    "institution": "Universidad Autónoma Gabriel René Moreno",
+    "country": "Bolivia",
+    "type": "Curso",
+    "url": "https://cir.uagrm.edu.bo/courses.html",
+    "status": "Edición 2025 documentada; nueva convocatoria no confirmada",
+    "description": "Python, redes sociales, minería de texto y aprendizaje automático aplicado a datos sociales.",
+    "modality": "",
+    "people": [
+      "Ricardo Alonzo Fernández Salguero"
+    ],
+    "peoplePeriod": "2025",
+    "peopleSource": "https://cir.uagrm.edu.bo/courses.html",
+    "checked": "2026-10-20"
+  },
+  {
+    "name": "Introducción a la Ciencia de Datos para Científicos Sociales",
+    "institution": "Universidad Autónoma Gabriel René Moreno",
+    "country": "Bolivia",
+    "type": "Curso",
+    "url": "https://cir.uagrm.edu.bo/courses.html",
+    "status": "Edición 2025 documentada; nueva convocatoria no confirmada",
+    "description": "Preparación, exploración y análisis de datos sociales; ética y comunicación de resultados.",
+    "modality": "",
+    "people": [
+      "Daniel Hurtado Justiniano"
+    ],
+    "peoplePeriod": "2025",
+    "peopleSource": "https://cir.uagrm.edu.bo/courses.html",
+    "checked": "2026-10-20"
+  },
+  {
+    "name": "Escola de Inverno em Humanidades Digitais e Ciências Sociais Computacionais",
+    "institution": "FGV CPDOC",
+    "country": "Brasil",
+    "type": "Escuela",
+    "url": "https://cpdoc.fgv.br/2022-dh-css",
+    "status": "Edición 2022 documentada; nueva convocatoria no confirmada",
+    "description": "Escuela con talleres y conferencias de programación, datos sociales y patrimonio digital.",
+    "modality": "",
+    "people": [
+      "Renato Souza",
+      "Suemi Higuchi",
+      "Jairo Nicolau",
+      "Jimmy Medeiros",
+      "Martim Passos",
+      "Eduardo Mello",
+      "José Manuel Magallanes"
+    ],
+    "peoplePeriod": "2022",
+    "peopleSource": "https://cpdoc.fgv.br/2022-dh-css",
+    "checked": "2026-10-20"
   }
 ]

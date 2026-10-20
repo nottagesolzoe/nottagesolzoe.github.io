@@ -40,5 +40,7 @@ def layout(part):
  for n in part['nodes']:
   px,py=positions[n['id']];n['x']=round(40+px/max(width,1)*900,2);n['y']=round(65+py/max(height,1)*610,2)
 for key in ['affiliations','coauthors','institutions']:layout(N[key])
+D=json.loads((DATA/'directory.json').read_text())
+N['stats'].update(people=sum(x['type']=='Persona' for x in D),organizations=sum(x['type']!='Persona' for x in D),papers=len(P),authors=len(G),edges=G.number_of_edges(),components=len(cc),largest=len(cc[0]) if cc else 0,communities=len(communities),density=nx.density(G),institutionNodes=len(N['institutions']['nodes']),institutionEdges=len(N['institutions']['edges']),papersWithAffiliations=sum(bool(x.get('institutions')) for x in P))
 (DATA/'network.json').write_text(json.dumps(N,ensure_ascii=False))
 print('Validated projection:',len(G),'authors,',G.number_of_edges(),'edges;',len(cc),'components')
