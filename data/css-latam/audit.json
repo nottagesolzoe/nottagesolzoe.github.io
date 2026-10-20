@@ -229,6 +229,16 @@
       "date": "2026-10-20",
       "decision": "Excluir Historias del arte en Colombia y consolidar Citizens at the forefront por DOI.",
       "reason": "Control manual de falsos positivos y duplicados"
+    },
+    {
+      "date": "2026-10-20",
+      "decision": "Retirar del informe gráficos, tablas y menciones nominales de centralidad de personas. Conservar nombres en búsqueda, mapa y fichas.",
+      "reason": "Preferencia expresa de la usuaria."
+    },
+    {
+      "date": "2026-10-20",
+      "decision": "Simplificar lenguaje de navegación y fichas; reservar métodos y términos técnicos para el informe.",
+      "reason": "Preferencia expresa de la usuaria."
     }
   ],
   "searchLog": [

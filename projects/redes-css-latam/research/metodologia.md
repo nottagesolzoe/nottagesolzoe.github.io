@@ -40,3 +40,6 @@ Se localizó el listado oficial argentino de instituciones universitarias de 202
 
 ### Reproducción y decisiones de visualización
 El script build_network.py comprueba que cada arista de coautoría se deriva del corpus y reproduce las métricas con NetworkX 3.7. Louvain utiliza resolución 1 y semilla 42. La disposición se calcula por componente y se organiza en recuadros proporcionales a su tamaño; la proximidad entre componentes no tiene interpretación analítica. Los filtros afectan la vista, no las métricas globales. El gráfico de países utiliza exclusivamente CSS directa y base regional documentada. El gráfico de instituciones cuenta perfiles CSS directa con afiliación documentada y admite múltiples afiliaciones.
+
+### Presentación del informe
+Por solicitud de la autora, el informe presenta resultados estructurales agregados y gráficos por país e institución, sin rankings nominales de personas. Los nombres se conservan en el explorador y en las fichas para facilitar la búsqueda.
