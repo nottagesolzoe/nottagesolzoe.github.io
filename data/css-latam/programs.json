@@ -1,0 +1,188 @@
+[
+  {
+    "name": "Especialización en Ciencias Sociales Computacionales",
+    "institution": "Universidad Nacional Guillermo Brown",
+    "country": "Argentina",
+    "type": "Especialización",
+    "url": "https://www.unab.edu.ar/especializacion-cs-computacionales/",
+    "status": "Cohorte 2026 en curso; próxima admisión no verificada",
+    "description": "Python, aprendizaje automático, texto y datos geoespaciales. 424 horas; abril a diciembre de 2026.",
+    "modality": "Virtual",
+    "people": [],
+    "checked": "2026-10-20"
+  },
+  {
+    "name": "Diploma en Ciencias Sociales Computacionales y Humanidades Digitales",
+    "institution": "UNSAM",
+    "country": "Argentina",
+    "type": "Diploma",
+    "url": "https://www.unsam.edu.ar/escuelas/eidaes/671/idaes/ciencias-sociales-computacionales-humanidades-digitales",
+    "status": "Inicio anunciado: mayo de 2026; vigencia de inscripción por confirmar",
+    "description": "Formación en R, visualización, modelos y minería de texto. La web conserva un anuncio de inscripción de la cohorte iniciada en mayo.",
+    "modality": "Virtual",
+    "people": [
+      "Germán Rosati",
+      "Pablo Tiscornia",
+      "Guido Weksler",
+      "Florencia Piñeyrúa",
+      "Nayla Sol Garcilazo",
+      "Santiago Núñez Rimedio",
+      "Valentín Álvarez",
+      "Magalí Rodrigues Pires",
+      "José Sánchez",
+      "Tomás Maguire",
+      "Zacarías Abuchanab",
+      "Joaquín Zajac"
+    ],
+    "checked": "2026-10-20"
+  },
+  {
+    "name": "Diplomatura en Ciencia de Datos para Ciencias Sociales",
+    "institution": "UNC / Universidad Nacional de Villa María",
+    "country": "Argentina",
+    "type": "Diplomatura",
+    "url": "https://sociales.unc.edu.ar/content/diplomatura-universitaria-de-estudios-avanzados-en-ciencia-de-datos-para-ciencias-sociales",
+    "status": "Programa anunciado en agosto de 2026; admisión no verificada",
+    "description": "Convenio entre FCS y FAMAF de UNC e IAPCS de UNVM. 225 horas, 11 meses. Extracción de datos, aprendizaje automático y NLP.",
+    "modality": "Remota sincrónica",
+    "people": [
+      "Susana Morales",
+      "Valentín Basel",
+      "Gabriela Artazo",
+      "Miguel Pagano"
+    ],
+    "checked": "2026-10-20"
+  },
+  {
+    "name": "Alfabetización en datos: habilidades para una ciudadanía digital ampliada",
+    "institution": "CETyS / Universidad de San Andrés",
+    "country": "Argentina",
+    "type": "Iniciativa de investigación",
+    "url": "https://pensarcondatos.com/sobre-nosotros/",
+    "status": "Proyecto documentado; convocatoria no aplicable",
+    "description": "Investigación y formación en alfabetización en datos y ciudadanía digital.",
+    "modality": "No aplica",
+    "people": [
+      "Carolina Aguerre",
+      "Carolina Gruffat"
+    ],
+    "checked": "2026-10-20"
+  },
+  {
+    "name": "Ciencia de Datos para las Ciencias Sociales y la Gestión Pública",
+    "institution": "QLAB / PUCP",
+    "country": "Perú",
+    "type": "Diplomatura",
+    "url": "https://qlab.pucp.edu.pe/cursos/diplomatura-qlab",
+    "status": "Inscripción 2026 cerrada el 31 de julio",
+    "description": "240 horas. Cohorte agosto de 2026 a mayo de 2027. Métodos computacionales, IA e inferencia causal para profesionales de ciencias sociales y gestión pública.",
+    "modality": "No verificada",
+    "people": [
+      "Pavel Coronado",
+      "Angelo Cozzubo",
+      "Brian Alarcón",
+      "José Incio",
+      "Yuriko Sosa"
+    ],
+    "checked": "2026-10-20"
+  },
+  {
+    "name": "Doctorado en Ciencias de la Complejidad Social",
+    "institution": "Universidad del Desarrollo",
+    "country": "Chile",
+    "type": "Doctorado",
+    "url": "https://gobierno.udd.cl/dccs/admision/",
+    "status": "Postulación 2027 cerrada el 10 de octubre de 2026",
+    "description": "Inicio anunciado para marzo de 2027. Consultar el sitio para nuevas convocatorias; no se presenta como admisión abierta.",
+    "modality": "No verificada",
+    "people": [],
+    "checked": "2026-10-20"
+  },
+  {
+    "name": "Ciencia de datos sociales: datos desde Internet",
+    "institution": "Pontificia Universidad Católica de Chile",
+    "country": "Chile",
+    "type": "Curso",
+    "url": "https://educacioncontinua.uc.cl/programas/ciencia-de-datos-sociales-aprende-a-obtener-y-analizar-datos-sociales-desde-internet/",
+    "status": "Oferta documentada; fechas no verificadas",
+    "description": "Métodos computacionales aplicados a datos sociales, texto y redes.",
+    "modality": "No verificada",
+    "people": [
+      "Mauricio Bucca",
+      "Pablo Beytía"
+    ],
+    "checked": "2026-10-20"
+  },
+  {
+    "name": "Mestrado Profissional em Comunicação Digital e Cultura de Dados",
+    "institution": "FGV Comunicação",
+    "country": "Brasil",
+    "type": "Maestría",
+    "url": "https://mestrado-doutorado.fgv.br/curso/mestrado-profissional/rio-de-janeiro/comunicacao-digital-e-cultura-de-dados",
+    "status": "Proceso 2026 cerrado; nuevas fechas por confirmar",
+    "description": "Comunicación digital y análisis de datos. El proceso publicado de mayo a junio de 2026 corresponde a ingreso en agosto.",
+    "modality": "No verificada",
+    "people": [],
+    "checked": "2026-10-20"
+  },
+  {
+    "name": "SICSS Buenos Aires 2026",
+    "institution": "UNSAM",
+    "country": "Argentina",
+    "type": "Escuela de verano",
+    "url": "https://sicss.io/2026/buenos-aires/",
+    "status": "Edición concluida: 10–21 de agosto de 2026",
+    "description": "Formación e intercambio en ciencias sociales computacionales. Consultar próximas ediciones; participar no implica coautoría.",
+    "modality": "No verificada",
+    "people": [],
+    "checked": "2026-10-20"
+  },
+  {
+    "name": "SICSS Brazil 2026",
+    "institution": "SICSS Brazil",
+    "country": "Brasil",
+    "type": "Escuela de verano",
+    "url": "https://sicss.io/2026/brazil/",
+    "status": "Edición 2026 concluida",
+    "description": "Escuela de métodos computacionales para ciencias sociales. Fechas y admisión de nuevas ediciones pendientes.",
+    "modality": "No verificada",
+    "people": [],
+    "checked": "2026-10-20"
+  },
+  {
+    "name": "Escuela de verano: metodologías de investigación crítica en ciencias sociales",
+    "institution": "Universidad de los Andes",
+    "country": "Colombia",
+    "type": "Escuela de verano",
+    "url": "https://cienciassociales.uniandes.edu.co/programas/escuela-de-verano-metodologias-de-investigacion-critica-en-ciencias-sociales/",
+    "status": "Oferta documentada; próxima edición por confirmar",
+    "description": "La oferta incluye introducción a ciencias sociales computacionales, programación y análisis de datos.",
+    "modality": "No verificada",
+    "people": [],
+    "checked": "2026-10-20"
+  },
+  {
+    "name": "Escuela Internacional en Ciencias Sociales Computacionales",
+    "institution": "Universidad de la República / UMAD",
+    "country": "Uruguay",
+    "type": "Escuela",
+    "url": "https://cienciassociales.edu.uy/estudiantes/herramientas-computacionales-y-de-la-ciencia-de-datos-para-la-investigacion-social/",
+    "status": "Edición histórica de 2023",
+    "description": "Formación y debate sobre herramientas computacionales para investigación social. No se interpreta la participación en la apertura como docencia o coautoría.",
+    "modality": "No verificada",
+    "people": [],
+    "checked": "2026-10-20"
+  },
+  {
+    "name": "Gestión de datos y aprovechamiento de información mediante ciencia de datos",
+    "institution": "FLACSO Costa Rica",
+    "country": "Costa Rica",
+    "type": "Curso",
+    "url": "https://www.flacso.ac.cr/es/noticias/informacion/258-inicia-la-viii-edicion-de-la-escuela-de-verano",
+    "status": "Edición histórica de febrero de 2025",
+    "description": "Curso incluido en la VIII Escuela de Verano en Investigación Social. No hay convocatoria actual verificada.",
+    "modality": "No verificada",
+    "people": [],
+    "checked": "2026-10-20"
+  }
+]

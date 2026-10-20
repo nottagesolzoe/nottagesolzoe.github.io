@@ -154,3 +154,16 @@ Each paper has a directory under `docs/publications/` containing its PDF and a `
 - **Working papers (unpublished):** `0_LastName_ShortTitle/` (the `0` prefix means unpublished)
 - **Published papers:** `YYYY_LastName_ShortTitle/` (year prefix)
 - `ShortTitle` = first 2–3 significant title words, no spaces (e.g., `ImportantFinding`)
+
+## data/css-latam/ — regional CSS network project
+
+Rendered by `projects/redes-css-latam/map.js`. Public source records only.
+- `directory.json`: array of records with id, name, type, country, region, affiliation, scope, topics, methods, fit, description, sources[{title,url}], publication[title,url,description] or null, email, linkedin, checked, evidence, baseStatus.
+- `corpus.json`: deduplicated works, id, source, title, authors[{name,affiliations,orcid?}], authorIds, institutions, date, doi, type, provider, metadata_url.
+- `network.json`: affiliations/coauthors/institutions each containing nodes and edges. Edges source/target are node IDs; evidenceUrl is a source URL; papers contains supporting work IDs. Nodes retain coordinates, country, kind, record? and coauthor metrics. stats records full-corpus totals. Filters do not recalculate metrics.
+- `programs.json`: name, institution, country, type, url, status, description, modality, people, checked. A listed program does not imply admissions are currently open.
+- `coverage.json`: incomplete national inventory status, nationalSources, and individual program reviews. Reviews do not imply exhaustive institutional coverage.
+- `audit.json`: dated decisions, author aliases, excluded records and reasons, limitations.
+- `project.json`: title, description, label, url, rendered on Projects by `js/css-project-card.js`.
+
+Metric and layout reproduction: `python3 projects/redes-css-latam/research/build_network.py` (networkx 3.7). The script checks the coauthor projection against the reviewed corpus and recalculates centralities. Source collection is documented separately in research/metodologia.md.

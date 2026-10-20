@@ -1,0 +1,147 @@
+{
+  "status": "Cobertura parcial. Inventarios nacionales pendientes de completar.",
+  "sequence": "Argentina → inventarios y revisión por país en el resto de LATAM",
+  "nationalSources": [
+    {
+      "country": "Argentina",
+      "url": "https://www.argentina.gob.ar/educacion/universidades/informacion-universitaria/instituciones-universitarias",
+      "status": "Fuente oficial localizada; inventario aún no extraído completamente"
+    }
+  ],
+  "reviews": [
+    {
+      "country": "Argentina",
+      "institution": "Universidad Nacional Guillermo Brown",
+      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "url": "https://www.unab.edu.ar/especializacion-cs-computacionales/",
+      "date": "2026-10-20",
+      "peopleReviewed": []
+    },
+    {
+      "country": "Argentina",
+      "institution": "UNSAM",
+      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "url": "https://www.unsam.edu.ar/escuelas/eidaes/671/idaes/ciencias-sociales-computacionales-humanidades-digitales",
+      "date": "2026-10-20",
+      "peopleReviewed": [
+        "Germán Rosati",
+        "Pablo Tiscornia",
+        "Guido Weksler",
+        "Florencia Piñeyrúa",
+        "Nayla Sol Garcilazo",
+        "Santiago Núñez Rimedio",
+        "Valentín Álvarez",
+        "Magalí Rodrigues Pires",
+        "José Sánchez",
+        "Tomás Maguire",
+        "Zacarías Abuchanab",
+        "Joaquín Zajac"
+      ]
+    },
+    {
+      "country": "Argentina",
+      "institution": "UNC / Universidad Nacional de Villa María",
+      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "url": "https://sociales.unc.edu.ar/content/diplomatura-universitaria-de-estudios-avanzados-en-ciencia-de-datos-para-ciencias-sociales",
+      "date": "2026-10-20",
+      "peopleReviewed": [
+        "Susana Morales",
+        "Valentín Basel",
+        "Gabriela Artazo",
+        "Miguel Pagano"
+      ]
+    },
+    {
+      "country": "Argentina",
+      "institution": "CETyS / Universidad de San Andrés",
+      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "url": "https://pensarcondatos.com/sobre-nosotros/",
+      "date": "2026-10-20",
+      "peopleReviewed": [
+        "Carolina Aguerre",
+        "Carolina Gruffat"
+      ]
+    },
+    {
+      "country": "Perú",
+      "institution": "QLAB / PUCP",
+      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "url": "https://qlab.pucp.edu.pe/cursos/diplomatura-qlab",
+      "date": "2026-10-20",
+      "peopleReviewed": [
+        "Pavel Coronado",
+        "Angelo Cozzubo",
+        "Brian Alarcón",
+        "José Incio",
+        "Yuriko Sosa"
+      ]
+    },
+    {
+      "country": "Chile",
+      "institution": "Universidad del Desarrollo",
+      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "url": "https://gobierno.udd.cl/dccs/admision/",
+      "date": "2026-10-20",
+      "peopleReviewed": []
+    },
+    {
+      "country": "Chile",
+      "institution": "Pontificia Universidad Católica de Chile",
+      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "url": "https://educacioncontinua.uc.cl/programas/ciencia-de-datos-sociales-aprende-a-obtener-y-analizar-datos-sociales-desde-internet/",
+      "date": "2026-10-20",
+      "peopleReviewed": [
+        "Mauricio Bucca",
+        "Pablo Beytía"
+      ]
+    },
+    {
+      "country": "Brasil",
+      "institution": "FGV Comunicação",
+      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "url": "https://mestrado-doutorado.fgv.br/curso/mestrado-profissional/rio-de-janeiro/comunicacao-digital-e-cultura-de-dados",
+      "date": "2026-10-20",
+      "peopleReviewed": []
+    },
+    {
+      "country": "Argentina",
+      "institution": "UNSAM",
+      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "url": "https://sicss.io/2026/buenos-aires/",
+      "date": "2026-10-20",
+      "peopleReviewed": []
+    },
+    {
+      "country": "Brasil",
+      "institution": "SICSS Brazil",
+      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "url": "https://sicss.io/2026/brazil/",
+      "date": "2026-10-20",
+      "peopleReviewed": []
+    },
+    {
+      "country": "Colombia",
+      "institution": "Universidad de los Andes",
+      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "url": "https://cienciassociales.uniandes.edu.co/programas/escuela-de-verano-metodologias-de-investigacion-critica-en-ciencias-sociales/",
+      "date": "2026-10-20",
+      "peopleReviewed": []
+    },
+    {
+      "country": "Uruguay",
+      "institution": "Universidad de la República / UMAD",
+      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "url": "https://cienciassociales.edu.uy/estudiantes/herramientas-computacionales-y-de-la-ciencia-de-datos-para-la-investigacion-social/",
+      "date": "2026-10-20",
+      "peopleReviewed": []
+    },
+    {
+      "country": "Costa Rica",
+      "institution": "FLACSO Costa Rica",
+      "stage": "Programa revisado; universidad no revisada exhaustivamente",
+      "url": "https://www.flacso.ac.cr/es/noticias/informacion/258-inicia-la-viii-edicion-de-la-escuela-de-verano",
+      "date": "2026-10-20",
+      "peopleReviewed": []
+    }
+  ]
+}

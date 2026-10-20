@@ -1,0 +1,257 @@
+{
+  "date": "2026-10-20",
+  "aliases": {
+    "jussara m almeida": "Jussara Marques de Almeida",
+    "jussara almeida": "Jussara Marques de Almeida",
+    "julio c s reis": "Julio Cesar Soares dos Reis",
+    "filipe n ribeiro": "Filipe Nunes Ribeiro",
+    "marcos goncalves": "Marcos André Gonçalves",
+    "humberto t marques neto": "Humberto Torres Marques Neto",
+    "carlos h g ferreira": "Carlos Henrique Gomes Ferreira",
+    "wagner meira jr": "Wagner Meira Júnior",
+    "pedro o s vaz de melo": "Pedro Olmo Stancioli Vaz de Melo",
+    "philipe melo": "Philipe de Freitas Melo",
+    "carlos pineda": "Carlos Francisco Pineda Zorrilla",
+    "gerardo iniguez": "Gerardo Iñiguez González",
+    "martin zumaya": "Martín Zumaya Hernández",
+    "jose manuel magallanes reyes": "José Manuel Magallanes",
+    "felipe urrutia": "Felipe Urrutia Vargas",
+    "sofia m del pozo": "Sofía Morena del Pozo",
+    "antonio vazquez brust": "Antonio Vázquez Brust",
+    "carlos rodriguez sickert": "Carlos Rodríguez-Sickert"
+  },
+  "excluded": [
+    {
+      "source": "https://criss-lab.com/publication/disadvantaged-students-collective-intelligence-2022/",
+      "title": "Disadvantaged students increase their academic performance through collective intelligence exposure in emergency remote learning due to COVID-19",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://www.gaceta.unam.mx/investigadores-del-iimas-ganan-el-google-academic-research-award-2024/",
+      "title": "Tejedores comunitarios de inteligencia artificial y soluciones basadas en la naturaleza (2024)",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://midiademocracia.fgv.br/estudos/inteligencia-artificial-no-mundo",
+      "title": "Inteligência Artificial no mundo (2024)",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://criss-lab.com/publication/game-theory-classroom-2024/",
+      "title": "Game theory in the classroom: low cooperative relationships identify bullying patterns in elementary schools",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://orion.tec.ac.cr/es/projects/establecimiento-de-la-l%C3%ADnea-de-investigaci%C3%B3n-en-computaci%C3%B3n-socia/",
+      "title": "Establecimiento de la línea de investigación en Computación Social (2025–2026)",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://colsan.repositorioinstitucional.mx/jspui/handle/1013/1773",
+      "title": "Python para el modelado y simulación basado en agentes en las ciencias sociales (2025)",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://martinopertti.github.io/Publications/",
+      "title": "A Multidimensional Analysis of Political Homophily Among Politically Active Twitter Users in Uruguay (2025)",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://criss-lab.com/publication/self-select-groups-2025/",
+      "title": "Self-select groups increase stability but reduce collaboration in high school physics",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://revistas.unlp.edu.ar/JAIIO/article/view/22154",
+      "title": "Evolución estructural de la red migratoria internacional (1990–2024) (2026)",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://www.jensantos.net/home",
+      "title": "Rising Voices, Changing Coasts",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://historiasinternet.uniandes.edu.co/acerca-de/",
+      "title": "Historias del Internet en Colombia",
+      "reason": "Coincidencia falsa de título"
+    },
+    {
+      "source": "https://www.aacademica.org/jesicalorenapla/118.pdf?view=",
+      "title": "La simulación computacional de la complejidad social",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://fabiomalini.com/about/",
+      "title": "A internet e a Rua (2013)",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10637198/",
+      "title": "A Bayesian spatial voting model to characterize the legislative behavior of the Colombian Senate 2010–2014",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://fund.ar/publicacion/usos-inteligentes-de-datos-en-el-estado/",
+      "title": "Usos inteligentes de datos en el Estado (2024)",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://doi.org/10.1590/1809-58442025109en",
+      "title": "From newspapers to newsfeeds: How traditional media and Facebook legitimized antidemocratic discourses in Brazil and Argentina during the elections (2025)",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://electionsbr.com/novo/articles/introduction.html",
+      "title": "electionsBR (software de investigación electoral)",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://fund.ar/wp-content/uploads/2024/04/Fundar_Sesgos_algoritmicos_y_representacion_social_en_los_modelos_de_lenguaje_generativo_CC-BY-NC-ND-4.0-1.pdf",
+      "title": "Sesgos algorítmicos y representación social en los modelos de lenguaje generativo (LLM) (2024)",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://criss-lab.com/publication/interconnectedness-education-systems-2025/",
+      "title": "Interconnectedness in Education Systems",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://condadolab.org/people/coordenador/",
+      "title": "#vaipracuba: a gênese das redes de direita no Facebook",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://ccristancho.github.io/",
+      "title": "The Presidential Speeches Dataset: Formal and Informal Speechmaking in Latin America, 1999–2023",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://www.nature.com/articles/s41598-026-42549-1",
+      "title": "Systemic risk mitigation in supply chains through network rewiring (2026)",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://pure.uai.cl/en/persons/gonzalo-ruz/",
+      "title": "Learning threshold networks for social and biological applications (2023–2027)",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://www.elinagomez.com/blog/2025-02-09-violencia-mujerespol/",
+      "title": "Violencia hacia mujeres políticas en X (ex-Twitter) en Uruguay (2024), publicado en 2025",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://netlab.eco.ufrj.br/post/detecting-fraudulent-campaigns-on-a-social-media-platform-with-text-based-machine-learning",
+      "title": "Detecting Fraudulent Campaigns on a Social Media Platform with Text-Based Machine Learning (2025)",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://www.jasss.org/17/1/14.html",
+      "title": "Modelling Tourism in the Galapagos Islands: An Agent-Based Model Approach (2014)",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://doi.org/10.37135/chk.002.21.01",
+      "title": "Acercamiento a un perfil lingüístico de potenciales agresores sexuales infantiles: análisis de intervenciones textuales online (2023)",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://meta.wikimedia.org/wiki/Research:Social_Memory_about_Chileans_in_Wikipedia",
+      "title": "Social Memory about Chileans in Wikipedia (2023–2024)",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://criss-lab.com/publication/cultural-proximity-collective-memory-2026/",
+      "title": "Cultural proximity reveals a local premium in collective memory",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://sicss.io/2026/bogota/people",
+      "title": "BioSignal",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://revistadesarrollos.uflo.edu.ar/index.php/RDCSC/article/download/10/26/57?inline=1",
+      "title": "Por una mirada amplia de las ciencias sociales computacionales (2026)",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://mediaengagement.org/wp-content/uploads/2024/10/CME-Generative-AI-Misinformation-in-the-2024-Mexican-Elections.pdf",
+      "title": "Generative AI misinformation in the 2024 Mexican elections (2024)",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://alex-roc.github.io/",
+      "title": "Portafolio de ciencia de datos e IA",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://revistas.unibague.edu.co/indagare/article/view/146",
+      "title": "Estudio de las relaciones colaborativas en proyectos: una aproximación desde el análisis de redes sociales (2018)",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://netlab.eco.ufrj.br/sobre",
+      "title": "Desvendando Comportamentos Inautênticos Coordenados no YouTube (2024–2026)",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    },
+    {
+      "source": "https://doi.org/10.1371/journal.pone.0267443",
+      "title": "Citizens at the forefront of the constitutional debate: Voluntary citizen participation determinants and emergent content in Chile",
+      "reason": "Duplicado de DOI o título"
+    },
+    {
+      "source": "https://editorial.ucuenca.edu.ec/omp/index.php/ucp/catalog/book/144",
+      "title": "Movilidad Urbana Sostenible: Fundamentos, conceptos y técnicas de análisis espacial (2025)",
+      "reason": "Metadatos incompletos o coincidencia insuficiente"
+    }
+  ],
+  "limitations": [
+    "Muestreo inicial por centros y referencias; expansión por programas en curso.",
+    "Inventario universitario nacional y regional todavía incompleto.",
+    "No se infieren coautorías de afiliaciones o docencia compartida.",
+    "Los perfiles de especialidad pendiente no se cuentan como CSS confirmada.",
+    "Las afiliaciones históricas de artículos no representan necesariamente empleo actual."
+  ],
+  "decisions": [
+    {
+      "date": "2026-10-20",
+      "decision": "Incorporar búsqueda país → universidades → programas → equipos → publicaciones, comenzando por Argentina y extendiendo a otros países.",
+      "reason": "Solicitud de cobertura sistemática del usuario"
+    },
+    {
+      "date": "2026-10-20",
+      "decision": "Conservar registro metodológico versionado y público.",
+      "reason": "Solicitud expresa del usuario"
+    },
+    {
+      "date": "2026-10-20",
+      "decision": "Excluir Historias del arte en Colombia y consolidar Citizens at the forefront por DOI.",
+      "reason": "Control manual de falsos positivos y duplicados"
+    }
+  ],
+  "searchLog": [
+    {
+      "date": "2026-10-20",
+      "query": "Carolina Gruffat datos",
+      "result": "Perfil CETyS, proyecto Pensar con Datos, LinkedIn y repositorio ANII identificados; incorporación en datos sociales aplicados."
+    },
+    {
+      "date": "2026-10-20",
+      "query": "Argentina universidades ciencias sociales computacionales maestría diplomatura",
+      "result": "UNSAM, UNaB y UNC-UNVM identificados; revisión de páginas oficiales y equipos."
+    },
+    {
+      "date": "2026-10-20",
+      "query": "Argentina listado instituciones universitarias oficiales universidades",
+      "result": "Inventario oficial 2024 localizado; revisión completa pendiente."
+    },
+    {
+      "date": "2026-10-20",
+      "query": "Consultas por dominio institucional en Uruguay, Colombia, Costa Rica y México sobre formación CSS",
+      "result": "Oferta e iniciativas localizadas; no equivale a barrido exhaustivo de universidades."
+    }
+  ],
+  "collectionLogLimit": "Los perfiles anteriores conservan fuentes y fechas, pero no existe un registro exhaustivo de cada consulta histórica. Las consultas nuevas se documentan desde este corte."
+}
