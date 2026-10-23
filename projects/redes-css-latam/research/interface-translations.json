@@ -85,6 +85,8 @@
   "TRAZABILIDAD": "TRACEABILITY",
   "Cómo se construyó": "How it was built",
   "Leer el protocolo completo ↗": "Read the full protocol ↗",
+  "Mismas personas que el mapa y los filtros activos, en todas las categorías. Personas únicas; país vinculado, no nacionalidad.": "The same people as the map and active filters, across all categories. Unique people; institutional country, not nationality.",
+  "Afiliaciones documentadas de las mismas personas seleccionadas. Una persona se cuenta una vez por institución y puede tener más de una afiliación. Se muestran las diez instituciones con más perfiles.": "Documented affiliations of the same selected people. Each person is counted once per institution and may have multiple affiliations. The ten institutions with the most profiles are shown.",
   "Registro oficial argentino: transcripción por entrada ↓": "Argentine official register: entry transcription ↓",
   "Registro del rastreo inicial ↓": "Preliminary site-screening log ↓"
 }
