@@ -1,5 +1,43 @@
 [
-  {"title":"AI and Global Politics","role":"Teaching Assistant","institution":"Northeastern University","term":"2026–ongoing","description":"Artificial intelligence, machine learning, and data analysis in international politics."},
-  {"title":"Public Opinion and International Relations","role":"Teaching Assistant","institution":"Universidad de San Andrés and Universidad Torcuato Di Tella","term":"2021–2025"},
-  {"title":"Applied Research with R and Power BI","role":"Instructor","institution":"ORT Argentina","term":"2021–2024"}
+  {
+    "title": "AI and Global Politics",
+    "role": "Teaching Assistant",
+    "institution": "Northeastern University",
+    "term": "2026–ongoing",
+    "description": "Artificial intelligence, machine learning, and data analysis in international politics."
+  },
+  {
+    "title": "Applied Research with R and Power BI",
+    "role": "Instructor",
+    "institution": "ORT Argentina",
+    "term": "2021–2024"
+  },
+  {
+    "title": "Opinión Pública",
+    "role": "Teaching Assistant",
+    "institution": "Universidad de San Andrés",
+    "source": "Author clarification in chat, 2026-10-22",
+    "term": null
+  },
+  {
+    "title": "Política",
+    "role": "Teaching Assistant",
+    "institution": "Universidad de San Andrés",
+    "source": "Author clarification in chat, 2026-10-22",
+    "term": null
+  },
+  {
+    "title": "Taller de Tesis",
+    "role": "Teaching Assistant",
+    "institution": "Universidad de San Andrés",
+    "source": "Author clarification in chat, 2026-10-22",
+    "term": null
+  },
+  {
+    "title": "Introducción a las Relaciones Internacionales",
+    "role": "Teaching Assistant",
+    "institution": "Universidad Torcuato Di Tella",
+    "source": "Author clarification in chat, 2026-10-22",
+    "term": null
+  }
 ]

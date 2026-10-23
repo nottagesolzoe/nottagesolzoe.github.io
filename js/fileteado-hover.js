@@ -1,0 +1,8 @@
+(() => {
+ if (matchMedia('(prefers-reduced-motion: reduce)').matches || !matchMedia('(hover: hover)').matches) return;
+ const c=document.createElement('canvas');c.className='network-hover-canvas';c.setAttribute('aria-hidden','true');document.body.append(c);
+ const ctx=c.getContext('2d');let marks=[],frame=0,last=0;
+ function size(){const d=Math.min(devicePixelRatio||1,2);c.width=innerWidth*d;c.height=innerHeight*d;c.style.width=innerWidth+'px';c.style.height=innerHeight+'px';ctx.setTransform(d,0,0,d,0,0)}
+ function paint(now){ctx.clearRect(0,0,innerWidth,innerHeight);marks=marks.filter(m=>now-m.t<950);for(const m of marks){const age=(now-m.t)/950;ctx.save();ctx.translate(m.x,m.y);ctx.globalAlpha=.65*(1-age);ctx.lineWidth=1.6;for(const side of [-1,1]){ctx.save();ctx.scale(side,1);ctx.strokeStyle='#C7353C';ctx.beginPath();ctx.moveTo(8,12);ctx.bezierCurveTo(28,-18,66,-22,69,0);ctx.bezierCurveTo(72,17,49,20,52,3);ctx.bezierCurveTo(54,-4,62,-3,62,3);ctx.stroke();ctx.strokeStyle='#5B20D6';ctx.beginPath();ctx.moveTo(13,20);ctx.bezierCurveTo(32,1,47,-2,43,-15);ctx.stroke();ctx.restore()}ctx.restore()}frame=marks.length?requestAnimationFrame(paint):0}
+ document.addEventListener('pointermove',e=>{if(!e.target.closest('a,.page-hero,.simple-intro,.research-card'))return;const t=performance.now();if(t-last<300)return;last=t;marks.push({x:e.clientX,y:e.clientY+18,t});if(!frame)frame=requestAnimationFrame(paint)});addEventListener('resize',size);size();
+})();

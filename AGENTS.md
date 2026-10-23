@@ -1,11 +1,7 @@
-# Portfolio publishing
+# Sol’s portfolio
 
-GitHub Pages at https://nottagesolzoe.github.io/ is Sol’s primary public portfolio. Every portfolio update must be built, published here, and verified. Updating Sites alone is incomplete.
+Host and publish this personal website exclusively at https://nottagesolzoe.github.io/. Never create or deploy an alternative on Sites or another service unless Sol explicitly changes this instruction.
 
-The editable portfolio lives in portfolio-source/. Preserve additional projects, research datasets, and resources outside that directory. Build the static export and copy out/ to the repository root for publication.
+The current site is the original static HTML/CSS/JS portfolio recovered from the work of 2026-10-22. Edit the root HTML pages and their es/ equivalents, css/, js/, assets/, and relevant data/ files directly. No framework build is required. The old portfolio-source/ directory is a superseded migration attempt; do not build or copy it over this site.
 
-Approved visual identity: use local Rosario fonts for headings and body, restrained original fileteado porteño in red #C7353C and violet #5B20D6, and a predominantly white canvas. Preserve square boxes, mosaics, biographical narrative, EN/ES controls, the bilingual identity footer, and the linked Rosario credit. Do not restore decorative network cursor effects or substitute Arial/Georgia.
-
-## Exclusive website hosting (Sol, 2026-10-23)
-
-Sol explicitly requires her personal website to be hosted and published only at https://nottagesolzoe.github.io/. Never create, deploy, or maintain an alternative personal website on Sites or another hosting service unless Sol explicitly changes this decision. Existing Sites may be read as migration references only. Local previews are temporary development checks, not publication destinations. Every website update is complete only when published and verified on github.io.
+Preserve the exact recovered design, Rosario typography, original fileteado hover, red/violet accents, white background, square mosaics, complete About narrative, and separate English/Spanish pages. Preserve additional projects and current CSS atlas research data. Every update must be published and verified on github.io.

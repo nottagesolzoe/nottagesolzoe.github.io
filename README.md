@@ -1,9 +1,11 @@
 # Sol Zoe Nottage · Portfolio
 
-Canonical public site: https://nottagesolzoe.github.io/
+Canonical and exclusive public website: https://nottagesolzoe.github.io/
 
-The portfolio was migrated from Sites version 21 on 2026-10-23, preserving its seven pages, imagery, styles, English/Spanish selector, and interactive network effect. See portfolio-source/README.md for reproducible build and publishing instructions.
+This is the original static portfolio worked on 2026-10-22, recovered from its local source, including Rosario, the original fileteado effect, full About narrative, project mosaic, and separate English/Spanish pages. It is not the older Sites portfolio or a reinterpretation of its design.
 
-GitHub Pages publishes main from the repository root. The generated static export is committed alongside the editable source. The .nojekyll file ensures framework assets are served. Existing additional projects and research materials remain in place, including projects/redes-css-latam/.
+Edit the root pages and matching es/ pages, css/, js/, assets/, and relevant data/ files directly. GitHub Pages serves main from the repository root. No build is needed. Preserve .nojekyll and additional projects such as projects/redes-css-latam/.
 
-Every portfolio update must be published and verified at the canonical address. Publishing only to Sites does not complete an update.
+portfolio-reference-manifest.json records the exact recovered file hashes. portfolio-source/ contains a superseded migration attempt and must not be used to overwrite the recovered site.
+
+Every website update must be published and verified on github.io. Never publish this personal website to Sites or another host unless Sol explicitly changes this instruction.
