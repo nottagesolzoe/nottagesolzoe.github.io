@@ -1,0 +1,8 @@
+(() => {
+  if (matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+  const canvas=document.createElement("canvas");canvas.className="network-hover-canvas";canvas.setAttribute("aria-hidden","true");document.body.appendChild(canvas);const ctx=canvas.getContext("2d");let dpr=1,particles=[],raf=0,last=0;
+  function resize(){dpr=Math.min(devicePixelRatio||1,2);canvas.width=innerWidth*dpr;canvas.height=innerHeight*dpr;canvas.style.width=`${innerWidth}px`;canvas.style.height=`${innerHeight}px`;ctx.setTransform(dpr,0,0,dpr,0,0)}
+  function burst(x,y){const nodes=[{x,y,px:x,py:y}];for(let ring=1;ring<4;ring++){const count=ring*5;for(let i=0;i<count;i++){const a=Math.PI*2*i/count+Math.random()*.35,r=ring*34+Math.random()*24,p=nodes[Math.floor(Math.random()*Math.max(1,nodes.length-count))];nodes.push({x:x+Math.cos(a)*r,y:y+Math.sin(a)*r,px:p.x,py:p.y})}}particles.push({nodes,born:performance.now()});if(!raf)raf=requestAnimationFrame(draw)}
+  function draw(now){ctx.clearRect(0,0,innerWidth,innerHeight);particles=particles.filter(g=>now-g.born<1050);particles.forEach(g=>{const alpha=1-(now-g.born)/1050;g.nodes.forEach((n,i)=>{const c=i%3===0?"91,32,214":i%3===1?"156,112,255":"17,17,17";ctx.strokeStyle=`rgba(${c},${alpha*.65})`;ctx.beginPath();ctx.moveTo(n.px,n.py);ctx.lineTo(n.x,n.y);ctx.stroke();ctx.fillStyle=`rgba(${c},${alpha})`;ctx.beginPath();ctx.arc(n.x,n.y,i?2.2:4,0,Math.PI*2);ctx.fill()})});raf=particles.length?requestAnimationFrame(draw):0}
+  document.querySelectorAll(".network-trigger,.nav,.portfolio-tile,.page-hero").forEach(el=>el.addEventListener("pointermove",e=>{if(performance.now()-last<180)return;last=performance.now();burst(e.clientX,e.clientY)}));addEventListener("resize",resize);resize();
+})();

@@ -1,0 +1,12 @@
+import {SiteHeader} from "./site-chrome";
+
+const work=[
+ {category:"POWER BI · INTERNATIONAL SECURITY",title:"Arms Transfers Dashboard",image:"/linkedin-att-geneva.jpg",href:"/projects"},
+ {category:"ARCGIS · SPATIAL ANALYSIS",title:"Buenos Aires Crime Explorer",image:"/research-process.png",href:"https://storymaps.arcgis.com/stories/471f645af5884c52b1b134b2444c6dc9"},
+ {category:"NETWORK ANALYSIS · RESEARCH",title:"UN General Assembly Networks",image:"/original-rstudio.png",href:"/research"},
+ {category:"PUBLICATION · UNPOA BMS9",title:"Gender Responsive Small Arms Control",image:"/linkedin-un.jpg",href:"https://docs-library.unoda.org/Programme_of_Action_on_Small_Arms_and_Light_Weapons_-NinthBiennial_Meeting_of_States_(2026)/APP_WP__Judicial_Sentences_as_Evidence_for_Gender_Responsive_Small_Arms_Control_EN.pdf"},
+ {category:"TEACHING · NORTHEASTERN",title:"Methods in the Classroom",image:"/linkedin-teaching.jpg",href:"/research"},
+ {category:"PRESENTATION · ATT",title:"Evidence in the Room",image:"/linkedin-att-panel.jpg",href:"/presentations"}
+];
+
+export default function Home(){return <main className="simple-home"><SiteHeader/><section className="simple-intro network-trigger"><div><p className="intro-label">SOL ZOE NOTTAGE · COMPUTATIONAL SOCIAL SCIENCE</p><h1>Bridging social science<br/><span>and data.</span></h1><p className="intro-copy">I use computational methods to study international security, transparency, public opinion, and human rights.</p><div className="intro-actions"><a href="#work">VIEW WORK ↓</a><a href="/about">ABOUT ME →</a></div></div><img src="/linkedin-teaching.jpg" alt="Sol Zoe Nottage teaching at Northeastern University"/></section><section className="portfolio-wall" id="work"><div className="portfolio-heading"><span>SELECTED WORK</span><span>2021—2026</span></div><div className="portfolio-grid">{work.map((item,i)=><a className={`portfolio-tile tile-${i+1} network-trigger`} href={item.href} target={item.href.startsWith("http")?"_blank":undefined} rel={item.href.startsWith("http")?"noreferrer":undefined} key={item.title}><img src={item.image} alt=""/><div><span>{item.category}</span><h2>{item.title}</h2><b>↗</b></div></a>)}</div></section><footer className="simple-footer"><span>SOL ZOE NOTTAGE</span><a href="mailto:nottagesolzoe@gmail.com">EMAIL ↗</a><a href="https://www.linkedin.com/in/solzoenottage/" target="_blank" rel="noreferrer">LINKEDIN ↗</a><span>BOSTON / BUENOS AIRES</span></footer></main>}

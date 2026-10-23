@@ -1,0 +1,8 @@
+:HL["/_next/static/css/ce25e0739f819ce0.css","style"]
+:HL["/linkedin-teaching.jpg","image"]
+:HL["/linkedin-att-geneva.jpg","image"]
+:HL["/research-process.png","image"]
+:HL["/original-rstudio.png","image"]
+:HL["/linkedin-un.jpg","image"]
+:HL["/linkedin-att-panel.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"7x6WOCQqqHZJHVIVhPb3y"}
