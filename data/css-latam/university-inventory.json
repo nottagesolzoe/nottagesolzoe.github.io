@@ -61439,10 +61439,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Equipo o actividad computacional social documentados en fuentes consultadas",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Actividad computacional social documentada en fuente institucional",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -61452,6 +61452,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "eligible_team_documented",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -61482,10 +61488,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -61529,6 +61535,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "http://www.cetys.mx/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -61559,10 +61571,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -61606,6 +61618,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://uicui.edu.mx/index.php/inicio/historia"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -61628,7 +61646,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -61673,6 +61691,12 @@
       "checked": "2026-10-26",
       "nextAction": "Consultar ficha CETI en SEP o un documento institucional en otro origen. Subdominio Río Santiago localizado, apertura cachemiss; no hay ambigüedad de identidad.",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -61703,10 +61727,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -61750,6 +61774,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://universidadceu.mx/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -61772,7 +61802,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -61817,6 +61847,12 @@
       "reviewLevel": "access_and_identity_only_not_full_thematic_review",
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -61839,10 +61875,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -61852,6 +61888,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -61874,10 +61916,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -61919,6 +61961,12 @@
       "checked": "2026-10-26",
       "nextAction": "Reclasificar la entrada DGIT como dirección/sistema administrativo y comprobar su sucesión DGEST/TecNM con acto oficial. No contar una dirección general como universidad independiente.",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -61953,10 +62001,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -62000,6 +62048,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "http://www.colech.edu.mx/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -62027,10 +62081,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -62040,6 +62094,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -62070,10 +62130,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Equipo o actividad computacional social documentados en fuentes consultadas",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Actividad computacional social documentada en fuente institucional",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -62117,6 +62177,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "http://www.colmex.mx/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "eligible_team_documented",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -62151,10 +62217,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -62198,6 +62264,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://www.colson.edu.mx/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -62220,10 +62292,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -62233,6 +62305,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -62255,10 +62333,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -62268,6 +62346,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -62295,10 +62379,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -62308,6 +62392,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -62338,10 +62428,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -62385,6 +62475,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://www.ipn.mx/comunidad/organizacion/organizacion-y-estructura.html"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -62407,10 +62503,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -62420,6 +62516,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 3
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -62442,7 +62544,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -62487,6 +62589,12 @@
       "reviewLevel": "access_and_identity_only_not_full_thematic_review",
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -62517,10 +62625,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -62564,6 +62672,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://minatitlan.tecnm.mx/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -62586,10 +62700,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -62599,6 +62713,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -62628,10 +62748,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -62675,6 +62795,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "http://itsncg.edu.mx/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -62697,10 +62823,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -62710,6 +62836,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 1
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -62732,10 +62864,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -62745,6 +62877,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 1
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -62767,10 +62905,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -62780,6 +62918,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 1
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -62802,10 +62946,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -62847,6 +62991,12 @@
       "reviewLevel": "access_and_identity_only_not_full_thematic_review",
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -62869,10 +63019,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -62882,6 +63032,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 1
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -62904,10 +63060,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -62949,6 +63105,12 @@
       "checked": "2026-10-26",
       "nextAction": "Consultar ficha TecNM o documento oficial de campus Querétaro en otro origen. Nuevo dominio localizado, apertura timeout.",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -62971,7 +63133,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -63016,6 +63178,12 @@
       "reviewLevel": "access_and_identity_only_not_full_thematic_review",
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -63052,10 +63220,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -63065,6 +63233,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 1
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -63087,10 +63261,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Equipo o actividad computacional social documentados en fuentes consultadas",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Actividad computacional social documentada en fuente institucional",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -63100,6 +63274,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "eligible_team_documented",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -63122,7 +63302,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -63167,6 +63347,12 @@
       "checked": "2026-10-26",
       "nextAction": "Consultar ficha de Secretaría de Cultura950 o perfil Data México del Instituto de Estudios Superiores de la Sierra. ties.com.mx aparece en venta en un resultado secundario; no reutilizarlo como portal académico sin verificar.",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -63189,7 +63375,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -63234,6 +63420,12 @@
       "checked": "2026-10-26",
       "nextAction": "Conseguir acto SEG043/2017 que vincula Politécnico de Guanajuato AC e ICON University. ICON tiene sitio accesible; falta abrir prueba primaria de continuidad antes de fusionar identidades.",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -63256,10 +63448,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -63301,6 +63493,12 @@
       "reviewLevel": "access_and_identity_only_not_full_thematic_review",
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -63323,10 +63521,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Equipo o actividad computacional social documentados en fuentes consultadas",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Actividad computacional social documentada en fuente institucional",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -63336,6 +63534,12 @@
       "accessible": true,
       "candidate": true,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "eligible_team_documented",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -63358,10 +63562,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -63371,6 +63575,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -63401,10 +63611,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -63448,6 +63658,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "http://www.uas.mx/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -63470,10 +63686,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -63483,6 +63699,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 1
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -63513,10 +63735,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -63560,6 +63782,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://lobos.uad.mx/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -63582,7 +63810,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -63627,6 +63855,12 @@
       "reviewLevel": "access_and_identity_only_not_full_thematic_review",
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -63649,7 +63883,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -63662,6 +63896,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 1
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -63689,10 +63929,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -63734,6 +63974,12 @@
       "reviewLevel": "access_and_identity_only_not_full_thematic_review",
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -63761,10 +64007,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -63774,6 +64020,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 1
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -63801,10 +64053,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -63814,6 +64066,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -63836,10 +64094,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Equipo o actividad computacional social documentados en fuentes consultadas",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Actividad computacional social documentada en fuente institucional",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -63881,6 +64139,12 @@
       "reviewLevel": "access_and_identity_only_not_full_thematic_review",
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "eligible_team_documented",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -63903,10 +64167,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -63948,6 +64212,12 @@
       "reviewLevel": "access_and_identity_only_not_full_thematic_review",
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -63970,10 +64240,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -63983,6 +64253,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -64013,10 +64289,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -64060,6 +64336,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://www.xoc.uam.mx/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -64096,10 +64378,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -64141,6 +64423,12 @@
       "reviewLevel": "access_and_identity_only_not_full_thematic_review",
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -64185,10 +64473,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -64232,6 +64520,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "http://www.uabc.mx/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -64268,10 +64562,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -64281,6 +64575,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -64317,10 +64617,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -64330,6 +64630,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -64352,10 +64658,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -64365,6 +64671,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -64401,10 +64713,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -64414,6 +64726,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -64450,10 +64768,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -64463,6 +64781,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -64490,10 +64814,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -64503,6 +64827,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -64539,7 +64869,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -64584,6 +64914,12 @@
       "reviewLevel": "access_and_identity_only_not_full_thematic_review",
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -64620,7 +64956,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -64665,6 +65001,12 @@
       "reviewLevel": "access_and_identity_only_not_full_thematic_review",
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -64687,7 +65029,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -64732,6 +65074,12 @@
       "reviewLevel": "access_and_identity_only_not_full_thematic_review",
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -64754,10 +65102,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -64767,6 +65115,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -64803,10 +65157,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -64816,6 +65170,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -64852,10 +65212,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -64865,6 +65225,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -64901,10 +65267,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -64914,6 +65280,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -64948,10 +65320,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -64995,6 +65367,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://uadeo.mx/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -65038,10 +65416,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -65085,6 +65463,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "http://www.uaq.mx/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -65129,10 +65513,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Equipo o actividad computacional social documentados en fuentes consultadas",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Actividad computacional social documentada en fuente institucional",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -65176,6 +65560,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://www.uaslp.mx/Paginas/Historia/3263"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "eligible_team_documented",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -65220,10 +65610,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -65267,6 +65657,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "http://www.uas.edu.mx/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -65303,10 +65699,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -65348,6 +65744,12 @@
       "reviewLevel": "access_and_identity_only_not_full_thematic_review",
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -65384,10 +65786,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -65397,6 +65799,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -65419,7 +65827,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -65464,6 +65872,12 @@
       "reviewLevel": "access_and_identity_only_not_full_thematic_review",
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -65500,10 +65914,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -65513,6 +65927,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 1
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -65543,10 +65963,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -65590,6 +66010,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://www.uaz.edu.mx/universidad/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -65624,10 +66050,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -65671,6 +66097,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://www.uaz.edu.mx/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -65693,10 +66125,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -65706,6 +66138,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -65736,10 +66174,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -65783,6 +66221,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "http://www.ual.mx/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -65826,10 +66270,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -65873,6 +66317,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "http://www.unacar.mx/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -65917,10 +66367,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -65964,6 +66414,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://uaeh.edu.mx/legal/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -66000,10 +66456,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -66013,6 +66469,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -66057,10 +66519,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -66104,6 +66566,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://sacademica.uaemex.mx/sa/resena-historica.html"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -66131,7 +66599,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -66144,6 +66612,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 1
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -66166,7 +66640,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -66179,6 +66653,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -66209,10 +66689,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -66256,6 +66736,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://www.umaslp.edu.mx/nosotros/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -66278,7 +66764,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -66323,6 +66809,12 @@
       "reviewLevel": "access_and_identity_only_not_full_thematic_review",
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -66345,7 +66837,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -66358,6 +66850,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 2
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -66388,10 +66886,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -66435,6 +66933,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://www.ucc.mx/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -66457,7 +66961,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: identidad institucional sin resolver",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -66502,6 +67006,12 @@
       "checked": "2026-10-26",
       "nextAction": "Identificar plantel o entidad legal detrás de cuauhtemoc.edu.mx mediante registro RVOE o procedencia original. No asignar automáticamente páginas de Aguascalientes, Guadalajara o SLP.",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "identity_unresolved",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -66531,10 +67041,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -66578,6 +67088,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "http://www.udv.edu.mx/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -66600,7 +67116,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -66613,6 +67129,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 1
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -66640,7 +67162,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -66685,6 +67207,12 @@
       "reviewLevel": "access_and_identity_only_not_full_thematic_review",
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -66712,10 +67240,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -66725,6 +67253,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -66752,7 +67286,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -66797,6 +67331,12 @@
       "checked": "2026-10-26",
       "nextAction": "Abrir manual oficial UNEVT2021 en dominio edomex.gob.mx o documento actual equivalente. El sistema unevt.mx devolvió502; identidad UNEVT concordante.",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -66819,10 +67359,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -66832,6 +67372,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 1
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -66854,7 +67400,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -66867,6 +67413,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 2
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -66897,10 +67449,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -66944,6 +67496,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://www.uflp.net/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -66966,10 +67524,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -66979,6 +67537,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -67001,7 +67565,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: identidad institucional sin resolver",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -67046,6 +67610,12 @@
       "checked": "2026-10-26",
       "nextAction": "Conseguir nombre legal, localidad y continuidad de hispano.edu.mx en RVOE o archivo institucional. No sustituir por UHJS de Campeche, fundada2023, sin prueba de identidad.",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "identity_unresolved",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -67076,10 +67646,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Equipo o actividad computacional social documentados en fuentes consultadas",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Actividad computacional social documentada en fuente institucional",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -67123,6 +67693,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://www.ibero.mx/es-MX/home"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "eligible_team_documented",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -67145,10 +67721,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -67158,6 +67734,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 1
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -67188,10 +67770,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -67235,6 +67817,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://universidadinsurgentes.edu.mx/plantel/leon/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -67265,10 +67853,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -67312,6 +67900,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://www.uic.mx/nosotros/historia/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -67339,7 +67933,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -67385,6 +67979,12 @@
       "reviewLevel": "access_and_identity_only_not_full_thematic_review",
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -67412,10 +68012,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -67425,6 +68025,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -67452,10 +68058,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -67465,6 +68071,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 2
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -67492,10 +68104,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -67505,6 +68117,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 1
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -67539,7 +68157,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -67586,6 +68204,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://www.unich.edu.mx/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -67613,10 +68237,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -67626,6 +68250,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -67653,10 +68283,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -67666,6 +68296,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 1
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -67693,10 +68329,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -67706,6 +68342,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -67733,10 +68375,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -67746,6 +68388,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 1
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -67781,10 +68429,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -67828,6 +68476,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://uigto.edu.mx/sobre-nosotros/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -67855,10 +68509,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -67868,6 +68522,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -67895,10 +68555,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -67908,6 +68568,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -67935,7 +68601,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -67980,6 +68646,12 @@
       "reviewLevel": "access_and_identity_only_not_full_thematic_review",
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -68007,10 +68679,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -68020,6 +68692,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -68047,10 +68725,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -68060,6 +68738,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -68087,10 +68771,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -68100,6 +68784,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -68127,10 +68817,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -68140,6 +68830,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 1
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -68162,10 +68858,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -68175,6 +68871,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 2
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -68202,10 +68904,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -68215,6 +68917,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -68242,10 +68950,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -68255,6 +68963,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -68277,10 +68991,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -68290,6 +69004,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 2
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -68312,7 +69032,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: identidad institucional sin resolver",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -68357,6 +69077,12 @@
       "checked": "2026-10-26",
       "nextAction": "Conciliar ujsierra.mx con una localidad y razón social verificadas. Rioverde SLP y CDMX tienen instituciones Justo Sierra distintas; no elegir por coincidencia de nombre.",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "identity_unresolved",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -68393,10 +69119,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -68406,6 +69132,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -68449,10 +69181,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -68496,6 +69228,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "http://www.ujed.mx/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -68518,10 +69256,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -68531,6 +69269,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 1
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -68553,10 +69297,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -68566,6 +69310,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 1
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -68596,10 +69346,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -68643,6 +69393,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://lasalle.mx/somos-la-salle/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -68673,10 +69429,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -68720,6 +69476,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://www.lasallecuernavaca.edu.mx/wp/contactanos/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -68742,10 +69504,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -68755,6 +69517,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 3
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -68785,10 +69553,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -68832,6 +69600,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://www.unila.edu.mx/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -68854,10 +69628,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -68867,6 +69641,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -68889,10 +69669,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -68902,6 +69682,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -68924,10 +69710,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -68937,6 +69723,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 3
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -68959,10 +69751,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -68972,6 +69764,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 1
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -68994,10 +69792,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -69007,6 +69805,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -69029,10 +69833,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -69042,6 +69846,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -69064,7 +69874,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -69109,6 +69919,12 @@
       "reviewLevel": "access_and_identity_only_not_full_thematic_review",
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -69136,10 +69952,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -69149,6 +69965,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 3
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -69185,10 +70007,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -69198,6 +70020,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -69228,10 +70056,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -69275,6 +70103,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://ump.mx/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -69297,10 +70131,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -69310,6 +70144,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 2
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -69332,10 +70172,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -69345,6 +70185,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -69367,7 +70213,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -69380,6 +70226,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 1
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -69410,10 +70262,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Equipo o actividad computacional social documentados en fuentes consultadas",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Actividad computacional social documentada en fuente institucional",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -69457,6 +70309,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "http://www.unam.mx/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "eligible_team_documented",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -69479,7 +70337,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: identidad institucional sin resolver",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -69524,6 +70382,12 @@
       "checked": "2026-10-26",
       "nextAction": "Verificar con DGIRE-UNAM/SEP si Universidad Nuevo Mundo conserva existencia y oferta, o fue sustituida/cerrada. Una mención histórica o listado antiguo no justifica una nueva URL activa.",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "identity_unresolved",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -69554,10 +70418,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -69601,6 +70465,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://uom.mx/mision-vision-y-nuestros-valores/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -69623,10 +70493,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -69636,6 +70506,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -69666,10 +70542,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -69713,6 +70589,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://www.up.edu.mx/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -69735,10 +70617,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -69748,6 +70630,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -69770,10 +70658,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -69815,6 +70703,12 @@
       "checked": "2026-10-26",
       "nextAction": "Consultar directorio oficial UPN o SEG Guanajuato para Unidad113 León y un catálogo público. El dominio específico fue localizado, pero timeout impidió lectura.",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -69845,10 +70739,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -69892,6 +70786,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://www.sev.gob.mx/upv/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -69914,10 +70814,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -69927,6 +70827,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -69954,10 +70860,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -69967,6 +70873,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -69997,10 +70909,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -70044,6 +70956,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://www.u-erre.mx/nosotros"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -70066,7 +70984,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -70111,6 +71029,12 @@
       "reviewLevel": "access_and_identity_only_not_full_thematic_review",
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -70133,10 +71057,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -70146,6 +71070,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -70168,10 +71098,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -70181,6 +71111,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 3
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -70203,10 +71139,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -70216,6 +71152,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 2
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -70238,10 +71180,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -70251,6 +71193,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -70273,10 +71221,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -70286,6 +71234,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -70308,7 +71262,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -70353,6 +71307,12 @@
       "reviewLevel": "access_and_identity_only_not_full_thematic_review",
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -70389,10 +71349,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -70434,6 +71394,12 @@
       "reviewLevel": "access_and_identity_only_not_full_thematic_review",
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -70456,10 +71422,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -70469,6 +71435,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 2
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -70499,10 +71471,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -70546,6 +71518,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://www.uvg.edu.mx/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -70582,10 +71560,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Equipo o actividad computacional social documentados en fuentes consultadas",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Actividad computacional social documentada en fuente institucional",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -70595,6 +71573,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "eligible_team_documented",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -70617,10 +71601,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -70662,6 +71646,12 @@
       "checked": "2026-10-26",
       "nextAction": "Confirmar dominio actual mediante ficha SEP/RVOE o documento propio de Xicotepetl. La página alternativa web.app fue localizada, pero no abrió; autoría del alojamiento también queda pendiente.",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -70684,10 +71674,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -70697,6 +71687,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -70719,10 +71715,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -70764,6 +71760,12 @@
       "reviewLevel": "access_and_identity_only_not_full_thematic_review",
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -70800,7 +71802,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -70845,6 +71847,12 @@
       "reviewLevel": "access_and_identity_only_not_full_thematic_review",
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -70867,10 +71875,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -70880,6 +71888,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -70910,10 +71924,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -70957,6 +71971,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://www.uci.edu.mx/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -70993,10 +72013,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -71006,6 +72026,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -71042,10 +72068,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -71055,6 +72081,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -71085,10 +72117,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -71132,6 +72164,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://www.ugto.mx/campusleon/index.php"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -71154,7 +72192,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -71199,6 +72237,12 @@
       "reviewLevel": "access_and_identity_only_not_full_thematic_review",
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -71229,10 +72273,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -71276,6 +72320,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://distancia.lasallebajio.edu.mx/delasalle.php"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -71298,10 +72348,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -71311,6 +72361,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 3
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -71341,10 +72397,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -71388,6 +72444,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://www.um.edu.mx/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -71410,10 +72472,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -71423,6 +72485,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -71445,7 +72513,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: identidad institucional sin resolver",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -71458,6 +72526,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 1
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "identity_unresolved",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -71480,10 +72554,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -71525,6 +72599,12 @@
       "checked": "2026-10-26",
       "nextAction": "Obtener decreto2018 o historia oficial UAdeO que vincule expresamente Universidad de Occidente y Universidad Autónoma de Occidente. Sitio UAdeO accesible, continuidad nominal aún sin fuente primaria abierta.",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -71552,10 +72632,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -71565,6 +72645,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -71587,10 +72673,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -71600,6 +72686,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 1
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -71630,10 +72722,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -71677,6 +72769,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://www.usm.edu.mx/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -71713,10 +72811,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -71726,6 +72824,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -71753,10 +72857,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -71766,6 +72870,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 1
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -71793,10 +72903,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -71806,6 +72916,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -71833,7 +72949,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -71878,6 +72994,12 @@
       "reviewLevel": "access_and_identity_only_not_full_thematic_review",
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -71900,7 +73022,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -71945,6 +73067,12 @@
       "reviewLevel": "access_and_identity_only_not_full_thematic_review",
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -71972,10 +73100,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -72017,6 +73145,12 @@
       "checked": "2026-10-26",
       "nextAction": "Consultar documento de SUNEO o gobierno Oaxaca que identifique UNSIJ y enlace su sitio. La subpágina institucional devolvió502; identidad conocida.",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -72044,10 +73178,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -72057,6 +73191,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 1
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -72087,10 +73227,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -72134,6 +73274,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://udlacdmx.mx/ver3/index.php/es/udlacdmx2/informacion-institucional/breve-historia-2"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -72156,7 +73302,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -72169,6 +73315,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 1
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -72191,10 +73343,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -72239,6 +73391,12 @@
       "reviewLevel": "access_and_identity_only_not_full_thematic_review",
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -72266,10 +73424,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -72279,6 +73437,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -72301,10 +73465,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -72314,6 +73478,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 3
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -72349,10 +73519,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -72396,6 +73566,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://dns2.unistmo.edu.mx/transparencia/nuestrauniversidad.html"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -72432,10 +73608,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -72477,6 +73653,12 @@
       "checked": "2026-10-26",
       "nextAction": "Usar ficha SEP o documento SUNEO para UMAR mientras el subportal Huatulco devuelve502. No confundir Universidad del Mar Oaxaca con homónimas extranjeras.",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -72507,10 +73689,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -72554,6 +73736,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://merida.anahuac.mx/noticias/celebra-40-anos-contribuir-educacion"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -72584,10 +73772,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -72631,6 +73819,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "http://www.une.edu.mx/"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -72653,7 +73847,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -72698,6 +73892,12 @@
       "checked": "2026-10-26",
       "nextAction": "Obtener acto oficial de relación entre Universidad del Noroeste y UVMHermosillo. PDF Sonora2016 localizado pero403; no fusionar por una referencia indexada.",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -72720,10 +73920,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -72733,6 +73933,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -72760,10 +73966,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "presente en fuente institucional; vigencia según edición",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -72805,6 +74011,12 @@
       "checked": "2026-10-26",
       "nextAction": "Consultar documento SUNEO o publicación UNPA en repositorio público. Portal web2.unpa.edu.mx localizado, apertura502.",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -72832,7 +74044,7 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pendiente: acceso o material académico insuficiente",
       "publications": "pendiente"
     },
     "cssStatus": "no evaluado",
@@ -72877,6 +74089,12 @@
       "checked": "2026-10-26",
       "nextAction": "Usar ficha SEP o reglamento público Universidad del Pueblo Yaqui en origen alternativo. No reintentar portales Sonora que respondieron403.",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -72899,10 +74117,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -72912,6 +74130,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 1
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -72934,10 +74158,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -72947,6 +74171,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -72977,10 +74207,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -73024,6 +74254,12 @@
       "checked": "2026-10-26",
       "evidenceFile": "recovery-20261026.json",
       "preferredPublicSource": "https://uvm.mx/la-uvm/rectoria"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -73046,10 +74282,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -73059,6 +74295,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 4
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -73081,10 +74323,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -73094,6 +74336,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 2
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -73116,10 +74364,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -73129,6 +74377,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 1
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -73151,10 +74405,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-25",
@@ -73164,6 +74418,12 @@
       "accessible": true,
       "candidate": false,
       "pages": 3
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {
@@ -73186,10 +74446,10 @@
     "review": {
       "programs": "pendiente",
       "institutes": "pendiente",
-      "people": "pendiente",
+      "people": "Pasada rápida completada; sin equipo explícito en el material consultado",
       "publications": "pendiente"
     },
-    "cssStatus": "no evaluado",
+    "cssStatus": "Sin equipo explícito en el material limitado consultado; no implica ausencia",
     "identityStatus": "pendiente de conciliación con registro nacional",
     "rapidReview": {
       "checked": "2026-10-26",
@@ -73231,6 +74491,12 @@
       "checked": "2026-10-26",
       "nextAction": "Consultar registro RVOE de Westhill University y su continuidad con la entidad universitaria. No asignar el sitio de Westhill Institute de educación básica por similitud de marca.",
       "evidenceFile": "recovery-20261026.json"
+    },
+    "peopleReview20261026": {
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "scope": "Revisión rápida de fuentes institucionales; no censo ni revisión exhaustiva de todos los equipos",
+      "absenceConclusionPermitted": false
     }
   },
   {

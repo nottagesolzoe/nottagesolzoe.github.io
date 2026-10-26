@@ -1,0 +1,2235 @@
+{
+  "summary": {
+    "checked": "2026-10-26",
+    "institutionRecordsAssessed": 211,
+    "decisions": {
+      "eligible_team_documented": 9,
+      "screened_no_explicit_team_in_consulted_material": 163,
+      "access_blocked": 34,
+      "identity_unresolved": 5
+    },
+    "peopleIntegration": {
+      "checked": "2026-10-26",
+      "previousMexicoPeople": 28,
+      "newPeople": 15,
+      "existingUpdated": 2,
+      "removedPrincipalPeople": 5,
+      "currentMexicoPeople": 38,
+      "currentTotalPeople": 363,
+      "newAcademicOrganizationRecords": 3,
+      "currentTotalOrganizationRecords": 54,
+      "newIds": [
+        "person-0354",
+        "person-0355",
+        "person-0356",
+        "person-0357",
+        "person-0358",
+        "person-0359",
+        "person-0360",
+        "person-0361",
+        "person-0362",
+        "person-0363",
+        "person-0364",
+        "person-0365",
+        "person-0366",
+        "person-0367",
+        "person-0368"
+      ],
+      "updatedIds": [
+        "person-0187",
+        "person-0236"
+      ],
+      "heldIds": [
+        "person-0333",
+        "person-0334",
+        "person-0335",
+        "person-0336",
+        "person-0337"
+      ],
+      "basis": "Fuentes institucionales y aplicaciones sociales de métodos computacionales. No se heredan afiliaciones por participación en eventos o títulos obtenidos.",
+      "exhaustiveCountryCoverageClaimed": false
+    },
+    "remainingAccessOrIdentityIssues": 39,
+    "remainingIssuesAreNotReviewed": true,
+    "exhaustiveCountryCoverageClaimed": false,
+    "personalNamesPublic": false
+  },
+  "records": [
+    {
+      "id": "a0a6e89795bbbc7a",
+      "institution": "Benemerita Universidad Autónoma de Puebla",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "eligible_team_documented",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "1153aade84742a65",
+      "institution": "Centro de Estudios Universitarios Monterrey",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "139c26068af360a6",
+      "institution": "El Colegio de Chihuahua",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "d5b3d8eecf68e135",
+      "institution": "Escuela Bancaria y Comercial",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "429831189e3298ff",
+      "institution": "Instituto Politécnico Nacional, Campus Guanajuato",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "1fb9418e59f52977",
+      "institution": "Instituto Tecnológico Superior de Nuevo Casas Grandes",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "7b65330b8488cb88",
+      "institution": "Instituto Tecnológico de Morelia",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "5e7968f8caf9b756",
+      "institution": "Instituto Tecnológico de Sonora",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "7c6585a13b7b68f0",
+      "institution": "Tecnologico de Baja California, Universidad",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "2b9d372c861b4309",
+      "institution": "Universidad Autonoma España de Durango",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "ba3afdd04906ee64",
+      "institution": "Universidad Autónoma Benito Juárez de Oaxaca",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "376ddbcc1ee4fa67",
+      "institution": "Universidad Autónoma Metropolitana - Azcapotzalco",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "aca8ac66c4f571b1",
+      "institution": "Universidad Autónoma de Baja California",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "85713871ba5764d8",
+      "institution": "Universidad Autónoma de Chiapas",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "8aa0c13ec4efc123",
+      "institution": "Universidad Autónoma de Coahuila",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "2b4c4ae192956d7e",
+      "institution": "Universidad Autónoma de Nayarit",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "96e6114ca4f33f4f",
+      "institution": "Universidad Autónoma de San Luis Potosí",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "eligible_team_documented",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "7e7784d288fec030",
+      "institution": "Universidad Autónoma de Veracruz Villa Rica",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "2b41957d4e7e8c1a",
+      "institution": "Universidad Autónoma de la Ciudad de México",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "bd813fa9a5bc20b7",
+      "institution": "Universidad Autónoma del Estado de Morelos",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "37eb1f959d9535bf",
+      "institution": "Universidad Champagnat",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "6b51b31da0af0ac9",
+      "institution": "Universidad Cuauhtémoc",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "identity_unresolved",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "2c7189930b7d3490",
+      "institution": "Universidad Estatal del Valle de Ecatepec",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "6e4f0384a4e917f0",
+      "institution": "Universidad Fray Luca Paccioli",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "8dd10bcb6c5158e5",
+      "institution": "Universidad Iberoamericana, Campus León",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "1dbf7894c6b681e3",
+      "institution": "Universidad Intercultural Maya de Quintana Roo",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "41aade6a194e890f",
+      "institution": "Universidad Intercultural de Colima",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "db70f4845a772433",
+      "institution": "Universidad Intercultural del Estado de Guanajuato",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "34f59d3766070b79",
+      "institution": "Universidad Intercultural del Estado de Puebla",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "fdea86264cb58a45",
+      "institution": "Universidad Internacional Jefferson",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "c3835902a5f386c0",
+      "institution": "Universidad Justo Sierra",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "identity_unresolved",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "fe6ca0765bf94007",
+      "institution": "Universidad Kino",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "d7ac00df7d1f04ee",
+      "institution": "Universidad Latina",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "ffb1f1658c235567",
+      "institution": "Universidad Metropolitana Latin Campus",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "b81d5ed327b3b914",
+      "institution": "Universidad Mexiquense del Bicentenario",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "fdae87eee54d7aa8",
+      "institution": "Universidad México Americana del Norte",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "9cc8e4390ac8e929",
+      "institution": "Universidad Obrera de Mexico",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "d9a75ffec397583a",
+      "institution": "Universidad Pedagógica Nacional, Unidad León",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "138c8015cb4bc0a5",
+      "institution": "Universidad Regiomontana",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "64b36b44faa293d6",
+      "institution": "Universidad Santa Fe",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "0c819d26d4e8fa78",
+      "institution": "Universidad Tecnologica de la Mixteca",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "aee49d84ce1cb0c2",
+      "institution": "Universidad Xicotepetl",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "8bd9443650fa9775",
+      "institution": "Universidad de Comunicación Avanzada",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "345c33f7a3b23b90",
+      "institution": "Universidad de Guanajuato, Campus León",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "9b1a0619c5a4c62e",
+      "institution": "Universidad de Montemorelos",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "a301fe1dcb1302ea",
+      "institution": "Universidad de Oriente",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "df066754bd486f26",
+      "institution": "Universidad de la Cañada",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "8a5b13bc6216d1af",
+      "institution": "Universidad de la Sierra Juárez",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "81eb36c9f715175a",
+      "institution": "Universidad del Bajío",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "70e283347f40e1c0",
+      "institution": "Universidad del Mar",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "67034c3bd68a6432",
+      "institution": "Universidad del Norte",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "1fe1521e0d35b39b",
+      "institution": "Universidad del Valle de Atemajac",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "6d89a2d9e25535ac",
+      "institution": "Universidad del Valle del Bravo",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "09969396d8d6dc86",
+      "institution": "CETYS Universidad",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://www.cetys.mx:443/",
+        "https://validate.perfdrive.com/ [challenge redirect; no interaction]"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "53d9dec07149eb2d",
+      "institution": "Centro de Estudios Universitarios Xochicalco",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [
+        "http://www.ceux.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "294de5aa40929198",
+      "institution": "El Colegio de Morelos",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://elcolegiodemorelos.edu.mx/",
+        "https://elcolegiodemorelos.edu.mx/maestria-en-ciencias-politicas-y-sociales/",
+        "https://elcolegiodemorelos.edu.mx/doctorado-en-ciencias-politicas-y-sociales/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "072d6f5e3ba4d334",
+      "institution": "Escuela Nacional de Estudios Superiores Unidad León",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://enes.unam.mx/directorio-ciencias-sociales.html"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "066ce5e998b29249",
+      "institution": "Instituto Tecnologico de Durango",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "92961fd2826fdf7f",
+      "institution": "Instituto Tecnológico de Aguascalientes",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://aguascalientes.tecnm.mx",
+        "https://aguascalientes.tecnm.mx/tramite-titulacion-posgrado/",
+        "https://aguascalientes.tecnm.mx#"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "7200d2877ea7eb24",
+      "institution": "Instituto Tecnológico de Occidente del Estado de Hidalgo",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://www.itsoeh.edu.mx/",
+        "https://itsoeh.edu.mx/front/normateca/PIID2013-2018.pdf"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "76e5da15dc55965b",
+      "institution": "Instituto Tecnológico y de Estudios Superiores de Occidente",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "eligible_team_documented",
+      "sourceUrls": [
+        "https://www.iteso.mx/",
+        "https://investigacion.iteso.mx/",
+        "https://iteso.mx/web/general/detalle?group_id=9502244",
+        "https://noticias.iteso.mx/web/general/detalle?group_id=4283969"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "d33c74d72b102daa",
+      "institution": "Tecnologico de Monterrey",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "eligible_team_documented",
+      "sourceUrls": [
+        "https://tec.mx/es",
+        "https://maestriasydiplomados.tec.mx/programas/posgrados",
+        "https://tec.mx/es/investigacion",
+        "https://tec.mx/es/investigacion/gobierno-y-emprendimiento-publico"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "88f5ff2cc9f61ba6",
+      "institution": "Universidad Autonoma de Durango",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://lobos.uad.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "db484873d9f50fd9",
+      "institution": "Universidad Autónoma Comunal de Oaxaca",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://uaco.edu.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "aca87e6e977f04e2",
+      "institution": "Universidad Autónoma Metropolitana - Iztapalapa",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "http://www.iztapalapa.uam.mx/",
+        "http://www.iztapalapa.uam.mx/index.php/oferta-academica/posgrados",
+        "http://www.iztapalapa.uam.mx/index.php/investigacion/laboratorios-divisionales"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "8e07e775906ae6f0",
+      "institution": "Universidad Autónoma de Baja California Sur",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://www.uabcs.mx/",
+        "https://www.uabcs.mx/dacsj"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "a8bc1a05b28a0a1e",
+      "institution": "Universidad Autónoma de Chihuahua",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://uach.mx/",
+        "https://uach.mx/fcpys/inicio/",
+        "https://uach.mx/fcpys/#Programas-educativos"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "b914320f2dcc5024",
+      "institution": "Universidad Autónoma de Fresnillo",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [
+        "http://www.uaf.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "c9077d79f7590e45",
+      "institution": "Universidad Autónoma de Nuevo León",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://www.uanl.mx/",
+        "https://posgrado.uanl.mx/",
+        "https://www.uanl.mx/#"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "b58c5c1d88c2a317",
+      "institution": "Universidad Autónoma de Sinaloa",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://www.uas.edu.mx/",
+        "https://www.uas.edu.mx/#",
+        "https://www.uas.edu.mx/investigacion"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "004d5cdddad877b9",
+      "institution": "Universidad Autónoma de Yucatán",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://uady.mx/",
+        "https://www.cir.uady.mx/media/documentos/PD-CIR.pdf"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "52a505ea5f5e6483",
+      "institution": "Universidad Autónoma de la Laguna",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://www.ual.mx/",
+        "https://www.ual.mx/post_admisiones/centro-de-aprendizaje-de-idiomas/",
+        "https://www.ual.mx/post_admisiones/posgrado/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "f1387503cbc16a77",
+      "institution": "Universidad Autónoma del Estado de México",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://sacademica.uaemex.mx/sa/resena-historica.html"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "a6526d4e85a77065",
+      "institution": "Universidad Chapultepéc",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "2ef14b4ba1e386c8",
+      "institution": "Universidad Don Vasco",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "http://www.udv.edu.mx/",
+        "http://www.udv.edu.mx/centro-de-atencion-psicologica/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "26f981afc7a921d0",
+      "institution": "Universidad Estatal del Valle de Toluca",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "dbe089ffe17f66b7",
+      "institution": "Universidad Guadalajara Lamar",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://lamar.mx/",
+        "https://lamar.mx/#"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "0d6bfbd1abe49eb1",
+      "institution": "Universidad Insurgentes Plantel León",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://tesiunamdocumentos.dgb.unam.mx/ptd2024/ene_mar/0851668/0851668.pdf"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "a69b62e489412fa8",
+      "institution": "Universidad Intercultural de Baja California",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://uibc.edu.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "8e7e87307e44071a",
+      "institution": "Universidad Intercultural de Jalisco",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://www.uij.edu.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "a7c1d026171e72f7",
+      "institution": "Universidad Intercultural del Estado de Guerrero",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://uiegedu.com/",
+        "https://uiegedu.com/programa-academico-de-humanidades-y-ciencias-sociales/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "d10a84eabe989fde",
+      "institution": "Universidad Intercultural del Estado de Tabasco",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://uiet.edu.mx/dptInvestigacion.php"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "bac354c3aa0d3889",
+      "institution": "Universidad Interserrana del Estado de Puebla-Ahuacatlán",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://revista.uiepa.edu.mx/index.php/ricct/index"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "4290e6c2212d66d9",
+      "institution": "Universidad Juárez Autónoma de Tabasco",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://www.ujat.mx/",
+        "https://www.ujat.mx/EgresadosPosgrado",
+        "https://www.ujat.mx/sipyv"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "677ecdc3fd8ea849",
+      "institution": "Universidad La Salle",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://lasalle.mx/somos-la-salle/",
+        "https://lasalle.mx/perfil/aspirante/a-licenciatura/proceso-de-admision.html",
+        "https://lasalle.mx/vive-la-salle-posgrado/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "610c3b89d9361838",
+      "institution": "Universidad Latinoamericana",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://ula.edu.mx/",
+        "https://ula.edu.mx/oferta-academica/sociales-juridicas"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "de1e9793c029e727",
+      "institution": "Universidad Metropolitana de Monterrey",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://www.umm.edu.mx/",
+        "https://www.umm.edu.mx/tipos-de-programa/posgrado",
+        "https://www.umm.edu.mx/areas-de-estudio/ciencias-sociales-y-humanidades"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "261c43bc22273826",
+      "institution": "Universidad Michoacana de San Nicolás de Hidalgo",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://umich.mx/",
+        "https://umich.mx/posgrados/",
+        "https://umich.mx/posgrado/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "6d41cdc99b240ca7",
+      "institution": "Universidad México Internacional",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "0f16fb098e96c371",
+      "institution": "Universidad Olmeca",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://olmeca.edu.mx/",
+        "https://olmeca.edu.mx/oferta-academica/#sociales",
+        "https://olmeca.edu.mx/posgrados-uo/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "50bd3d2b437bb9c6",
+      "institution": "Universidad Pedagógica Veracruzana",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://www.sev.gob.mx/upv/",
+        "https://www.sev.gob.mx/upv/depto-investigacion/",
+        "https://www.sev.gob.mx/upv/posgrados/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "9f1510df561e10b8",
+      "institution": "Universidad Regional Miguel Hidalgo",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "a9584b3cae172e83",
+      "institution": "Universidad Simón Bolivar",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://www.usb.edu.mx/",
+        "https://www.usb.edu.mx/centro-de-idiomas/",
+        "https://www.usb.edu.mx/centro-de-investigacion-y-estudios-avanzados/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "eca04be06313c377",
+      "institution": "Universidad Tecnológica de México",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://www.unitec.mx/",
+        "https://www.unitec.mx/whatsapp/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "d6261f31ff9de526",
+      "institution": "Universidad de Celaya",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://www.udec.edu.mx/wp-content/uploads/2026/04/UniCelaya_VentajasCompetitivasCelaya2017_.pdf"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "3d0a6d0220abc8b2",
+      "institution": "Universidad de Cuautitlan Izcalli",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://www.uci.edu.mx/",
+        "https://www.uci.edu.mx/apps/pages/index.jsp?uREC_ID=4463243&type=d&pREC_ID=2733688&tota11y=true",
+        "https://www.uci.edu.mx/apps/pages/index.jsp?uREC_ID=990623&type=d&pREC_ID=1307542"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "ebebc760e536483a",
+      "institution": "Universidad de Hermosillo",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "cce4f83d06f7e2eb",
+      "institution": "Universidad de Monterrey",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://www.udem.edu.mx/es",
+        "https://www.udem.edu.mx/es/ciencias-de-la-salud/talleres-y-laboratorios/centro-de-simulacion-clinica",
+        "https://www.udem.edu.mx/es/conoce/centros-de-consultoria"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "bdee00ea315cd7c4",
+      "institution": "Universidad de Quintana Roo",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "http://www.uqroo.mx/",
+        "https://www.uqroo.mx/dip/archivo/Relacion%20de%20CA%20y%20GI%20con%20LGAC%20al%2029%20de%20noviembre%20de%202013.pdf"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "3b3c8f5ad139bd58",
+      "institution": "Universidad de la Ciénega del Estado de Michoacán de Ocampo",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://ucemich.edu.mx/",
+        "https://ucemich.edu.mx/centro-de-idiomas/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "1264406632b39379",
+      "institution": "Universidad de la Sierra Sur",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "http://www.unsis.edu.mx/",
+        "https://www.suneo.mx/web/assets/investigacion/index.html"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "903496eacd587af3",
+      "institution": "Universidad del Caribe",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "http://www.unicaribe.mx/",
+        "http://www.unicaribe.mx/posgrados",
+        "http://www.unicaribe.mx/#"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "544c5a1ad3b3fdac",
+      "institution": "Universidad del Mayab",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://merida.anahuac.mx/noticias/celebra-40-anos-contribuir-educacion",
+        "https://merida.anahuac.mx/noticias/topic/investigaci%C3%B3n",
+        "https://merida.anahuac.mx/clinica/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "60117c6382a12d7e",
+      "institution": "Universidad del Papaloapan",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://www.suneo.mx/web/assets/investigacion/index.html"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "c1e79a854662b57f",
+      "institution": "Universidad del Valle de México",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://uvm.mx/la-uvm/rectoria",
+        "https://uvm.mx/oferta-academica/maestrias-posgrados",
+        "https://congresoinvestigacion.uvm.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "535ecbf7fcbd2fd4",
+      "institution": "Universidad la Concordia",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://www.universidadlaconcordia.edu.mx/",
+        "https://www.universidadlaconcordia.edu.mx/posgrados",
+        "https://www.universidadlaconcordia.edu.mx/laboratorios-virtuales"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "7886729934eb00fa",
+      "institution": "Centro Universitario Ixtlahuaca",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "3ba9c8c22f1d9296",
+      "institution": "Centro de Investigación en Química Aplicada",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "cd84ff9d9239ae4b",
+      "institution": "El Colegio de México",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "eligible_team_documented",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "531150fc0afe8521",
+      "institution": "Instituto Campechano",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "a6a8c48200d206f5",
+      "institution": "Instituto Tecnologico de Minatitlan",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "d85c13e02fb21375",
+      "institution": "Instituto Tecnológico de Celaya",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "34d465f58a5412b1",
+      "institution": "Instituto Tecnológico de Querétaro",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "ba95b3d23b4ca77f",
+      "institution": "Instituto de Estudios Superiores de la Sierra",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "195ad890cbb6c672",
+      "institution": "Universidad Anáhuac",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "c4429dd6c6b02cb5",
+      "institution": "Universidad Autónoma \"Benito Juárez\" de Oaxaca",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "dd2c8cb8eeb7a072",
+      "institution": "Universidad Autónoma Indígena de México",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "bf91095798a68788",
+      "institution": "Universidad Autónoma Metropolitana - Xochimilco",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "380614b41c7f683c",
+      "institution": "Universidad Autónoma de Campeche",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "3239e222ec38f6a5",
+      "institution": "Universidad Autónoma de Ciencias y Artes de Chiapas",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "9414ac5a1763b775",
+      "institution": "Universidad Autónoma de Guadalajara",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "8f16562a6ec4ace8",
+      "institution": "Universidad Autónoma de Occidente",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "e4bce0e21d9473ee",
+      "institution": "Universidad Autónoma de Tamaulipas",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "64e69aff353865d9",
+      "institution": "Universidad Autónoma de Zacatecas",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "3047b95c1063a080",
+      "institution": "Universidad Autónoma del Carmen",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "ab00f8d6b15774fb",
+      "institution": "Universidad Autónoma del Estado de Quintana Roo",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "08b08a3a8bccb4c1",
+      "institution": "Universidad Cientifica Latinoamericana de Hidalgo",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "788784a6b1339dbd",
+      "institution": "Universidad España de Durango",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "d22094caec28b461",
+      "institution": "Universidad Franciscana de México",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "f20128f02436adc8",
+      "institution": "Universidad Hispanoamericana",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "identity_unresolved",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "fd2577726c5f48d1",
+      "institution": "Universidad Intercontinental",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "062ad8eae1b0dbda",
+      "institution": "Universidad Intercultural de Campeche",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "1c22ef90189be64a",
+      "institution": "Universidad Intercultural de San Luis Potosí",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "2dc041698ab73764",
+      "institution": "Universidad Intercultural del Estado de Hidalgo",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "229c5d729fadd327",
+      "institution": "Universidad Intercultural del Pueblo",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "6f6a2f78d9420357",
+      "institution": "Universidad Interserrana del Estado de Puebla-Chilchotla",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "785362c05e8efcda",
+      "institution": "Universidad Juárez del Estado de Durango",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "347e599a998f361b",
+      "institution": "Universidad La Salle Cuernavaca",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "2d0ead8ee48c3d56",
+      "institution": "Universidad Madero",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "4a3921e9b2d7ab5b",
+      "institution": "Universidad Mexicana",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "df62fedc025b83fc",
+      "institution": "Universidad Motolinía del Pedegral",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "fca67b1b84120b6d",
+      "institution": "Universidad Nacional Autónoma de México",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "eligible_team_documented",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "bf217c59b53aa1d3",
+      "institution": "Universidad Panamericana",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "161d57582c0788cd",
+      "institution": "Universidad Popular Autonóma del Estado de Puebla",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "3541b33ed15997a8",
+      "institution": "Universidad Regional del Sureste",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "f561dacc98e6db4b",
+      "institution": "Universidad Tecmilenio",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "72e9f58910610ad1",
+      "institution": "Universidad Valle del Grijalva",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "05bc8d1dfce3f7ff",
+      "institution": "Universidad de Ciencias y Artes de Chiapas",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "22d4caa29cdb28c1",
+      "institution": "Universidad de Guadalajara",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "50d4f50b2b44a5e8",
+      "institution": "Universidad de La Salle, Bajío",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "91e06d8b8bf4f7c0",
+      "institution": "Universidad de Norteamerica",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "identity_unresolved",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "356e2fe92f193c4b",
+      "institution": "Universidad de San Miguel",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "1941f74300323d61",
+      "institution": "Universidad de la Sierra",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "5bbb6d2916af47d7",
+      "institution": "Universidad de las Américas",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "acea208574fc595f",
+      "institution": "Universidad del Centro de México",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "b600c7e601976038",
+      "institution": "Universidad del Noreste",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "809766c592def84a",
+      "institution": "Universidad del Pueblo Yaqui",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "2eec74eaa3dd3bf4",
+      "institution": "Universidad del Valle de Puebla",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "de1fdb27a05c1aad",
+      "institution": "Westhill University",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "731444222a742e8f",
+      "institution": "Centro de Enseñanza Técnica Industrial",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [
+        "http://www.ceti.mx/",
+        "https://www.ceti.edu.mx/academica/subdireccion_investigacion"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "242dd1177be7b6be",
+      "institution": "Dirección General de Institutos Tecnológicos",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "http://www.dgit.gob.mx/",
+        "https://home.cenidet.tecnm.mx/index.php/historia/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "3edbbe8ef080d58c",
+      "institution": "El Colegio de Sonora",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://www.colson.edu.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "2d095d230b16e51f",
+      "institution": "Instituto Politécnico Nacional",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://www.ipn.mx/comunidad/organizacion/organizacion-y-estructura.html"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "d91b0bcede0180d7",
+      "institution": "Instituto Tecnológico Autonómo de México",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "http://www.itam.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "1f0bdb4f7b273669",
+      "institution": "Instituto Tecnológico de León",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "http://www.itleon.edu.mx/",
+        "https://leon.tecnm.mx/2025/10/09/lineas-de-investigacion/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "0f18c4c976de9876",
+      "institution": "Instituto Tecnológico de San Luis Potosí",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [
+        "http://www.itslp.edu.mx/",
+        "https://slp.tecnm.mx/2026/02/07/boletin-institucional/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "5105e825c3736114",
+      "institution": "Politécnico de Guanajuato",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [
+        "http://www.poligto.edu.mx/",
+        "https://transparencia.seg.guanajuato.gob.mx/ANEXOS_IPO_VIGENTE/incorporaciones/Acuerdo_secretarial_043_2017_Politecnico_de_Guanajuato_AC_18_julio_2017.pdf"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "4e80e5fd80a45799",
+      "institution": "Universidad Anáhuac del Sur",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "http://www.uas.mx/",
+        "https://www.anahuac.mx/mexico/noticias/cultura-digital-e-inteligencia-artificial-nuevo-grupo-estable-de-investigacion"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "deb8aa980c8c1666",
+      "institution": "Universidad Autónoma Agraria \"Antonio Narro\"",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [
+        "http://www.uaaan.mx/",
+        "https://www.uaaan.edu.mx/wp-content/uploads/2024/03/Directorio-Telefonico-UAAAN.pdf"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "f381de7331a1b540",
+      "institution": "Universidad Autónoma Metropolitana",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "eligible_team_documented",
+      "sourceUrls": [
+        "http://www.uam.mx/",
+        "https://divcsh.izt.uam.mx/cipol/index.php/plantilla-de-profesores/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "a25fcc19ece6d5d2",
+      "institution": "Universidad Autónoma de Aguascalientes",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "http://www.uaa.mx:8001/",
+        "https://www.uaa.mx/portal/nuestra-universidad/centros-academicos/centro-de-ciencias-basicas/matematicas-y-fisica/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "3fee626d3cfd01c6",
+      "institution": "Universidad Autónoma de Chapingo",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "http://www.chapingo.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "02494c2386a79a1a",
+      "institution": "Universidad Autónoma de Ciudad Juárez",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [
+        "http://www.uacj.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "f05d294c64a4cda6",
+      "institution": "Universidad Autónoma de Guerrero",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "http://www.uagro.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "b367f8ccece8b281",
+      "institution": "Universidad Autónoma de Querétaro",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "http://www.uaq.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "5882e11ef2387b05",
+      "institution": "Universidad Autónoma de Tlaxcala",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "http://www.uatx.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "3addc0cc6ddd9641",
+      "institution": "Universidad Autónoma de Zacatecas \"Francisco García Salinas\"",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://www.uaz.edu.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "7fe4f5090d29d259",
+      "institution": "Universidad Autónoma del Estado de Hidalgo",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://uaeh.edu.mx/legal/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "4ab0dce3047d0b86",
+      "institution": "Universidad Autónoma del Noreste",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [
+        "http://www.uane.edu.mx/",
+        "https://uane.edu.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "9dbb83db2180a25e",
+      "institution": "Universidad Cristóbal Colón",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://www.ucc.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "c0439d3443705db9",
+      "institution": "Universidad Estatal de Sonora",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [
+        "https://www.ues.mx/",
+        "https://ues.sonora.edu.mx/index.php?id=60&option=com_sppagebuilder&view=page"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "43ec7208bea0ffc5",
+      "institution": "Universidad Franco-Mexicana",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [
+        "http://www.ufram.edu.mx/",
+        "https://ufram.edu.mx/documentos/REGLAMENTO-2009-1.pdf"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "aacf6d48120a18d5",
+      "institution": "Universidad Iberoamericana",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "eligible_team_documented",
+      "sourceUrls": [
+        "https://www.ibero.mx/es-MX/home",
+        "https://laboratorios.ibero.mx/laboratorios/laboratorio-interdisciplinario-de-encuestas-y-datos-sociales-lieds/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "d36db1ea5d3968f3",
+      "institution": "Universidad Intercultural Indígena de Michoacán",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [
+        "https://www.uiim.edu.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "a8c73f61c89ef85b",
+      "institution": "Universidad Intercultural de Chiapas",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [
+        "https://www.unich.edu.mx/",
+        "https://www.unich.edu.mx/transparencia/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "086701021d0bb220",
+      "institution": "Universidad Intercultural de Tlaxcala",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://uit.edu.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "49b52aed4c40290a",
+      "institution": "Universidad Intercultural del Estado de México",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [
+        "http://uiem.edomex.gob.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "505c7bfb6ee4ec3e",
+      "institution": "Universidad Intercultural para la Igualdad",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://www.uniti.edu.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "6322e97f53df469c",
+      "institution": "Universidad Itaca",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "http://www.i.edu.mx/",
+        "https://i.edu.mx/conocenos/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "761a67941b185be4",
+      "institution": "Universidad Jóse Vasconcelos",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "http://www.univas.edu.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "0332cae0cda20e68",
+      "institution": "Universidad Lasallista Benavente",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "http://www.ulsab.edu.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "113366684d059992",
+      "institution": "Universidad Mesoamericana de San Agustín",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "http://www.umsa.edu.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "a12630d435ebe6d8",
+      "institution": "Universidad Mexicana del Noreste",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [
+        "http://www.umne.edu.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "6a214138e1b3f58e",
+      "institution": "Universidad Motolinía del Pedregal",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "http://www.motolinia.com.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "30a04893df35b923",
+      "institution": "Universidad Nuevo Mundo",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "identity_unresolved",
+      "sourceUrls": [
+        "http://www.unum.edu.mx/",
+        "https://repositorio.unam.mx/contenidos/ficha/diseno-de-pagina-web-para-la-universidad-nuevo-mundo-336870?as=0&c=pzWmQD&d=false&i=1&q=%2A%3A%2A&t=search_0&v=1"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "a55a0374405c3537",
+      "institution": "Universidad Pedagógica Nacional",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "http://www.upn.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "8757ab3cdd40b90f",
+      "institution": "Universidad Popular de la Chontalpa",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://upch.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "a695dae745311ce6",
+      "institution": "Universidad Salesiana",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "http://www.universidadsalesiana.edu.mx/",
+        "https://universidadsalesiana.edu.mx/vinculacion-y-extension-universitaria/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "d9578b06246a0f08",
+      "institution": "Universidad Tecnologica de Nezahualcoyotl",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [
+        "http://www.utneza.edu.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "607e2cfc8947d173",
+      "institution": "Universidad Veracruzana",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "eligible_team_documented",
+      "sourceUrls": [
+        "http://www.uv.mx/",
+        "https://www.uv.mx/personal/cpina/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "6c6df27709ff594e",
+      "institution": "Universidad de Colima",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [
+        "http://www.ucol.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "48a6fd83dc95e6e9",
+      "institution": "Universidad de Guanajuato",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "http://www.ugto.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "2bb1044052ee347c",
+      "institution": "Universidad de León",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "http://www.universidaddeleon.edu.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "d1d022f5e67cbf80",
+      "institution": "Universidad de Occidente",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "http://www.udo.mx/",
+        "https://uadeo.mx/wp-content/uploads/2021/04/estatuto-organico-uadeo.pdf"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "8f41d13abbc166ab",
+      "institution": "Universidad de Sonora",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "http://www.uson.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "e90aa028f95079f6",
+      "institution": "Universidad de la Sierra A.C.",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [
+        "http://www.usac.edu.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "cbbc8a3c5eeb7bb4",
+      "institution": "Universidad de las Américas - Puebla",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [
+        "http://www.udlap.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "33018a2fb8bea339",
+      "institution": "Universidad del Istmo",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "https://dns2.unistmo.edu.mx/transparencia/nuestrauniversidad.html"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "1bf1a455894337af",
+      "institution": "Universidad del Noroeste",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "access_blocked",
+      "sourceUrls": [
+        "http://www.uno.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "47514da4a02136a8",
+      "institution": "Universidad del Tepeyac",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "http://www.tepeyac.edu.mx/",
+        "https://tepeyac.edu.mx/Universidad/nosotros/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    },
+    {
+      "id": "03ba4aadba0efeac",
+      "institution": "Universidad del Valle de Toluca",
+      "country": "México",
+      "checked": "2026-10-26",
+      "decision": "screened_no_explicit_team_in_consulted_material",
+      "sourceUrls": [
+        "http://www.uvt.edu.mx/",
+        "https://uvt.edu.mx/"
+      ],
+      "coverage": "Pasada rápida de material institucional; no conclusión de ausencia ni revisión exhaustiva de toda la institución"
+    }
+  ]
+}

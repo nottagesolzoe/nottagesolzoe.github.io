@@ -3733,51 +3733,6 @@
         "y": 570.95
       },
       {
-        "id": "person-0333",
-        "record": "person-0333",
-        "name": "Perfil LATAM",
-        "country": "México",
-        "kind": "person",
-        "x": 464.34,
-        "y": 570.95
-      },
-      {
-        "id": "person-0334",
-        "record": "person-0334",
-        "name": "Perfil LATAM",
-        "country": "México",
-        "kind": "person",
-        "x": 531.21,
-        "y": 570.95
-      },
-      {
-        "id": "person-0335",
-        "record": "person-0335",
-        "name": "Perfil LATAM",
-        "country": "México",
-        "kind": "person",
-        "x": 598.07,
-        "y": 570.95
-      },
-      {
-        "id": "person-0336",
-        "record": "person-0336",
-        "name": "Perfil LATAM",
-        "country": "México",
-        "kind": "person",
-        "x": 664.94,
-        "y": 570.95
-      },
-      {
-        "id": "person-0337",
-        "record": "person-0337",
-        "name": "Perfil LATAM",
-        "country": "México",
-        "kind": "person",
-        "x": 731.81,
-        "y": 570.95
-      },
-      {
         "id": "person-0338",
         "record": "person-0338",
         "name": "Perfil LATAM",
@@ -3977,6 +3932,213 @@
         "country": "Brasil",
         "kind": "institution",
         "programSourceOnly": true
+      },
+      {
+        "id": "person-0354",
+        "name": "Perfil LATAM",
+        "country": "México",
+        "kind": "person",
+        "record": "person-0354",
+        "x": 500,
+        "y": 350
+      },
+      {
+        "id": "inst-universidad-autonoma-de-san-luis-potosi",
+        "name": "Universidad Autónoma de San Luis Potosí",
+        "country": "México",
+        "kind": "institution",
+        "x": 500,
+        "y": 350
+      },
+      {
+        "id": "person-0355",
+        "name": "Perfil LATAM",
+        "country": "México",
+        "kind": "person",
+        "record": "person-0355",
+        "x": 500,
+        "y": 350
+      },
+      {
+        "id": "inst-benemerita-universidad-autonoma-de-puebla",
+        "name": "Benemérita Universidad Autónoma de Puebla",
+        "country": "México",
+        "kind": "institution",
+        "x": 500,
+        "y": 350
+      },
+      {
+        "id": "person-0356",
+        "name": "Perfil LATAM",
+        "country": "México",
+        "kind": "person",
+        "record": "person-0356",
+        "x": 500,
+        "y": 350
+      },
+      {
+        "id": "inst-universidad-autonoma-de-chiapas",
+        "name": "Universidad Autónoma de Chiapas",
+        "country": "México",
+        "kind": "institution",
+        "x": 500,
+        "y": 350
+      },
+      {
+        "id": "person-0357",
+        "name": "Perfil LATAM",
+        "country": "México",
+        "kind": "person",
+        "record": "person-0357",
+        "x": 500,
+        "y": 350
+      },
+      {
+        "id": "inst-tecnologico-de-monterrey",
+        "name": "Instituto Tecnológico y de Estudios Superiores de Monterrey",
+        "country": "México",
+        "kind": "institution",
+        "x": 500,
+        "y": 350
+      },
+      {
+        "id": "person-0358",
+        "name": "Perfil LATAM",
+        "country": "México",
+        "kind": "person",
+        "record": "person-0358",
+        "x": 500,
+        "y": 350
+      },
+      {
+        "id": "person-0359",
+        "name": "Perfil LATAM",
+        "country": "México",
+        "kind": "person",
+        "record": "person-0359",
+        "x": 500,
+        "y": 350
+      },
+      {
+        "id": "inst-iteso",
+        "name": "Instituto Tecnológico y de Estudios Superiores de Occidente",
+        "country": "México",
+        "kind": "institution",
+        "x": 500,
+        "y": 350
+      },
+      {
+        "id": "person-0360",
+        "name": "Perfil LATAM",
+        "country": "México",
+        "kind": "person",
+        "record": "person-0360",
+        "x": 500,
+        "y": 350
+      },
+      {
+        "id": "person-0361",
+        "name": "Perfil LATAM",
+        "country": "México",
+        "kind": "person",
+        "record": "person-0361",
+        "x": 500,
+        "y": 350
+      },
+      {
+        "id": "person-0362",
+        "name": "Perfil LATAM",
+        "country": "México",
+        "kind": "person",
+        "record": "person-0362",
+        "x": 500,
+        "y": 350
+      },
+      {
+        "id": "person-0363",
+        "name": "Perfil LATAM",
+        "country": "México",
+        "kind": "person",
+        "record": "person-0363",
+        "x": 500,
+        "y": 350
+      },
+      {
+        "id": "inst-el-colegio-de-mexico",
+        "name": "El Colegio de México",
+        "country": "México",
+        "kind": "institution",
+        "x": 500,
+        "y": 350
+      },
+      {
+        "id": "person-0364",
+        "name": "Perfil LATAM",
+        "country": "México",
+        "kind": "person",
+        "record": "person-0364",
+        "x": 500,
+        "y": 350
+      },
+      {
+        "id": "person-0365",
+        "name": "Perfil LATAM",
+        "country": "México",
+        "kind": "person",
+        "record": "person-0365",
+        "x": 500,
+        "y": 350
+      },
+      {
+        "id": "person-0366",
+        "name": "Perfil LATAM",
+        "country": "México",
+        "kind": "person",
+        "record": "person-0366",
+        "x": 500,
+        "y": 350
+      },
+      {
+        "id": "person-0367",
+        "name": "Perfil LATAM",
+        "country": "México",
+        "kind": "person",
+        "record": "person-0367",
+        "x": 500,
+        "y": 350
+      },
+      {
+        "id": "inst-universidad-autonoma-metropolitana",
+        "name": "Universidad Autónoma Metropolitana",
+        "country": "México",
+        "kind": "institution",
+        "x": 500,
+        "y": 350
+      },
+      {
+        "id": "person-0368",
+        "name": "Perfil LATAM",
+        "country": "México",
+        "kind": "person",
+        "record": "person-0368",
+        "x": 500,
+        "y": 350
+      },
+      {
+        "id": "inst-universidad-iberoamericana",
+        "name": "Universidad Iberoamericana",
+        "country": "México",
+        "kind": "institution",
+        "x": 500,
+        "y": 350
+      },
+      {
+        "id": "inst-universidad-veracruzana",
+        "name": "Universidad Veracruzana",
+        "country": "México",
+        "kind": "institution",
+        "x": 500,
+        "y": 350
       }
     ],
     "edges": [
@@ -6092,6 +6254,168 @@
         "checked": "2026-10-25",
         "period": "2026",
         "periodStatus": "Perfil docente ordinario principal a tiempo completo y cursos 2026-1/2026-2"
+      },
+      {
+        "source": "person-0354",
+        "target": "inst-universidad-autonoma-de-san-luis-potosi",
+        "weight": 1,
+        "evidenceUrl": "https://wp.uaslp.mx/noticias/investigacion/proyecto-universitario-desarrolla-herramientas-de-inteligencia-artificial-para-reconstruir-redes-sociales-del-pasado/",
+        "relation": "Afiliación institucional documentada",
+        "checked": "2026-10-26",
+        "evidencePeriod": "institutional_source_2026"
+      },
+      {
+        "source": "person-0355",
+        "target": "inst-universidad-autonoma-de-san-luis-potosi",
+        "weight": 1,
+        "evidenceUrl": "https://wp.uaslp.mx/noticias/investigacion/proyecto-universitario-desarrolla-herramientas-de-inteligencia-artificial-para-reconstruir-redes-sociales-del-pasado/",
+        "relation": "Afiliación institucional documentada",
+        "checked": "2026-10-26",
+        "evidencePeriod": "institutional_source_2026"
+      },
+      {
+        "source": "person-0236",
+        "target": "inst-benemerita-universidad-autonoma-de-puebla",
+        "weight": 1,
+        "evidenceUrl": "https://ecosistema.buap.mx/vivo/individual?uri=https%3A%2F%2Fecosistema.buap.mx%2Findividual%2Fn4369",
+        "relation": "Afiliación institucional documentada",
+        "checked": "2026-10-26",
+        "evidencePeriod": "Latest laboratory institutional listing2025; teaching affiliation also confirmed on opened institutional page"
+      },
+      {
+        "source": "person-0356",
+        "target": "inst-universidad-autonoma-de-chiapas",
+        "weight": 1,
+        "evidenceUrl": "https://www.unistmo.edu.mx/transparencia/Articulo_70/Fraccion_XLI/2023/3erTrimestre/Articulo_publicado_Jul-Sep_2023.pdf",
+        "relation": "Afiliación institucional documentada",
+        "checked": "2026-10-26",
+        "evidencePeriod": "Institutional profile currently listed; faculty roster datedApril2025"
+      },
+      {
+        "source": "person-0357",
+        "target": "inst-tecnologico-de-monterrey",
+        "weight": 1,
+        "evidenceUrl": "https://tec.mx/es/investigacion/gobierno-y-emprendimiento-publico",
+        "relation": "Afiliación institucional documentada",
+        "checked": "2026-10-26",
+        "evidencePeriod": "Institutional pages without editorial date, consulted2026-10-26; project/publication dates retained separately"
+      },
+      {
+        "source": "person-0358",
+        "target": "inst-tecnologico-de-monterrey",
+        "weight": 1,
+        "evidenceUrl": "https://tec.mx/es/investigacion/gobierno-y-emprendimiento-publico",
+        "relation": "Afiliación institucional documentada",
+        "checked": "2026-10-26",
+        "evidencePeriod": "Institutional pages without editorial date, consulted2026-10-26; project/publication dates retained separately"
+      },
+      {
+        "source": "person-0359",
+        "target": "inst-iteso",
+        "weight": 1,
+        "evidenceUrl": "https://iteso.mx/web/general/detalle?group_id=9502244",
+        "relation": "Afiliación institucional documentada",
+        "checked": "2026-10-26",
+        "evidencePeriod": "2025-02-07"
+      },
+      {
+        "source": "person-0360",
+        "target": "inst-iteso",
+        "weight": 1,
+        "evidenceUrl": "https://iteso.mx/web/general/detalle?group_id=9502244",
+        "relation": "Afiliación institucional documentada",
+        "checked": "2026-10-26",
+        "evidencePeriod": "2026-09-04 biography; 2025-02-07 computational project"
+      },
+      {
+        "source": "person-0361",
+        "target": "inst-iteso",
+        "weight": 1,
+        "evidenceUrl": "https://iteso.mx/web/general/detalle?group_id=9502244",
+        "relation": "Afiliación institucional documentada",
+        "checked": "2026-10-26",
+        "evidencePeriod": "Live institutional article with2026context, consulted2026-10-26; computational project2025; full name2018"
+      },
+      {
+        "source": "person-0362",
+        "target": "inst-iteso",
+        "weight": 1,
+        "evidenceUrl": "https://iteso.mx/web/general/detalle?group_id=9502244",
+        "relation": "Afiliación institucional documentada",
+        "checked": "2026-10-26",
+        "evidencePeriod": "2026-09-04 biography; 2025-02-07 computational project"
+      },
+      {
+        "source": "person-0363",
+        "target": "inst-el-colegio-de-mexico",
+        "weight": 1,
+        "evidenceUrl": "https://cienciadedatos.colmex.mx/",
+        "relation": "Afiliación institucional documentada",
+        "checked": "2026-10-26",
+        "evidencePeriod": "Vínculopublicadoenpáginaconsultada;intervaloindividualnopublicado"
+      },
+      {
+        "source": "person-0364",
+        "target": "inst-el-colegio-de-mexico",
+        "weight": 1,
+        "evidenceUrl": "https://cienciadedatos.colmex.mx/",
+        "relation": "Afiliación institucional documentada",
+        "checked": "2026-10-26",
+        "evidencePeriod": "Vínculopublicadoenpáginaconsultada;intervaloindividualnopublicado"
+      },
+      {
+        "source": "person-0365",
+        "target": "inst-el-colegio-de-mexico",
+        "weight": 1,
+        "evidenceUrl": "https://cienciadedatos.colmex.mx/",
+        "relation": "Afiliación institucional documentada",
+        "checked": "2026-10-26",
+        "evidencePeriod": "Vínculopublicadoenpáginaconsultada;intervaloindividualnopublicado"
+      },
+      {
+        "source": "person-0366",
+        "target": "inst-unam",
+        "weight": 1,
+        "evidenceUrl": "https://mmss.iimas.unam.mx/jefatura-de-departamento/",
+        "relation": "Afiliación institucional documentada",
+        "checked": "2026-10-26",
+        "evidencePeriod": "Vínculopublicadoenpáginaconsultada;intervaloindividualnopublicado"
+      },
+      {
+        "source": "person-0367",
+        "target": "inst-universidad-autonoma-metropolitana",
+        "weight": 1,
+        "evidenceUrl": "https://divcsh.izt.uam.mx/cipol/index.php/plantilla-de-profesores/",
+        "relation": "Afiliación institucional documentada",
+        "checked": "2026-10-26",
+        "evidencePeriod": "Fuente institucional consultada26oct2026"
+      },
+      {
+        "source": "person-0368",
+        "target": "inst-universidad-iberoamericana",
+        "weight": 1,
+        "evidenceUrl": "https://laboratorios.ibero.mx/laboratorios/laboratorio-interdisciplinario-de-encuestas-y-datos-sociales-lieds/",
+        "relation": "Afiliación institucional documentada",
+        "checked": "2026-10-26",
+        "evidencePeriod": "Fuente institucional consultada26oct2026"
+      },
+      {
+        "source": "person-0187",
+        "target": "inst-universidad-veracruzana",
+        "weight": 1,
+        "evidenceUrl": "https://www.uv.mx/personal/cpina/",
+        "relation": "Afiliación institucional documentada",
+        "checked": "2026-10-26",
+        "evidencePeriod": "Fuente institucional consultada26oct2026"
+      },
+      {
+        "source": "person-0332",
+        "target": "inst-tecnologico-de-monterrey",
+        "weight": 1,
+        "evidenceUrl": "https://tecscience.tec.mx/es/educacion-y-humanismo/patricia-murrieta/",
+        "relation": "Nombramiento institucional documentado",
+        "checked": "2026-10-26",
+        "evidencePeriod": "2025-10-13"
       }
     ]
   },
@@ -8182,8 +8506,8 @@
     ]
   },
   "stats": {
-    "people": 353,
-    "organizations": 51,
+    "people": 363,
+    "organizations": 54,
     "papers": 43,
     "authors": 63,
     "edges": 86,
