@@ -72,12 +72,15 @@
     "site_project_id": "appgprj_6a7bfa15ebdc81918e5a0fae12080c4c",
     "site_version": 21,
     "source_commit": "1e0fb94cd2c4e2decb6fdada2bead89031a072bf",
-    "scope": "Recover original Site prose and missing research entries while retaining subsequent biography, projects, publications, tools and the recovered static design.",
+    "scope": "Full replacement with original Site version 21 text at Sol’s explicit selection. Preserve current design and the separately maintained CSS atlas charts and data.",
     "pages": [
       "/",
       "/about/",
       "/projects/",
       "/research/",
+      "/publications/",
+      "/presentations/",
+      "/resources/",
       "Spanish equivalents"
     ]
   }
