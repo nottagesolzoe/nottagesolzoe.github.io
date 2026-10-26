@@ -66,3 +66,5 @@
 @media(max-width:650px){#atlas .dashboard-filters{grid-template-columns:1fr 1fr;padding:20px 6vw}#atlas .view-section{padding:40px 6vw}#atlas .program-grid,#atlas .rapid-journals{grid-template-columns:1fr}#atlas button.institution-row{grid-template-columns:minmax(100px,1.3fr) minmax(40px,1fr) 88px;font-size:13px;gap:9px}#atlas .bar-value{font-size:12px}#atlas .network-panel>svg{min-height:320px}#atlas .map-toolbar{font-size:10px}#atlas .map-toolbar button{padding:5px 8px}}
 
 #atlas .project-name{font-family:Rosario,Arial,sans-serif;font-size:clamp(24px,3.2vw,40px);line-height:1.15;max-width:950px;margin:0 0 22px;letter-spacing:-.025em}
+
+#atlas .license-notice{font-family:Rosario,Arial,sans-serif;font-size:13px;line-height:1.7;max-width:1050px;text-transform:none;letter-spacing:normal}#atlas .license-notice img{vertical-align:-.1em}
