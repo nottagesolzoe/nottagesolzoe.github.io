@@ -3938,6 +3938,45 @@
         "kind": "institution",
         "x": 865.54,
         "y": 602.05
+      },
+      {
+        "id": "cpcex-ufpe",
+        "record": "cpcex-ufpe",
+        "name": "Laboratório de Ciência Política Computacional e Experimental",
+        "country": "Brasil",
+        "kind": "institution",
+        "evidenceOnlyNoPersonAffiliations": true
+      },
+      {
+        "id": "ciencia-datos-colmex",
+        "record": "ciencia-datos-colmex",
+        "name": "Programa Interdisciplinario de Ciencia de Datos",
+        "country": "México",
+        "kind": "institution",
+        "evidenceOnlyNoPersonAffiliations": true
+      },
+      {
+        "id": "idalab-cenfotec",
+        "record": "idalab-cenfotec",
+        "name": "IDALab · Laboratorio Internacional de Análisis de Datos",
+        "country": "Costa Rica",
+        "kind": "institution",
+        "evidenceOnlyNoPersonAffiliations": true
+      },
+      {
+        "id": "gics-pucp",
+        "record": "gics-pucp",
+        "name": "Grupo Interdisciplinario de Investigación Computacional de la Complejidad Social (GICS)",
+        "country": "Perú",
+        "kind": "institution",
+        "evidenceOnlyNoPersonAffiliations": true
+      },
+      {
+        "id": "inst-puc-campinas",
+        "name": "Pontifícia Universidade Católica de Campinas (PUC-Campinas)",
+        "country": "Brasil",
+        "kind": "institution",
+        "programSourceOnly": true
       }
     ],
     "edges": [
@@ -8144,7 +8183,7 @@
   },
   "stats": {
     "people": 353,
-    "organizations": 47,
+    "organizations": 51,
     "papers": 43,
     "authors": 63,
     "edges": 86,
@@ -8154,7 +8193,8 @@
     "density": 0.044034818228366614,
     "institutionNodes": 18,
     "institutionEdges": 18,
-    "papersWithAffiliations": 12
+    "papersWithAffiliations": 12,
+    "organizationsCountingNote": "Institutional directory records; does not imply each has a person-affiliation edge."
   },
   "multi": {
     "nodes": [

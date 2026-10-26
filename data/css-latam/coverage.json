@@ -782,5 +782,15 @@
     "evidence": "recovery-20261026.json",
     "pending": "recovery-pending-20261026.json",
     "thematicCompletionClaimed": false
+  },
+  "thematicRecoveryScreening": {
+    "checked": "2026-10-26",
+    "targetRecords": 517,
+    "recordsWithPartialAcademicMaterial": 427,
+    "recordsWithoutSufficientThematicMaterial": 90,
+    "screening": "thematic-screening-20261026.json",
+    "findings": "thematic-findings-20261026.json",
+    "programDeduplication": "program-deduplication-20261026.json",
+    "exhaustiveCoverageClaimed": false
   }
 }

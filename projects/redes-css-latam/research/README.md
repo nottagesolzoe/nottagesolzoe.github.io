@@ -114,3 +114,13 @@ python3 projects/redes-css-latam/research/apply_access_recovery.py
 ```
 
 El inventario anterior a la recuperación se conserva en el historial Git, commit `31af1be`. El registro publicado permite inspeccionar las decisiones; las páginas externas pueden cambiar y una nueva consulta puede producir otro resultado. No se distribuyen copias integrales de páginas externas.
+
+## Revisión temática de fuentes recuperadas y unidades de programa, 26 de octubre de 2026
+
+Se procesaron las 517 filas con fuentes institucionales recuperadas, agrupadas en 471 orígenes. Se revisó material académico parcial atribuible a 427 filas. Las otras 90 carecieron de texto temático suficiente durante esta pasada; no equivalen a las 90 filas pendientes de recuperación de acceso, que tienen otro denominador. Se reutilizaron extractos conservados y se consultaron hasta tres páginas por origen. No se equipararon fuentes de instituciones distintas por compartir alojamiento. Los textos íntegros de las páginas permanecen en la caché de trabajo privada; se publican URLs, estados, hashes y extractos breves de candidaturas.
+
+`thematic-screening-20261026.json` conserva la cobertura y el cribado. Las coincidencias de términos fueron candidaturas: se descartaron proximidad de menús, palabras clave de revistas, noticias generales y eventos sin programa documentado. La verificación posterior de fuentes primarias incorporó dos programas: el diplomado de investigación social de UNAM/FCPyS y la carrera de Ciencias Sociales con énfasis en IA de PUC-Campinas. La siguiente admisión no está confirmada. Cuatro espacios de investigación se incorporaron al directorio institucional: CPCE-X de UFPE, Ciencia de Datos de El Colegio de México, IDALab de CENFOTEC y GICS de PUCP. MMSS-IIMAS ya estaba registrado y fue reconfirmado, sin duplicarlo. No se infirieron personas ni aristas de afiliación. La evidencia se conserva en `thematic-findings-20261026.json`.
+
+La unidad de conteo de formación es el programa, no su edición anual. SICSS Uruguay aparece una sola vez y conserva equipos, fechas y fuentes de 2024 y 2026 en `editions`. Su participación sigue sin constituir afiliación. La conciliación dejó 47 programas: 46 filas anteriores, menos una edición duplicada, más dos programas verificados. Los programas con títulos similares en instituciones diferentes permanecen separados. Los datos y las decisiones están en `program-deduplication-20261026.json`.
+
+La revisión utilizó extracción automatizada y agentes de IA para búsqueda, comprobación rápida y consolidación. No constituye una auditoría humana integral ni una lectura exhaustiva de planes. La ausencia de un término en las páginas consultadas no demuestra ausencia institucional de CSC.

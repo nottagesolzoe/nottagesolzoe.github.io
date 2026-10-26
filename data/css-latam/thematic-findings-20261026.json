@@ -1,0 +1,204 @@
+{
+  "checked": "2026-10-26",
+  "newPrograms": [
+    {
+      "name": "Inteligencia Artificial, Machine Learning y Ciencia de Datos aplicada a investigación en Ciencias Sociales",
+      "institution": "Universidad Nacional Autónoma de México (UNAM) · Facultad de Ciencias Políticas y Sociales",
+      "country": "México",
+      "type": "Diplomado",
+      "url": "https://educacioncontinuafcpys.com/index.php/temarios-1/ciencia-de-datos-ia-ml",
+      "status": "Cohorte anunciada: 30 de abril a 10 de diciembre de 2026; nueva admisión no confirmada",
+      "description": "Formación low-code/no-code en extracción y análisis de datos sociales, análisis de sentimiento y redes, visualización y proyecto integrador de investigación social. 270 horas.",
+      "modality": "En línea / semitutorada",
+      "people": [],
+      "personIds": [],
+      "checked": "2026-10-26",
+      "cscScope": "computational_methods_for_social_research",
+      "scopeReason": "La fuente especifica extracción de datos de plataformas, análisis de sentimientos, redes y proyecto de investigación social. La inclusión se basa en estos métodos y preguntas, no en IA como tema.",
+      "fit": "CSS directa",
+      "topics": [
+        "Ciencias sociales computacionales"
+      ],
+      "reviewLevel": "rapid_primary_source_confirmation_not_full_curriculum_audit"
+    },
+    {
+      "inventoryId": "2fca28fa0b0134a0",
+      "name": "Ciências Sociais com Ênfase em Inteligência Artificial",
+      "institution": "Pontifícia Universidade Católica de Campinas (PUC-Campinas)",
+      "country": "Brasil",
+      "type": "Carrera de grado",
+      "url": "https://www.puc-campinas.edu.br/graduacao/ciencias-sociais-com-enfase-em-inteligencia-artificial/",
+      "status": "Programa publicado en el catálogo oficial; la página indica inscripciones cerradas. Próxima admisión no confirmada.",
+      "description": "Grado de ocho semestres que integra sociología, antropología y ciencia política con programación, aprendizaje automático, procesamiento de lenguaje natural y análisis de datos textuales, redes y territorialidades.",
+      "people": [],
+      "personIds": [],
+      "checked": "2026-10-26",
+      "cscScope": "computational_social_methods",
+      "scopeReason": "El contenido aplica aprendizaje automático a investigación cualitativa y cuantitativa de fenómenos sociales; incluye redes sociales y análisis territorial. La inclusión se fundamenta en contenidos, además del título.",
+      "fit": "CSS directa",
+      "duration": "8 semestres",
+      "shift": "Matutino",
+      "sources": [
+        {
+          "url": "https://www.puc-campinas.edu.br/graduacao/",
+          "opened": true,
+          "evidence": "Catálogo enlaza la carrera con ocho semestres y turno matutino."
+        },
+        {
+          "url": "https://www.puc-campinas.edu.br/graduacao/ciencias-sociais-com-enfase-em-inteligencia-artificial/",
+          "opened": true,
+          "evidence": "Descripción y componentes oficiales vinculan métodos sociales con programación, PLN, minería de datos, aprendizaje automático aplicado a investigación social y redes. El botón indica inscripciones cerradas."
+        }
+      ],
+      "modalityVerification": "No se confirmó modalidad; no inferirla del turno matutino.",
+      "sourceDates": "Página sin fecha editorial; consulta2026-10-26. No implica admisión abierta.",
+      "modality": "No confirmada",
+      "topics": [
+        "Ciencias sociales computacionales"
+      ],
+      "reviewLevel": "rapid_primary_source_confirmation_not_full_curriculum_audit"
+    }
+  ],
+  "newCenterIds": [
+    "cpcex-ufpe",
+    "ciencia-datos-colmex",
+    "idalab-cenfotec",
+    "gics-pucp"
+  ],
+  "centers": [
+    {
+      "id": "cpcex-ufpe",
+      "name": "Laboratório de Ciência Política Computacional e Experimental",
+      "institution": "Universidade Federal de Pernambuco (UFPE)",
+      "country": "Brasil",
+      "description": "Laboratorio del Departamento de Ciencia Política. Desarrolla investigación en ciencia política y relaciones internacionales mediante métodos computacionales y experimentales. Su proyecto ReeLegis aplicó aprendizaje computacional al análisis de propuestas legislativas.",
+      "methods": [
+        "Aprendizaje automático",
+        "Métodos computacionales",
+        "Experimentos"
+      ],
+      "topics": [
+        "Política, democracia y opinión pública"
+      ],
+      "sources": [
+        {
+          "url": "https://www.ufpe.br/es/ascom/noticias/-/asset_publisher/O3Odar12gQTr/content/laboratorio-de-ciencia-politica-computacional-e-experimental-lanca-plataforma-que-permite-comparar-atuacao-de-politicos-candidatos-a-reeleicao/40615",
+          "opened": true,
+          "publicationDate": "2022-08-22",
+          "evidence": "Nota institucional identifica el laboratorio, su pertenencia a DCP-UFPE y el análisis computacional de propuestas legislativas de2019–2022."
+        },
+        {
+          "url": "https://cpcex-lab.rbind.io/",
+          "opened": true,
+          "evidence": "Portada del propio laboratorio define proyectos de ciencia política y relaciones internacionales con métodos computacionales y experimentales; contacto institucional ufpe.br."
+        }
+      ],
+      "status": "Existencia y actividad documentadas en2022; continuidad2026 no confirmada"
+    },
+    {
+      "id": "ciencia-datos-colmex",
+      "name": "Programa Interdisciplinario de Ciencia de Datos",
+      "institution": "El Colegio de México",
+      "country": "México",
+      "description": "Programa de investigación que desarrolla y aplica ciencia de datos a preguntas de ciencias sociales y humanidades. No es un título de grado.",
+      "methods": [
+        "Aprendizaje automático",
+        "Extracción de datos web",
+        "Análisis de redes"
+      ],
+      "topics": [
+        "Ciencias sociales computacionales"
+      ],
+      "sources": [
+        {
+          "url": "https://cienciadedatos.colmex.mx/",
+          "title": "Programa institucional de investigación"
+        }
+      ],
+      "status": "Programa de investigación y apoyo formativo; no presentarlo como grado ni atribuir simultáneamente los equipos duplicados de la portada."
+    },
+    {
+      "id": "idalab-cenfotec",
+      "name": "IDALab · Laboratorio Internacional de Análisis de Datos",
+      "institution": "Universidad CENFOTEC",
+      "country": "Costa Rica",
+      "description": "Investigación computacional de agenda mediática, cobertura electoral y percepción pública mediante datos digitales, extracción automatizada, procesamiento de lenguaje natural y análisis de sentimientos.",
+      "methods": [
+        "Extracción de datos web",
+        "NLP y texto",
+        "Análisis de sentimientos"
+      ],
+      "topics": [
+        "Comunicación, medios y desinformación",
+        "Política, democracia y opinión pública"
+      ],
+      "sources": [
+        {
+          "url": "https://idalab.ucenfotec.ac.cr/",
+          "title": "IDALab, proyectos de investigación"
+        },
+        {
+          "url": "https://ucenfotec.ac.cr/investigacion-y-desarrollo-experimental/",
+          "title": "Investigación y desarrollo experimental, CENFOTEC"
+        }
+      ],
+      "status": "La página describe proyectos 2026 y laboratorio universitario. No acredita una oferta formativa, cohorte ni fecha de incorporación individual."
+    },
+    {
+      "id": "gics-pucp",
+      "name": "Grupo Interdisciplinario de Investigación Computacional de la Complejidad Social (GICS)",
+      "institution": "Pontificia Universidad Católica del Perú (PUCP)",
+      "country": "Perú",
+      "description": "Grupo de investigación sobre fenómenos económicos, culturales, sociales, políticos y de gobierno mediante modelos y simulaciones computacionales. Declara modelado basado en agentes, minería de datos sociales y simulación de políticas públicas.",
+      "methods": [
+        "Modelos basados en agentes",
+        "Simulación computacional",
+        "Minería de datos sociales",
+        "Análisis de redes"
+      ],
+      "topics": [
+        "Ciencias sociales computacionales",
+        "Políticas públicas y gobierno digital"
+      ],
+      "sources": [
+        {
+          "url": "https://investigacion.pucp.edu.pe/grupos/gics/acerca-del-grupo/",
+          "title": "Acerca del grupo GICS, Vicerrectorado de Investigación PUCP"
+        }
+      ],
+      "status": "Fuente institucional abierta; continuidad de cada proyecto y composición actual del equipo no confirmadas."
+    }
+  ],
+  "existingCenterReconfirmed": "mmss",
+  "deduplication": "program-deduplication-20261026.json",
+  "historicalCourseNotAdded": [
+    {
+      "inventoryId": "e96c32ff7e43d751",
+      "name": "Tópicos Especiais: Economia Computacional (SE357)",
+      "institution": "Universidade Federal do Paraná (UFPR)",
+      "country": "Brasil",
+      "type": "Asignatura de grado",
+      "url": "https://sociaisaplicadas.ufpr.br/coordeco/wp-content/uploads/sites/9/2022/09/Optativa-T%C3%B3picos-Especiais-Economia-Computacional-Prof-Jo%C3%A3o-Basilio.pdf",
+      "status": "Oferta histórica2022–2023; no confirma oferta2026",
+      "description": "Asignatura optativa de60horas de Economía. Introduce R, Python y SQL para análisis económico y manejo de Censo, RAIS y PNAD, entre otras fuentes.",
+      "modality": "Presencial",
+      "cscScope": "computational_social_methods",
+      "scopeReason": "Programación y bases de datos aplicadas explícitamente a economía y microdatos sociales; no es posgrado independiente.",
+      "sources": [
+        {
+          "url": "https://sociaisaplicadas.ufpr.br/coordeco/wp-content/uploads/sites/9/2022/09/Optativa-T%C3%B3picos-Especiais-Economia-Computacional-Prof-Jo%C3%A3o-Basilio.pdf",
+          "opened": true,
+          "evidence": "Ficha oficial SE357 identifica60horas, optativa semestral, comienzo18/10/2022; herramientas R/Python/SQL y datos Censo/RAIS/PNAD; procedimientos didácticos indican clases presenciales en laboratorio."
+        }
+      ],
+      "people": [],
+      "personIds": [],
+      "recommendedDestination": "Historical thematic evidence, not a new independent degree"
+    }
+  ],
+  "limits": [
+    "Rapid source screening does not prove absence in unvisited curricula or establish comprehensive coverage.",
+    "No new individual profiles or affiliation edges inferred from centers, programs or events.",
+    "Historical course evidence is retained separately, not advertised as a new current independent program."
+  ]
+}

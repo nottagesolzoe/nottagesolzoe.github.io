@@ -9269,7 +9269,9 @@
     "scope": [
       "México"
     ],
-    "topics": [],
+    "topics": [
+      "Ciencias sociales computacionales"
+    ],
     "methods": [],
     "fit": "CSS directa",
     "description": "Investigación en sistemas sociales, redes, bibliometría y modelado.",
@@ -9277,12 +9279,16 @@
       {
         "title": "Perfil, equipo o trabajo documentado",
         "url": "https://mmss.iimas.unam.mx/"
+      },
+      {
+        "title": "Líneas de investigación, MMSS-IIMAS-UNAM",
+        "url": "https://mmss.iimas.unam.mx/lineas-de-investigacion/"
       }
     ],
     "publication": null,
     "email": "",
     "linkedin": "",
-    "checked": "2026-10-19",
+    "checked": "2026-10-26",
     "evidence": "Línea institucional documentada",
     "baseStatus": "Organización / red",
     "topicsOriginal": [
@@ -13580,5 +13586,182 @@
     "evidence": "Página institucional; revisión rápida",
     "email": "",
     "linkedin": ""
+  },
+  {
+    "id": "cpcex-ufpe",
+    "name": "Laboratório de Ciência Política Computacional e Experimental",
+    "type": "Laboratorio / centro",
+    "country": "Brasil",
+    "region": "",
+    "affiliation": "Universidade Federal de Pernambuco (UFPE)",
+    "scope": [
+      "Brasil"
+    ],
+    "topics": [
+      "Política, democracia y opinión pública"
+    ],
+    "methods": [
+      "Aprendizaje automático",
+      "Métodos computacionales",
+      "Experimentos"
+    ],
+    "fit": "CSS directa",
+    "description": "Laboratorio del Departamento de Ciencia Política. Desarrolla investigación en ciencia política y relaciones internacionales mediante métodos computacionales y experimentales. Su proyecto ReeLegis aplicó aprendizaje computacional al análisis de propuestas legislativas.",
+    "sources": [
+      {
+        "title": "Fuente institucional primaria",
+        "url": "https://www.ufpe.br/es/ascom/noticias/-/asset_publisher/O3Odar12gQTr/content/laboratorio-de-ciencia-politica-computacional-e-experimental-lanca-plataforma-que-permite-comparar-atuacao-de-politicos-candidatos-a-reeleicao/40615"
+      },
+      {
+        "title": "Fuente institucional primaria",
+        "url": "https://cpcex-lab.rbind.io/"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-26",
+    "evidence": "Métodos computacionales aplicados a preguntas sociales, fuente institucional primaria",
+    "baseStatus": "Organización / red",
+    "topicsOriginal": [
+      "Política, democracia y opinión pública"
+    ],
+    "transversalTopics": [
+      "Ciencias sociales computacionales"
+    ],
+    "topicTaxonomyVersion": "2026-10-23",
+    "verificationStatus": "Existencia y actividad documentadas en2022; continuidad2026 no confirmada"
+  },
+  {
+    "id": "ciencia-datos-colmex",
+    "name": "Programa Interdisciplinario de Ciencia de Datos",
+    "type": "Laboratorio / centro",
+    "country": "México",
+    "region": "",
+    "affiliation": "El Colegio de México",
+    "scope": [
+      "México"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales"
+    ],
+    "methods": [
+      "Aprendizaje automático",
+      "Extracción de datos web",
+      "Análisis de redes"
+    ],
+    "fit": "CSS directa",
+    "description": "Programa de investigación que desarrolla y aplica ciencia de datos a preguntas de ciencias sociales y humanidades. No es un título de grado.",
+    "sources": [
+      {
+        "title": "Programa institucional de investigación",
+        "url": "https://cienciadedatos.colmex.mx/"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-26",
+    "evidence": "Métodos computacionales aplicados a preguntas sociales, fuente institucional primaria",
+    "baseStatus": "Organización / red",
+    "topicsOriginal": [
+      "Ciencias sociales computacionales"
+    ],
+    "transversalTopics": [
+      "Ciencias sociales computacionales"
+    ],
+    "topicTaxonomyVersion": "2026-10-23",
+    "verificationStatus": "Programa de investigación y apoyo formativo; no presentarlo como grado ni atribuir simultáneamente los equipos duplicados de la portada."
+  },
+  {
+    "id": "idalab-cenfotec",
+    "name": "IDALab · Laboratorio Internacional de Análisis de Datos",
+    "type": "Laboratorio / centro",
+    "country": "Costa Rica",
+    "region": "",
+    "affiliation": "Universidad CENFOTEC",
+    "scope": [
+      "Costa Rica"
+    ],
+    "topics": [
+      "Comunicación, medios y desinformación",
+      "Política, democracia y opinión pública"
+    ],
+    "methods": [
+      "Extracción de datos web",
+      "NLP y texto",
+      "Análisis de sentimientos"
+    ],
+    "fit": "CSS directa",
+    "description": "Investigación computacional de agenda mediática, cobertura electoral y percepción pública mediante datos digitales, extracción automatizada, procesamiento de lenguaje natural y análisis de sentimientos.",
+    "sources": [
+      {
+        "title": "IDALab, proyectos de investigación",
+        "url": "https://idalab.ucenfotec.ac.cr/"
+      },
+      {
+        "title": "Investigación y desarrollo experimental, CENFOTEC",
+        "url": "https://ucenfotec.ac.cr/investigacion-y-desarrollo-experimental/"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-26",
+    "evidence": "Métodos computacionales aplicados a preguntas sociales, fuente institucional primaria",
+    "baseStatus": "Organización / red",
+    "topicsOriginal": [
+      "Comunicación, medios y desinformación",
+      "Política, democracia y opinión pública"
+    ],
+    "transversalTopics": [
+      "Ciencias sociales computacionales"
+    ],
+    "topicTaxonomyVersion": "2026-10-23",
+    "verificationStatus": "La página describe proyectos 2026 y laboratorio universitario. No acredita una oferta formativa, cohorte ni fecha de incorporación individual."
+  },
+  {
+    "id": "gics-pucp",
+    "name": "Grupo Interdisciplinario de Investigación Computacional de la Complejidad Social (GICS)",
+    "type": "Laboratorio / centro",
+    "country": "Perú",
+    "region": "",
+    "affiliation": "Pontificia Universidad Católica del Perú (PUCP)",
+    "scope": [
+      "Perú"
+    ],
+    "topics": [
+      "Ciencias sociales computacionales",
+      "Políticas públicas y gobierno digital"
+    ],
+    "methods": [
+      "Modelos basados en agentes",
+      "Simulación computacional",
+      "Minería de datos sociales",
+      "Análisis de redes"
+    ],
+    "fit": "CSS directa",
+    "description": "Grupo de investigación sobre fenómenos económicos, culturales, sociales, políticos y de gobierno mediante modelos y simulaciones computacionales. Declara modelado basado en agentes, minería de datos sociales y simulación de políticas públicas.",
+    "sources": [
+      {
+        "title": "Acerca del grupo GICS, Vicerrectorado de Investigación PUCP",
+        "url": "https://investigacion.pucp.edu.pe/grupos/gics/acerca-del-grupo/"
+      }
+    ],
+    "publication": null,
+    "email": "",
+    "linkedin": "",
+    "checked": "2026-10-26",
+    "evidence": "Métodos computacionales aplicados a preguntas sociales, fuente institucional primaria",
+    "baseStatus": "Organización / red",
+    "topicsOriginal": [
+      "Ciencias sociales computacionales",
+      "Políticas públicas y gobierno digital"
+    ],
+    "transversalTopics": [
+      "Ciencias sociales computacionales"
+    ],
+    "topicTaxonomyVersion": "2026-10-23",
+    "verificationStatus": "Fuente institucional abierta; continuidad de cada proyecto y composición actual del equipo no confirmadas."
   }
 ]

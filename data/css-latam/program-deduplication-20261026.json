@@ -1,0 +1,44 @@
+{
+  "checked": "2026-10-26",
+  "rule": "Same program, institution and country appears once; annual editions retain separate sources, dates and teams. Different institutions or distinct courses are not merged by title similarity.",
+  "beforeRecords": 46,
+  "merged": [
+    {
+      "program": "SICSS-Uruguay",
+      "country": "Uruguay",
+      "originalRows": 2,
+      "editionYears": [
+        2024,
+        2026
+      ],
+      "retainedSources": [
+        "https://sicss.io/2024/uruguay/",
+        "https://sicss.io/2026/uruguay/"
+      ]
+    }
+  ],
+  "newVerifiedPrograms": [
+    {
+      "name": "Inteligencia Artificial, Machine Learning y Ciencia de Datos aplicada a investigación en Ciencias Sociales",
+      "country": "México",
+      "url": "https://educacioncontinuafcpys.com/index.php/temarios-1/ciencia-de-datos-ia-ml"
+    },
+    {
+      "name": "Ciências Sociais com Ênfase em Inteligência Artificial",
+      "country": "Brasil",
+      "url": "https://www.puc-campinas.edu.br/graduacao/ciencias-sociais-com-enfase-em-inteligencia-artificial/"
+    }
+  ],
+  "afterPrograms": 47,
+  "afterCountryCounts": {
+    "Argentina": 20,
+    "Perú": 2,
+    "Chile": 2,
+    "Brasil": 4,
+    "Colombia": 2,
+    "Uruguay": 10,
+    "Costa Rica": 1,
+    "México": 4,
+    "Bolivia": 2
+  }
+}

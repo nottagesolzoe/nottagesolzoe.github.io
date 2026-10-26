@@ -464,20 +464,12 @@
     "institution": "Universidad de la República (Udelar)",
     "country": "Uruguay",
     "type": "Escuela",
-    "url": "https://sicss.io/2024/uruguay/",
-    "status": "Edición 2024 finalizada",
-    "description": "Plantel, expositores y participantes publicados en la página People. Los invitados internacionales conservan su ubicación institucional documentada.",
+    "url": "https://sicss.io/2026/uruguay/",
+    "status": "Una escuela; ediciones documentadas 2024 y 2026. Edición 2026 anunciada. SICSS indica 29/10–06/11; la noticia de FCS indica 28/10–05/11. Fechas sin conciliar.",
+    "description": "Escuela de Ciencias Sociales Computacionales de la Universidad de la República. Se muestran por separado los equipos y fuentes de las ediciones 2024 y 2026; su participación no constituye afiliación institucional.",
     "modality": "",
-    "people": [
-      "Elina Gómez",
-      "Fabricio Carneiro",
-      "Nicolás Schmidt",
-      "Ivan Schuliaquer",
-      "Sergio Toro",
-      "Germán Rosati",
-      "Ignacio Zuasnabar"
-    ],
-    "checked": "2026-10-20",
+    "people": [],
+    "checked": "2026-10-26",
     "personIds": [
       "person-0008",
       "person-0053",
@@ -485,35 +477,7 @@
       "person-0286",
       "person-0287",
       "person-0002",
-      "person-0288"
-    ],
-    "cscScope": "explicit_computational_social",
-    "scopeReason": "SICSS identifica formación específica de CSC; metadatos no verifican contenidos ni resultados de esta edición.",
-    "fit": "CSS directa"
-  },
-  {
-    "name": "SICSS-Uruguay",
-    "institution": "Universidad de la República (Udelar)",
-    "country": "Uruguay",
-    "type": "Escuela",
-    "url": "https://sicss.io/2026/uruguay/",
-    "status": "Edición 2026 anunciada. SICSS indica 29/10–06/11; la noticia de FCS indica 28/10–05/11. Fechas sin conciliar.",
-    "description": "Plantel, expositores y participantes publicados en la página People. Los invitados internacionales conservan su ubicación institucional documentada.",
-    "modality": "",
-    "people": [
-      "Elina Gómez",
-      "Fabricio Carneiro",
-      "Malena Montano",
-      "Mariana Seco",
-      "Esteban García",
-      "Nahuel Roel",
-      "María José Afanador Llach",
-      "Agustín Nieto"
-    ],
-    "checked": "2026-10-20",
-    "personIds": [
-      "person-0008",
-      "person-0053",
+      "person-0288",
       "person-0293",
       "person-0294",
       "person-0295",
@@ -523,7 +487,80 @@
     ],
     "cscScope": "explicit_computational_social",
     "scopeReason": "SICSS identifica formación específica de CSC; metadatos no verifican contenidos ni resultados de esta edición.",
-    "fit": "CSS directa"
+    "fit": "CSS directa",
+    "editions": [
+      {
+        "name": "SICSS-Uruguay",
+        "institution": "Universidad de la República (Udelar)",
+        "country": "Uruguay",
+        "type": "Escuela",
+        "url": "https://sicss.io/2024/uruguay/",
+        "status": "Edición 2024 finalizada",
+        "description": "Plantel, expositores y participantes publicados en la página People. Los invitados internacionales conservan su ubicación institucional documentada.",
+        "modality": "",
+        "people": [
+          "Elina Gómez",
+          "Fabricio Carneiro",
+          "Nicolás Schmidt",
+          "Ivan Schuliaquer",
+          "Sergio Toro",
+          "Germán Rosati",
+          "Ignacio Zuasnabar"
+        ],
+        "checked": "2026-10-20",
+        "personIds": [
+          "person-0008",
+          "person-0053",
+          "person-0285",
+          "person-0286",
+          "person-0287",
+          "person-0002",
+          "person-0288"
+        ],
+        "cscScope": "explicit_computational_social",
+        "scopeReason": "SICSS identifica formación específica de CSC; metadatos no verifican contenidos ni resultados de esta edición.",
+        "fit": "CSS directa"
+      },
+      {
+        "name": "SICSS-Uruguay",
+        "institution": "Universidad de la República (Udelar)",
+        "country": "Uruguay",
+        "type": "Escuela",
+        "url": "https://sicss.io/2026/uruguay/",
+        "status": "Edición 2026 anunciada. SICSS indica 29/10–06/11; la noticia de FCS indica 28/10–05/11. Fechas sin conciliar.",
+        "description": "Plantel, expositores y participantes publicados en la página People. Los invitados internacionales conservan su ubicación institucional documentada.",
+        "modality": "",
+        "people": [
+          "Elina Gómez",
+          "Fabricio Carneiro",
+          "Malena Montano",
+          "Mariana Seco",
+          "Esteban García",
+          "Nahuel Roel",
+          "María José Afanador Llach",
+          "Agustín Nieto"
+        ],
+        "checked": "2026-10-20",
+        "personIds": [
+          "person-0008",
+          "person-0053",
+          "person-0293",
+          "person-0294",
+          "person-0295",
+          "person-0054",
+          "person-0049",
+          "person-0022"
+        ],
+        "cscScope": "explicit_computational_social",
+        "scopeReason": "SICSS identifica formación específica de CSC; metadatos no verifican contenidos ni resultados de esta edición.",
+        "fit": "CSS directa"
+      }
+    ],
+    "editionYears": [
+      2024,
+      2026
+    ],
+    "countingUnit": "program_not_edition"
   },
   {
     "name": "Introducción a la IA para Científicos Sociales",
@@ -1034,5 +1071,64 @@
     "cscScope": "related_training",
     "scopeReason": "Registro recuperado de la versión local revisada el 21/10/2026; conservar alcance documentado, sin reclasificación automática como CSC.",
     "fit": "Área afín"
+  },
+  {
+    "name": "Inteligencia Artificial, Machine Learning y Ciencia de Datos aplicada a investigación en Ciencias Sociales",
+    "institution": "Universidad Nacional Autónoma de México (UNAM) · Facultad de Ciencias Políticas y Sociales",
+    "country": "México",
+    "type": "Diplomado",
+    "url": "https://educacioncontinuafcpys.com/index.php/temarios-1/ciencia-de-datos-ia-ml",
+    "status": "Cohorte anunciada: 30 de abril a 10 de diciembre de 2026; nueva admisión no confirmada",
+    "description": "Formación low-code/no-code en extracción y análisis de datos sociales, análisis de sentimiento y redes, visualización y proyecto integrador de investigación social. 270 horas.",
+    "modality": "En línea / semitutorada",
+    "people": [],
+    "personIds": [],
+    "checked": "2026-10-26",
+    "cscScope": "computational_methods_for_social_research",
+    "scopeReason": "La fuente especifica extracción de datos de plataformas, análisis de sentimientos, redes y proyecto de investigación social. La inclusión se basa en estos métodos y preguntas, no en IA como tema.",
+    "fit": "CSS directa",
+    "topics": [
+      "Ciencias sociales computacionales"
+    ],
+    "reviewLevel": "rapid_primary_source_confirmation_not_full_curriculum_audit",
+    "admissionNote": "Cohorte anunciada de abril a diciembre de 2026; nueva admisión no confirmada."
+  },
+  {
+    "inventoryId": "2fca28fa0b0134a0",
+    "name": "Ciências Sociais com Ênfase em Inteligência Artificial",
+    "institution": "Pontifícia Universidade Católica de Campinas (PUC-Campinas)",
+    "country": "Brasil",
+    "type": "Carrera de grado",
+    "url": "https://www.puc-campinas.edu.br/graduacao/ciencias-sociais-com-enfase-em-inteligencia-artificial/",
+    "status": "Programa publicado en el catálogo oficial; la página indica inscripciones cerradas. Próxima admisión no confirmada.",
+    "description": "Grado de ocho semestres que integra sociología, antropología y ciencia política con programación, aprendizaje automático, procesamiento de lenguaje natural y análisis de datos textuales, redes y territorialidades.",
+    "people": [],
+    "personIds": [],
+    "checked": "2026-10-26",
+    "cscScope": "computational_social_methods",
+    "scopeReason": "El contenido aplica aprendizaje automático a investigación cualitativa y cuantitativa de fenómenos sociales; incluye redes sociales y análisis territorial. La inclusión se fundamenta en contenidos, además del título.",
+    "fit": "CSS directa",
+    "duration": "8 semestres",
+    "shift": "Matutino",
+    "sources": [
+      {
+        "url": "https://www.puc-campinas.edu.br/graduacao/",
+        "opened": true,
+        "evidence": "Catálogo enlaza la carrera con ocho semestres y turno matutino."
+      },
+      {
+        "url": "https://www.puc-campinas.edu.br/graduacao/ciencias-sociais-com-enfase-em-inteligencia-artificial/",
+        "opened": true,
+        "evidence": "Descripción y componentes oficiales vinculan métodos sociales con programación, PLN, minería de datos, aprendizaje automático aplicado a investigación social y redes. El botón indica inscripciones cerradas."
+      }
+    ],
+    "modalityVerification": "No se confirmó modalidad; no inferirla del turno matutino.",
+    "sourceDates": "Página sin fecha editorial; consulta2026-10-26. No implica admisión abierta.",
+    "modality": "No confirmada",
+    "topics": [
+      "Ciencias sociales computacionales"
+    ],
+    "reviewLevel": "rapid_primary_source_confirmation_not_full_curriculum_audit",
+    "admissionNote": "La fuente indica inscripciones cerradas; próxima admisión no confirmada."
   }
 ]
