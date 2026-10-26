@@ -5,7 +5,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "CONICET / Universidad Nacional de Quilmes",
+    "affiliation": "Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) / Universidad Nacional de Quilmes",
     "scope": [
       "Argentina",
       "Brasil",
@@ -42,7 +42,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "UNSAM / CONICET · factor~data",
+    "affiliation": "Universidad Nacional de San Martín (UNSAM) / Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) · factor~data",
     "scope": [
       "Argentina",
       "Colombia",
@@ -287,7 +287,7 @@
     "type": "Persona",
     "country": "Uruguay",
     "region": "Cono Sur",
-    "affiliation": "Universidad de la República · UMAD / CISCO",
+    "affiliation": "Universidad de la República · Unidad de Métodos y Acceso a Datos (UMAD) / CISCO",
     "scope": [
       "Uruguay"
     ],
@@ -430,7 +430,7 @@
     "type": "Persona",
     "country": "Perú",
     "region": "Andes",
-    "affiliation": "PUCP / UMass Amherst (docencia visitante)",
+    "affiliation": "Pontificia Universidad Católica del Perú (PUCP) / UMass Amherst (docencia visitante)",
     "scope": [
       "Perú"
     ],
@@ -803,11 +803,11 @@
   },
   {
     "id": "umad",
-    "name": "UMAD",
+    "name": "Unidad de Métodos y Acceso a Datos (UMAD)",
     "type": "Laboratorio / centro",
     "country": "Uruguay",
     "region": "Cono Sur",
-    "affiliation": "Facultad de Ciencias Sociales · Udelar",
+    "affiliation": "Facultad de Ciencias Sociales · Universidad de la República (Udelar)",
     "scope": [
       "Uruguay"
     ],
@@ -887,7 +887,7 @@
   },
   {
     "id": "usfq",
-    "name": "USFQ Data Hub",
+    "name": "Data Hub de la Universidad San Francisco de Quito (USFQ)",
     "type": "Laboratorio / centro",
     "country": "Ecuador",
     "region": "Región andina",
@@ -977,7 +977,7 @@
   },
   {
     "id": "cir",
-    "name": "CIRCPyCS · UAGRM",
+    "name": "Centro de Investigación Regional en Ciencia Política y Ciencias Sociales · Universidad Autónoma Gabriel René Moreno",
     "type": "Laboratorio / centro",
     "country": "Bolivia",
     "region": "Región andina",
@@ -1455,11 +1455,11 @@
   },
   {
     "id": "fgv",
-    "name": "FGV Comunicação",
+    "name": "Escola de Comunicação, Mídia e Informação da Fundação Getulio Vargas (FGV Comunicação)",
     "type": "Laboratorio / centro",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "Fundação Getulio Vargas · antes FGV ECMI",
+    "affiliation": "Fundação Getulio Vargas · antes Fundação Getulio Vargas (FGV) ECMI",
     "scope": [
       "Brasil"
     ],
@@ -1511,7 +1511,7 @@
   },
   {
     "id": "cetic",
-    "name": "Cetic.br / NIC.br",
+    "name": "Centro Regional de Estudos para o Desenvolvimento da Sociedade da Informação (Cetic.br) / Núcleo de Informação e Coordenação do Ponto BR (NIC.br)",
     "type": "Laboratorio / centro",
     "country": "Brasil",
     "region": "Brasil",
@@ -1839,7 +1839,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "Disruptive Research Institute / ITBA",
+    "affiliation": "Disruptive Research Institute / Instituto Tecnológico de Buenos Aires (ITBA)",
     "scope": [
       "México"
     ],
@@ -1873,7 +1873,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "Universidad de Buenos Aires / CONICET",
+    "affiliation": "Universidad de Buenos Aires / Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)",
     "scope": [
       "Argentina"
     ],
@@ -1906,7 +1906,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "UBA / CONICET, física y sistemas complejos",
+    "affiliation": "Universidad de Buenos Aires (UBA) / Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), física y sistemas complejos",
     "scope": [
       "Argentina"
     ],
@@ -1939,7 +1939,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "IIEP, UBA-CONICET / CSNetlab",
+    "affiliation": "IIEP, Universidad de Buenos Aires (UBA)-Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) / CSNetlab",
     "scope": [
       "Argentina"
     ],
@@ -1973,7 +1973,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "UBA / Instituto de Ciencias de la Computación",
+    "affiliation": "Universidad de Buenos Aires (UBA) / Instituto de Ciencias de la Computación",
     "scope": [
       "Argentina"
     ],
@@ -2107,7 +2107,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "CONICET / Universidad Nacional de Mar del Plata",
+    "affiliation": "Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) / Universidad Nacional de Mar del Plata",
     "scope": [
       "Argentina",
       "Uruguay"
@@ -2253,7 +2253,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "PUC-Rio / Condado Lab / NuTeC",
+    "affiliation": "Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio) / Condado Lab / NuTeC",
     "scope": [
       "Brasil"
     ],
@@ -2358,7 +2358,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "FGV Comunicação Rio",
+    "affiliation": "Escola de Comunicação, Mídia e Informação da Fundação Getulio Vargas (FGV Comunicação) Rio",
     "scope": [
       "Brasil"
     ],
@@ -2393,7 +2393,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "FGV Comunicação Rio / DAPP Lab",
+    "affiliation": "Escola de Comunicação, Mídia e Informação da Fundação Getulio Vargas (FGV Comunicação) Rio / DAPP Lab",
     "scope": [
       "Brasil"
     ],
@@ -2427,7 +2427,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "FGV Comunicação Rio",
+    "affiliation": "Escola de Comunicação, Mídia e Informação da Fundação Getulio Vargas (FGV Comunicação) Rio",
     "scope": [
       "Brasil"
     ],
@@ -2460,7 +2460,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "FGV Comunicação Rio",
+    "affiliation": "Escola de Comunicação, Mídia e Informação da Fundação Getulio Vargas (FGV Comunicação) Rio",
     "scope": [
       "Brasil"
     ],
@@ -2492,7 +2492,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "FGV Comunicação Rio / Quaest / ISER",
+    "affiliation": "Escola de Comunicação, Mídia e Informação da Fundação Getulio Vargas (FGV Comunicação) Rio / Quaest / ISER",
     "scope": [
       "Brasil"
     ],
@@ -2906,7 +2906,7 @@
     "type": "Persona",
     "country": "México",
     "region": "México",
-    "affiliation": "UNAM, Instituto de Física",
+    "affiliation": "Universidad Nacional Autónoma de México (UNAM), Instituto de Física",
     "scope": [
       "México"
     ],
@@ -3179,7 +3179,7 @@
     "type": "Persona",
     "country": "Uruguay",
     "region": "Cono Sur",
-    "affiliation": "Universidad de la República / UMAD",
+    "affiliation": "Universidad de la República / Unidad de Métodos y Acceso a Datos (UMAD)",
     "scope": [
       "Uruguay"
     ],
@@ -3232,7 +3232,7 @@
     "type": "Persona",
     "country": "Uruguay",
     "region": "Cono Sur",
-    "affiliation": "Universidad de la República / UMAD",
+    "affiliation": "Universidad de la República / Unidad de Métodos y Acceso a Datos (UMAD)",
     "scope": [
       "Uruguay"
     ],
@@ -3277,7 +3277,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "Trazas Digitales, CIAI / UNSAM",
+    "affiliation": "Trazas Digitales, CIAI / Universidad Nacional de San Martín (UNSAM)",
     "scope": [
       "Argentina"
     ],
@@ -3302,7 +3302,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "Trazas Digitales, CIAI / UNSAM",
+    "affiliation": "Trazas Digitales, CIAI / Universidad Nacional de San Martín (UNSAM)",
     "scope": [
       "Argentina"
     ],
@@ -3333,7 +3333,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "Trazas Digitales, CIAI / UNSAM",
+    "affiliation": "Trazas Digitales, CIAI / Universidad Nacional de San Martín (UNSAM)",
     "scope": [
       "Argentina"
     ],
@@ -3358,7 +3358,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "Trazas Digitales, CIAI / UNSAM",
+    "affiliation": "Trazas Digitales, CIAI / Universidad Nacional de San Martín (UNSAM)",
     "scope": [
       "Argentina"
     ],
@@ -3383,7 +3383,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "Trazas Digitales, CIAI / UNSAM",
+    "affiliation": "Trazas Digitales, CIAI / Universidad Nacional de San Martín (UNSAM)",
     "scope": [
       "Argentina"
     ],
@@ -3408,7 +3408,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "Trazas Digitales, CIAI / UNSAM",
+    "affiliation": "Trazas Digitales, CIAI / Universidad Nacional de San Martín (UNSAM)",
     "scope": [
       "Argentina"
     ],
@@ -3433,7 +3433,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "Trazas Digitales, CIAI / UNSAM",
+    "affiliation": "Trazas Digitales, CIAI / Universidad Nacional de San Martín (UNSAM)",
     "scope": [
       "Argentina"
     ],
@@ -3458,7 +3458,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "Trazas Digitales, CIAI / UNSAM",
+    "affiliation": "Trazas Digitales, CIAI / Universidad Nacional de San Martín (UNSAM)",
     "scope": [
       "Argentina"
     ],
@@ -3483,7 +3483,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "Trazas Digitales, CIAI / UNSAM",
+    "affiliation": "Trazas Digitales, CIAI / Universidad Nacional de San Martín (UNSAM)",
     "scope": [
       "Argentina"
     ],
@@ -3508,7 +3508,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "UFLO / CONICET",
+    "affiliation": "UFLO / Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)",
     "scope": [
       "Argentina"
     ],
@@ -3539,7 +3539,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "CONICET / Instituto Gino Germani, UBA",
+    "affiliation": "Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) / Instituto Gino Germani, Universidad de Buenos Aires (UBA)",
     "scope": [
       "Argentina"
     ],
@@ -3573,7 +3573,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "Factor~Data / CESDI, UNSAM",
+    "affiliation": "Factor~Data / CESDI, Universidad Nacional de San Martín (UNSAM)",
     "scope": [
       "Argentina"
     ],
@@ -3604,7 +3604,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "CONICET / Universidad Nacional de Córdoba",
+    "affiliation": "Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) / Universidad Nacional de Córdoba",
     "scope": [
       "Argentina"
     ],
@@ -3639,7 +3639,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "CONICET",
+    "affiliation": "Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)",
     "scope": [
       "Argentina"
     ],
@@ -3672,7 +3672,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "CONICET / EIDAES, UNSAM",
+    "affiliation": "Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) / EIDAES, Universidad Nacional de San Martín (UNSAM)",
     "scope": [
       "Argentina"
     ],
@@ -3739,7 +3739,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "UBA / CONICET",
+    "affiliation": "Universidad de Buenos Aires (UBA) / Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)",
     "scope": [
       "Argentina"
     ],
@@ -3774,7 +3774,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "UNSAM",
+    "affiliation": "Universidad Nacional de San Martín (UNSAM)",
     "scope": [
       "Argentina"
     ],
@@ -3805,7 +3805,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "Instituto Gino Germani, UBA",
+    "affiliation": "Instituto Gino Germani, Universidad de Buenos Aires (UBA)",
     "scope": [
       "Argentina"
     ],
@@ -3837,7 +3837,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "UBA / Rappi",
+    "affiliation": "Universidad de Buenos Aires (UBA) / Rappi",
     "scope": [
       "Argentina"
     ],
@@ -3901,7 +3901,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "UFMG / LabUAI / MOSAIC",
+    "affiliation": "Universidade Federal de Minas Gerais (UFMG) / LabUAI / MOSAIC",
     "scope": [
       "Brasil"
     ],
@@ -3935,7 +3935,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "UFMG",
+    "affiliation": "Universidade Federal de Minas Gerais (UFMG)",
     "scope": [
       "Brasil"
     ],
@@ -3966,7 +3966,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "UFMG",
+    "affiliation": "Universidade Federal de Minas Gerais (UFMG)",
     "scope": [
       "Brasil"
     ],
@@ -3997,7 +3997,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "UFMG",
+    "affiliation": "Universidade Federal de Minas Gerais (UFMG)",
     "scope": [
       "Brasil"
     ],
@@ -4090,7 +4090,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "UFOP / LoCuS, UFMG",
+    "affiliation": "Universidade Federal de Ouro Preto (UFOP) / Laboratório de Computação Social (LoCuS), Universidade Federal de Minas Gerais (UFMG)",
     "scope": [
       "Brasil"
     ],
@@ -4124,7 +4124,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "CIIA-UFMG (afiliación declarada por la investigadora)",
+    "affiliation": "CIIA-Universidade Federal de Minas Gerais (UFMG) (afiliación declarada por la investigadora)",
     "scope": [
       "Brasil"
     ],
@@ -4157,7 +4157,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "LoCuS, UFMG",
+    "affiliation": "Laboratório de Computação Social (LoCuS), Universidade Federal de Minas Gerais (UFMG)",
     "scope": [
       "Brasil"
     ],
@@ -4189,7 +4189,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "LoCuS, UFMG",
+    "affiliation": "Laboratório de Computação Social (LoCuS), Universidade Federal de Minas Gerais (UFMG)",
     "scope": [
       "Brasil"
     ],
@@ -4221,7 +4221,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "LoCuS, UFMG",
+    "affiliation": "Laboratório de Computação Social (LoCuS), Universidade Federal de Minas Gerais (UFMG)",
     "scope": [
       "Brasil"
     ],
@@ -4253,7 +4253,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "LoCuS, UFMG",
+    "affiliation": "Laboratório de Computação Social (LoCuS), Universidade Federal de Minas Gerais (UFMG)",
     "scope": [
       "Brasil"
     ],
@@ -4285,7 +4285,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "LoCuS, UFMG",
+    "affiliation": "Laboratório de Computação Social (LoCuS), Universidade Federal de Minas Gerais (UFMG)",
     "scope": [
       "Brasil"
     ],
@@ -4317,7 +4317,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "LoCuS, UFMG",
+    "affiliation": "Laboratório de Computação Social (LoCuS), Universidade Federal de Minas Gerais (UFMG)",
     "scope": [
       "Brasil"
     ],
@@ -4349,7 +4349,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "LoCuS, UFMG",
+    "affiliation": "Laboratório de Computação Social (LoCuS), Universidade Federal de Minas Gerais (UFMG)",
     "scope": [
       "Brasil"
     ],
@@ -4381,7 +4381,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "LoCuS, UFMG",
+    "affiliation": "Laboratório de Computação Social (LoCuS), Universidade Federal de Minas Gerais (UFMG)",
     "scope": [
       "Brasil"
     ],
@@ -4413,7 +4413,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "LoCuS, UFMG",
+    "affiliation": "Laboratório de Computação Social (LoCuS), Universidade Federal de Minas Gerais (UFMG)",
     "scope": [
       "Brasil"
     ],
@@ -4445,7 +4445,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "LoCuS, UFMG",
+    "affiliation": "Laboratório de Computação Social (LoCuS), Universidade Federal de Minas Gerais (UFMG)",
     "scope": [
       "Brasil"
     ],
@@ -4477,7 +4477,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "LoCuS, UFMG",
+    "affiliation": "Laboratório de Computação Social (LoCuS), Universidade Federal de Minas Gerais (UFMG)",
     "scope": [
       "Brasil"
     ],
@@ -4509,7 +4509,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "LoCuS, UFMG",
+    "affiliation": "Laboratório de Computação Social (LoCuS), Universidade Federal de Minas Gerais (UFMG)",
     "scope": [
       "Brasil"
     ],
@@ -4541,7 +4541,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -4575,7 +4575,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -4609,7 +4609,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -4634,7 +4634,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -4668,7 +4668,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -4693,7 +4693,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -4718,7 +4718,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -4752,7 +4752,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -4786,7 +4786,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -4811,7 +4811,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -4836,7 +4836,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -4861,7 +4861,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -4895,7 +4895,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -4920,7 +4920,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -4954,7 +4954,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -4988,7 +4988,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -5013,7 +5013,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -5038,7 +5038,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -5063,7 +5063,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -5088,7 +5088,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -5113,7 +5113,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -5138,7 +5138,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -5163,7 +5163,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -5188,7 +5188,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -5213,7 +5213,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -5238,7 +5238,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -5263,7 +5263,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -5288,7 +5288,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -5313,7 +5313,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -5338,7 +5338,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -5363,7 +5363,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -5388,7 +5388,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "NetLab, UFRJ",
+    "affiliation": "NetLab, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -5688,7 +5688,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "FGV Comunicação",
+    "affiliation": "Escola de Comunicação, Mídia e Informação da Fundação Getulio Vargas (FGV Comunicação)",
     "scope": [
       "Brasil"
     ],
@@ -5722,7 +5722,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "IFBA / UFBA",
+    "affiliation": "IFBA / Universidade Federal da Bahia (UFBA)",
     "scope": [
       "Brasil"
     ],
@@ -7227,7 +7227,7 @@
     "type": "Persona",
     "country": "México",
     "region": "México",
-    "affiliation": "IIMAS, UNAM",
+    "affiliation": "IIMAS, Universidad Nacional Autónoma de México (UNAM)",
     "scope": [
       "México"
     ],
@@ -7261,7 +7261,7 @@
     "type": "Persona",
     "country": "México",
     "region": "México",
-    "affiliation": "Tlatelolco Lab / PUEDJS, UNAM",
+    "affiliation": "Tlatelolco Lab / PUEDJS, Universidad Nacional Autónoma de México (UNAM)",
     "scope": [
       "México"
     ],
@@ -7293,7 +7293,7 @@
     "type": "Persona",
     "country": "México",
     "region": "México",
-    "affiliation": "Tlatelolco Lab / PUEDJS, UNAM",
+    "affiliation": "Tlatelolco Lab / PUEDJS, Universidad Nacional Autónoma de México (UNAM)",
     "scope": [
       "México"
     ],
@@ -7325,7 +7325,7 @@
     "type": "Persona",
     "country": "México",
     "region": "México",
-    "affiliation": "Tlatelolco Lab / PUEDJS, UNAM",
+    "affiliation": "Tlatelolco Lab / PUEDJS, Universidad Nacional Autónoma de México (UNAM)",
     "scope": [
       "México"
     ],
@@ -7357,7 +7357,7 @@
     "type": "Persona",
     "country": "México",
     "region": "México",
-    "affiliation": "Tlatelolco Lab / PUEDJS, UNAM",
+    "affiliation": "Tlatelolco Lab / PUEDJS, Universidad Nacional Autónoma de México (UNAM)",
     "scope": [
       "México"
     ],
@@ -7382,7 +7382,7 @@
     "type": "Persona",
     "country": "México",
     "region": "México",
-    "affiliation": "Tlatelolco Lab / PUEDJS, UNAM",
+    "affiliation": "Tlatelolco Lab / PUEDJS, Universidad Nacional Autónoma de México (UNAM)",
     "scope": [
       "México"
     ],
@@ -7407,7 +7407,7 @@
     "type": "Persona",
     "country": "México",
     "region": "México",
-    "affiliation": "Tlatelolco Lab / PUEDJS, UNAM",
+    "affiliation": "Tlatelolco Lab / PUEDJS, Universidad Nacional Autónoma de México (UNAM)",
     "scope": [
       "México"
     ],
@@ -7432,7 +7432,7 @@
     "type": "Persona",
     "country": "México",
     "region": "México",
-    "affiliation": "Tlatelolco Lab / PUEDJS, UNAM",
+    "affiliation": "Tlatelolco Lab / PUEDJS, Universidad Nacional Autónoma de México (UNAM)",
     "scope": [
       "México"
     ],
@@ -7457,7 +7457,7 @@
     "type": "Persona",
     "country": "México",
     "region": "México",
-    "affiliation": "Tlatelolco Lab / PUEDJS, UNAM",
+    "affiliation": "Tlatelolco Lab / PUEDJS, Universidad Nacional Autónoma de México (UNAM)",
     "scope": [
       "México"
     ],
@@ -7482,7 +7482,7 @@
     "type": "Persona",
     "country": "México",
     "region": "México",
-    "affiliation": "Tlatelolco Lab / PUEDJS, UNAM",
+    "affiliation": "Tlatelolco Lab / PUEDJS, Universidad Nacional Autónoma de México (UNAM)",
     "scope": [
       "México"
     ],
@@ -7507,7 +7507,7 @@
     "type": "Persona",
     "country": "México",
     "region": "México",
-    "affiliation": "Tlatelolco Lab / PUEDJS, UNAM",
+    "affiliation": "Tlatelolco Lab / PUEDJS, Universidad Nacional Autónoma de México (UNAM)",
     "scope": [
       "México"
     ],
@@ -7532,7 +7532,7 @@
     "type": "Persona",
     "country": "México",
     "region": "México",
-    "affiliation": "Tlatelolco Lab / PUEDJS, UNAM",
+    "affiliation": "Tlatelolco Lab / PUEDJS, Universidad Nacional Autónoma de México (UNAM)",
     "scope": [
       "México"
     ],
@@ -8309,7 +8309,7 @@
     "type": "Laboratorio / centro",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "CIAI, UNSAM",
+    "affiliation": "CIAI, Universidad Nacional de San Martín (UNSAM)",
     "scope": [
       "Argentina"
     ],
@@ -8339,11 +8339,11 @@
   },
   {
     "id": "netlab",
-    "name": "NetLab UFRJ",
+    "name": "NetLab Universidade Federal do Rio de Janeiro (UFRJ)",
     "type": "Laboratorio / centro",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "Escola de Comunicação, UFRJ",
+    "affiliation": "Escola de Comunicação, Universidade Federal do Rio de Janeiro (UFRJ)",
     "scope": [
       "Brasil"
     ],
@@ -8373,11 +8373,11 @@
   },
   {
     "id": "locus",
-    "name": "LoCuS · Laboratório de Computação Social",
+    "name": "Laboratório de Computação Social (LoCuS) · Universidade Federal de Minas Gerais (UFMG)",
     "type": "Laboratorio / centro",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "UFMG",
+    "affiliation": "Universidade Federal de Minas Gerais (UFMG)",
     "scope": [
       "Brasil"
     ],
@@ -8513,7 +8513,7 @@
     "type": "Laboratorio / centro",
     "country": "México",
     "region": "México",
-    "affiliation": "PUEDJS, UNAM",
+    "affiliation": "PUEDJS, Universidad Nacional Autónoma de México (UNAM)",
     "scope": [
       "México"
     ],
@@ -8615,7 +8615,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "INENCO / CONICET / Universidad Nacional de Salta",
+    "affiliation": "INENCO / Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) / Universidad Nacional de Salta",
     "scope": [
       "Argentina"
     ],
@@ -8649,7 +8649,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "GISSER / UAI-CONICET",
+    "affiliation": "GISSER / UAI-Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)",
     "scope": [
       "Argentina"
     ],
@@ -8916,7 +8916,7 @@
     "type": "Persona",
     "country": "México",
     "region": "México",
-    "affiliation": "DMMSS / IIMAS, UNAM",
+    "affiliation": "DMMSS / IIMAS, Universidad Nacional Autónoma de México (UNAM)",
     "scope": [
       "México"
     ],
@@ -8951,7 +8951,7 @@
     "type": "Persona",
     "country": "México",
     "region": "México",
-    "affiliation": "DMMSS / IIMAS, UNAM",
+    "affiliation": "DMMSS / IIMAS, Universidad Nacional Autónoma de México (UNAM)",
     "scope": [
       "México"
     ],
@@ -8985,7 +8985,7 @@
     "type": "Persona",
     "country": "México",
     "region": "México",
-    "affiliation": "DMMSS / IIMAS, UNAM",
+    "affiliation": "DMMSS / IIMAS, Universidad Nacional Autónoma de México (UNAM)",
     "scope": [
       "México"
     ],
@@ -9017,7 +9017,7 @@
     "type": "Persona",
     "country": "México",
     "region": "México",
-    "affiliation": "DMMSS / IIMAS, UNAM",
+    "affiliation": "DMMSS / IIMAS, Universidad Nacional Autónoma de México (UNAM)",
     "scope": [
       "México"
     ],
@@ -9149,7 +9149,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "Condado Lab / PUC-Rio",
+    "affiliation": "Condado Lab / Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)",
     "scope": [
       "Brasil"
     ],
@@ -9178,7 +9178,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "Condado Lab / PUC-Rio",
+    "affiliation": "Condado Lab / Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)",
     "scope": [
       "Brasil"
     ],
@@ -9207,7 +9207,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "Condado Lab / PUC-Rio",
+    "affiliation": "Condado Lab / Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)",
     "scope": [
       "Brasil"
     ],
@@ -9236,7 +9236,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "Condado Lab / PUC-Rio",
+    "affiliation": "Condado Lab / Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)",
     "scope": [
       "Brasil"
     ],
@@ -9265,7 +9265,7 @@
     "type": "Laboratorio / centro",
     "country": "México",
     "region": "México",
-    "affiliation": "UNAM",
+    "affiliation": "Universidad Nacional Autónoma de México (UNAM)",
     "scope": [
       "México"
     ],
@@ -9299,7 +9299,7 @@
     "type": "Laboratorio / centro",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "PUC-Rio",
+    "affiliation": "Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)",
     "scope": [
       "Brasil"
     ],
@@ -9520,7 +9520,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "C40Cities / UNSAM (docencia)",
+    "affiliation": "C40Cities / Universidad Nacional de San Martín (UNSAM) (docencia)",
     "scope": [
       "América Latina"
     ],
@@ -9551,7 +9551,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "CONICET / Universidad de Buenos Aires / UNSAM (docencia)",
+    "affiliation": "Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) / Universidad de Buenos Aires / Universidad Nacional de San Martín (UNSAM) (docencia)",
     "scope": [
       "América Latina"
     ],
@@ -9582,7 +9582,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "UNSAM / UNSAM (docencia)",
+    "affiliation": "Universidad Nacional de San Martín (UNSAM) / Universidad Nacional de San Martín (UNSAM) (docencia)",
     "scope": [
       "América Latina"
     ],
@@ -9613,7 +9613,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "CEPAL / Universidad de Buenos Aires / UNSAM (docencia)",
+    "affiliation": "CEPAL / Universidad de Buenos Aires / Universidad Nacional de San Martín (UNSAM) (docencia)",
     "scope": [
       "América Latina"
     ],
@@ -9644,7 +9644,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "Candidly / Universidad de Buenos Aires / UNSAM (docencia)",
+    "affiliation": "Candidly / Universidad de Buenos Aires / Universidad Nacional de San Martín (UNSAM) (docencia)",
     "scope": [
       "América Latina"
     ],
@@ -9675,7 +9675,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "Payclip / UNSAM (docencia)",
+    "affiliation": "Payclip / Universidad Nacional de San Martín (UNSAM) (docencia)",
     "scope": [
       "América Latina"
     ],
@@ -9706,7 +9706,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "Accenture / UNSAM / UNSAM (docencia)",
+    "affiliation": "Accenture / Universidad Nacional de San Martín (UNSAM) / Universidad Nacional de San Martín (UNSAM) (docencia)",
     "scope": [
       "América Latina"
     ],
@@ -9737,7 +9737,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "CEPAL / Universidad de Buenos Aires / UNSAM (docencia)",
+    "affiliation": "CEPAL / Universidad de Buenos Aires / Universidad Nacional de San Martín (UNSAM) (docencia)",
     "scope": [
       "América Latina"
     ],
@@ -10929,7 +10929,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "CONICET / Universidad Nacional de San Martín",
+    "affiliation": "Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) / Universidad Nacional de San Martín",
     "scope": [
       "Uruguay"
     ],
@@ -11391,7 +11391,7 @@
     "type": "Persona",
     "country": "Argentina",
     "region": "Cono Sur",
-    "affiliation": "CONICET / UBA",
+    "affiliation": "Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) / Universidad de Buenos Aires (UBA)",
     "scope": [
       "Uruguay"
     ],
@@ -13113,7 +13113,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "FGV CPDOC (2022)",
+    "affiliation": "Escola de Ciências Sociais da Fundação Getulio Vargas (FGV CPDOC) (2022)",
     "scope": [
       "Brasil"
     ],
@@ -13142,7 +13142,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "FGV CPDOC (2022)",
+    "affiliation": "Escola de Ciências Sociais da Fundação Getulio Vargas (FGV CPDOC) (2022)",
     "scope": [
       "Brasil"
     ],
@@ -13171,7 +13171,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "FGV CPDOC (2022)",
+    "affiliation": "Escola de Ciências Sociais da Fundação Getulio Vargas (FGV CPDOC) (2022)",
     "scope": [
       "Brasil"
     ],
@@ -13200,7 +13200,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "FGV CPDOC (2022)",
+    "affiliation": "Escola de Ciências Sociais da Fundação Getulio Vargas (FGV CPDOC) (2022)",
     "scope": [
       "Brasil"
     ],
@@ -13258,7 +13258,7 @@
     "type": "Persona",
     "country": "Brasil",
     "region": "Brasil",
-    "affiliation": "FGV RI (2022)",
+    "affiliation": "Fundação Getulio Vargas (FGV) RI (2022)",
     "scope": [
       "Brasil"
     ],
@@ -13287,7 +13287,7 @@
     "type": "Persona",
     "country": "Perú",
     "region": "Región andina",
-    "affiliation": "Pulso PUCP",
+    "affiliation": "Pulso Pontificia Universidad Católica del Perú (PUCP)",
     "scope": [
       "Perú"
     ],
@@ -13320,7 +13320,7 @@
     "type": "Persona",
     "country": "Perú",
     "region": "Región andina",
-    "affiliation": "Pulso PUCP",
+    "affiliation": "Pulso Pontificia Universidad Católica del Perú (PUCP)",
     "scope": [
       "Perú"
     ],
@@ -13354,7 +13354,7 @@
     "type": "Persona",
     "country": "Perú",
     "region": "Región andina",
-    "affiliation": "Pulso PUCP",
+    "affiliation": "Pulso Pontificia Universidad Católica del Perú (PUCP)",
     "scope": [
       "Perú"
     ],
@@ -13389,7 +13389,7 @@
     "type": "Persona",
     "country": "Perú",
     "region": "Región andina",
-    "affiliation": "Pulso PUCP",
+    "affiliation": "Pulso Pontificia Universidad Católica del Perú (PUCP)",
     "scope": [
       "Perú"
     ],
@@ -13531,7 +13531,7 @@
     "type": "Laboratorio / centro",
     "country": "Ecuador",
     "region": "Andina",
-    "affiliation": "FLACSO Ecuador",
+    "affiliation": "Facultad Latinoamericana de Ciencias Sociales (FLACSO) Ecuador",
     "scope": [
       "Ecuador"
     ],

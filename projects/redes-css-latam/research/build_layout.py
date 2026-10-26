@@ -5,7 +5,7 @@ import networkx as nx
 root=Path(__file__).resolve().parents[3]
 network=json.loads((root/'data/css-latam/network.json').read_text())
 output={'method':'NetworkX spring_layout per connected component, seed42,600iterations,weighted edges. Components packed without overlap; isolates excluded. Position is not geography or a measure of social distance.','graphs':{}}
-for key in ['coauthors','institutions']:
+for key in ['multi']:
  graph=nx.Graph()
  graph.add_weighted_edges_from((e['source'],e['target'],e.get('weight',1)) for e in network[key]['edges'])
  components=sorted(nx.connected_components(graph),key=lambda c:(-len(c),sorted(c)[0]))

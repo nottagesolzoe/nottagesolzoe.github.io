@@ -1,0 +1,107 @@
+{
+  "checked": "2026-10-25",
+  "reason": "La consolidación anterior partió de una lista más antigua y omitió programas que ya estaban en la versión local revisada. No fueron exclusiones justificadas. Se recuperan los registros y títulos con sus fechas y fuentes previas.",
+  "before": {
+    "Argentina": 13,
+    "Perú": 1,
+    "Chile": 2,
+    "Brasil": 3,
+    "Colombia": 2,
+    "Uruguay": 11,
+    "Costa Rica": 1,
+    "México": 3,
+    "Bolivia": 2
+  },
+  "after": {
+    "Argentina": 20,
+    "Perú": 2,
+    "Chile": 2,
+    "Brasil": 3,
+    "Colombia": 2,
+    "Uruguay": 11,
+    "Costa Rica": 1,
+    "México": 3,
+    "Bolivia": 2
+  },
+  "restored": [
+    {
+      "name": "IA Generativa Aplicada a Ciencias Sociales y Gestión Pública",
+      "country": "Perú",
+      "url": "https://qlab.pucp.edu.pe/cursos/programa-de-especializacion"
+    },
+    {
+      "name": "Maestría en Policy Analysis",
+      "country": "Argentina",
+      "url": "https://www.itba.edu.ar/posgrado/maestria-en-policy-analysis/"
+    },
+    {
+      "name": "Diplomatura de Posgrado en Inteligencia Artificial y Educación",
+      "country": "Argentina",
+      "url": "https://www.fahce.unlp.edu.ar/facultad/secretarias-y-prosecretarias/posgrado/diplomatura/diplomatura-de-posgrado-en-inteligencia-artificial-y-educacion/plan-de-estudios"
+    },
+    {
+      "name": "Diplomatura en Inteligencia Artificial aplicada a la Educación Secundaria, Superior y Universitaria: Automatización y Sistemas Inteligentes",
+      "country": "Argentina",
+      "url": "https://faya.unse.edu.ar/index.php/diplo-ia/"
+    },
+    {
+      "name": "Diplomatura de Posgrado en Enseñanza Virtual",
+      "country": "Argentina",
+      "url": "https://humanidades.mdp.edu.ar/secretarias-subsecretarias/secretaria-de-posgrado/carreras-de-posgrado/diplomatura-de-posgrado-en-ensenanza-virtual/"
+    },
+    {
+      "name": "Curso: Inteligencia Artificial Aplicada a la Educación",
+      "country": "Argentina",
+      "url": "https://www.ude.edu.ar/extension/diplomaturas/curso-inteligencia-artificial-aplicada-a-la-educacion/"
+    },
+    {
+      "name": "Diplomatura en Inteligencia Artificial Aplicada a Educación",
+      "country": "Argentina",
+      "url": "https://uai.edu.ar/media/141292/diplomatura-en-inteligencia-artificial-aplicada-a-educaci%C3%B3n-2026.pdf"
+    },
+    {
+      "name": "Diplomatura de Posgrado en Inteligencia Artificial: Desafíos epistemológicos y proyecciones educativas",
+      "country": "Argentina",
+      "url": "https://filo.unt.edu.ar/diplomatura-en-inteligencia-artificial/"
+    }
+  ],
+  "updatedFromRetainedVersion": [
+    "Especialización en Ciencias Sociales Computacionales",
+    "Diploma en Ciencias Sociales Computacionales y Humanidades Digitales",
+    "Diplomatura en Ciencia de Datos para Ciencias Sociales",
+    "Alfabetización en datos: habilidades para una ciudadanía digital ampliada",
+    "Ciencia de Datos para las Ciencias Sociales y la Gestión Pública",
+    "Ciencia de datos sociales: datos desde Internet",
+    "Mestrado Profissional em Comunicação Digital e Cultura de Dados",
+    "SICSS Buenos Aires 2026",
+    "SICSS Brazil 2026",
+    "Escuela de verano: metodologías de investigación crítica en ciencias sociales",
+    "Escuela Internacional en Ciencias Sociales Computacionales 2023 (IMFD-CICADA-UMAD)",
+    "Gestión de datos y aprovechamiento de información mediante ciencia de datos",
+    "Diplomatura en Inteligencia Artificial y Políticas Públicas",
+    "Diplomatura en IA y Gobierno 5.0",
+    "Especialización en Ciencia de Datos Aplicada a la Psicología y Ciencias del Comportamiento",
+    "Diplomatura en Transformación Pública Digital",
+    "Diplomatura de Posgrado en Gestión Pública orientada a resultados",
+    "Micromaestría en Inteligencia Artificial para la Gestión Pública y Privada",
+    "Certificación de Estudios de Posgrado en Enseñanza y Aprendizaje con Inteligencia Artificial",
+    "SICSS-Uruguay",
+    "SICSS-Uruguay",
+    "Introducción a la IA para Científicos Sociales",
+    "Texto como Datos: Métodos Computacionales en Ciencias Sociales",
+    "Análisis espacial con sistemas de información geográfica",
+    "Visualización de datos",
+    "Modelos categóricos, de elección y conteo",
+    "Introducción a la programación en R",
+    "Introducción a la programación Python",
+    "Curso Ciencias Sociales Computacionales Aplicadas",
+    "Maestría en Humanidades Digitales",
+    "Licenciatura en Humanidades Digitales e Inteligencia Artificial",
+    "Maestría en Humanidades Digitales",
+    "Ciencias Sociales con Python",
+    "Introducción a la Ciencia de Datos para Científicos Sociales",
+    "Escola de Inverno em Humanidades Digitais e Ciências Sociais Computacionais"
+  ],
+  "excludedPerUser": "Doctorado en Ciencias de la Complejidad Social",
+  "limits": "Recuperación de evidencia guardada, no nueva revisión curricular. Los vínculos personales no se infieren de programas sin equipos vinculados."
+}

@@ -1,244 +1,162 @@
 {
   "method": "NetworkX spring_layout per connected component, seed42,600iterations,weighted edges. Components packed without overlap; isolates excluded. Position is not geography or a measure of social distance.",
   "graphs": {
-    "coauthors": {
-      "person-0024": {
-        "x": 132.4,
-        "y": 63.09
+    "multi": {
+      "inst-conicet": {
+        "x": 203.74,
+        "y": 206.83
       },
-      "person-0082": {
-        "x": 226.86,
-        "y": 236.96
-      },
-      "person-0080": {
-        "x": 171.22,
-        "y": 135.34
-      },
-      "person-0023": {
-        "x": 165.42,
-        "y": 181.46
-      },
-      "person-0083": {
-        "x": 211.53,
-        "y": 208.86
-      },
-      "person-0004": {
-        "x": 186.19,
-        "y": 227.54
-      },
-      "person-0075": {
-        "x": 190.16,
-        "y": 209.12
-      },
-      "person-0081": {
-        "x": 107.97,
-        "y": 198.48
-      },
-      "person-0077": {
-        "x": 182.75,
-        "y": 283.88
-      },
-      "person-0079": {
-        "x": 137.77,
-        "y": 143.32
-      },
-      "person-0025": {
-        "x": 147.15,
-        "y": 114.87
-      },
-      "person-0041": {
-        "x": 506.76,
-        "y": 186.0
-      },
-      "person-0006": {
-        "x": 409.13,
-        "y": 177.24
-      },
-      "person-0320": {
-        "x": 347.95,
-        "y": 151.72
-      },
-      "person-0321": {
-        "x": 343.7,
-        "y": 191.39
-      },
-      "person-0322": {
-        "x": 383.9,
-        "y": 191.24
-      },
-      "person-0323": {
-        "x": 364.2,
-        "y": 201.8
-      },
-      "person-0324": {
-        "x": 387.34,
-        "y": 159.04
-      },
-      "person-0319": {
-        "x": 336.83,
-        "y": 170.74
-      },
-      "person-0005": {
-        "x": 365.23,
-        "y": 173.31
-      },
-      "person-0318": {
-        "x": 370.27,
-        "y": 145.17
-      },
-      "person-0042": {
-        "x": 577.66,
-        "y": 192.36
-      },
-      "person-0102": {
-        "x": 721.46,
-        "y": 244.13
-      },
-      "person-0107": {
-        "x": 812.9,
-        "y": 111.47
-      },
-      "person-0096": {
-        "x": 729.34,
-        "y": 63.09
-      },
-      "person-0103": {
-        "x": 641.86,
-        "y": 105.21
-      },
-      "person-0110": {
-        "x": 808.93,
-        "y": 202.0
-      },
-      "person-0097": {
-        "x": 637.9,
-        "y": 195.74
-      },
-      "person-0039": {
-        "x": 168.68,
-        "y": 493.82
-      },
-      "person-0043": {
-        "x": 222.0,
-        "y": 382.27
-      },
-      "person-0040": {
-        "x": 100.32,
-        "y": 333.38
-      },
-      "person-0007": {
-        "x": 47.0,
-        "y": 444.94
-      },
-      "person-0329": {
-        "x": 299.91,
-        "y": 481.54
-      },
-      "person-0327": {
-        "x": 427.81,
-        "y": 388.31
-      },
-      "person-0328": {
-        "x": 275.8,
-        "y": 333.38
-      },
-      "person-0016": {
-        "x": 481.6,
-        "y": 465.96
+      "person-0002": {
+        "x": 262.1,
+        "y": 166.52
       },
       "person-0015": {
-        "x": 627.31,
-        "y": 334.39
+        "x": 232.72,
+        "y": 227.89
       },
-      "person-0038": {
-        "x": 676.31,
-        "y": 465.96
+      "person-0016": {
+        "x": 203.62,
+        "y": 247.55
       },
-      "person-0037": {
-        "x": 822.02,
-        "y": 334.39
+      "person-0017": {
+        "x": 229.01,
+        "y": 257.6
       },
-      "person-0045": {
-        "x": 47.0,
-        "y": 675.9
+      "person-0065": {
+        "x": 217.99,
+        "y": 282.99
       },
-      "person-0191": {
-        "x": 192.71,
-        "y": 544.34
+      "person-0067": {
+        "x": 163.72,
+        "y": 130.1
       },
-      "person-0222": {
-        "x": 241.71,
-        "y": 675.9
+      "person-0069": {
+        "x": 243.19,
+        "y": 167.89
       },
-      "person-0221": {
-        "x": 387.42,
-        "y": 544.34
+      "person-0071": {
+        "x": 197.82,
+        "y": 272.29
       },
-      "person-0326": {
-        "x": 436.42,
-        "y": 675.9
+      "person-0224": {
+        "x": 126.51,
+        "y": 196.41
       },
-      "person-0325": {
-        "x": 582.13,
-        "y": 544.34
-      },
-      "person-0330": {
-        "x": 631.13,
-        "y": 675.9
-      },
-      "person-0331": {
-        "x": 776.84,
-        "y": 544.34
-      }
-    },
-    "institutions": {
-      "inst-fast-check-cl": {
-        "x": 141.79,
-        "y": 607.13
-      },
-      "inst-pontificia-universidad-catolica-de-chile": {
-        "x": 233.24,
-        "y": 259.62
-      },
-      "inst-universidad-de-talca": {
-        "x": 149.68,
-        "y": 132.87
-      },
-      "inst-universidad-de-valparaiso": {
-        "x": 62.2,
-        "y": 243.23
-      },
-      "inst-universidad-san-sebastian": {
-        "x": 229.27,
-        "y": 496.77
-      },
-      "inst-universidad-tecnica-federico-santa-maria": {
-        "x": 58.24,
-        "y": 480.38
-      },
-      "inst-catholic-university-nuestra-senora-de-la-asuncion": {
-        "x": 293.47,
-        "y": 480.17
-      },
-      "inst-united-nations-development-programme-asuncion": {
-        "x": 439.19,
-        "y": 135.52
-      },
-      "inst-universidad-estatal-a-distancia": {
-        "x": 488.19,
-        "y": 480.17
-      },
-      "inst-centro-nacional-de-alta-tecnologia": {
-        "x": 633.9,
-        "y": 135.52
-      },
-      "inst-conicet": {
-        "x": 682.9,
-        "y": 480.17
+      "inst-unsam": {
+        "x": 293.46,
+        "y": 206.98
       },
       "inst-universidad-de-buenos-aires": {
-        "x": 828.61,
-        "y": 135.52
+        "x": 262.13,
+        "y": 272.6
+      },
+      "person-0246": {
+        "x": 290.6,
+        "y": 357.82
+      },
+      "inst-universidad-adolfo-ibanez": {
+        "x": 70.59,
+        "y": 189.69
+      },
+      "inst-universidad-nacional-de-cordoba": {
+        "x": 135.45,
+        "y": 74.09
+      },
+      "inst-universidad-de-san-andres": {
+        "x": 311.63,
+        "y": 417.77
+      },
+      "person-0248": {
+        "x": 258.63,
+        "y": 218.33
+      },
+      "person-0250": {
+        "x": 302.83,
+        "y": 267.71
+      },
+      "person-0251": {
+        "x": 316.04,
+        "y": 232.59
+      },
+      "person-0254": {
+        "x": 322.02,
+        "y": 257.18
+      },
+      "person-0239": {
+        "x": 566.06,
+        "y": 340.48
+      },
+      "person-0240": {
+        "x": 599.2,
+        "y": 268.5
+      },
+      "inst-puc-rio": {
+        "x": 541.94,
+        "y": 295.65
+      },
+      "person-0171": {
+        "x": 433.32,
+        "y": 158.25
+      },
+      "inst-pontificia-universidad-catolica-de-chile": {
+        "x": 511.25,
+        "y": 238.38
+      },
+      "person-0026": {
+        "x": 495.2,
+        "y": 342.39
+      },
+      "person-0242": {
+        "x": 574.82,
+        "y": 212.63
+      },
+      "inst-universidad-de-chile": {
+        "x": 423.13,
+        "y": 74.09
+      },
+      "person-0241": {
+        "x": 462.73,
+        "y": 292.25
+      },
+      "person-0167": {
+        "x": 483.93,
+        "y": 122.29
+      },
+      "person-0353": {
+        "x": 757.53,
+        "y": 167.09
+      },
+      "inst-cadal": {
+        "x": 838.32,
+        "y": 212.49
+      },
+      "inst-unlp-cecor": {
+        "x": 676.72,
+        "y": 121.69
+      },
+      "inst-universidad-austral": {
+        "x": 47.0,
+        "y": 654.9
+      },
+      "inst-heybeta": {
+        "x": 208.6,
+        "y": 490.92
+      },
+      "person-0245": {
+        "x": 127.79,
+        "y": 572.92
+      },
+      "inst-ufmg": {
+        "x": 352.51,
+        "y": 665.91
+      },
+      "person-0082": {
+        "x": 338.4,
+        "y": 572.9
+      },
+      "inst-ufop": {
+        "x": 324.3,
+        "y": 479.92
       }
     }
   }

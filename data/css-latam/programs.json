@@ -39,7 +39,7 @@
   },
   {
     "name": "Diploma en Ciencias Sociales Computacionales y Humanidades Digitales",
-    "institution": "UNSAM",
+    "institution": "Universidad Nacional de San Martín (UNSAM)",
     "country": "Argentina",
     "type": "Diploma",
     "url": "https://www.unsam.edu.ar/escuelas/eidaes/671/idaes/ciencias-sociales-computacionales-humanidades-digitales",
@@ -81,7 +81,7 @@
   },
   {
     "name": "Diplomatura en Ciencia de Datos para Ciencias Sociales",
-    "institution": "UNC / Universidad Nacional de Villa María",
+    "institution": "Universidad Nacional de Córdoba (UNC) / Universidad Nacional de Villa María",
     "country": "Argentina",
     "type": "Diplomatura",
     "url": "https://sociales.unc.edu.ar/content/diplomatura-universitaria-de-estudios-avanzados-en-ciencia-de-datos-para-ciencias-sociales",
@@ -127,7 +127,7 @@
   },
   {
     "name": "Ciencia de Datos para las Ciencias Sociales y la Gestión Pública",
-    "institution": "QLAB / PUCP",
+    "institution": "QLAB / Pontificia Universidad Católica del Perú (PUCP)",
     "country": "Perú",
     "type": "Diplomatura",
     "url": "https://qlab.pucp.edu.pe/cursos/diplomatura-qlab",
@@ -169,7 +169,7 @@
   },
   {
     "name": "Mestrado Profissional em Comunicação Digital e Cultura de Dados",
-    "institution": "FGV Comunicação",
+    "institution": "Escola de Comunicação, Mídia e Informação da Fundação Getulio Vargas (FGV Comunicação)",
     "country": "Brasil",
     "type": "Maestría",
     "url": "https://mestrado-doutorado.fgv.br/curso/mestrado-profissional/rio-de-janeiro/comunicacao-digital-e-cultura-de-dados",
@@ -185,7 +185,7 @@
   },
   {
     "name": "SICSS Buenos Aires 2026",
-    "institution": "UNSAM",
+    "institution": "Universidad Nacional de San Martín (UNSAM)",
     "country": "Argentina",
     "type": "Escuela de verano",
     "url": "https://sicss.io/2026/buenos-aires/",
@@ -233,7 +233,7 @@
   },
   {
     "name": "Escuela Internacional en Ciencias Sociales Computacionales 2023 (IMFD-CICADA-UMAD)",
-    "institution": "Universidad de la República / UMAD",
+    "institution": "Universidad de la República / Unidad de Métodos y Acceso a Datos (UMAD)",
     "country": "Uruguay",
     "type": "Escuela",
     "url": "https://cicada.uy/course/escuela-internacional-ciencias-sociales-computacionales-2023/",
@@ -261,7 +261,7 @@
   },
   {
     "name": "Gestión de datos y aprovechamiento de información mediante ciencia de datos",
-    "institution": "FLACSO Costa Rica",
+    "institution": "Facultad Latinoamericana de Ciencias Sociales (FLACSO) Costa Rica",
     "country": "Costa Rica",
     "type": "Curso",
     "url": "https://www.flacso.ac.cr/es/noticias/informacion/258-inicia-la-viii-edicion-de-la-escuela-de-verano",
@@ -366,7 +366,7 @@
   },
   {
     "name": "Diplomatura en Transformación Pública Digital",
-    "institution": "UTN · Facultad Regional La Plata",
+    "institution": "Universidad Tecnológica Nacional (UTN) · Facultad Regional La Plata",
     "country": "Argentina",
     "type": "Diplomatura",
     "url": "https://www.frlp.utn.edu.ar/diplomatura-transformacion-publica-digital",
@@ -416,17 +416,44 @@
     "fit": "Especialidad individual pendiente"
   },
   {
-    "name": "Certificación de posgrado en enseñanza y aprendizaje con IA",
-    "institution": "FLACSO Argentina · PENT",
+    "name": "Certificación de Estudios de Posgrado en Enseñanza y Aprendizaje con Inteligencia Artificial",
+    "institution": "Facultad Latinoamericana de Ciencias Sociales (FLACSO) Argentina · PENT",
     "country": "Argentina",
     "type": "Certificación",
     "url": "https://pent.flacso.org.ar/formacion",
     "status": "Oferta documentada; próxima inscripción por confirmar",
-    "description": "Propuesta de cuatro meses para diseñar actividades educativas con IA. No se infiere docencia individual de la pertenencia al equipo PENT.",
-    "modality": "Por confirmar",
+    "description": "IA aplicada a enseñanza y evaluación. 110 horas, 14 semanas; actividades por módulo y propuesta educativa final.",
+    "modality": "A distancia, con encuentros sincrónicos y actividades asincrónicas",
     "people": [],
-    "checked": "2026-10-20",
+    "checked": "2026-10-21",
     "category": "IA y educación",
+    "hours": 110,
+    "additionalSources": [
+      {
+        "url": "https://pent.flacso.org.ar/certificacion-ia",
+        "accessDate": "2026-10-21",
+        "supports": [
+          "Título exacto",
+          "Duración",
+          "Horas",
+          "Modalidad",
+          "Admisión",
+          "Equipo docente"
+        ]
+      },
+      {
+        "url": "https://redaccion.pent.org.ar/sites/default/files/2026-08/Programa%20-%20Certificaci%C3%B3n%20IA%202026%20%28P%C3%BAblico%20OK%29.pdf?download=1",
+        "accessDate": "2026-10-21",
+        "snapshot": "inputs/flacso-certificacion-ia-2026.pdf",
+        "sha256": "99d32deed9d00a7129a6da30530b0e7d09260913d7eee3f92e30fa7202332be5",
+        "supports": [
+          "Contenidos",
+          "Regularidad",
+          "Evaluación",
+          "Trabajo final"
+        ]
+      }
+    ],
     "personIds": [],
     "cscScope": "related_training",
     "scopeReason": "Diseño de actividades educativas con IA; usar IA para enseñar no equivale a investigar computacionalmente fenómenos sociales.",
@@ -434,7 +461,7 @@
   },
   {
     "name": "SICSS-Uruguay",
-    "institution": "University of the Republic (Udelar)",
+    "institution": "Universidad de la República (Udelar)",
     "country": "Uruguay",
     "type": "Escuela",
     "url": "https://sicss.io/2024/uruguay/",
@@ -466,7 +493,7 @@
   },
   {
     "name": "SICSS-Uruguay",
-    "institution": "University of the Republic (Udelar)",
+    "institution": "Universidad de la República (Udelar)",
     "country": "Uruguay",
     "type": "Escuela",
     "url": "https://sicss.io/2026/uruguay/",
@@ -523,9 +550,13 @@
     "status": "Edición de invierno 2026 finalizada",
     "description": "Curso incluido en el catálogo oficial de la Escuela en Métodos.",
     "modality": "",
-    "people": [],
+    "people": [
+      "Ayelén Vanegas"
+    ],
     "checked": "2026-10-20",
-    "personIds": [],
+    "personIds": [
+      "person-0312"
+    ],
     "cscScope": "explicit_computational_social",
     "scopeReason": "El título vincula texto como datos y métodos computacionales con ciencias sociales.",
     "fit": "CSS directa"
@@ -539,9 +570,13 @@
     "status": "Edición de invierno 2026 finalizada",
     "description": "Curso incluido en el catálogo oficial de la Escuela en Métodos.",
     "modality": "",
-    "people": [],
+    "people": [
+      "Diego Hernández"
+    ],
     "checked": "2026-10-20",
-    "personIds": [],
+    "personIds": [
+      "person-0313"
+    ],
     "cscScope": "related_training",
     "scopeReason": "SIG y análisis espacial son herramientas transferibles; los metadatos no explicitan objeto social ni análisis computacional de conducta.",
     "fit": "Campo afín"
@@ -555,9 +590,13 @@
     "status": "Edición de invierno 2026 finalizada",
     "description": "Curso incluido en el catálogo oficial de la Escuela en Métodos.",
     "modality": "",
-    "people": [],
+    "people": [
+      "Mateo Villamizar"
+    ],
     "checked": "2026-10-20",
-    "personIds": [],
+    "personIds": [
+      "person-0314"
+    ],
     "cscScope": "related_training",
     "scopeReason": "Visualización de datos genérica; no se registra pregunta u objeto de investigación social.",
     "fit": "Campo afín"
@@ -571,9 +610,13 @@
     "status": "Edición de invierno 2026 finalizada",
     "description": "Curso incluido en el catálogo oficial de la Escuela en Métodos.",
     "modality": "",
-    "people": [],
+    "people": [
+      "José Rivero"
+    ],
     "checked": "2026-10-20",
-    "personIds": [],
+    "personIds": [
+      "person-0315"
+    ],
     "cscScope": "related_training",
     "scopeReason": "Modelos categóricos y de conteo son herramientas estadísticas; no equivalen por sí solos a CSC.",
     "fit": "Campo afín"
@@ -747,7 +790,7 @@
   },
   {
     "name": "Escola de Inverno em Humanidades Digitais e Ciências Sociais Computacionais",
-    "institution": "FGV CPDOC",
+    "institution": "Escola de Ciências Sociais da Fundação Getulio Vargas (FGV CPDOC)",
     "country": "Brasil",
     "type": "Escuela",
     "url": "https://cpdoc.fgv.br/2022-dh-css",
@@ -760,7 +803,8 @@
       "Jairo Nicolau",
       "Jimmy Medeiros",
       "Martim Passos",
-      "Eduardo Mello"
+      "Eduardo Mello",
+      "José Manuel Magallanes"
     ],
     "peoplePeriod": "2022",
     "peopleSource": "https://cpdoc.fgv.br/2022-dh-css",
@@ -771,7 +815,8 @@
       "person-0344",
       "person-0345",
       "person-0346",
-      "person-0347"
+      "person-0347",
+      "person-0348"
     ],
     "cscScope": "explicit_computational_social",
     "scopeReason": "El título identifica CSC y la descripción registra programación y datos sociales, junto con patrimonio digital; escuela interdisciplinaria, no grado exclusivamente CSC.",
@@ -827,5 +872,167 @@
     "personIds": [],
     "cscScope": "explicit_computational_social",
     "scopeReason": "Fuente institucional revisada con métodos de datos y pregunta social o de políticas públicas explícitos."
+  },
+  {
+    "name": "IA Generativa Aplicada a Ciencias Sociales y Gestión Pública",
+    "institution": "Pontificia Universidad Católica del Perú, Q-Lab",
+    "country": "Perú",
+    "type": "Programa de especialización",
+    "url": "https://qlab.pucp.edu.pe/cursos/programa-de-especializacion",
+    "status": "Segunda edición anunciada: noviembre de 2026 a abril de 2027",
+    "description": "Programación e IA para información social estructurada y no estructurada. 112 horas lectivas; requiere grado de bachiller.",
+    "modality": "",
+    "people": [
+      "José Incio"
+    ],
+    "peoplePeriod": "2026–2027",
+    "peopleSource": "https://qlab.pucp.edu.pe/cursos/programa-de-especializacion",
+    "checked": "2026-10-21",
+    "personIds": [
+      "person-0207"
+    ],
+    "cscScope": "related_training",
+    "scopeReason": "Registro recuperado de la versión local revisada el 21/10/2026; conservar alcance documentado, sin reclasificación automática como CSC.",
+    "fit": "Área afín"
+  },
+  {
+    "name": "Maestría en Policy Analysis",
+    "institution": "Instituto Tecnológico de Buenos Aires (ITBA)",
+    "country": "Argentina",
+    "type": "Maestría",
+    "url": "https://www.itba.edu.ar/posgrado/maestria-en-policy-analysis/",
+    "status": "Incluido por aplicación social explícita. Distinguir materias obligatorias, electivas y orientaciones; no asumir que cada estudiante cursa todas.",
+    "description": "Pensamiento sistémico; Métodos cuantitativos; Métodos cualitativos; Diseño y evaluación de políticas; Modelización y simulación; Análisis económico; Análisis de redes (electiva); Gobernanza y ética IA (orientación); Ciencia de datos e IA (orientación); Gobierno abierto (orientación); Laboratorio IA (orientación). Talleres de tesis I y II documentados; requisitos de aprobación pendientes.",
+    "modality": "Virtual",
+    "people": [],
+    "checked": "2026-10-21",
+    "sourceReview": "Matriz de programas argentinos, fuente institucional por registro",
+    "hours": null,
+    "start": "2027-08",
+    "assessment": "Talleres de tesis I y II documentados; requisitos de aprobación pendientes",
+    "personIds": [],
+    "cscScope": "related_training",
+    "scopeReason": "Registro recuperado de la versión local revisada el 21/10/2026; conservar alcance documentado, sin reclasificación automática como CSC.",
+    "fit": "Área afín"
+  },
+  {
+    "name": "Diplomatura de Posgrado en Inteligencia Artificial y Educación",
+    "institution": "Universidad Nacional de La Plata, FaHCE",
+    "country": "Argentina",
+    "type": "Diplomatura",
+    "url": "https://www.fahce.unlp.edu.ar/facultad/secretarias-y-prosecretarias/posgrado/diplomatura/diplomatura-de-posgrado-en-inteligencia-artificial-y-educacion/plan-de-estudios",
+    "status": "Inscripción cerrada. Página menciona cuatro meses de cursada y cinco meses de duración. Conservar diferencia; cohorte no especificada.",
+    "description": "Modelos de lenguaje; Cultura digital; IA en prácticas educativas; Uso de IA en aula; Conocimiento científico. 135 horas documentadas. Trabajos por módulo y trabajo final individual.",
+    "modality": "A distancia",
+    "people": [],
+    "checked": "2026-10-21",
+    "sourceReview": "Matriz de programas argentinos, fuente institucional por registro",
+    "hours": 135,
+    "start": null,
+    "assessment": "Trabajos por módulo y trabajo final individual",
+    "personIds": [],
+    "cscScope": "related_training",
+    "scopeReason": "Registro recuperado de la versión local revisada el 21/10/2026; conservar alcance documentado, sin reclasificación automática como CSC.",
+    "fit": "Área afín"
+  },
+  {
+    "name": "Diplomatura en Inteligencia Artificial aplicada a la Educación Secundaria, Superior y Universitaria: Automatización y Sistemas Inteligentes",
+    "institution": "Universidad Nacional de Santiago del Estero",
+    "country": "Argentina",
+    "type": "Diplomatura",
+    "url": "https://faya.unse.edu.ar/index.php/diplo-ia/",
+    "status": "Calendario y modalidad contienen discrepancias; verificar resolución 052/2026. No equiparar diplomatura a carrera habilitante.",
+    "description": "IA en educación; IA en investigación; IA en docencia; IA en extensión y gestión. 120 horas documentadas. Trabajos por módulo y proyecto individual con defensa.",
+    "modality": "Virtual según ficha específica; introducción menciona presencialidad",
+    "people": [],
+    "checked": "2026-10-21",
+    "sourceReview": "Matriz de programas argentinos, fuente institucional por registro",
+    "hours": 120,
+    "start": "2026-04-24",
+    "assessment": "Trabajos por módulo y proyecto individual con defensa",
+    "personIds": [],
+    "cscScope": "related_training",
+    "scopeReason": "Registro recuperado de la versión local revisada el 21/10/2026; conservar alcance documentado, sin reclasificación automática como CSC.",
+    "fit": "Área afín"
+  },
+  {
+    "name": "Diplomatura de Posgrado en Enseñanza Virtual",
+    "institution": "Universidad Nacional de Mar del Plata",
+    "country": "Argentina",
+    "type": "Diplomatura",
+    "url": "https://humanidades.mdp.edu.ar/secretarias-subsecretarias/secretaria-de-posgrado/carreras-de-posgrado/diplomatura-de-posgrado-en-ensenanza-virtual/",
+    "status": "Campo afín: IA es uno de cuatro seminarios. Seis meses activos repartidos entre 2026 y 2027; no seis meses consecutivos.",
+    "description": "Diseño de ambientes virtuales; Curaduría de materiales; Evaluación educativa; IA generativa en enseñanza. 208 horas documentadas. Propuestas por seminario integradas al diseño de asignatura; sin trabajo final de graduación.",
+    "modality": "A distancia",
+    "people": [],
+    "checked": "2026-10-21",
+    "sourceReview": "Matriz de programas argentinos, fuente institucional por registro",
+    "hours": 208,
+    "start": "2026-09",
+    "assessment": "Propuestas por seminario integradas al diseño de asignatura; sin trabajo final de graduación",
+    "personIds": [],
+    "cscScope": "related_training",
+    "scopeReason": "Registro recuperado de la versión local revisada el 21/10/2026; conservar alcance documentado, sin reclasificación automática como CSC.",
+    "fit": "Área afín"
+  },
+  {
+    "name": "Curso: Inteligencia Artificial Aplicada a la Educación",
+    "institution": "Universidad del Este",
+    "country": "Argentina",
+    "type": "Curso",
+    "url": "https://www.ude.edu.ar/extension/diplomaturas/curso-inteligencia-artificial-aplicada-a-la-educacion/",
+    "status": "Curso de extensión afín, separado de programas CSS y carreras de posgrado.",
+    "description": "Fundamentos de IA; Aprendizaje personalizado; Asistentes educativos; Proyecto aplicado.",
+    "modality": "Virtual asincrónica; encuentros sincrónicos opcionales",
+    "people": [],
+    "peopleSource": "https://www.ude.edu.ar/extension/diplomaturas/curso-inteligencia-artificial-aplicada-a-la-educacion/",
+    "checked": "2026-10-21",
+    "hours": 80,
+    "start": "2026-11-05",
+    "assessment": "85% de participación asincrónica, trabajos por módulo y proyecto integrador",
+    "personIds": [],
+    "cscScope": "related_training",
+    "scopeReason": "Registro recuperado de la versión local revisada el 21/10/2026; conservar alcance documentado, sin reclasificación automática como CSC.",
+    "fit": "Área afín"
+  },
+  {
+    "name": "Diplomatura en Inteligencia Artificial Aplicada a Educación",
+    "institution": "Universidad Abierta Interamericana",
+    "country": "Argentina",
+    "type": "Diplomatura",
+    "url": "https://uai.edu.ar/media/141292/diplomatura-en-inteligencia-artificial-aplicada-a-educaci%C3%B3n-2026.pdf",
+    "status": "Evaluación verificada en páginas 7–8 del PDF (numeración de archivo). No afirmar ausencia de proyectos, trazabilidad o verificación de prompts.",
+    "description": "NotebookLM; Prompting; Chatbots; Planificación didáctica; Evaluación educativa con IA; Agentes y automatización; Personalización; Aprendizaje colaborativo.",
+    "modality": "Virtual: 50 horas sincrónicas y 50 asincrónicas",
+    "people": [],
+    "peopleSource": "https://uai.edu.ar/media/141292/diplomatura-en-inteligencia-artificial-aplicada-a-educaci%C3%B3n-2026.pdf",
+    "checked": "2026-10-21",
+    "hours": 100,
+    "start": "2026-04-04",
+    "assessment": "Dos trabajos integradores al terminar módulos 4 y 8, más evaluación formativa continua",
+    "personIds": [],
+    "cscScope": "related_training",
+    "scopeReason": "Registro recuperado de la versión local revisada el 21/10/2026; conservar alcance documentado, sin reclasificación automática como CSC.",
+    "fit": "Área afín"
+  },
+  {
+    "name": "Diplomatura de Posgrado en Inteligencia Artificial: Desafíos epistemológicos y proyecciones educativas",
+    "institution": "Universidad Nacional de Tucumán",
+    "country": "Argentina",
+    "type": "Diplomatura",
+    "url": "https://filo.unt.edu.ar/diplomatura-en-inteligencia-artificial/",
+    "status": "Programa padre; curso de octubre conservado como componente sin doble conteo.",
+    "description": "IA y educación; IA generativa e investigación; Epistemología; Ética; Privacidad; Gobernanza; Justicia social; Proyectos aplicados.",
+    "modality": "Virtual",
+    "people": [],
+    "peopleSource": "https://filo.unt.edu.ar/diplomatura-en-inteligencia-artificial/",
+    "checked": "2026-10-21",
+    "hours": 120,
+    "start": "2026-10",
+    "assessment": "Participación 20%, trabajos prácticos 30%, proyecto final 50%; asistencia mínima 75% y proyecto con nota mínima 7/10",
+    "personIds": [],
+    "cscScope": "related_training",
+    "scopeReason": "Registro recuperado de la versión local revisada el 21/10/2026; conservar alcance documentado, sin reclasificación automática como CSC.",
+    "fit": "Área afín"
   }
 ]

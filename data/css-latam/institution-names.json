@@ -1,0 +1,224 @@
+{
+  "checked": "2026-10-25",
+  "mapping": {
+    "UNAM": "Universidad Nacional Autónoma de México (UNAM)",
+    "PUCP": "Pontificia Universidad Católica del Perú (PUCP)",
+    "Udelar": "Universidad de la República (Udelar)",
+    "UNSAM": "Universidad Nacional de San Martín (UNSAM)",
+    "ITBA": "Instituto Tecnológico de Buenos Aires (ITBA)",
+    "CONICET": "Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)",
+    "UNC": "Universidad Nacional de Córdoba (UNC)",
+    "UNVM": "Universidad Nacional de Villa María (UNVM)",
+    "UNLP": "Universidad Nacional de La Plata (UNLP)",
+    "UTN": "Universidad Tecnológica Nacional (UTN)",
+    "UNR": "Universidad Nacional de Rosario (UNR)",
+    "UBA": "Universidad de Buenos Aires (UBA)",
+    "UNAB": "Universidad Nacional Guillermo Brown (UNaB)",
+    "UFRJ": "Universidade Federal do Rio de Janeiro (UFRJ)",
+    "UFMG": "Universidade Federal de Minas Gerais (UFMG)",
+    "UFBA": "Universidade Federal da Bahia (UFBA)",
+    "UFES": "Universidade Federal do Espírito Santo (UFES)",
+    "UFOP": "Universidade Federal de Ouro Preto (UFOP)",
+    "PUC-Rio": "Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)",
+    "FGV": "Fundação Getulio Vargas (FGV)",
+    "FGV Comunicação": "Escola de Comunicação, Mídia e Informação da Fundação Getulio Vargas (FGV Comunicação)",
+    "FGV CPDOC": "Escola de Ciências Sociais da Fundação Getulio Vargas (FGV CPDOC)",
+    "Cetic.br": "Centro Regional de Estudos para o Desenvolvimento da Sociedade da Informação (Cetic.br)",
+    "NIC.br": "Núcleo de Informação e Coordenação do Ponto BR (NIC.br)",
+    "Cetic.br / NIC.br": "Centro Regional de Estudos para o Desenvolvimento da Sociedade da Informação (Cetic.br) / Núcleo de Informação e Coordenação do Ponto BR (NIC.br)",
+    "LoCuS": "Laboratório de Computação Social (LoCuS)",
+    "USFQ Data Hub": "Data Hub de la Universidad San Francisco de Quito (USFQ)",
+    "CIRCPyCS · UAGRM": "Centro de Investigación Regional en Ciencia Política y Ciencias Sociales · Universidad Autónoma Gabriel René Moreno",
+    "LoCuS · Laboratório de Computação Social": "Laboratório de Computação Social (LoCuS) · Universidade Federal de Minas Gerais (UFMG)",
+    "FLACSO": "Facultad Latinoamericana de Ciencias Sociales (FLACSO)",
+    "UMAD": "Unidad de Métodos y Acceso a Datos (UMAD)",
+    "University of the Republic (Udelar)": "Universidad de la República (Udelar)"
+  },
+  "sources": {
+    "UNAM": {
+      "officialFullName": "Universidad Nacional Autónoma de México",
+      "officialAcronym": "UNAM",
+      "sourceUrl": "https://www.unam.mx/",
+      "country": "México",
+      "access": "Página oficial primaria abierta"
+    },
+    "PUCP": {
+      "officialFullName": "Pontificia Universidad Católica del Perú",
+      "officialAcronym": "PUCP",
+      "sourceUrl": "https://www.pucp.edu.pe/",
+      "country": "Perú",
+      "access": "Página oficial primaria abierta"
+    },
+    "Udelar": {
+      "officialFullName": "Universidad de la República",
+      "officialAcronym": "Udelar",
+      "sourceUrl": "https://udelar.edu.uy/universidad",
+      "country": "Uruguay",
+      "access": "Página oficial primaria abierta"
+    },
+    "UNSAM": {
+      "officialFullName": "Universidad Nacional de San Martín",
+      "officialAcronym": "UNSAM",
+      "sourceUrl": "https://unsam.edu.ar/institucional/institucional.php",
+      "country": "Argentina",
+      "access": "Página oficial primaria abierta"
+    },
+    "ITBA": {
+      "officialFullName": "Instituto Tecnológico de Buenos Aires",
+      "officialAcronym": "ITBA",
+      "sourceUrl": "https://www.itba.edu.ar/la-universidad/institucional/",
+      "country": "Argentina",
+      "access": "Página oficial primaria abierta"
+    },
+    "CONICET": {
+      "officialFullName": "Consejo Nacional de Investigaciones Científicas y Técnicas",
+      "officialAcronym": "CONICET",
+      "sourceUrl": "https://www.conicet.gov.ar/historia/",
+      "country": "Argentina",
+      "access": "Página oficial primaria abierta"
+    },
+    "UNC": {
+      "officialFullName": "Universidad Nacional de Córdoba",
+      "officialAcronym": "UNC",
+      "sourceUrl": "https://www.unc.edu.ar/node/14",
+      "country": "Argentina",
+      "access": "Página oficial primaria abierta"
+    },
+    "UNVM": {
+      "officialFullName": "Universidad Nacional de Villa María",
+      "officialAcronym": "UNVM",
+      "sourceUrl": "https://www.unvm.edu.ar/universidad/",
+      "country": "Argentina",
+      "access": "Página oficial primaria abierta"
+    },
+    "UNLP": {
+      "officialFullName": "Universidad Nacional de La Plata",
+      "officialAcronym": "UNLP",
+      "sourceUrl": "https://unlp.edu.ar/",
+      "country": "Argentina",
+      "access": "Página oficial primaria abierta"
+    },
+    "UTN": {
+      "officialFullName": "Universidad Tecnológica Nacional",
+      "officialAcronym": "UTN",
+      "sourceUrl": "https://www.utn.edu.ar/es/la-universidad/institucional",
+      "country": "Argentina",
+      "access": "Página oficial primaria abierta"
+    },
+    "UNR": {
+      "officialFullName": "Universidad Nacional de Rosario",
+      "officialAcronym": "UNR",
+      "sourceUrl": "https://unr.edu.ar/universidad/",
+      "country": "Argentina",
+      "access": "Página oficial primaria abierta"
+    },
+    "UBA": {
+      "officialFullName": "Universidad de Buenos Aires",
+      "officialAcronym": "UBA",
+      "sourceUrl": "https://www.uba.ar/datosuba",
+      "country": "Argentina",
+      "access": "Página oficial primaria abierta"
+    },
+    "UNAB": {
+      "officialFullName": "Universidad Nacional Guillermo Brown",
+      "officialAcronym": "UNaB",
+      "sourceUrl": "https://www.unab.edu.ar/instltucional/",
+      "country": "Argentina",
+      "access": "Página oficial primaria abierta"
+    },
+    "UFRJ": {
+      "full": "Universidade Federal do Rio de Janeiro (UFRJ)",
+      "sourceUrl": "https://ufrj.br/en/",
+      "checked": "2026-10-25",
+      "notes": ""
+    },
+    "UFMG": {
+      "full": "Universidade Federal de Minas Gerais (UFMG)",
+      "sourceUrl": "https://www.ufmg.br/",
+      "checked": "2026-10-25",
+      "notes": ""
+    },
+    "UFBA": {
+      "full": "Universidade Federal da Bahia (UFBA)",
+      "sourceUrl": "https://ufba.br/",
+      "checked": "2026-10-25",
+      "notes": ""
+    },
+    "UFES": {
+      "full": "Universidade Federal do Espírito Santo (UFES)",
+      "sourceUrl": "https://datakulalab.ufes.br/data-kula-lab",
+      "checked": "2026-10-25",
+      "notes": ""
+    },
+    "UFOP": {
+      "full": "Universidade Federal de Ouro Preto (UFOP)",
+      "sourceUrl": "https://www.ufop.br/unidades-academicas",
+      "checked": "2026-10-25",
+      "notes": ""
+    },
+    "PUC-Rio": {
+      "full": "Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)",
+      "sourceUrl": "https://www.puc-rio.br/",
+      "checked": "2026-10-25",
+      "notes": ""
+    },
+    "FGV": {
+      "full": "Fundação Getulio Vargas (FGV)",
+      "sourceUrl": "https://portal.fgv.br/",
+      "checked": "2026-10-25",
+      "notes": "Nombre oficial sin tilde en Getulio."
+    },
+    "FGV Comunicação": {
+      "full": "Escola de Comunicação, Mídia e Informação da Fundação Getulio Vargas (FGV Comunicação)",
+      "sourceUrl": "https://comunicacao.fgv.br/escola",
+      "checked": "2026-10-25",
+      "notes": "El sitio actual usa FGV Comunicação; ECMI es denominación/sigla previa documentada por FGV."
+    },
+    "FGV CPDOC": {
+      "full": "Escola de Ciências Sociais da Fundação Getulio Vargas (FGV CPDOC)",
+      "sourceUrl": "https://cpdoc.fgv.br/sobre",
+      "checked": "2026-10-25",
+      "notes": "CPDOC se expande como Centro de Pesquisa e Documentação de História Contemporânea do Brasil. La fuente define ese centro como la Escola de Ciências Sociais da FGV. No sustituir por una traducción ni por Escola Superior sin fuente."
+    },
+    "Cetic.br": {
+      "full": "Centro Regional de Estudos para o Desenvolvimento da Sociedade da Informação (Cetic.br)",
+      "sourceUrl": "https://cetic.br/pt/sobre/",
+      "checked": "2026-10-25",
+      "notes": ""
+    },
+    "NIC.br": {
+      "full": "Núcleo de Informação e Coordenação do Ponto BR (NIC.br)",
+      "sourceUrl": "https://nic.br/quem-somos/",
+      "checked": "2026-10-25",
+      "notes": ""
+    },
+    "Cetic.br / NIC.br": {
+      "full": "Centro Regional de Estudos para o Desenvolvimento da Sociedade da Informação (Cetic.br) / Núcleo de Informação e Coordenação do Ponto BR (NIC.br)",
+      "sourceUrl": "https://cetic.br/pt/sobre/",
+      "checked": "2026-10-25",
+      "notes": "Cetic.br es un departamento de NIC.br; no son dos nombres de una misma institución."
+    },
+    "LoCuS": {
+      "full": "Laboratório de Computação Social (LoCuS)",
+      "sourceUrl": "https://dcc.ufmg.br/nossos-laboratorios/",
+      "checked": "2026-10-25",
+      "notes": "Directorio oficial DCC/UFMG lista LoCuS Laboratório de Computação Social."
+    },
+    "USFQ Data Hub": {
+      "sourceUrl": "https://www.usfq.edu.ec/es/proyectos/usfq-data-hub"
+    },
+    "CIRCPyCS · UAGRM": {
+      "sourceUrl": "https://cir.uagrm.edu.bo/"
+    },
+    "FLACSO": {
+      "sourceUrl": "https://www.flacso.org/sobre-la-flacso/"
+    },
+    "UMAD": {
+      "sourceUrl": "https://cienciassociales.edu.uy/servicios/unidad-de-metodos-y-acceso-a-datos/"
+    }
+  },
+  "limits": [
+    "Las siglas se expanden para instituciones identificadas en este inventario, no como equivalencias globales.",
+    "LABIC conserva su nombre por variantes de denominación documentadas."
+  ]
+}
