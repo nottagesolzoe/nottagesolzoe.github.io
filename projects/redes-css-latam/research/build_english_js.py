@@ -18,7 +18,7 @@ s=s.replace('new Option(v,v)','new Option(L(v),v)').replace(".sort((a,b)=>a.loca
 s=s.replace(".map(id=>$(id).value).filter(Boolean)",".map(id=>L($(id).value)).filter(Boolean)")
 s=s.replace('esc(d?.fit||','esc(L(d?.fit)||').replace('esc(d.baseStatus)','esc(L(d.baseStatus))').replace('esc(d.country)','esc(L(d.country))').replace('esc(d.sector)','esc(L(d.sector))').replace("esc(d.governmentLevel||'')","esc(L(d.governmentLevel||''))")
 s=s.replace('esc(p.country)','esc(L(p.country))').replace('esc(r.country)','esc(L(r.country))')
-s=s.replace('text.textContent=name+', 'text.textContent=L(name)+').replace('t.textContent=name+', 't.textContent=L(name)+').replace('esc(name)}</span><div class="bar-track">','esc(L(name))}</span><div class="bar-track">')
+s=s.replace('text.textContent=name+', 'text.textContent=L(name)+').replace('t.textContent=name+', 't.textContent=L(name)+').replace('esc(name)}</span>','esc(L(name))}</span>')
 replacements={
 'personas encontradas':'people found','trabajan en CSS en la región':'work in CSS in the region','publicaciones reunidas':'publications collected','centros y organizaciones':'centers and organizations',
 "'personas'":"'people'","'organizaciones'":"'organizations'","'publicaciones'":"'publications'","'programas'":"'programs'","'conexiones de publicación'":"'coauthorship links'",
@@ -37,6 +37,8 @@ replacements={
 'Personas y organizaciones de la selección':'People and organizations in the selection','Modalidad:':'Format:','Equipo citado:':'Listed team:', 'Ver programa y requisitos':'View program and requirements','Fuente revisada':'Reviewed source','No se pudieron cargar los datos. Recargá la página.':'The data could not be loaded. Reload the page.'}
 replacements.update({'Seleccioná un país para filtrar toda la página. Los colores indican personas vinculadas a instituciones de cada país, no domicilios personales. Las bases fuera de Latinoamérica siguen disponibles en los filtros. ':'Select a country to filter the entire page. Colors count people linked to institutions in each country, not personal addresses. Locations outside Latin America remain available in the filters. '})
 replacements.update({'No hay personas para esta selección.':'No people match this selection.','No hay instituciones vinculadas a las personas de esta selección.':'No institutions are linked to the people in this selection.',' con ubicación fuera del mapa o sin confirmar':' located outside the map or with location unconfirmed','El mapa y el gráfico por país cuentan las mismas personas de la selección, de todas las categorías. Las ubicaciones fuera del mapa o sin confirmar se incluyen en el gráfico. Límites: Natural Earth.':'The map and country chart count the same selected people across all categories. Locations outside the map or unconfirmed locations are included in the chart. Boundaries: Natural Earth.'})
+replacements.update({'Base: ':'Base: ',' personas de la selección. Escala desde cero; etiquetas: porcentaje (personas).':' people in the selection. Scale starts at zero; labels: percentage (people).'})
+replacements.update({'Intensidad de color: 1 a ':'Color intensity: 1 to ',' personas; gris: ningún perfil registrado. ':' people; gray: no recorded profiles. '})
 for a,b in replacements.items():s=s.replace(a,b)
 lines=s.splitlines()
 for i,line in enumerate(lines):

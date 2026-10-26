@@ -66,5 +66,19 @@
     "assets/identity/porteno-flourish.svg": "d7af245d5cf00cc1d89829680c2decd553ffa7566428cfcaae1198c9a6b7093b",
     "data/software.json": "b94695c02a36056032229ebde7018173c02fcf666253d93748a200ef84ff986c",
     "data/teaching.json": "fbc41b52eedbba60dc0552da4d730d908d744dd7b3dff55d3ab0b773479ff4a9"
+  },
+  "content_recovery": {
+    "date": "2026-10-25",
+    "site_project_id": "appgprj_6a7bfa15ebdc81918e5a0fae12080c4c",
+    "site_version": 21,
+    "source_commit": "1e0fb94cd2c4e2decb6fdada2bead89031a072bf",
+    "scope": "Recover original Site prose and missing research entries while retaining subsequent biography, projects, publications, tools and the recovered static design.",
+    "pages": [
+      "/",
+      "/about/",
+      "/projects/",
+      "/research/",
+      "Spanish equivalents"
+    ]
   }
 }

@@ -1,0 +1,73 @@
+{
+  "base_colors": {
+    "soft_red": "#C96D7C",
+    "light_red": "#E1A0AA",
+    "thunderbird": "#B31A15",
+    "rose_bud_cherry": "#6D0E4E",
+    "jacarta": "#462969",
+    "victoria": "#4A4F9E",
+    "steel_blue": "#4F7ABB"
+  },
+  "single_series_default": "#4F7ABB",
+  "background": "#FFFFFF",
+  "text": "#111111",
+  "table_header": "#E8E8E8",
+  "rules": "#D8D8D3",
+  "font_family": "Rosario",
+  "label_format": "percentage (count)",
+  "tint_method": "Mix the stated fraction of base RGB with white. These tints are derived, not sampled from the reference image.",
+  "tints": {
+    "soft_red": {
+      "90": "#CE7C89",
+      "60": "#DFA7B0",
+      "40": "#E9C5CB",
+      "10": "#FAF0F2"
+    },
+    "light_red": {
+      "90": "#E4AAB2",
+      "60": "#EDC6CC",
+      "40": "#F3D9DD",
+      "10": "#FCF6F6"
+    },
+    "thunderbird": {
+      "90": "#BB312C",
+      "60": "#D17673",
+      "40": "#E1A3A1",
+      "10": "#F7E8E8"
+    },
+    "rose_bud_cherry": {
+      "90": "#7C2660",
+      "60": "#A76E95",
+      "40": "#C59FB8",
+      "10": "#F0E7ED"
+    },
+    "jacarta": {
+      "90": "#583E78",
+      "60": "#907FA5",
+      "40": "#B5A9C3",
+      "10": "#ECEAF0"
+    },
+    "victoria": {
+      "90": "#5C61A8",
+      "60": "#9295C5",
+      "40": "#B7B9D8",
+      "10": "#EDEDF5"
+    },
+    "steel_blue": {
+      "90": "#6187C2",
+      "60": "#95AFD6",
+      "40": "#B9CAE4",
+      "10": "#EDF2F8"
+    }
+  },
+  "preferred_single_measure_chart": "horizontal_lollipop",
+  "base_color_policy": "Use the exact approved hex codes; do not substitute approximate colors sampled from other references.",
+  "palette_revision": "2026-10-25: user rejected yellow and orange and clarified that light replacements must be in the red family, distinct from blues. Soft red and light red replace the original orange swatches. Green and mint alternatives were explicitly rejected. Remaining five colors retain the supplied hex codes.",
+  "excluded_colors": [
+    "yellow",
+    "orange",
+    "green",
+    "mint"
+  ],
+  "title_style": "descriptive_measure_not_finding"
+}
