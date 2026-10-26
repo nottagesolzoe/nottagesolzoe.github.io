@@ -1,11 +1,10 @@
 {
   "checked": "2026-10-25",
   "personGeographicRule": "Base institucional registrada en LATAM; nacionalidad no inferida. Ubicaciones mixtas o pendientes excluidas.",
-  "previousPeople": 396,
-  "retainedPeople": 347,
+  "previousPeople": 402,
+  "retainedPeople": 353,
   "excludedByRecordedCountry": {
-    "Estados Unidos": 10,
-    "Perú / Estados Unidos": 1,
+    "Estados Unidos": 11,
     "Base principal por confirmar": 26,
     "Canadá": 2,
     "Finlandia": 2,
@@ -24,5 +23,13 @@
     "doi": "10.1126/science.aaz8170",
     "url": "https://www-prod.media.mit.edu/publications/computational-social-science-obstacles-and-opportunities/"
   },
-  "conceptualRule": "Objeto de estudio social y desarrollo o aplicación de métodos computacionales documentados; la temática IA o gobernanza por sí sola no acredita CSC."
+  "conceptualRule": "Objeto de estudio social y desarrollo o aplicación de métodos computacionales documentados; la temática IA o gobernanza por sí sola no acredita CSC.",
+  "privateSync": {
+    "sourceDate": "2026-10-25",
+    "sourcePeople": 399,
+    "rawUnionPeople": 402,
+    "historicalRecordsRetained": 3,
+    "reason": "Se conserva evidencia previa sin motivo explícito de exclusión; el corte geográfico se aplica después de consolidar."
+  },
+  "namesException": "Los nombres personales se muestran solo en equipos de programas, según aclaración explícita de Sol."
 }

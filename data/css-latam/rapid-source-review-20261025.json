@@ -1,0 +1,454 @@
+{
+  "date": "2026-10-25",
+  "reviewedSources": [
+    {
+      "institution": "Universidad Nacional de Cuyo",
+      "url": "https://www.uncuyo.edu.ar/prensa/la-uncuyo-tendra-un-laboratorio-de-humanidades-digitales-y-ciencia-abierta",
+      "title": "Laboratorio de Humanidades Digitales y Ciencia Abierta",
+      "checked": "2026-10-25",
+      "checkMethod": "Resultado indexado oficial leído; apertura directa bloqueada 403",
+      "decision": "candidato pendiente; acceso directo no verificado",
+      "evidenceType": "paráfrasis de contenido institucional",
+      "country": "Argentina",
+      "directAccessVerified": false
+    },
+    {
+      "institution": "IECH / CONICET / Universidad Nacional de Rosario",
+      "url": "https://iech.conicet.gov.ar/lhd/",
+      "title": "Laboratorio de Humanidades Digitales",
+      "checked": "2026-10-25",
+      "checkMethod": "Contenido indexado oficial leído; apertura directa falló cache miss",
+      "decision": "candidato pendiente; acceso directo no verificado",
+      "evidenceType": "paráfrasis de contenido institucional",
+      "country": "Argentina",
+      "directAccessVerified": false
+    },
+    {
+      "institution": "Universidad de Ciencias Empresariales y Sociales",
+      "url": "https://w.uces.edu.ar/wp-content/uploads/2021/11/Diplomatura-en-Humanidades-Digitales-2026.pdf",
+      "title": "Diplomatura en Humanidades Digitales",
+      "checked": "2026-10-25",
+      "checkMethod": "Folleto oficial indexado leído; catálogo oficial abierto también la lista",
+      "decision": "candidato pendiente; acceso directo no verificado",
+      "evidenceType": "paráfrasis de contenido institucional",
+      "country": "Argentina",
+      "directAccessVerified": false
+    },
+    {
+      "institution": "UNSAM",
+      "url": "https://unsam.edu.ar/escuelas/idaes/671/idaes/ciencias-sociales-computacionales-humanidades-digitales",
+      "title": "Diploma en Ciencias Sociales Computacionales y Humanidades Digitales",
+      "checked": "2026-10-25",
+      "checkMethod": "Contenido indexado oficial leído",
+      "decision": "candidato pendiente; acceso directo no verificado",
+      "evidenceType": "paráfrasis de contenido institucional",
+      "country": "Argentina",
+      "directAccessVerified": false
+    },
+    {
+      "institution": "Universidad Austral de Chile",
+      "url": "https://cognitiva.uach.cl/proyecto/ciencias-sociales-computacionales/",
+      "title": "Ciencias sociales computacionales (proyecto LAPENC)",
+      "checked": "2026-10-25",
+      "checkMethod": "Contenido indexado oficial leído; apertura directa falló cache miss",
+      "decision": "candidato pendiente; acceso directo no verificado",
+      "evidenceType": "paráfrasis de contenido institucional",
+      "country": "Chile",
+      "directAccessVerified": false
+    },
+    {
+      "institution": "Universidad del Desarrollo",
+      "url": "https://gobierno.udd.cl/doctorate/admision/antecedentes/",
+      "title": "Red de laboratorios del Doctorado en Ciencias de la Complejidad Social",
+      "checked": "2026-10-25",
+      "checkMethod": "Página institucional abierta",
+      "decision": "corrobora registro existente",
+      "evidenceType": "paráfrasis de contenido institucional",
+      "country": "Chile",
+      "directAccessVerified": true
+    },
+    {
+      "institution": "Universidad Adolfo Ibáñez",
+      "url": "https://www.uai.cl/postgrados/cursos/ciencias-sociales-computacionales-aplicadas",
+      "title": "Curso Ciencias Sociales Computacionales Aplicadas",
+      "checked": "2026-10-25",
+      "checkMethod": "Contenido indexado oficial leído",
+      "decision": "candidato pendiente; acceso directo no verificado",
+      "evidenceType": "paráfrasis de contenido institucional",
+      "country": "Chile",
+      "directAccessVerified": false
+    },
+    {
+      "institution": "Universidad de la República / Facultad de Ciencias Sociales",
+      "url": "https://cienciassociales.edu.uy/departamento-de-economia/ensenanza-de-posgrado/especializacion-en-ciencias-de-datos/",
+      "title": "Diploma en Economía, opción Ciencia de Datos",
+      "checked": "2026-10-25",
+      "checkMethod": "Página institucional abierta",
+      "decision": "inclusión respaldada por página oficial abierta",
+      "evidenceType": "paráfrasis de contenido institucional",
+      "country": "Uruguay",
+      "directAccessVerified": true
+    },
+    {
+      "institution": "Universidad Tecnológica del Uruguay",
+      "url": "https://utec.edu.uy/pt/evento/investigacion-en-educacion-y-tecnologias-digitales-del-lab-hd/",
+      "title": "Laboratorio de Humanidades Digitales (Lab HD)",
+      "checked": "2026-10-25",
+      "checkMethod": "Página institucional abierta",
+      "decision": "inclusión respaldada por página oficial abierta",
+      "evidenceType": "paráfrasis de contenido institucional",
+      "country": "Uruguay",
+      "directAccessVerified": true
+    },
+    {
+      "institution": "Universidad Tecnológica del Uruguay",
+      "url": "https://erp.utec.edu.uy/iframe_jobs/iframe_jobs_detail/profesor-adjunto-en-el-area-de-laboratorio-de-humanidades-digitales-1897",
+      "title": "Convocatoria Lab HD 2022",
+      "checked": "2026-10-25",
+      "checkMethod": "Página institucional abierta",
+      "decision": "corrobora registro existente",
+      "evidenceType": "paráfrasis de contenido institucional",
+      "country": "Uruguay",
+      "directAccessVerified": true
+    },
+    {
+      "institution": "Universidade Federal do Espírito Santo",
+      "url": "https://datakulalab.ufes.br/data-kula-lab",
+      "title": "Data Kula Lab",
+      "checked": "2026-10-25",
+      "checkMethod": "Página institucional abierta",
+      "decision": "inclusión respaldada por página oficial abierta",
+      "evidenceType": "paráfrasis de contenido institucional",
+      "country": "Brasil",
+      "directAccessVerified": true
+    },
+    {
+      "institution": "Universidade Federal do Rio de Janeiro",
+      "url": "https://netlab.eco.ufrj.br/sobre",
+      "title": "NetLab UFRJ",
+      "checked": "2026-10-25",
+      "checkMethod": "Página institucional abierta",
+      "decision": "ya existente en directorio; no duplicar",
+      "evidenceType": "paráfrasis de contenido institucional",
+      "country": "Brasil",
+      "directAccessVerified": true
+    },
+    {
+      "institution": "FGV CPDOC",
+      "url": "https://cpdoc.fgv.br/cursos/humanidades-digitais",
+      "title": "Humanidades Digitais",
+      "checked": "2026-10-25",
+      "checkMethod": "Página institucional abierta",
+      "decision": "inclusión respaldada por página oficial abierta",
+      "evidenceType": "paráfrasis de contenido institucional",
+      "country": "Brasil",
+      "directAccessVerified": true
+    },
+    {
+      "institution": "Universidad Nacional de Asunción / Facultad Politécnica",
+      "url": "https://www.pol.una.py/laboratorio-de-analisis-y-modelado-basado-en-datos/",
+      "title": "Laboratorio de Análisis y Modelado Basado en Datos",
+      "checked": "2026-10-25",
+      "checkMethod": "Página institucional abierta",
+      "decision": "inclusión respaldada por página oficial abierta",
+      "evidenceType": "paráfrasis de contenido institucional",
+      "country": "Paraguay",
+      "directAccessVerified": true
+    },
+    {
+      "institution": "Universidad Comunera",
+      "url": "https://ucom.edu.py/smartdatalab/",
+      "title": "SmartDataLab",
+      "checked": "2026-10-25",
+      "checkMethod": "Página institucional abierta",
+      "decision": "inclusión respaldada por página oficial abierta",
+      "evidenceType": "paráfrasis de contenido institucional",
+      "country": "Paraguay",
+      "directAccessVerified": true
+    },
+    {
+      "institution": "Universidad Nacional de Asunción / FACSO",
+      "url": "https://observatorio.facso.una.py/",
+      "title": "Observatorio de Política Social Stella García",
+      "checked": "2026-10-25",
+      "checkMethod": "Contenido indexado institucional leído; apertura requiere JavaScript",
+      "decision": "candidato pendiente; acceso directo no verificado",
+      "evidenceType": "paráfrasis de contenido institucional",
+      "country": "Paraguay",
+      "directAccessVerified": false
+    },
+    {
+      "institution": "Universidad Nacional de Asunción / Universidad Nacional de Pilar",
+      "url": "https://www.pol.una.py/extension/formacion-continua/diplomados/diplomado-en-inteligencia-artificial-aplicada-y-ciencia-de-datos/",
+      "title": "Diplomado en Inteligencia Artificial Aplicada y Ciencia de Datos",
+      "checked": "2026-10-25",
+      "checkMethod": "Página institucional abierta",
+      "decision": "inclusión respaldada por página oficial abierta",
+      "evidenceType": "paráfrasis de contenido institucional",
+      "country": "Paraguay",
+      "directAccessVerified": true
+    },
+    {
+      "country": "Argentina",
+      "institution": "Universidad Nacional Guillermo Brown",
+      "url": "https://www.unab.edu.ar/analisis-datos/",
+      "title": "Especialización en análisis de datos aplicados a las políticas públicas",
+      "checked": "2026-10-25",
+      "decision": "incluir; no existe en programs.json",
+      "directAccessVerified": true,
+      "checkMethod": "Página oficial abierta desde enlace de catálogo detectado por rapid-screen"
+    },
+    {
+      "country": "Argentina",
+      "institution": "Universidad Nacional de Río Negro",
+      "url": "https://www.unrn.edu.ar/home",
+      "title": "Agenda institucional: Congreso de Humanidades Digitales",
+      "checked": "2026-10-25",
+      "decision": "evento; no es programa ni centro, no incluir en esas tablas",
+      "directAccessVerified": true,
+      "checkMethod": "Página oficial abierta; búsqueda interna del término"
+    },
+    {
+      "country": "Uruguay",
+      "institution": "Universidad Católica del Uruguay",
+      "url": "https://postgrados.ucu.edu.uy/Escuela-de-Postgrados/Explorar-lo-social-a-traves-de-los-datos-la-experiencia-de-Naim-Bro-en-la-Escuela-de-Invierno-en-Metodos-uc3367",
+      "title": "Análisis de texto para Ciencias Sociales, Escuela de Invierno en Métodos",
+      "checked": "2026-10-25",
+      "decision": "corrobora formación existente; posible variante del curso Texto como Datos, no duplicar sin identificar edición",
+      "directAccessVerified": true,
+      "checkMethod": "Página oficial abierta desde candidato rapid-screen"
+    },
+    {
+      "institution": "Universidad Autónoma Tomás Frías",
+      "url": "https://www.uatfpostgrado.edu.bo/diplomados/120",
+      "title": "Diplomado en Investigación Social mediada con Inteligencia Artificial",
+      "checked": "2026-10-25",
+      "decision": "Incluir programa: aplicación de IA a investigación social explícita",
+      "verificationMode": "Resultado indexado institucional; apertura devuelve cuerpo vacío",
+      "country": "Bolivia"
+    },
+    {
+      "institution": "Universidad Autónoma Gabriel René Moreno",
+      "url": "https://cir.uagrm.edu.bo/courses.html",
+      "title": "Cursos de Ciencias Sociales",
+      "checked": "2026-10-25",
+      "decision": "Ya incluido; no duplicar. Fechas de oferta corresponden a 2025, no confirmar vigencia 2026.",
+      "verificationMode": "Página institucional abierta",
+      "country": "Bolivia"
+    },
+    {
+      "institution": "Pontificia Universidad Católica del Perú",
+      "url": "https://laboratorio-humanidadesdigitales.pucp.edu.pe/",
+      "title": "Laboratorio de Humanidades Digitales (HLAB)",
+      "checked": "2026-10-25",
+      "decision": "Incluir centro interdisciplinario; no presentarlo como titulación",
+      "verificationMode": "Página institucional abierta",
+      "country": "Perú"
+    },
+    {
+      "institution": "Universidad del Pacífico",
+      "url": "https://www.up.edu.pe/carreras-postgrado-idiomas/carreras-pregrado/humanidades-digitales",
+      "title": "Humanidades Digitales | Pregrado",
+      "checked": "2026-10-25",
+      "decision": "Candidato verificable por índice institucional; acceso directo 403",
+      "verificationMode": "Resultado oficial indexado; apertura bloqueada 403",
+      "country": "Perú"
+    },
+    {
+      "institution": "FLACSO Ecuador",
+      "url": "https://movimientos.flacso.edu.ec/",
+      "title": "MOVIMIENTOS, Laboratorio de Conflictividad y Tecnopolítica",
+      "checked": "2026-10-25",
+      "decision": "Incluir centro por minería de datos y conflicto sociopolítico",
+      "verificationMode": "Página institucional abierta",
+      "country": "Ecuador"
+    },
+    {
+      "institution": "FLACSO Ecuador",
+      "url": "https://www.flacso.edu.ec/infoflax/legal/mantenimiento/vistaConveniosPW2.flacso",
+      "title": "Convenios institucionales: CDEA Lab y ESPOL",
+      "checked": "2026-10-25",
+      "decision": "Candidato centro; denominación y colaboración verificadas en resultado oficial indexado, ficha dinámica no muestra registro en primera página",
+      "verificationMode": "Resultado oficial indexado; página dinámica abierta muestra otros convenios",
+      "country": "Ecuador"
+    },
+    {
+      "institution": "Universidad de los Andes",
+      "url": "https://artehum.uniandes.edu.co/educacion-continua/humanidades-digitales-conceptos-datos-y-narrativas/",
+      "title": "Humanidades digitales: conceptos, datos y narrativas",
+      "checked": "2026-10-25",
+      "decision": "Incluir oferta distinta de maestría ya inventariada",
+      "verificationMode": "Página institucional abierta",
+      "country": "Colombia"
+    },
+    {
+      "institution": "Universidad de los Andes",
+      "url": "https://cienciadedatos.uniandes.edu.co/",
+      "title": "Pregrado en Ciencia de Datos",
+      "checked": "2026-10-25",
+      "decision": "Candidato interdisciplinario; incluir solo si el alcance admite ciencia de datos general con participación social",
+      "verificationMode": "Página institucional abierta",
+      "country": "Colombia"
+    },
+    {
+      "institution": "ProBox Observatorio Digital",
+      "url": "https://proboxve.org/en/nosotros/",
+      "title": "Who Are We",
+      "checked": "2026-10-25",
+      "decision": "Incluir centro de sociedad civil si alcance admite organizaciones no universitarias; no es programa académico",
+      "verificationMode": "Página institucional abierta",
+      "country": "Venezuela"
+    },
+    {
+      "institution": "Universidad Católica Andrés Bello",
+      "url": "https://elucabista.com/2019/11/07/observatorio-venezolano-de-fake-news-visito-ucab-guayana/",
+      "title": "Observatorio Venezolano de Fake News visitó UCAB Guayana",
+      "checked": "2026-10-25",
+      "decision": "No añadir como programa UCAB: es noticia de visita de proyecto externo de 2019",
+      "verificationMode": "Página institucional abierta",
+      "country": "Venezuela"
+    },
+    {
+      "institution": "University of Guyana",
+      "url": "https://researchandinnovation.uog.edu.gy/institutes-and-research-centres/",
+      "title": "Institutes and Research Centres",
+      "checked": "2026-10-25",
+      "decision": "Marco institucional consultado; IHRSSF y migración son investigación social pero no evidencia suficiente de métodos CSS",
+      "verificationMode": "Página institucional abierta",
+      "country": "Guyana"
+    },
+    {
+      "institution": "University of Guyana",
+      "url": "https://fns.uog.edu.gy/research-agenda",
+      "title": "Department of Computer Science Research Agenda",
+      "checked": "2026-10-25",
+      "decision": "Candidato para seguimiento: agenda mezcla IA, gobernanza TIC y redes sociales; no añadir programa CSS inferido",
+      "verificationMode": "Página institucional abierta",
+      "country": "Guyana"
+    },
+    {
+      "institution": "Anton de Kom Universiteit van Suriname",
+      "url": "https://www.uvs.edu/adekus/instituten/imwo/",
+      "title": "Instituut voor Maatschappijwetenschappelijk Onderzoek (IMWO)",
+      "checked": "2026-10-25",
+      "decision": "Centro social candidato periférico; evidencia de investigación online, encuestas y métodos mixtos, no de CSS explícita",
+      "verificationMode": "Página institucional abierta",
+      "country": "Surinam"
+    },
+    {
+      "institution": "Anton de Kom Universiteit van Suriname",
+      "url": "https://www.uvs.edu/wp-content/uploads/2025/12/PA-studiegids-2025-2026-29092025.pdf",
+      "title": "Public Administration study guide 2025–2026",
+      "checked": "2026-10-25",
+      "decision": "Corrobora IMWO; no añadir Public Administration como CSS por sola presencia de recolección de datos",
+      "verificationMode": "PDF oficial abierto; inspección acotada de referencias al instituto",
+      "country": "Surinam"
+    },
+    {
+      "institution": "UMECIT",
+      "url": "https://umecit.edu.pa/sede-chitre-conmemora-el-dia-del-estadistico-de-salud-con-la-conferencia-inteligencia-de-datos-en-salud/",
+      "title": "Conferencia Inteligencia de Datos en Salud",
+      "checked": "2026-10-25",
+      "decision": "no incluir: evento puntual, no programa o centro",
+      "country": "Panamá"
+    },
+    {
+      "institution": "Universidad de Costa Rica",
+      "url": "https://vd.ucr.ac.cr/catedras",
+      "title": "Cátedras",
+      "checked": "2026-10-25",
+      "decision": "incluir",
+      "country": "Costa Rica"
+    },
+    {
+      "institution": "Universidad Nacional Agraria",
+      "url": "https://www.una.edu.ni/ingenieria-en-ciencia-de-datos-agrarios/",
+      "title": "Ingeniería en Ciencia de Datos Agrarios",
+      "checked": "2026-10-25",
+      "decision": "excluir del núcleo CSS: datos agrarios sin aplicación social computacional explícita",
+      "country": "Nicaragua"
+    },
+    {
+      "institution": "Universidad Nacional Autónoma de Honduras",
+      "url": "https://humanidades.unah.edu.hn/programas-y-proyectos-de-la-facultad/",
+      "title": "Programas y Proyectos de la Facultad",
+      "checked": "2026-10-25",
+      "decision": "incluir",
+      "country": "Honduras"
+    },
+    {
+      "institution": "Universidad Centroamericana José Simeón Cañas",
+      "url": "https://ecampus.uca.edu.sv/course/search.php?perpage=all&search=on",
+      "title": "Catálogo de cursos",
+      "checked": "2026-10-25",
+      "decision": "candidato sin inclusión: indexado, apertura fallida",
+      "country": "El Salvador"
+    },
+    {
+      "institution": "Universidad del Valle de Guatemala",
+      "url": "https://www.uvg.edu.gt/investigacion/ceia/",
+      "title": "Centro de Estudios en Informática Aplicada",
+      "checked": "2026-10-25",
+      "decision": "incluir",
+      "country": "Guatemala"
+    },
+    {
+      "institution": "Universidad del Valle de Guatemala",
+      "url": "https://www.uvg.edu.gt/investigacion/investigadores-ceia/",
+      "title": "Investigadores CEIA",
+      "checked": "2026-10-25",
+      "decision": "fuente complementaria del equipo; no se agregan personas sin cruce con inventario",
+      "country": "Guatemala"
+    },
+    {
+      "institution": "UNAM / IIMAS",
+      "url": "https://mmss.iimas.unam.mx/lineas-de-investigacion/",
+      "title": "Líneas de investigación",
+      "checked": "2026-10-25",
+      "decision": "incluir",
+      "country": "México"
+    },
+    {
+      "institution": "Centro de Investigación y Docencia Económicas (CIDE)",
+      "url": "https://www.cide.edu/programa-docente-lpp/",
+      "title": "Programa Docente Licenciatura en Políticas Públicas",
+      "checked": "2026-10-25",
+      "decision": "incluir",
+      "country": "México"
+    },
+    {
+      "institution": "UNAM / Instituto de Investigaciones Bibliográficas",
+      "url": "https://labhd.iib.unam.mx/labhd/",
+      "title": "Laboratorio de Humanidades Digitales",
+      "checked": "2026-10-25",
+      "decision": "candidato sin inclusión: contenido institucional indexado, apertura 502",
+      "country": "México"
+    },
+    {
+      "institution": "Universidad de La Habana, autores afiliados",
+      "url": "https://zenodo.org/records/7191444",
+      "title": "HDCICuba: Primer proyecto académico de Humanidades Digitales en Cuba (2017-2021)",
+      "checked": "2026-10-25",
+      "decision": "candidato histórico, no inclusión hasta verificar continuidad institucional",
+      "sourceType": "Depósito primario de autores afiliados en Zenodo; no web institucional",
+      "country": "Cuba"
+    },
+    {
+      "institution": "Centro Latinoamericano de Estudios Científicos (CLAEC)",
+      "url": "https://claec.edu.do/producto/diplomado-en-ciencia-de-datos-en-educacion-learning-analytics/",
+      "title": "Diplomado en Ciencia de Datos en Educación (Learning Analytics)",
+      "checked": "2026-10-25",
+      "decision": "incluir",
+      "country": "República Dominicana"
+    },
+    {
+      "institution": "Institut Universitaire des Sciences (IUS) d’Haïti",
+      "url": "https://www.ius.education/formations-info/master-math%C3%A9matiques-informatiques",
+      "title": "Master en Mathématiques-Informatiques",
+      "checked": "2026-10-25",
+      "decision": "incluir",
+      "country": "Haití"
+    }
+  ],
+  "scope": "Revisión rápida de resúmenes institucionales. Sin lectura profunda ni validación humana de todos los registros."
+}

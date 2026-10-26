@@ -1,0 +1,224 @@
+{
+  "date": "2026-10-25",
+  "logs": [
+    {
+      "country": "Argentina",
+      "queries": [
+        "site.edu.ar ciencias sociales computacionales centro datos",
+        "site.edu.ar humanidades digitales laboratorio",
+        "site.edu.ar Diplomatura Humanidades Digitales"
+      ],
+      "scope": "Búsquedas institucionales dirigidas; consultas no equivalen a cobertura exhaustiva."
+    },
+    {
+      "country": "Chile",
+      "queries": [
+        "site.cl ciencias sociales computacionales laboratorio"
+      ],
+      "scope": "Búsquedas institucionales dirigidas; consultas no equivalen a cobertura exhaustiva."
+    },
+    {
+      "country": "Uruguay",
+      "queries": [
+        "site.edu.uy humanidades digitales laboratorio",
+        "site.edu.uy ciencia de datos sociales diploma",
+        "site.utec.edu.uy Laboratorio de Humanidades Digitales"
+      ],
+      "scope": "Búsquedas institucionales dirigidas; consultas no equivalen a cobertura exhaustiva."
+    },
+    {
+      "country": "Brasil",
+      "queries": [
+        "site.br ciências sociais computacionais laboratório universidade",
+        "site.br políticas públicas ciência de dados mestrado universidade",
+        "site.ufba.br humanidades digitais curso",
+        "site.usp.br ciências sociais computacionais curso"
+      ],
+      "scope": "Búsquedas institucionales dirigidas; consultas no equivalen a cobertura exhaustiva."
+    },
+    {
+      "country": "Paraguay",
+      "queries": [
+        "site.edu.py datos políticas públicas laboratorio",
+        "site.edu.py humanidades digitales",
+        "site.una.py ciencia de datos social",
+        "Paraguay universidad inteligencia artificial ciencias sociales datos laboratorio"
+      ],
+      "scope": "Búsquedas institucionales dirigidas; consultas no equivalen a cobertura exhaustiva."
+    },
+    {
+      "country": "Bolivia",
+      "queries": [
+        "site.edu.bo ciencias sociales datos diplomado",
+        "site.edu.bo investigación social inteligencia artificial"
+      ],
+      "scope": "Búsquedas institucionales dirigidas; consultas no equivalen a cobertura exhaustiva."
+    },
+    {
+      "country": "Perú",
+      "queries": [
+        "site.edu.pe humanidades digitales laboratorio",
+        "site.edu.pe humanidades digitales carrera"
+      ],
+      "scope": "Búsquedas institucionales dirigidas; consultas no equivalen a cobertura exhaustiva."
+    },
+    {
+      "country": "Ecuador",
+      "queries": [
+        "site.flacso.edu.ec datos laboratorio",
+        "site.uasb.edu.ec humanidades digitales"
+      ],
+      "scope": "Búsquedas institucionales dirigidas; consultas no equivalen a cobertura exhaustiva."
+    },
+    {
+      "country": "Colombia",
+      "queries": [
+        "site.edu.co ciencias sociales computacionales maestría",
+        "site.uniandes.edu.co laboratorio ciencias sociales computacionales"
+      ],
+      "scope": "Búsquedas institucionales dirigidas; consultas no equivalen a cobertura exhaustiva."
+    },
+    {
+      "country": "Venezuela",
+      "queries": [
+        "site.edu.ve humanidades digitales",
+        "site.ucab.edu.ve ciencia de datos",
+        "site.proboxve.org metodología redes sociales"
+      ],
+      "scope": "Búsquedas institucionales dirigidas; consultas no equivalen a cobertura exhaustiva."
+    },
+    {
+      "country": "Guyana",
+      "queries": [
+        "site.uog.edu.gy data social",
+        "site.uog.edu.gy Data Science",
+        "site.uog.edu.gy Institute for Human data"
+      ],
+      "scope": "Búsquedas institucionales dirigidas; consultas no equivalen a cobertura exhaustiva."
+    },
+    {
+      "country": "Surinam",
+      "queries": [
+        "Anton de Kom university Institute Graduate Studies Research data social research",
+        "Suriname university data science social research IMWO"
+      ],
+      "scope": "Búsquedas institucionales dirigidas; consultas no equivalen a cobertura exhaustiva."
+    },
+    {
+      "country": "Panamá",
+      "queries": [
+        "site:edu.pa \"ciencia de datos\" ciencias sociales",
+        "site:edu.pa \"datos\" \"políticas públicas\"",
+        "site:utp.ac.pa \"ciencias sociales\" \"datos\""
+      ],
+      "scope": "Búsquedas institucionales dirigidas; consultas no equivalen a cobertura exhaustiva."
+    },
+    {
+      "country": "Costa Rica",
+      "queries": [
+        "site.ac.cr \"humanidades digitales\""
+      ],
+      "scope": "Búsquedas institucionales dirigidas; consultas no equivalen a cobertura exhaustiva."
+    },
+    {
+      "country": "Nicaragua",
+      "queries": [
+        "site:edu.ni \"datos\" \"ciencias sociales\"",
+        "site:edu.ni \"ciencia de datos\""
+      ],
+      "scope": "Búsquedas institucionales dirigidas; consultas no equivalen a cobertura exhaustiva."
+    },
+    {
+      "country": "Honduras",
+      "queries": [
+        "site:edu.hn \"humanidades digitales\""
+      ],
+      "scope": "Búsquedas institucionales dirigidas; consultas no equivalen a cobertura exhaustiva."
+    },
+    {
+      "country": "El Salvador",
+      "queries": [
+        "site:edu.sv \"humanidades digitales\""
+      ],
+      "scope": "Búsquedas institucionales dirigidas; consultas no equivalen a cobertura exhaustiva."
+    },
+    {
+      "country": "Guatemala",
+      "queries": [
+        "site:edu.gt \"datos\" \"políticas públicas\"",
+        "site:uvg.edu.gt \"ciencia de datos\" social"
+      ],
+      "scope": "Búsquedas institucionales dirigidas; consultas no equivalen a cobertura exhaustiva."
+    },
+    {
+      "country": "México",
+      "queries": [
+        "site:mx \"ciencias sociales computacionales\" laboratorio",
+        "site:unam.mx \"Humanidades Digitales\" laboratorio",
+        "site:cide.edu \"ciencia de datos\" políticas públicas"
+      ],
+      "scope": "Búsquedas institucionales dirigidas; consultas no equivalen a cobertura exhaustiva."
+    },
+    {
+      "country": "Cuba",
+      "queries": [
+        "site:cu \"humanidades digitales\" universidad",
+        "Cuba universidad \"humanidades digitales\" laboratorio",
+        "site:uh.cu \"Humanidades Digitales\""
+      ],
+      "scope": "Búsquedas institucionales dirigidas; consultas no equivalen a cobertura exhaustiva."
+    },
+    {
+      "country": "República Dominicana",
+      "queries": [
+        "site:edu.do \"datos\" \"políticas públicas\" diplomado"
+      ],
+      "scope": "Búsquedas institucionales dirigidas; consultas no equivalen a cobertura exhaustiva."
+    },
+    {
+      "country": "Haití",
+      "queries": [
+        "site:edu.ht \"numérique\" \"sciences humaines\"",
+        "Haiti universite \"science des données\" sociales"
+      ],
+      "scope": "Búsquedas institucionales dirigidas; consultas no equivalen a cobertura exhaustiva."
+    },
+    {
+      "scope": "journals-global.json",
+      "queries": [
+        "AI Society journal aims scope Springer",
+        "AI Ethics journal aims scope Springer",
+        "Policy Internet journal aims scope Wiley",
+        "Big Data Society journal aims scope Sage",
+        "site.cambridge.org Data & Policy aims",
+        "Digital Society Springer journal",
+        "AI and Ethics Springer journal",
+        "Digital Government Research and Practice ACM scope"
+      ]
+    },
+    {
+      "scope": "journals-methods.json",
+      "queries": [
+        "Computational Communication Research journal aims scope official",
+        "Journal Computational Social Science aims scope Springer",
+        "Socius journal aims scope SAGE",
+        "Political Analysis journal aims scope Cambridge",
+        "Social Science Computer Review aims scope SAGE official",
+        "Journal Artificial Societies Social Simulation aims scope official"
+      ]
+    },
+    {
+      "scope": "journals-latam.json",
+      "queries": [
+        "site:revistas.unam.mx Revista Mexicana de Sociología Enfoque y alcance",
+        "site:revistas.unam.mx Revista Mexicana de Ciencias Políticas y Sociales Enfoque y alcance",
+        "Opinião Pública revista objetivo escopo unicamp",
+        "Política y Gobierno revista enfoque CIDE",
+        "Dados revista ciências sociais site oficial sobre revista",
+        "Revista Mexicana Sociologia acerca revista objetivo",
+        "Revista CTS ciencia tecnologia sociedad acerca revista",
+        "Revista Latinoamericana Metodologia Investigacion Social sobre revista"
+      ]
+    }
+  ]
+}

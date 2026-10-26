@@ -17,3 +17,11 @@ Use Visualization projects or Visualizations, not Data, for the visualization de
 For analytical charts and maps, apply Sol’s visualizations skill and assets/chart-palette.json. Preserve the latest atlas data, filter consistency, Rosario typography, exact approved palette and zero-based lollipops with percentage (count) labels and explicit denominators. Do not restore yellow, orange, green or mint data colors. Keep website branding and chart data colors distinct where required by the skills.
 
 Publish each authorized update on github.io and verify deployment.
+
+## Dashboard corrections, Sol, 2026-10-25
+
+Title: Ciencias Sociales Computacionales. Use Lazer et al. (2020), DOI 10.1126/science.aaz8170, as the conceptual anchor: social research plus computational methods on human behavioral data. AI as a topic and algorithmic governance do not automatically qualify. Apply documented institutional geography in LATAM, not nationality; exclude external, mixed and unverified bases from the principal people directory. Display personal names ONLY in program teams; all graph labels, lists and profile cards omit names. SICSS Uruguay is training/event participation, never an institutional affiliation. Exclude the Doctorado en Ciencias de la Complejidad Social from training per Sol’s explicit instruction.
+
+Use only the approved REDS and VIOLETS for dashboard marks: #B31A15, #C96D7C, #E1A0AA, #6D0E4E, #462969; no blue marks. This overrides the visualizations skill’s general single-series blue default for this dashboard. Preserve Rosario and white backgrounds.
+
+Sol requested a rapid institutional pass without deep curriculum reading and authorized parallel subagents. Record completion of the rapid inventory pass separately from exhaustive mapping. Do not call inaccessible sites reviewed or claim all existing LATAM institutions were mapped. Preserve the source-based journal scope classifications and the distinction between core CSC and contextual journals. Raw identifying research sources stay in private working materials.

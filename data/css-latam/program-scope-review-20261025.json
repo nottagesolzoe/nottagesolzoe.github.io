@@ -1,0 +1,311 @@
+{
+  "criteria": {
+    "basis": "Criterio conservador compatible con estudio computacional del comportamiento y procesos sociales; clasificación de metadatos, sin atribuir una cita textual a Lazer et al. 2020.",
+    "explicit_computational_social": "El título identifica CSC o los metadatos vinculan métodos computacionales/ciencia de datos con análisis de datos sociales o comportamiento.",
+    "related_training": "Formación instrumental, digital, de gestión, IA general o humanidades digitales sin conexión suficiente con investigación computacional de fenómenos sociales.",
+    "pending_verification": "Metadatos insuficientes o acceso no verificado; no se cuenta como CSC antes de comprobar el vínculo.",
+    "counting": "Escuelas, cursos y programas deben desglosarse por tipo. No sumar ediciones como programas únicos sin deduplicar."
+  },
+  "entries": [
+    {
+      "url": "https://www.unab.edu.ar/especializacion-cs-computacionales/",
+      "name": "Especialización en Ciencias Sociales Computacionales",
+      "classification": "explicit_computational_social",
+      "rationale": "El título identifica CSC y la descripción registra programación, aprendizaje automático, texto y geodatos.",
+      "countAsCSCOnMetadata": true,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://www.unsam.edu.ar/escuelas/eidaes/671/idaes/ciencias-sociales-computacionales-humanidades-digitales",
+      "name": "Diploma en Ciencias Sociales Computacionales y Humanidades Digitales",
+      "classification": "explicit_computational_social",
+      "rationale": "El título identifica CSC; se registran R, modelos y minería de texto.",
+      "countAsCSCOnMetadata": true,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://sociales.unc.edu.ar/content/diplomatura-universitaria-de-estudios-avanzados-en-ciencia-de-datos-para-ciencias-sociales",
+      "name": "Diplomatura en Ciencia de Datos para Ciencias Sociales",
+      "classification": "explicit_computational_social",
+      "rationale": "El título delimita ciencia de datos para ciencias sociales; constan extracción de datos, aprendizaje automático y NLP.",
+      "countAsCSCOnMetadata": true,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://pensarcondatos.com/sobre-nosotros/",
+      "name": "Alfabetización en datos: habilidades para una ciudadanía digital ampliada",
+      "classification": "related_training",
+      "rationale": "Alfabetización en datos y ciudadanía digital; no se registra investigación computacional del comportamiento social.",
+      "countAsCSCOnMetadata": false,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://qlab.pucp.edu.pe/cursos/diplomatura-qlab",
+      "name": "Ciencia de Datos para las Ciencias Sociales y la Gestión Pública",
+      "classification": "explicit_computational_social",
+      "rationale": "La descripción conecta métodos computacionales e inferencia causal con ciencias sociales y gestión pública.",
+      "countAsCSCOnMetadata": true,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://gobierno.udd.cl/dccs/admision/",
+      "name": "Doctorado en Ciencias de la Complejidad Social",
+      "classification": "pending_verification",
+      "rationale": "El título de complejidad social y las fechas de admisión no prueban formación CSC. No se equipara complejidad social con CSC. Retener el registro sin decisión de exclusión hasta aclaración del usuario.",
+      "countAsCSCOnMetadata": false,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://educacioncontinua.uc.cl/programas/ciencia-de-datos-sociales-aprende-a-obtener-y-analizar-datos-sociales-desde-internet/",
+      "name": "Ciencia de datos sociales: datos desde Internet",
+      "classification": "explicit_computational_social",
+      "rationale": "La descripción vincula expresamente métodos computacionales con datos sociales, texto y redes.",
+      "countAsCSCOnMetadata": true,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://mestrado-doutorado.fgv.br/curso/mestrado-profissional/rio-de-janeiro/comunicacao-digital-e-cultura-de-dados",
+      "name": "Mestrado Profissional em Comunicação Digital e Cultura de Dados",
+      "classification": "pending_verification",
+      "rationale": "Comunicación digital y análisis de datos no identifican por sí solos métodos computacionales ni una pregunta sobre conducta social. Falta evidencia en estos metadatos.",
+      "countAsCSCOnMetadata": false,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://sicss.io/2026/buenos-aires/",
+      "name": "SICSS Buenos Aires 2026",
+      "classification": "explicit_computational_social",
+      "rationale": "Título SICSS y descripción explícita de formación en CSC; es una escuela, no un grado académico.",
+      "countAsCSCOnMetadata": true,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://sicss.io/2026/brazil/",
+      "name": "SICSS Brazil 2026",
+      "classification": "explicit_computational_social",
+      "rationale": "La descripción identifica una escuela de métodos computacionales para ciencias sociales.",
+      "countAsCSCOnMetadata": true,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://cienciassociales.uniandes.edu.co/programas/escuela-de-verano-metodologias-de-investigacion-critica-en-ciencias-sociales/",
+      "name": "Escuela de verano: metodologías de investigación crítica en ciencias sociales",
+      "classification": "related_training",
+      "rationale": "La escuela amplia incluye una introducción a CSC; no corresponde clasificar toda su oferta como CSC. El componente podría registrarse separadamente.",
+      "countAsCSCOnMetadata": false,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://cicada.uy/course/escuela-internacional-ciencias-sociales-computacionales-2023/",
+      "name": "Escuela Internacional en Ciencias Sociales Computacionales 2023 (IMFD-CICADA-UMAD)",
+      "classification": "explicit_computational_social",
+      "rationale": "Título y descripción explicitan CSC e investigación social computacional; edición histórica 2023.",
+      "countAsCSCOnMetadata": true,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://www.flacso.ac.cr/es/noticias/informacion/258-inicia-la-viii-edicion-de-la-escuela-de-verano",
+      "name": "Gestión de datos y aprovechamiento de información mediante ciencia de datos",
+      "classification": "related_training",
+      "rationale": "Curso general de gestión de datos en una escuela de investigación social; faltan métodos y objeto social explícitos para contarlo como CSC.",
+      "countAsCSCOnMetadata": false,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://www.utdt.edu/ver_contenido.php?id_contenido=25468&id_item_menu=41804",
+      "name": "Diplomatura en Inteligencia Artificial y Políticas Públicas",
+      "classification": "related_training",
+      "rationale": "IA aplicada a sectores de política pública; los metadatos no registran análisis computacional de conducta o procesos sociales.",
+      "countAsCSCOnMetadata": false,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://www.austral.edu.ar/escueladegobierno/posgrados/politicas-publicas/diplomatura-en-gobierno-5-0/",
+      "name": "Diplomatura en IA y Gobierno 5.0",
+      "classification": "related_training",
+      "rationale": "IA y gobierno digital para gestión institucional; no se registra investigación social computacional.",
+      "countAsCSCOnMetadata": false,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://codigo.rec.uba.ar/libro-xiv-facultad-de-psicologia-titulo-8-capitulo-x/",
+      "name": "Especialización en Ciencia de Datos Aplicada a la Psicología y Ciencias del Comportamiento",
+      "classification": "explicit_computational_social",
+      "rationale": "La descripción conecta ciencia de datos con investigación psicológica y del comportamiento.",
+      "countAsCSCOnMetadata": true,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://www.frlp.utn.edu.ar/diplomatura-transformacion-publica-digital",
+      "name": "Diplomatura en Transformación Pública Digital",
+      "classification": "related_training",
+      "rationale": "Transformación digital administrativa con IA y datos; no demuestra un objeto de investigación CSC.",
+      "countAsCSCOnMetadata": false,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://www.econo.unlp.edu.ar/dgp",
+      "name": "Diplomatura de Posgrado en Gestión Pública orientada a resultados",
+      "classification": "related_training",
+      "rationale": "Gestión pública con un módulo de IA; la presencia del módulo no convierte el programa en CSC.",
+      "countAsCSCOnMetadata": false,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://www.uncuyo.edu.ar/ciencia_tecnica_y_posgrado/lanzamientomicromaestria",
+      "name": "Micromaestría en Inteligencia Artificial para la Gestión Pública y Privada",
+      "classification": "pending_verification",
+      "rationale": "Solo consta anuncio indexado con acceso completo bloqueado; IA para gestión pública y privada no demuestra formación CSC.",
+      "countAsCSCOnMetadata": false,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://pent.flacso.org.ar/formacion",
+      "name": "Certificación de posgrado en enseñanza y aprendizaje con IA",
+      "classification": "related_training",
+      "rationale": "Diseño de actividades educativas con IA; usar IA para enseñar no equivale a investigar computacionalmente fenómenos sociales.",
+      "countAsCSCOnMetadata": false,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://sicss.io/2024/uruguay/",
+      "name": "SICSS-Uruguay",
+      "classification": "explicit_computational_social",
+      "rationale": "SICSS identifica formación específica de CSC; metadatos no verifican contenidos ni resultados de esta edición.",
+      "countAsCSCOnMetadata": true,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://sicss.io/2026/uruguay/",
+      "name": "SICSS-Uruguay",
+      "classification": "explicit_computational_social",
+      "rationale": "SICSS identifica formación específica de CSC; metadatos no verifican contenidos ni resultados de esta edición.",
+      "countAsCSCOnMetadata": true,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://www.ucu.edu.uy/categoria/Escuela-en-Metodos-367",
+      "name": "Introducción a la IA para Científicos Sociales",
+      "classification": "related_training",
+      "rationale": "El público de científicos sociales y la introducción a IA no prueban aplicación a investigación social; formación adyacente hasta más evidencia.",
+      "countAsCSCOnMetadata": false,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://www.ucu.edu.uy/categoria/Escuela-en-Metodos-367",
+      "name": "Texto como Datos: Métodos Computacionales en Ciencias Sociales",
+      "classification": "explicit_computational_social",
+      "rationale": "El título vincula texto como datos y métodos computacionales con ciencias sociales.",
+      "countAsCSCOnMetadata": true,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://www.ucu.edu.uy/categoria/Escuela-en-Metodos-367",
+      "name": "Análisis espacial con sistemas de información geográfica",
+      "classification": "related_training",
+      "rationale": "SIG y análisis espacial son herramientas transferibles; los metadatos no explicitan objeto social ni análisis computacional de conducta.",
+      "countAsCSCOnMetadata": false,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://www.ucu.edu.uy/categoria/Escuela-en-Metodos-367",
+      "name": "Visualización de datos",
+      "classification": "related_training",
+      "rationale": "Visualización de datos genérica; no se registra pregunta u objeto de investigación social.",
+      "countAsCSCOnMetadata": false,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://www.ucu.edu.uy/categoria/Escuela-en-Metodos-367",
+      "name": "Modelos categóricos, de elección y conteo",
+      "classification": "related_training",
+      "rationale": "Modelos categóricos y de conteo son herramientas estadísticas; no equivalen por sí solos a CSC.",
+      "countAsCSCOnMetadata": false,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://www.ucu.edu.uy/categoria/Escuela-en-Metodos-367",
+      "name": "Introducción a la programación en R",
+      "classification": "related_training",
+      "rationale": "Programación en R introductoria sin aplicación social registrada; formación instrumental.",
+      "countAsCSCOnMetadata": false,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://www.ucu.edu.uy/categoria/Escuela-en-Metodos-367",
+      "name": "Introducción a la programación Python",
+      "classification": "related_training",
+      "rationale": "Programación en Python introductoria sin aplicación social registrada; formación instrumental.",
+      "countAsCSCOnMetadata": false,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://www.uai.cl/postgrados/cursos/ciencias-sociales-computacionales-aplicadas",
+      "name": "Curso Ciencias Sociales Computacionales Aplicadas",
+      "classification": "explicit_computational_social",
+      "rationale": "Título CSC y métodos registrados de datos digitales, redes, aprendizaje automático y simulación basada en agentes.",
+      "countAsCSCOnMetadata": true,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://maestriasydiplomados.tec.mx/posgrados/maestria-en-humanidades-digitales-en-linea?locale=es-MX",
+      "name": "Maestría en Humanidades Digitales",
+      "classification": "related_training",
+      "rationale": "Proyectos culturales digitales y análisis de tendencias en redes ofrecen cercanía temática, pero los metadatos no precisan métodos ni objeto conductual para contar toda la maestría como CSC.",
+      "countAsCSCOnMetadata": false,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://conecta.tec.mx/es/noticias/nacional/educacion/tender-puentes-entre-la-ia-y-lo-humano-la-nueva-carrera-del-tec",
+      "name": "Licenciatura en Humanidades Digitales e Inteligencia Artificial",
+      "classification": "related_training",
+      "rationale": "Humanidades, IA y NLP son componentes adyacentes; falta objeto de investigación conductual o social explícito.",
+      "countAsCSCOnMetadata": false,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://www.uniandes.edu.co/es/programas/maestria-en-humanidades-digitales",
+      "name": "Maestría en Humanidades Digitales",
+      "classification": "related_training",
+      "rationale": "Investigación y creación cultural digital; no se registran métodos computacionales para investigar conducta social.",
+      "countAsCSCOnMetadata": false,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://cir.uagrm.edu.bo/courses.html",
+      "name": "Ciencias Sociales con Python",
+      "classification": "explicit_computational_social",
+      "rationale": "La descripción registra Python, redes, minería de texto y aprendizaje automático aplicados a datos sociales.",
+      "countAsCSCOnMetadata": true,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://cir.uagrm.edu.bo/courses.html",
+      "name": "Introducción a la Ciencia de Datos para Científicos Sociales",
+      "classification": "explicit_computational_social",
+      "rationale": "El título y la descripción conectan ciencia de datos con preparación y análisis de datos sociales; no se verifica la profundidad computacional.",
+      "countAsCSCOnMetadata": true,
+      "action": "retain; no deletion authorized"
+    },
+    {
+      "url": "https://cpdoc.fgv.br/2022-dh-css",
+      "name": "Escola de Inverno em Humanidades Digitais e Ciências Sociais Computacionais",
+      "classification": "explicit_computational_social",
+      "rationale": "El título identifica CSC y la descripción registra programación y datos sociales, junto con patrimonio digital; escuela interdisciplinaria, no grado exclusivamente CSC.",
+      "countAsCSCOnMetadata": true,
+      "action": "retain; no deletion authorized"
+    }
+  ],
+  "limits": [
+    "Revisión de las 36 ofertas del archivo recibido; no valida planes ni admisión vigente.",
+    "No se abrieron nuevas páginas ni se realizó lectura profunda.",
+    "La clasificación explícita describe evidencia registrada, no certifica el contenido completo o calidad de la formación.",
+    "No se elimina ni cambia el Doctorado en Ciencias de la Complejidad Social. La aclaración del usuario sigue pendiente.",
+    "Lazer 2020 se usa como orientación solicitada; no se afirma haber consultado su texto en esta revisión."
+  ],
+  "counts": {
+    "explicit_computational_social": 16,
+    "related_training": 17,
+    "pending_verification": 3
+  }
+}

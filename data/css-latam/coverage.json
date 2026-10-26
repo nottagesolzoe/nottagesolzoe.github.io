@@ -1,5 +1,5 @@
 {
-  "status": "Cobertura parcial. Inventarios nacionales pendientes de completar.",
+  "status": "Barrido rápido del inventario terminado; cobertura y conciliación exhaustivas no completadas.",
   "sequence": "Argentina → inventarios y revisión por país en el resto de LATAM",
   "nationalSources": [
     {
@@ -389,6 +389,382 @@
         "Martín Opertti",
         "Ornella Novino"
       ]
+    },
+    {
+      "country": "Argentina",
+      "institution": "Universidad Nacional de Cuyo",
+      "url": "https://www.uncuyo.edu.ar/prensa/la-uncuyo-tendra-un-laboratorio-de-humanidades-digitales-y-ciencia-abierta",
+      "date": "2026-10-25",
+      "stage": "candidato pendiente; acceso directo no verificado",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Argentina",
+      "institution": "IECH / CONICET / Universidad Nacional de Rosario",
+      "url": "https://iech.conicet.gov.ar/lhd/",
+      "date": "2026-10-25",
+      "stage": "candidato pendiente; acceso directo no verificado",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Argentina",
+      "institution": "Universidad de Ciencias Empresariales y Sociales",
+      "url": "https://w.uces.edu.ar/wp-content/uploads/2021/11/Diplomatura-en-Humanidades-Digitales-2026.pdf",
+      "date": "2026-10-25",
+      "stage": "candidato pendiente; acceso directo no verificado",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Argentina",
+      "institution": "UNSAM",
+      "url": "https://unsam.edu.ar/escuelas/idaes/671/idaes/ciencias-sociales-computacionales-humanidades-digitales",
+      "date": "2026-10-25",
+      "stage": "candidato pendiente; acceso directo no verificado",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Chile",
+      "institution": "Universidad Austral de Chile",
+      "url": "https://cognitiva.uach.cl/proyecto/ciencias-sociales-computacionales/",
+      "date": "2026-10-25",
+      "stage": "candidato pendiente; acceso directo no verificado",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Chile",
+      "institution": "Universidad del Desarrollo",
+      "url": "https://gobierno.udd.cl/doctorate/admision/antecedentes/",
+      "date": "2026-10-25",
+      "stage": "corrobora registro existente",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Chile",
+      "institution": "Universidad Adolfo Ibáñez",
+      "url": "https://www.uai.cl/postgrados/cursos/ciencias-sociales-computacionales-aplicadas",
+      "date": "2026-10-25",
+      "stage": "candidato pendiente; acceso directo no verificado",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Uruguay",
+      "institution": "Universidad de la República / Facultad de Ciencias Sociales",
+      "url": "https://cienciassociales.edu.uy/departamento-de-economia/ensenanza-de-posgrado/especializacion-en-ciencias-de-datos/",
+      "date": "2026-10-25",
+      "stage": "inclusión respaldada por página oficial abierta",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Uruguay",
+      "institution": "Universidad Tecnológica del Uruguay",
+      "url": "https://utec.edu.uy/pt/evento/investigacion-en-educacion-y-tecnologias-digitales-del-lab-hd/",
+      "date": "2026-10-25",
+      "stage": "inclusión respaldada por página oficial abierta",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Uruguay",
+      "institution": "Universidad Tecnológica del Uruguay",
+      "url": "https://erp.utec.edu.uy/iframe_jobs/iframe_jobs_detail/profesor-adjunto-en-el-area-de-laboratorio-de-humanidades-digitales-1897",
+      "date": "2026-10-25",
+      "stage": "corrobora registro existente",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Brasil",
+      "institution": "Universidade Federal do Espírito Santo",
+      "url": "https://datakulalab.ufes.br/data-kula-lab",
+      "date": "2026-10-25",
+      "stage": "inclusión respaldada por página oficial abierta",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Brasil",
+      "institution": "Universidade Federal do Rio de Janeiro",
+      "url": "https://netlab.eco.ufrj.br/sobre",
+      "date": "2026-10-25",
+      "stage": "ya existente en directorio; no duplicar",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Brasil",
+      "institution": "FGV CPDOC",
+      "url": "https://cpdoc.fgv.br/cursos/humanidades-digitais",
+      "date": "2026-10-25",
+      "stage": "inclusión respaldada por página oficial abierta",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Paraguay",
+      "institution": "Universidad Nacional de Asunción / Facultad Politécnica",
+      "url": "https://www.pol.una.py/laboratorio-de-analisis-y-modelado-basado-en-datos/",
+      "date": "2026-10-25",
+      "stage": "inclusión respaldada por página oficial abierta",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Paraguay",
+      "institution": "Universidad Comunera",
+      "url": "https://ucom.edu.py/smartdatalab/",
+      "date": "2026-10-25",
+      "stage": "inclusión respaldada por página oficial abierta",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Paraguay",
+      "institution": "Universidad Nacional de Asunción / FACSO",
+      "url": "https://observatorio.facso.una.py/",
+      "date": "2026-10-25",
+      "stage": "candidato pendiente; acceso directo no verificado",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Paraguay",
+      "institution": "Universidad Nacional de Asunción / Universidad Nacional de Pilar",
+      "url": "https://www.pol.una.py/extension/formacion-continua/diplomados/diplomado-en-inteligencia-artificial-aplicada-y-ciencia-de-datos/",
+      "date": "2026-10-25",
+      "stage": "inclusión respaldada por página oficial abierta",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Argentina",
+      "institution": "Universidad Nacional Guillermo Brown",
+      "url": "https://www.unab.edu.ar/analisis-datos/",
+      "date": "2026-10-25",
+      "stage": "incluir; no existe en programs.json",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Argentina",
+      "institution": "Universidad Nacional de Río Negro",
+      "url": "https://www.unrn.edu.ar/home",
+      "date": "2026-10-25",
+      "stage": "evento; no es programa ni centro, no incluir en esas tablas",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Uruguay",
+      "institution": "Universidad Católica del Uruguay",
+      "url": "https://postgrados.ucu.edu.uy/Escuela-de-Postgrados/Explorar-lo-social-a-traves-de-los-datos-la-experiencia-de-Naim-Bro-en-la-Escuela-de-Invierno-en-Metodos-uc3367",
+      "date": "2026-10-25",
+      "stage": "corrobora formación existente; posible variante del curso Texto como Datos, no duplicar sin identificar edición",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Bolivia",
+      "institution": "Universidad Autónoma Tomás Frías",
+      "url": "https://www.uatfpostgrado.edu.bo/diplomados/120",
+      "date": "2026-10-25",
+      "stage": "Incluir programa: aplicación de IA a investigación social explícita",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Bolivia",
+      "institution": "Universidad Autónoma Gabriel René Moreno",
+      "url": "https://cir.uagrm.edu.bo/courses.html",
+      "date": "2026-10-25",
+      "stage": "Ya incluido; no duplicar. Fechas de oferta corresponden a 2025, no confirmar vigencia 2026.",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Perú",
+      "institution": "Pontificia Universidad Católica del Perú",
+      "url": "https://laboratorio-humanidadesdigitales.pucp.edu.pe/",
+      "date": "2026-10-25",
+      "stage": "Incluir centro interdisciplinario; no presentarlo como titulación",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Perú",
+      "institution": "Universidad del Pacífico",
+      "url": "https://www.up.edu.pe/carreras-postgrado-idiomas/carreras-pregrado/humanidades-digitales",
+      "date": "2026-10-25",
+      "stage": "Candidato verificable por índice institucional; acceso directo 403",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Ecuador",
+      "institution": "FLACSO Ecuador",
+      "url": "https://movimientos.flacso.edu.ec/",
+      "date": "2026-10-25",
+      "stage": "Incluir centro por minería de datos y conflicto sociopolítico",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Ecuador",
+      "institution": "FLACSO Ecuador",
+      "url": "https://www.flacso.edu.ec/infoflax/legal/mantenimiento/vistaConveniosPW2.flacso",
+      "date": "2026-10-25",
+      "stage": "Candidato centro; denominación y colaboración verificadas en resultado oficial indexado, ficha dinámica no muestra registro en primera página",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Colombia",
+      "institution": "Universidad de los Andes",
+      "url": "https://artehum.uniandes.edu.co/educacion-continua/humanidades-digitales-conceptos-datos-y-narrativas/",
+      "date": "2026-10-25",
+      "stage": "Incluir oferta distinta de maestría ya inventariada",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Colombia",
+      "institution": "Universidad de los Andes",
+      "url": "https://cienciadedatos.uniandes.edu.co/",
+      "date": "2026-10-25",
+      "stage": "Candidato interdisciplinario; incluir solo si el alcance admite ciencia de datos general con participación social",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Venezuela",
+      "institution": "ProBox Observatorio Digital",
+      "url": "https://proboxve.org/en/nosotros/",
+      "date": "2026-10-25",
+      "stage": "Incluir centro de sociedad civil si alcance admite organizaciones no universitarias; no es programa académico",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Venezuela",
+      "institution": "Universidad Católica Andrés Bello",
+      "url": "https://elucabista.com/2019/11/07/observatorio-venezolano-de-fake-news-visito-ucab-guayana/",
+      "date": "2026-10-25",
+      "stage": "No añadir como programa UCAB: es noticia de visita de proyecto externo de 2019",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Guyana",
+      "institution": "University of Guyana",
+      "url": "https://researchandinnovation.uog.edu.gy/institutes-and-research-centres/",
+      "date": "2026-10-25",
+      "stage": "Marco institucional consultado; IHRSSF y migración son investigación social pero no evidencia suficiente de métodos CSS",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Guyana",
+      "institution": "University of Guyana",
+      "url": "https://fns.uog.edu.gy/research-agenda",
+      "date": "2026-10-25",
+      "stage": "Candidato para seguimiento: agenda mezcla IA, gobernanza TIC y redes sociales; no añadir programa CSS inferido",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Surinam",
+      "institution": "Anton de Kom Universiteit van Suriname",
+      "url": "https://www.uvs.edu/adekus/instituten/imwo/",
+      "date": "2026-10-25",
+      "stage": "Centro social candidato periférico; evidencia de investigación online, encuestas y métodos mixtos, no de CSS explícita",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Surinam",
+      "institution": "Anton de Kom Universiteit van Suriname",
+      "url": "https://www.uvs.edu/wp-content/uploads/2025/12/PA-studiegids-2025-2026-29092025.pdf",
+      "date": "2026-10-25",
+      "stage": "Corrobora IMWO; no añadir Public Administration como CSS por sola presencia de recolección de datos",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Panamá",
+      "institution": "UMECIT",
+      "url": "https://umecit.edu.pa/sede-chitre-conmemora-el-dia-del-estadistico-de-salud-con-la-conferencia-inteligencia-de-datos-en-salud/",
+      "date": "2026-10-25",
+      "stage": "no incluir: evento puntual, no programa o centro",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Costa Rica",
+      "institution": "Universidad de Costa Rica",
+      "url": "https://vd.ucr.ac.cr/catedras",
+      "date": "2026-10-25",
+      "stage": "incluir",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Nicaragua",
+      "institution": "Universidad Nacional Agraria",
+      "url": "https://www.una.edu.ni/ingenieria-en-ciencia-de-datos-agrarios/",
+      "date": "2026-10-25",
+      "stage": "excluir del núcleo CSS: datos agrarios sin aplicación social computacional explícita",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Honduras",
+      "institution": "Universidad Nacional Autónoma de Honduras",
+      "url": "https://humanidades.unah.edu.hn/programas-y-proyectos-de-la-facultad/",
+      "date": "2026-10-25",
+      "stage": "incluir",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "El Salvador",
+      "institution": "Universidad Centroamericana José Simeón Cañas",
+      "url": "https://ecampus.uca.edu.sv/course/search.php?perpage=all&search=on",
+      "date": "2026-10-25",
+      "stage": "candidato sin inclusión: indexado, apertura fallida",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Guatemala",
+      "institution": "Universidad del Valle de Guatemala",
+      "url": "https://www.uvg.edu.gt/investigacion/ceia/",
+      "date": "2026-10-25",
+      "stage": "incluir",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Guatemala",
+      "institution": "Universidad del Valle de Guatemala",
+      "url": "https://www.uvg.edu.gt/investigacion/investigadores-ceia/",
+      "date": "2026-10-25",
+      "stage": "fuente complementaria del equipo; no se agregan personas sin cruce con inventario",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "México",
+      "institution": "UNAM / IIMAS",
+      "url": "https://mmss.iimas.unam.mx/lineas-de-investigacion/",
+      "date": "2026-10-25",
+      "stage": "incluir",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "México",
+      "institution": "Centro de Investigación y Docencia Económicas (CIDE)",
+      "url": "https://www.cide.edu/programa-docente-lpp/",
+      "date": "2026-10-25",
+      "stage": "incluir",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "México",
+      "institution": "UNAM / Instituto de Investigaciones Bibliográficas",
+      "url": "https://labhd.iib.unam.mx/labhd/",
+      "date": "2026-10-25",
+      "stage": "candidato sin inclusión: contenido institucional indexado, apertura 502",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Cuba",
+      "institution": "Universidad de La Habana, autores afiliados",
+      "url": "https://zenodo.org/records/7191444",
+      "date": "2026-10-25",
+      "stage": "candidato histórico, no inclusión hasta verificar continuidad institucional",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "República Dominicana",
+      "institution": "Centro Latinoamericano de Estudios Científicos (CLAEC)",
+      "url": "https://claec.edu.do/producto/diplomado-en-ciencia-de-datos-en-educacion-learning-analytics/",
+      "date": "2026-10-25",
+      "stage": "incluir",
+      "reviewDepth": "rápida"
+    },
+    {
+      "country": "Haití",
+      "institution": "Institut Universitaire des Sciences (IUS) d’Haïti",
+      "url": "https://www.ius.education/formations-info/master-math%C3%A9matiques-informatiques",
+      "date": "2026-10-25",
+      "stage": "incluir",
+      "reviewDepth": "rápida"
     }
   ],
   "protocol": "projects/redes-css-latam/research/protocolo-operativo.json",
@@ -398,5 +774,6 @@
     "pageResponses": 365,
     "status": "preliminar; no completa revisión",
     "file": "university-screening-ar.json"
-  }
+  },
+  "rapidMapping": "rapid-mapping-20261025.json"
 }

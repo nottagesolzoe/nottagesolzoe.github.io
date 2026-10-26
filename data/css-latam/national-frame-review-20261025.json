@@ -1,0 +1,561 @@
+{
+  "date": "2026-10-25",
+  "countries": [
+    {
+      "country": "Guyana",
+      "officialSources": [
+        {
+          "url": "https://nac.gov.gy/services/registration-2/",
+          "title": "Registration: Registration Status of Institutions",
+          "access": "abierta",
+          "status": "autoridad/fuente verificada",
+          "declaredScope": "Registro de instituciones postsecundarias y terciarias con programas y fechas de emisión/vencimiento",
+          "declaredCount": null,
+          "edition": "Página viva sin fecha general; filas con emisiones de2026 y vencimientos futuros"
+        },
+        {
+          "url": "https://portal.gov.gy/services/registration-of-post-secondary-and-tertiary-institutions",
+          "title": "Registration of Post-secondary and Tertiary Institutions",
+          "access": "abierta",
+          "status": "autoridad/fuente verificada",
+          "declaredScope": "Portal gubernamental confirma competencia NAC y obligación de registro",
+          "declaredCount": null,
+          "edition": "Sin fecha general visible"
+        }
+      ],
+      "inventoryCount": 4,
+      "inventoryProvenance": {
+        "hipo": 4
+      },
+      "limits": [
+        "Los4 registros del inventario proceden exclusivamente de Hipo; no está conciliado con NAC.",
+        "El registro NAC incluye instituciones postsecundarias y terciarias, nacionales y extranjeras; no equivale a universidades únicas.",
+        "Hay filas con fechas vencidas y otras en reinscripción; evaluar vigencia por fila antes de fijar universo. No se infiere conteo nacional."
+      ]
+    },
+    {
+      "country": "Surinam",
+      "officialSources": [
+        {
+          "url": "https://novasur.org/accreditatie-register/",
+          "title": "NOVA Accreditatie Register",
+          "access": "abierta",
+          "status": "autoridad/fuente verificada",
+          "declaredScope": "Programas de educación superior acreditados, institución, estado y vigencia",
+          "declaredCount": null,
+          "edition": "Página viva; incluye acuerdos/fechas2026"
+        },
+        {
+          "url": "https://novasur.org/algemene-toelichting-bij-de-accreditatiekaders/",
+          "title": "NOVA Algemene Toelichting",
+          "access": "abierta",
+          "status": "autoridad/fuente verificada",
+          "declaredScope": "Marco de acreditación. Declara7 instituciones públicas de educación superior; ese número NO corresponde a universidades ni incluye privadas.",
+          "declaredCount": null,
+          "edition": "Sin fecha editorial explícita"
+        }
+      ],
+      "inventoryCount": 1,
+      "inventoryProvenance": {
+        "hipo": 1
+      },
+      "limits": [
+        "El único registro del inventario procede de Hipo; no está conciliado con NOVA.",
+        "NOVA acredita programas, no ofrece un conteo nacional explícito de universidades en la tabla consultada.",
+        "El registro incluye instituciones especializadas y extranjeras; no confundir con universidades de investigación."
+      ]
+    },
+    {
+      "country": "Venezuela",
+      "officialSources": [
+        {
+          "url": "https://loeu.opsu.gob.ve/ieu/",
+          "title": "OPSU Libro de Oportunidades de Estudio: Instituciones de Educación Universitaria",
+          "access": "abierta",
+          "status": "autoridad/fuente verificada",
+          "declaredScope": "IEU públicas y privadas reconocidas por el Estado, con búsqueda de oferta",
+          "declaredCount": null,
+          "edition": "Página dinámica sin edición explícita"
+        },
+        {
+          "url": "https://loeu.opsu.gob.ve/descargar-reporte/",
+          "title": "Oferta Académica, reporte de criterios TODOS",
+          "access": "resultado oficial indexado; apertura directa timeout",
+          "status": "conteo explícito histórico; no afirmar vigencia octubre2026",
+          "declaredScope": "69 IEU,4811 programas,877 localidades; no es conteo de universidades",
+          "declaredCount": 69,
+          "edition": "2026-05-18"
+        }
+      ],
+      "inventoryCount": 37,
+      "inventoryProvenance": {
+        "hipo": 37
+      },
+      "limits": [
+        "Los37 registros proceden únicamente de Hipo; fuente OPSU localizada previamente pero no incorporada al inventario.",
+        "El reporte indexado declara69 IEU bajo filtros TODOS, no69 universidades. Se conserva como conteo histórico de oferta, no universo de universidades vigente en octubre.",
+        "La descarga directa del reporte agotó el tiempo; contenido recuperado por índice oficial."
+      ]
+    },
+    {
+      "country": "Bolivia",
+      "officialSources": [
+        {
+          "url": "https://www.minedu.gob.bo/files/GUIA-UNIVERSIDADES.pdf",
+          "title": "Ministerio de Educación: Guía de Universidades",
+          "access": "abierta",
+          "status": "fuente oficial histórica abierta; actualización pendiente",
+          "declaredScope": "Todas las universidades del país legalmente establecidas según presentación de la edición",
+          "declaredCount": null,
+          "edition": "Septiembre2016"
+        },
+        {
+          "url": "https://economiayfinanzas.gob.bo/taxonomy/term/76",
+          "title": "Ministerio de Economía y Finanzas Públicas: Universidades Públicas",
+          "access": "abierta",
+          "status": "autoridad/fuente verificada",
+          "declaredScope": "Directorio de universidades públicas; no incluye universo privado",
+          "declaredCount": null,
+          "edition": "Sin edición explícita"
+        }
+      ],
+      "inventoryCount": 31,
+      "inventoryProvenance": {
+        "hipo": 31
+      },
+      "limits": [
+        "Los31 registros proceden de Hipo. Guía ministerial no extraída/conciliada.",
+        "Guía oficial2016 declara cobertura de universidades legalmente establecidas, pero no sirve como universo vigente2026 sin actualización.",
+        "No se verificó conteo vigente explícito."
+      ]
+    },
+    {
+      "country": "Perú",
+      "officialSources": [
+        {
+          "url": "https://www.sunedu.gob.pe/lista-de-universidades-licenciadas/",
+          "title": "SUNEDU Lista de universidades licenciadas",
+          "access": "abierta",
+          "status": "autoridad/fuente verificada",
+          "declaredScope": "Universidades con licencia institucional vigente",
+          "declaredCount": 107,
+          "edition": "2026-08-25"
+        }
+      ],
+      "inventoryCount": 123,
+      "inventoryProvenance": {
+        "pe-sunedu": 105,
+        "hipo": 67
+      },
+      "limits": [
+        "Inventario123 filas combina105 procedencias SUNEDU y67 Hipo, con solapamientos. No equivale a123 universidades vigentes únicas.",
+        "SUNEDU declara107 licenciadas al25/08/2026; el inventario con105 procedencias no prueba cobertura completa de esa edición.",
+        "Conciliación por identidad y fecha pendiente; no calcular porcentaje de cobertura con denominadores distintos."
+      ]
+    },
+    {
+      "country": "Ecuador",
+      "officialSources": [
+        {
+          "url": "https://www.ces.gob.ec/?page_id=328",
+          "title": "CES: Públicas nacionales",
+          "access": "abierta",
+          "status": "autoridad/fuente verificada",
+          "declaredScope": "Públicas nacionales",
+          "declaredCount": null,
+          "edition": "Página actual abierta sin fecha general de edición"
+        },
+        {
+          "url": "https://www.ces.gob.ec/?page_id=5398",
+          "title": "CES: Particular cofinanciada",
+          "access": "abierta",
+          "status": "autoridad/fuente verificada",
+          "declaredScope": "Particular cofinanciada",
+          "declaredCount": null,
+          "edition": "Página actual abierta sin fecha general de edición"
+        },
+        {
+          "url": "https://www.ces.gob.ec/?page_id=1540",
+          "title": "CES: Particulares autofinanciadas",
+          "access": "abierta",
+          "status": "autoridad/fuente verificada",
+          "declaredScope": "Particulares autofinanciadas",
+          "declaredCount": null,
+          "edition": "Página actual abierta sin fecha general de edición"
+        }
+      ],
+      "inventoryCount": 82,
+      "inventoryProvenance": {
+        "hipo": 43,
+        "ec-ces-publicas": 36,
+        "ec-ces-cofinanciadas": 8,
+        "ec-ces-autofinanciadas": 20
+      },
+      "limits": [
+        "Inventario82 filas mezcla Hipo y tres nóminas CES; las procedencias oficiales suman36 públicas,8 cofinanciadas y20 autofinanciadas, sin afirmar64 identidades únicas vigentes.",
+        "No se realizó conciliación de identidad ni conteo nacional. Las páginas no declaran total agregado explícito."
+      ]
+    },
+    {
+      "country": "Colombia",
+      "officialSources": [
+        {
+          "url": "https://snies.mineducacion.gov.co/portal/Informes-e-indicadores/Perfiles-de-las-Instituciones-de-Educacion-Superior/",
+          "title": "SNIES Perfiles de las Instituciones de Educación Superior",
+          "access": "abierta",
+          "status": "autoridad/fuente verificada",
+          "declaredScope": "IES con código, carácter académico, sector y año; incluye tipos no universitarios",
+          "declaredCount": null,
+          "edition": "Filas2025"
+        },
+        {
+          "url": "https://snies.mineducacion.gov.co/portal/EL-SNIES/A-quien-Aportamos/",
+          "title": "SNIES A quién Aportamos",
+          "access": "abierta",
+          "status": "autoridad/fuente verificada",
+          "declaredScope": "Declara consulta del registro oficial de IES con personería jurídica y programas con registro calificado",
+          "declaredCount": null,
+          "edition": "Sin edición general visible"
+        }
+      ],
+      "inventoryCount": 145,
+      "inventoryProvenance": {
+        "hipo": 104,
+        "co-men": 141
+      },
+      "limits": [
+        "Inventario145 filas combina141 procedencias co-men y104 Hipo; posible confusión de sedes/tipos y denominaciones.",
+        "Fuente co-men ya registrada declara actualización2022-07-08. No equivale a marco actual conciliado.",
+        "Se localizó tabla SNIES2025 con código IES y carácter académico; permite filtrar UNIVERSIDAD, pero no se extrajo conteo ni se concilió."
+      ]
+    },
+    {
+      "country": "México",
+      "officialSources": [
+        {
+          "url": "https://sirvoes.sep.gob.mx/sirvoes/mvc/consultas",
+          "title": "SEP, Sistema de Reconocimiento de Validez Oficial de Estudios",
+          "access": "abierta 2026-10-25",
+          "status": "oficial regulatorio parcial",
+          "declaredScope": "Instituciones particulares y programas con RVOE federal, estatal y de autoridades facultadas; consulta por estado.",
+          "declaredCount": null,
+          "edition": null
+        },
+        {
+          "url": "https://www.anuies.mx/instituciones-afiliadas/",
+          "title": "ANUIES, Instituciones afiliadas",
+          "access": "resultado institucional indexado; antigua URL 404",
+          "status": "directorio asociativo, no autoridad regulatoria",
+          "declaredScope": "Afiliadas ANUIES",
+          "declaredCount": 278,
+          "edition": "sin edición explícita; página consultada 2026-10-25"
+        }
+      ],
+      "inventoryCount": 211,
+      "limits": [
+        "ANUIES es asociación no gubernamental de afiliadas; no es universo nacional ni registro regulatorio.",
+        "SIRVOES registra programas de instituciones particulares, no un censo único de todas las universidades públicas y privadas.",
+        "Las 211 entradas del inventario no están conciliadas con estos marcos."
+      ]
+    },
+    {
+      "country": "Cuba",
+      "officialSources": [
+        {
+          "url": "https://www.mes.gob.cu/es/instituciones",
+          "title": "MES Cuba, Instituciones",
+          "access": "inaccesible en herramienta 2026-10-25",
+          "status": "autoridad nacional localizada; registro no leído",
+          "declaredScope": "Instituciones legalmente establecidas, según enlace de guía gubernamental colombiana",
+          "declaredCount": null,
+          "edition": null
+        },
+        {
+          "url": "https://contenidos.mineducacion.gov.co/ntg/men/micrositio_convalidaciones/Guias_mineducacion/MINEDU-cuba/assets/files/Guia_Sistema_Educativo_de_Cuba.pdf",
+          "title": "MEN Colombia, Guía del Sistema Educativo de Cuba",
+          "access": "PDF abierto 2026-10-25",
+          "status": "gubernamental extranjera secundaria e histórica",
+          "declaredScope": "La página5 declara53 centros, de los cuales50 son IES, bajo Decreto-Ley369 de2018.",
+          "declaredCount": {
+            "centros": 53,
+            "IES": 50
+          },
+          "edition": "Marco legal de2018; fecha exacta edición no comprobada"
+        }
+      ],
+      "inventoryCount": 13,
+      "limits": [
+        "Registro del MES no accesible; no se pudo verificar universo vigente.",
+        "La guía MEN Colombia es fuente gubernamental extranjera secundaria, no registro cubano actual.",
+        "50 IES históricas no equivalen a 50 universidades vigentes en 2026. Inventario de13 sin conciliación."
+      ]
+    },
+    {
+      "country": "Haití",
+      "officialSources": [
+        {
+          "url": "https://communication.gouv.ht/communiques/circulaire/",
+          "title": "Gobierno Haití, Circular MENFP sobre regulación de IES",
+          "access": "contenido indexado; apertura502 2026-10-25",
+          "status": "comunicado gubernamental, no registro extraído",
+          "declaredScope": "Anuncia censo declarativo de IES y escuelas técnicas desde octubre2023.",
+          "declaredCount": null,
+          "edition": "2023"
+        },
+        {
+          "url": "https://mspp.gouv.ht/universites-ecoles-reconnues",
+          "title": "MSPP, Universités et écoles reconnues",
+          "access": "resultado gubernamental indexado",
+          "status": "registro sectorial de salud localizado",
+          "declaredScope": "Universidades y escuelas de salud reconocidas; no todas las IES.",
+          "declaredCount": null,
+          "edition": null
+        }
+      ],
+      "inventoryCount": 6,
+      "limits": [
+        "No se localizó y abrió en dominio gubernamental un registro nacional vigente.",
+        "Una institución remite a anesrs.ia.ht y reproduce una imagen de febrero2026; dominio y autenticidad regulatoria no verificados. No usar como censo oficial.",
+        "La copia DESRS2023 alojada por prensa declara178 IES, incluidas23 entidades UEH; no equivale a178 universidades únicas. No usar como denominador vigente.",
+        "Inventario6 no conciliado."
+      ]
+    },
+    {
+      "country": "Costa Rica",
+      "officialSources": [
+        {
+          "url": "https://ws.mep.go.cr/consultas/frmprincipal.aspx",
+          "title": "CONESUP / MEP, Consulta",
+          "access": "inaccesible en herramienta 2026-10-25",
+          "status": "autoridad privada localizada",
+          "declaredScope": "Consulta de universidades privadas; no incluye todas las públicas.",
+          "declaredCount": null,
+          "edition": null
+        },
+        {
+          "url": "https://www.conare.ac.cr/conare/universidades-signatarias/",
+          "title": "CONARE, Universidades Signatarias",
+          "access": "abierta 2026-10-25",
+          "status": "lista institucional pública",
+          "declaredScope": "Cinco universidades signatarias del CONARE",
+          "declaredCount": 5,
+          "edition": "última actualización declarada16/10/2026"
+        }
+      ],
+      "inventoryCount": 90,
+      "limits": [
+        "Se requieren privadas CONESUP más públicas CONARE, con conciliación de nombres.",
+        "Inventario90 mezcla fuentes. Las58 etiquetas antiguas del selector CONESUP no prueban58 instituciones vigentes."
+      ]
+    },
+    {
+      "country": "Guatemala",
+      "officialSources": [
+        {
+          "url": "https://ceps.edu.gt/ceps/",
+          "title": "Consejo de la Enseñanza Privada Superior, Universidades",
+          "access": "abierta 2026-10-25",
+          "status": "autoridad privada, extracción pendiente",
+          "declaredScope": "Universidades privadas autorizadas; no asumir totalidad nacional.",
+          "declaredCount": null,
+          "edition": null
+        }
+      ],
+      "inventoryCount": 21,
+      "limits": [
+        "Página CEPS abierta, lista alojada en componentes no extraída en esta ronda.",
+        "CEPS rige enseñanza privada; requiere añadir/verificar USAC por separado. Inventario21 sin conciliación."
+      ]
+    },
+    {
+      "country": "Honduras",
+      "officialSources": [
+        {
+          "url": "https://des.unah.edu.hn/sistema-de-educacion-superior/instituciones/",
+          "title": "Dirección de Educación Superior / UNAH, Instituciones",
+          "access": "abierta 2026-10-25",
+          "status": "autoridad nacional; marco declarado",
+          "declaredScope": "Instituciones legalmente autorizadas de educación superior;6 públicas y16 privadas",
+          "declaredCount": 22,
+          "edition": "página vigente consultada; edición no declarada"
+        }
+      ],
+      "inventoryCount": 9,
+      "limits": [
+        "La página declara22 IES, no22 universidades de un mismo tipo.",
+        "Inventario9 claramente no cubre las22 IES; falta conciliar unidades y extraer nombres de componentes visuales."
+      ]
+    },
+    {
+      "country": "Nicaragua",
+      "officialSources": [
+        {
+          "url": "https://www.cnu.edu.ni/universidades-miembros-del-cnu/universidades-legalmente-establecidas/",
+          "title": "CNU, Universidades legalmente establecidas",
+          "access": "inaccesible2026-10-25",
+          "status": "enlace regulatorio histórico; vigencia no comprobada",
+          "declaredScope": "Universidades legalmente establecidas según referencia gubernamental colombiana.",
+          "declaredCount": null,
+          "edition": null
+        },
+        {
+          "url": "https://www.cnea.edu.ni/universidades/establecidas",
+          "title": "CNEA, Universidades establecidas",
+          "access": "inaccesible2026-10-25",
+          "status": "enlace regulatorio histórico; vigencia no comprobada",
+          "declaredScope": "Universidades establecidas; contenido actual no leído.",
+          "declaredCount": null,
+          "edition": null
+        }
+      ],
+      "inventoryCount": 17,
+      "limits": [
+        "Los enlaces de CNU y CNEA históricos son inaccesibles. Autoridad/registro actual requieren actualización.",
+        "Inventario17 sin conciliación; no se extrapola de registros históricos ante posibles cierres/reorganizaciones."
+      ]
+    },
+    {
+      "country": "El Salvador",
+      "officialSources": [
+        {
+          "url": "https://www.mined.gob.sv/programas/educacion-superior/",
+          "title": "MINEDUCYT, Educación Superior",
+          "access": "abierta2026-10-25",
+          "status": "autoridad nacional; portal",
+          "declaredScope": "Enlaza instituciones legalmente establecidas y carreras autorizadas octubre2024.",
+          "declaredCount": null,
+          "edition": null
+        },
+        {
+          "url": "https://enlaces.mined.gob.sv/descarga/instituciones2021.pdf",
+          "title": "MINEDUCYT, Instituciones legalmente establecidas",
+          "access": "PDF indexado; apertura timeout2026-10-25",
+          "status": "registro oficial histórico",
+          "declaredScope": "Instituciones autorizadas para funcionar a abril2021; separa universidades, institutos especializados y tecnológicos.",
+          "declaredCount": null,
+          "edition": "abril2021"
+        }
+      ],
+      "inventoryCount": 25,
+      "limits": [
+        "Portal MINED abierto, PDF2021 indexado pero apertura timeout. No hay verificación de nómina2026.",
+        "Inventario25 no se equipara al universo actual. No contar institutos tecnológicos como universidades."
+      ]
+    },
+    {
+      "country": "Panamá",
+      "officialSources": [
+        {
+          "url": "https://www.meduca.gob.pa/ctda/planes_de_estudios",
+          "title": "MEDUCA / CTDA, Planes de Estudio de las Universidades Particulares",
+          "access": "indexada; apertura5022026-10-25",
+          "status": "autoridad nacional; registro parcial por sector/estatus",
+          "declaredScope": "Universidades particulares y categorías legales; incluye cancelaciones y creación en trámite.",
+          "declaredCount": null,
+          "edition": null
+        }
+      ],
+      "inventoryCount": 17,
+      "limits": [
+        "Página CTDA indexada detallada, pero apertura502. Incluye creadas, canceladas, en investigación y en proceso: no sumar filas indiscriminadamente.",
+        "Marco de particulares debe combinarse con universidades oficiales. Inventario17 sin conciliación."
+      ]
+    },
+    {
+      "country": "República Dominicana",
+      "officialSources": [
+        {
+          "url": "https://mescyt.gob.do/tablero-de-estadisticas/",
+          "title": "MESCYT, Tablero de Estadísticas",
+          "access": "abierta2026-10-25",
+          "status": "autoridad nacional; tablero estadístico localizado",
+          "declaredScope": "IES activas y unidades académicas estandarizadas; distingue recintos, centros, campus y extensiones.",
+          "declaredCount": null,
+          "edition": "Tablero2020–2024 actualizado"
+        }
+      ],
+      "inventoryCount": 26,
+      "limits": [
+        "Tablero oficial localizado; no se extrajo su listado PowerBI en esta ronda.",
+        "49 instituciones de becas o evaluación no equivale a todo el sistema; no se usa como denominador.",
+        "Inventario26 sin conciliación nacional."
+      ]
+    },
+    {
+      "country": "Argentina",
+      "inventoryCount": 139,
+      "officialSources": [
+        {
+          "url": "https://www.cin.edu.ar/instituciones-universitarias/",
+          "title": "Consejo Interuniversitario Nacional",
+          "status": "extraída",
+          "edition": "2026-10-20",
+          "declaredScope": "Universidades públicas; falta conciliar registro nacional y privadas",
+          "evidenceReused": true
+        }
+      ],
+      "limits": "Se reutilizan los registros nacionales ya documentados; no se declara conciliación completa ni una nueva extracción oficial."
+    },
+    {
+      "country": "Chile",
+      "inventoryCount": 76,
+      "officialSources": [
+        {
+          "url": "https://ayudamineduc.cl/sites/default/files/ies_vig_may_26.xlsx",
+          "title": "MINEDUC",
+          "status": "extraída",
+          "edition": "2026-10-20",
+          "declaredScope": "Nómina mayo 2026; solo filas de tipo universidad",
+          "evidenceReused": true
+        }
+      ],
+      "limits": "Se reutilizan los registros nacionales ya documentados; no se declara conciliación completa ni una nueva extracción oficial."
+    },
+    {
+      "country": "Uruguay",
+      "inventoryCount": 6,
+      "officialSources": [
+        {
+          "url": "https://www.gub.uy/ministerio-educacion-cultura/politicas-y-gestion/instituciones-terciarias-privadas-autorizadas-carreras-reconocidas-privadas",
+          "title": "MEC",
+          "status": "localizada; extracción pendiente",
+          "edition": "2026-10-20",
+          "declaredScope": "Fuente localizada; extracción pendiente; privadas y ciertas carreras públicas",
+          "evidenceReused": true
+        }
+      ],
+      "limits": "Se reutilizan los registros nacionales ya documentados; no se declara conciliación completa ni una nueva extracción oficial."
+    },
+    {
+      "country": "Paraguay",
+      "inventoryCount": 15,
+      "officialSources": [
+        {
+          "url": "https://cones.gov.py/category/ofertas-academicas/universidades/",
+          "title": "CONES",
+          "status": "extraída",
+          "edition": "2026-10-20",
+          "declaredScope": "Nombres derivados de oferta académica en página; revisión de paginación y cobertura pendiente",
+          "evidenceReused": true
+        }
+      ],
+      "limits": "Se reutilizan los registros nacionales ya documentados; no se declara conciliación completa ni una nueva extracción oficial."
+    },
+    {
+      "country": "Brasil",
+      "inventoryCount": 187,
+      "officialSources": [
+        {
+          "url": "https://emec.mec.gov.br/",
+          "title": "MEC",
+          "status": "localizada; extracción pendiente",
+          "edition": "2026-10-20",
+          "declaredScope": "Registro nacional localizado; extracción pendiente",
+          "evidenceReused": true
+        }
+      ],
+      "limits": "Se reutilizan los registros nacionales ya documentados; no se declara conciliación completa ni una nueva extracción oficial."
+    }
+  ],
+  "scope": "Registros oficiales localizados y límites documentados; no equivale a conciliación completa del inventario."
+}

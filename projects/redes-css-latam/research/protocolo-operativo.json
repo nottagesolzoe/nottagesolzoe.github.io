@@ -132,5 +132,24 @@
     ],
     "accessRule": "Un fallo de acceso en Scholar no se registra como consulta completada ni como ausencia de resultados. Usar fuentes alternativas y conservar el fallo.",
     "timeRule": "Sin restricción temporal inicial; separar afiliación histórica y actual. Registrar límites de cada consulta."
-  }
+  },
+  "rapidMapping": {
+    "authorized": "2026-10-25",
+    "depth": "Sitio, oferta resumida y centros/proyectos; sin lectura profunda de programas",
+    "completion": "Todos los registros del inventario quedan con intento y resultado; no cierra revisión exhaustiva ni resuelve automáticamente sitios inaccesibles o marcos sin conciliar."
+  },
+  "conceptualScope": {
+    "reference": "Lazer et al. (2020), DOI 10.1126/science.aaz8170",
+    "rule": "Objeto social y métodos computacionales aplicados a datos de conducta humana, incluida simulada. No se incluye como CSC por temática IA o gobernanza solamente."
+  },
+  "personGeography": "Base institucional registrada en LATAM. Excluir bases externas, mixtas o pendientes del directorio principal; no inferir nacionalidad.",
+  "affiliations": "SICSS Uruguay y otras escuelas/eventos no son instituciones de afiliación; conservar participación separada.",
+  "publicPersonNames": false,
+  "chartPalette": [
+    "#B31A15",
+    "#C96D7C",
+    "#E1A0AA",
+    "#6D0E4E",
+    "#462969"
+  ]
 }

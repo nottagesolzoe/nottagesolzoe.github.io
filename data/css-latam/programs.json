@@ -21,7 +21,21 @@
     ],
     "checked": "2026-10-20",
     "peoplePeriod": "2024–2025; continuidad 2026 no comprobada",
-    "peopleSource": "https://www1.unab.edu.ar/ciencias-computacionales/"
+    "peopleSource": "https://www1.unab.edu.ar/ciencias-computacionales/",
+    "personIds": [
+      "person-0275",
+      "person-0276",
+      "person-0277",
+      "person-0278",
+      "person-0279",
+      "person-0280",
+      "person-0281",
+      "person-0282",
+      "person-0283"
+    ],
+    "cscScope": "explicit_computational_social",
+    "scopeReason": "El título identifica CSC y la descripción registra programación, aprendizaje automático, texto y geodatos.",
+    "fit": "CSS directa"
   },
   {
     "name": "Diploma en Ciencias Sociales Computacionales y Humanidades Digitales",
@@ -46,7 +60,24 @@
       "Zacarías Abuchanab",
       "Joaquín Zajac"
     ],
-    "checked": "2026-10-20"
+    "checked": "2026-10-20",
+    "personIds": [
+      "person-0002",
+      "person-0247",
+      "person-0248",
+      "person-0056",
+      "person-0066",
+      "person-0249",
+      "person-0250",
+      "person-0251",
+      "person-0252",
+      "person-0253",
+      "person-0254",
+      "person-0069"
+    ],
+    "cscScope": "explicit_computational_social",
+    "scopeReason": "El título identifica CSC; se registran R, modelos y minería de texto.",
+    "fit": "CSS directa"
   },
   {
     "name": "Diplomatura en Ciencia de Datos para Ciencias Sociales",
@@ -63,7 +94,16 @@
       "Gabriela Artazo",
       "Miguel Pagano"
     ],
-    "checked": "2026-10-20"
+    "checked": "2026-10-20",
+    "personIds": [
+      "person-0255",
+      "person-0256",
+      "person-0257",
+      "person-0258"
+    ],
+    "cscScope": "explicit_computational_social",
+    "scopeReason": "El título delimita ciencia de datos para ciencias sociales; constan extracción de datos, aprendizaje automático y NLP.",
+    "fit": "CSS directa"
   },
   {
     "name": "Alfabetización en datos: habilidades para una ciudadanía digital ampliada",
@@ -75,10 +115,15 @@
     "description": "Investigación y formación en alfabetización en datos y ciudadanía digital.",
     "modality": "No aplica",
     "people": [
-      "Carolina Aguerre",
       "Carolina Gruffat"
     ],
-    "checked": "2026-10-20"
+    "checked": "2026-10-20",
+    "personIds": [
+      "person-0246"
+    ],
+    "cscScope": "related_training",
+    "scopeReason": "Alfabetización en datos y ciudadanía digital; no se registra investigación computacional del comportamiento social.",
+    "fit": "Campo afín"
   },
   {
     "name": "Ciencia de Datos para las Ciencias Sociales y la Gestión Pública",
@@ -90,25 +135,15 @@
     "description": "240 horas. Cohorte agosto de 2026 a mayo de 2027. Métodos computacionales, IA e inferencia causal para profesionales de ciencias sociales y gestión pública.",
     "modality": "No verificada",
     "people": [
-      "Pavel Coronado",
-      "Angelo Cozzubo",
-      "Brian Alarcón",
-      "José Incio",
-      "Yuriko Sosa"
+      "José Incio"
     ],
-    "checked": "2026-10-20"
-  },
-  {
-    "name": "Doctorado en Ciencias de la Complejidad Social",
-    "institution": "Universidad del Desarrollo",
-    "country": "Chile",
-    "type": "Doctorado",
-    "url": "https://gobierno.udd.cl/dccs/admision/",
-    "status": "Postulación 2027 cerrada el 10 de octubre de 2026",
-    "description": "Inicio anunciado para marzo de 2027. Consultar el sitio para nuevas convocatorias; no se presenta como admisión abierta.",
-    "modality": "No verificada",
-    "people": [],
-    "checked": "2026-10-20"
+    "checked": "2026-10-20",
+    "personIds": [
+      "person-0207"
+    ],
+    "cscScope": "explicit_computational_social",
+    "scopeReason": "La descripción conecta métodos computacionales e inferencia causal con ciencias sociales y gestión pública.",
+    "fit": "CSS directa"
   },
   {
     "name": "Ciencia de datos sociales: datos desde Internet",
@@ -123,7 +158,14 @@
       "Mauricio Bucca",
       "Pablo Beytía"
     ],
-    "checked": "2026-10-20"
+    "checked": "2026-10-20",
+    "personIds": [
+      "person-0259",
+      "person-0139"
+    ],
+    "cscScope": "explicit_computational_social",
+    "scopeReason": "La descripción vincula expresamente métodos computacionales con datos sociales, texto y redes.",
+    "fit": "CSS directa"
   },
   {
     "name": "Mestrado Profissional em Comunicação Digital e Cultura de Dados",
@@ -135,7 +177,11 @@
     "description": "Comunicación digital y análisis de datos. El proceso publicado de mayo a junio de 2026 corresponde a ingreso en agosto.",
     "modality": "No verificada",
     "people": [],
-    "checked": "2026-10-20"
+    "checked": "2026-10-20",
+    "personIds": [],
+    "cscScope": "pending_verification",
+    "scopeReason": "Comunicación digital y análisis de datos no identifican por sí solos métodos computacionales ni una pregunta sobre conducta social. Falta evidencia en estos metadatos.",
+    "fit": "Especialidad individual pendiente"
   },
   {
     "name": "SICSS Buenos Aires 2026",
@@ -147,7 +193,11 @@
     "description": "Formación e intercambio en ciencias sociales computacionales. Consultar próximas ediciones; participar no implica coautoría.",
     "modality": "No verificada",
     "people": [],
-    "checked": "2026-10-20"
+    "checked": "2026-10-20",
+    "personIds": [],
+    "cscScope": "explicit_computational_social",
+    "scopeReason": "Título SICSS y descripción explícita de formación en CSC; es una escuela, no un grado académico.",
+    "fit": "CSS directa"
   },
   {
     "name": "SICSS Brazil 2026",
@@ -159,7 +209,11 @@
     "description": "Escuela de métodos computacionales para ciencias sociales. Fechas y admisión de nuevas ediciones pendientes.",
     "modality": "No verificada",
     "people": [],
-    "checked": "2026-10-20"
+    "checked": "2026-10-20",
+    "personIds": [],
+    "cscScope": "explicit_computational_social",
+    "scopeReason": "La descripción identifica una escuela de métodos computacionales para ciencias sociales.",
+    "fit": "CSS directa"
   },
   {
     "name": "Escuela de verano: metodologías de investigación crítica en ciencias sociales",
@@ -171,7 +225,11 @@
     "description": "La oferta incluye introducción a ciencias sociales computacionales, programación y análisis de datos.",
     "modality": "No verificada",
     "people": [],
-    "checked": "2026-10-20"
+    "checked": "2026-10-20",
+    "personIds": [],
+    "cscScope": "related_training",
+    "scopeReason": "La escuela amplia incluye una introducción a CSC; no corresponde clasificar toda su oferta como CSC. El componente podría registrarse separadamente.",
+    "fit": "Campo afín"
   },
   {
     "name": "Escuela Internacional en Ciencias Sociales Computacionales 2023 (IMFD-CICADA-UMAD)",
@@ -183,17 +241,23 @@
     "description": "Formación y debate sobre herramientas computacionales para investigación social. No se interpreta la participación en la apertura como docencia o coautoría.",
     "modality": "No verificada",
     "people": [
-      "Juan Pablo Luna",
       "Sebastián Valenzuela",
-      "Magdalena Saldaña",
-      "Felipe Bravo",
       "Natalia da Silva",
       "Nicolás Schmidt",
       "Elina Gómez",
-      "Juan Reutter",
       "Lorena Etcheverry"
     ],
-    "checked": "2026-10-20"
+    "checked": "2026-10-20",
+    "personIds": [
+      "person-0005",
+      "person-0316",
+      "person-0285",
+      "person-0008",
+      "person-0317"
+    ],
+    "cscScope": "explicit_computational_social",
+    "scopeReason": "Título y descripción explicitan CSC e investigación social computacional; edición histórica 2023.",
+    "fit": "CSS directa"
   },
   {
     "name": "Gestión de datos y aprovechamiento de información mediante ciencia de datos",
@@ -205,7 +269,11 @@
     "description": "Curso incluido en la VIII Escuela de Verano en Investigación Social. No hay convocatoria actual verificada.",
     "modality": "No verificada",
     "people": [],
-    "checked": "2026-10-20"
+    "checked": "2026-10-20",
+    "personIds": [],
+    "cscScope": "related_training",
+    "scopeReason": "Curso general de gestión de datos en una escuela de investigación social; faltan métodos y objeto social explícitos para contarlo como CSC.",
+    "fit": "Campo afín"
   },
   {
     "name": "Diplomatura en Inteligencia Artificial y Políticas Públicas",
@@ -229,7 +297,22 @@
       "Facundo Armas"
     ],
     "checked": "2026-10-20",
-    "category": "IA y políticas públicas"
+    "category": "IA y políticas públicas",
+    "personIds": [
+      "person-0260",
+      "person-0261",
+      "person-0262",
+      "person-0243",
+      "person-0263",
+      "person-0264",
+      "person-0265",
+      "person-0266",
+      "person-0267",
+      "person-0268"
+    ],
+    "cscScope": "related_training",
+    "scopeReason": "IA aplicada a sectores de política pública; los metadatos no registran análisis computacional de conducta o procesos sociales.",
+    "fit": "Campo afín"
   },
   {
     "name": "Diplomatura en IA y Gobierno 5.0",
@@ -250,7 +333,19 @@
       "Lucas Jolías"
     ],
     "checked": "2026-10-20",
-    "category": "IA y políticas públicas"
+    "category": "IA y políticas públicas",
+    "personIds": [
+      "person-0269",
+      "person-0270",
+      "person-0271",
+      "person-0245",
+      "person-0272",
+      "person-0273",
+      "person-0274"
+    ],
+    "cscScope": "related_training",
+    "scopeReason": "IA y gobierno digital para gestión institucional; no se registra investigación social computacional.",
+    "fit": "Campo afín"
   },
   {
     "name": "Especialización en Ciencia de Datos Aplicada a la Psicología y Ciencias del Comportamiento",
@@ -263,7 +358,11 @@
     "modality": "A distancia",
     "people": [],
     "checked": "2026-10-20",
-    "category": "Datos y ciencias sociales"
+    "category": "Datos y ciencias sociales",
+    "personIds": [],
+    "cscScope": "explicit_computational_social",
+    "scopeReason": "La descripción conecta ciencia de datos con investigación psicológica y del comportamiento.",
+    "fit": "CSS directa"
   },
   {
     "name": "Diplomatura en Transformación Pública Digital",
@@ -276,7 +375,11 @@
     "modality": "Online",
     "people": [],
     "checked": "2026-10-20",
-    "category": "IA y políticas públicas"
+    "category": "IA y políticas públicas",
+    "personIds": [],
+    "cscScope": "related_training",
+    "scopeReason": "Transformación digital administrativa con IA y datos; no demuestra un objeto de investigación CSC.",
+    "fit": "Campo afín"
   },
   {
     "name": "Diplomatura de Posgrado en Gestión Pública orientada a resultados",
@@ -287,12 +390,13 @@
     "status": "Edición abril–agosto de 2026 concluida",
     "description": "Incluye un módulo de IA aplicada a la gestión pública. Organización conjunta con ASAP.",
     "modality": "Virtual",
-    "people": [
-      "Emilio Zaidman",
-      "Marcos Makón"
-    ],
+    "people": [],
     "checked": "2026-10-20",
-    "category": "IA y políticas públicas"
+    "category": "IA y políticas públicas",
+    "personIds": [],
+    "cscScope": "related_training",
+    "scopeReason": "Gestión pública con un módulo de IA; la presencia del módulo no convierte el programa en CSC.",
+    "fit": "Campo afín"
   },
   {
     "name": "Micromaestría en Inteligencia Artificial para la Gestión Pública y Privada",
@@ -305,7 +409,11 @@
     "modality": "Por confirmar",
     "people": [],
     "checked": "2026-10-20",
-    "category": "IA y políticas públicas"
+    "category": "IA y políticas públicas",
+    "personIds": [],
+    "cscScope": "pending_verification",
+    "scopeReason": "Solo consta anuncio indexado con acceso completo bloqueado; IA para gestión pública y privada no demuestra formación CSC.",
+    "fit": "Especialidad individual pendiente"
   },
   {
     "name": "Certificación de posgrado en enseñanza y aprendizaje con IA",
@@ -318,7 +426,11 @@
     "modality": "Por confirmar",
     "people": [],
     "checked": "2026-10-20",
-    "category": "IA y educación"
+    "category": "IA y educación",
+    "personIds": [],
+    "cscScope": "related_training",
+    "scopeReason": "Diseño de actividades educativas con IA; usar IA para enseñar no equivale a investigar computacionalmente fenómenos sociales.",
+    "fit": "Campo afín"
   },
   {
     "name": "SICSS-Uruguay",
@@ -330,19 +442,27 @@
     "description": "Plantel, expositores y participantes publicados en la página People. Los invitados internacionales conservan su ubicación institucional documentada.",
     "modality": "",
     "people": [
-      "Guillermo Lezama",
       "Elina Gómez",
       "Fabricio Carneiro",
       "Nicolás Schmidt",
       "Ivan Schuliaquer",
       "Sergio Toro",
-      "Martín Opertti",
       "Germán Rosati",
-      "Ignacio Zuasnabar",
-      "Jimena Torres",
-      "Sara González"
+      "Ignacio Zuasnabar"
     ],
-    "checked": "2026-10-20"
+    "checked": "2026-10-20",
+    "personIds": [
+      "person-0008",
+      "person-0053",
+      "person-0285",
+      "person-0286",
+      "person-0287",
+      "person-0002",
+      "person-0288"
+    ],
+    "cscScope": "explicit_computational_social",
+    "scopeReason": "SICSS identifica formación específica de CSC; metadatos no verifican contenidos ni resultados de esta edición.",
+    "fit": "CSS directa"
   },
   {
     "name": "SICSS-Uruguay",
@@ -363,7 +483,20 @@
       "María José Afanador Llach",
       "Agustín Nieto"
     ],
-    "checked": "2026-10-20"
+    "checked": "2026-10-20",
+    "personIds": [
+      "person-0008",
+      "person-0053",
+      "person-0293",
+      "person-0294",
+      "person-0295",
+      "person-0054",
+      "person-0049",
+      "person-0022"
+    ],
+    "cscScope": "explicit_computational_social",
+    "scopeReason": "SICSS identifica formación específica de CSC; metadatos no verifican contenidos ni resultados de esta edición.",
+    "fit": "CSS directa"
   },
   {
     "name": "Introducción a la IA para Científicos Sociales",
@@ -374,10 +507,12 @@
     "status": "Edición de invierno 2026 finalizada",
     "description": "Curso incluido en el catálogo oficial de la Escuela en Métodos.",
     "modality": "",
-    "people": [
-      "Danilo Freire"
-    ],
-    "checked": "2026-10-20"
+    "people": [],
+    "checked": "2026-10-20",
+    "personIds": [],
+    "cscScope": "related_training",
+    "scopeReason": "El público de científicos sociales y la introducción a IA no prueban aplicación a investigación social; formación adyacente hasta más evidencia.",
+    "fit": "Campo afín"
   },
   {
     "name": "Texto como Datos: Métodos Computacionales en Ciencias Sociales",
@@ -388,10 +523,12 @@
     "status": "Edición de invierno 2026 finalizada",
     "description": "Curso incluido en el catálogo oficial de la Escuela en Métodos.",
     "modality": "",
-    "people": [
-      "Ayelén Vanegas"
-    ],
-    "checked": "2026-10-20"
+    "people": [],
+    "checked": "2026-10-20",
+    "personIds": [],
+    "cscScope": "explicit_computational_social",
+    "scopeReason": "El título vincula texto como datos y métodos computacionales con ciencias sociales.",
+    "fit": "CSS directa"
   },
   {
     "name": "Análisis espacial con sistemas de información geográfica",
@@ -402,10 +539,12 @@
     "status": "Edición de invierno 2026 finalizada",
     "description": "Curso incluido en el catálogo oficial de la Escuela en Métodos.",
     "modality": "",
-    "people": [
-      "Diego Hernández"
-    ],
-    "checked": "2026-10-20"
+    "people": [],
+    "checked": "2026-10-20",
+    "personIds": [],
+    "cscScope": "related_training",
+    "scopeReason": "SIG y análisis espacial son herramientas transferibles; los metadatos no explicitan objeto social ni análisis computacional de conducta.",
+    "fit": "Campo afín"
   },
   {
     "name": "Visualización de datos",
@@ -416,10 +555,12 @@
     "status": "Edición de invierno 2026 finalizada",
     "description": "Curso incluido en el catálogo oficial de la Escuela en Métodos.",
     "modality": "",
-    "people": [
-      "Mateo Villamizar"
-    ],
-    "checked": "2026-10-20"
+    "people": [],
+    "checked": "2026-10-20",
+    "personIds": [],
+    "cscScope": "related_training",
+    "scopeReason": "Visualización de datos genérica; no se registra pregunta u objeto de investigación social.",
+    "fit": "Campo afín"
   },
   {
     "name": "Modelos categóricos, de elección y conteo",
@@ -430,10 +571,12 @@
     "status": "Edición de invierno 2026 finalizada",
     "description": "Curso incluido en el catálogo oficial de la Escuela en Métodos.",
     "modality": "",
-    "people": [
-      "José Rivero"
-    ],
-    "checked": "2026-10-20"
+    "people": [],
+    "checked": "2026-10-20",
+    "personIds": [],
+    "cscScope": "related_training",
+    "scopeReason": "Modelos categóricos y de conteo son herramientas estadísticas; no equivalen por sí solos a CSC.",
+    "fit": "Campo afín"
   },
   {
     "name": "Introducción a la programación en R",
@@ -444,10 +587,12 @@
     "status": "Edición de invierno 2026 finalizada",
     "description": "Curso incluido en el catálogo oficial de la Escuela en Métodos.",
     "modality": "",
-    "people": [
-      "Martín Opertti"
-    ],
-    "checked": "2026-10-20"
+    "people": [],
+    "checked": "2026-10-20",
+    "personIds": [],
+    "cscScope": "related_training",
+    "scopeReason": "Programación en R introductoria sin aplicación social registrada; formación instrumental.",
+    "fit": "Campo afín"
   },
   {
     "name": "Introducción a la programación Python",
@@ -458,10 +603,12 @@
     "status": "Edición de invierno 2026 finalizada",
     "description": "Curso incluido en el catálogo oficial de la Escuela en Métodos.",
     "modality": "",
-    "people": [
-      "Ornella Novino"
-    ],
-    "checked": "2026-10-20"
+    "people": [],
+    "checked": "2026-10-20",
+    "personIds": [],
+    "cscScope": "related_training",
+    "scopeReason": "Programación en Python introductoria sin aplicación social registrada; formación instrumental.",
+    "fit": "Campo afín"
   },
   {
     "name": "Curso Ciencias Sociales Computacionales Aplicadas",
@@ -475,7 +622,13 @@
     "people": [
       "Mauricio Salgado"
     ],
-    "checked": "2026-10-20"
+    "checked": "2026-10-20",
+    "personIds": [
+      "person-0141"
+    ],
+    "cscScope": "explicit_computational_social",
+    "scopeReason": "Título CSC y métodos registrados de datos digitales, redes, aprendizaje automático y simulación basada en agentes.",
+    "fit": "CSS directa"
   },
   {
     "name": "Maestría en Humanidades Digitales",
@@ -487,7 +640,11 @@
     "description": "Proyectos culturales digitales y análisis de tendencias en redes sociales.",
     "modality": "En línea",
     "people": [],
-    "checked": "2026-10-20"
+    "checked": "2026-10-20",
+    "personIds": [],
+    "cscScope": "related_training",
+    "scopeReason": "Proyectos culturales digitales y análisis de tendencias en redes ofrecen cercanía temática, pero los metadatos no precisan métodos ni objeto conductual para contar toda la maestría como CSC.",
+    "fit": "Campo afín"
   },
   {
     "name": "Licenciatura en Humanidades Digitales e Inteligencia Artificial",
@@ -506,7 +663,18 @@
       "Carlos Astengo",
       "Eugenio Tisselli"
     ],
-    "checked": "2026-10-20"
+    "checked": "2026-10-20",
+    "personIds": [
+      "person-0332",
+      "person-0333",
+      "person-0334",
+      "person-0335",
+      "person-0336",
+      "person-0337"
+    ],
+    "cscScope": "related_training",
+    "scopeReason": "Humanidades, IA y NLP son componentes adyacentes; falta objeto de investigación conductual o social explícito.",
+    "fit": "Campo afín"
   },
   {
     "name": "Maestría en Humanidades Digitales",
@@ -523,7 +691,15 @@
       "David Peña"
     ],
     "peopleSource": "https://cic.uniandes.edu.co/equipo/hdig/",
-    "checked": "2026-10-20"
+    "checked": "2026-10-20",
+    "personIds": [
+      "person-0338",
+      "person-0049",
+      "person-0339"
+    ],
+    "cscScope": "related_training",
+    "scopeReason": "Investigación y creación cultural digital; no se registran métodos computacionales para investigar conducta social.",
+    "fit": "Campo afín"
   },
   {
     "name": "Ciencias Sociales con Python",
@@ -535,11 +711,17 @@
     "description": "Python, redes sociales, minería de texto y aprendizaje automático aplicado a datos sociales.",
     "modality": "",
     "people": [
-      "Ricardo Alonzo Fernández Salguero"
+      "Daniel Hurtado Justiniano"
     ],
     "peoplePeriod": "2025",
     "peopleSource": "https://cir.uagrm.edu.bo/courses.html",
-    "checked": "2026-10-20"
+    "checked": "2026-10-20",
+    "personIds": [
+      "person-0214"
+    ],
+    "cscScope": "explicit_computational_social",
+    "scopeReason": "La descripción registra Python, redes, minería de texto y aprendizaje automático aplicados a datos sociales.",
+    "fit": "CSS directa"
   },
   {
     "name": "Introducción a la Ciencia de Datos para Científicos Sociales",
@@ -555,7 +737,13 @@
     ],
     "peoplePeriod": "2025",
     "peopleSource": "https://cir.uagrm.edu.bo/courses.html",
-    "checked": "2026-10-20"
+    "checked": "2026-10-20",
+    "personIds": [
+      "person-0214"
+    ],
+    "cscScope": "explicit_computational_social",
+    "scopeReason": "El título y la descripción conectan ciencia de datos con preparación y análisis de datos sociales; no se verifica la profundidad computacional.",
+    "fit": "CSS directa"
   },
   {
     "name": "Escola de Inverno em Humanidades Digitais e Ciências Sociais Computacionais",
@@ -572,11 +760,72 @@
       "Jairo Nicolau",
       "Jimmy Medeiros",
       "Martim Passos",
-      "Eduardo Mello",
-      "José Manuel Magallanes"
+      "Eduardo Mello"
     ],
     "peoplePeriod": "2022",
     "peopleSource": "https://cpdoc.fgv.br/2022-dh-css",
-    "checked": "2026-10-20"
+    "checked": "2026-10-20",
+    "personIds": [
+      "person-0342",
+      "person-0343",
+      "person-0344",
+      "person-0345",
+      "person-0346",
+      "person-0347"
+    ],
+    "cscScope": "explicit_computational_social",
+    "scopeReason": "El título identifica CSC y la descripción registra programación y datos sociales, junto con patrimonio digital; escuela interdisciplinaria, no grado exclusivamente CSC.",
+    "fit": "CSS directa"
+  },
+  {
+    "name": "Diploma en Economía, opción Ciencia de Datos",
+    "institution": "Universidad de la República / Facultad de Ciencias Sociales",
+    "country": "Uruguay",
+    "url": "https://cienciassociales.edu.uy/departamento-de-economia/ensenanza-de-posgrado/especializacion-en-ciencias-de-datos/",
+    "description": "Edición 2026 en dECON-FCS; incluye Python, datos no estructurados, visualización, aprendizaje automático y análisis de redes. Página titulada Diploma en Ciencias de Datos.",
+    "type": "Diploma",
+    "people": [],
+    "status": "Edición 2026 documentada; período de inscripción terminó el 12/02/2026",
+    "modality": "No verificada",
+    "checked": "2026-10-25",
+    "fit": "CSS directa",
+    "evidenceStage": "Revisión rápida institucional; no lectura profunda del plan",
+    "personIds": [],
+    "cscScope": "explicit_computational_social",
+    "scopeReason": "Fuente institucional revisada con métodos de datos y pregunta social o de políticas públicas explícitos."
+  },
+  {
+    "name": "Especialización en análisis de datos aplicados a las políticas públicas",
+    "institution": "Universidad Nacional Guillermo Brown",
+    "country": "Argentina",
+    "url": "https://www.unab.edu.ar/analisis-datos/",
+    "type": "Especialización",
+    "description": "Formación en gestión e integración de grandes volúmenes de datos, métodos estadísticos y datos georreferenciados para diseño, seguimiento y evaluación de políticas públicas. 424 horas; virtual.",
+    "people": [],
+    "status": "Cronograma institucional abril a diciembre de 2026; próxima admisión no verificada",
+    "modality": "No verificada",
+    "checked": "2026-10-25",
+    "fit": "CSS directa",
+    "evidenceStage": "Revisión rápida institucional; no lectura profunda del plan",
+    "personIds": [],
+    "cscScope": "explicit_computational_social",
+    "scopeReason": "Fuente institucional revisada con métodos de datos y pregunta social o de políticas públicas explícitos."
+  },
+  {
+    "name": "Licenciatura en Políticas Públicas",
+    "institution": "Centro de Investigación y Docencia Económicas (CIDE)",
+    "country": "México",
+    "url": "https://www.cide.edu/programa-docente-lpp/",
+    "description": "Formación interdisciplinaria que incorpora ciencia de datos, herramientas computacionales, aprendizaje automático e IA aplicados a problemas públicos.",
+    "type": "Licenciatura",
+    "people": [],
+    "status": "Oferta institucional documentada; admisión no verificada",
+    "checked": "2026-10-25",
+    "modality": "No verificada",
+    "fit": "CSS directa",
+    "evidenceStage": "Revisión rápida institucional; no lectura profunda del plan",
+    "personIds": [],
+    "cscScope": "explicit_computational_social",
+    "scopeReason": "Fuente institucional revisada con métodos de datos y pregunta social o de políticas públicas explícitos."
   }
 ]

@@ -511,7 +511,9 @@
     "provider": "Crossref",
     "metadata_url": "https://api.crossref.org/works?rows=1&query.title=Data%20Visualization%20for%20Social%20and%20Policy%20Research",
     "id": "paper-b3e56b9512dd",
-    "authorIds": [],
+    "authorIds": [
+      "person-0348"
+    ],
     "institutions": []
   },
   {

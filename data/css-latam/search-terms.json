@@ -1,0 +1,38 @@
+{
+  "checked": "2026-10-25",
+  "reference": {
+    "author": "Lazer et al.",
+    "year": 2020,
+    "doi": "10.1126/science.aaz8170"
+  },
+  "coreTerms": [
+    "ciencias sociales computacionales",
+    "computational social science",
+    "ciências sociais computacionais",
+    "computational sociology",
+    "computational political science",
+    "computational communication"
+  ],
+  "methodAndSocialQuestion": [
+    "text as data",
+    "análisis de redes sociales / social network analysis",
+    "agent-based modelling / simulación social",
+    "NLP y análisis computacional de texto social",
+    "machine learning aplicado a preguntas sociales",
+    "datos geoespaciales y movilidad humana",
+    "análisis computacional de imágenes y video con objeto social"
+  ],
+  "discoveryOnlyNotAutomaticCSC": [
+    "humanidades digitales",
+    "AI and politics",
+    "AI and sociology"
+  ],
+  "notASufficientCriterion": [
+    "algorithmic governance",
+    "AI governance",
+    "ética de la IA",
+    "ciencia de datos general",
+    "uso de IA sin investigación social computacional documentada"
+  ],
+  "institutionScreeningPatternsUsed": "Conservados en research/rapid_screen.py y el registro de páginas; las coincidencias son candidatos, no inclusiones."
+}
