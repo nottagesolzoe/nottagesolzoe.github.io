@@ -151,5 +151,22 @@
     "#E1A0AA",
     "#6D0E4E",
     "#462969"
-  ]
+  ],
+  "accessRecovery": {
+    "date": "2026-10-26",
+    "targetRecords": 626,
+    "failedAccessOriginal": 459,
+    "missingUrlOriginal": 167,
+    "evidence": "/data/css-latam/recovery-20261026.json",
+    "summary": "/data/css-latam/recovery-summary-20261026.json",
+    "pending": "/data/css-latam/recovery-pending-20261026.json",
+    "scope": "Recuperación de acceso e identidad. No revisión temática exhaustiva ni validación humana integral.",
+    "outcomes": [
+      "Página institucional operativa",
+      "Fuente institucional parcial",
+      "Aclaración histórica o administrativa",
+      "Pendiente con próxima acción"
+    ],
+    "aiUse": "Búsqueda, comprobación rápida, programación y consolidación asistidas por ChatGPT mediante Codex y agentes paralelos."
+  }
 }

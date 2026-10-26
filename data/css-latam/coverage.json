@@ -775,5 +775,12 @@
     "status": "preliminar; no completa revisión",
     "file": "university-screening-ar.json"
   },
-  "rapidMapping": "rapid-mapping-20261025.json"
+  "rapidMapping": "rapid-mapping-20261025.json",
+  "accessRecovery": {
+    "checked": "2026-10-26",
+    "summary": "recovery-summary-20261026.json",
+    "evidence": "recovery-20261026.json",
+    "pending": "recovery-pending-20261026.json",
+    "thematicCompletionClaimed": false
+  }
 }

@@ -1,0 +1,190 @@
+{
+  "checked": "2026-10-26",
+  "originalFailedAccess": 459,
+  "originalMissingUrl": 167,
+  "targetRecords": 626,
+  "recordsWithEvidence": 626,
+  "recordsResolved": 536,
+  "recordsStillPending": 90,
+  "operationalSiteRecovered": 402,
+  "partialSourceRecovered": 115,
+  "administrativeResolved": 19,
+  "identityPending": 20,
+  "originalMissingUrlNowIdentified": 163,
+  "originalMissingUrlStillUnidentified": 4,
+  "originalFailedAccessNowResolved": 375,
+  "originalFailedAccessStillPending": 84,
+  "dispositions": {
+    "url_identified_access_pending": 29,
+    "resolved_operational_access": 402,
+    "identity_pending": 20,
+    "resolved_administrative": 19,
+    "resolved_partial_source": 115,
+    "access_pending": 38,
+    "url_unresolved": 3
+  },
+  "limits": [
+    "Los 626 son registros del inventario, no 626 universidades únicas.",
+    "Recuperar acceso o identificar una URL no equivale a concluir revisión temática de programas/personas/publicaciones.",
+    "Las fuentes parciales y resoluciones administrativas se separan de portadas operativas.",
+    "Las respuestas 200 con identidad incorrecta, mantenimiento o spam no se cuentan como accesos recuperados.",
+    "No se eludieron robots explícitos, CAPTCHA, login o advertencias de certificado."
+  ],
+  "countries": [
+    {
+      "country": "Argentina",
+      "records": 31,
+      "resolved": 22,
+      "pending": 9,
+      "urlsIdentifiedFromMissing": 1
+    },
+    {
+      "country": "Bolivia",
+      "records": 12,
+      "resolved": 11,
+      "pending": 1,
+      "urlsIdentifiedFromMissing": 0
+    },
+    {
+      "country": "Brasil",
+      "records": 88,
+      "resolved": 84,
+      "pending": 4,
+      "urlsIdentifiedFromMissing": 0
+    },
+    {
+      "country": "Chile",
+      "records": 39,
+      "resolved": 36,
+      "pending": 3,
+      "urlsIdentifiedFromMissing": 10
+    },
+    {
+      "country": "Colombia",
+      "records": 56,
+      "resolved": 50,
+      "pending": 6,
+      "urlsIdentifiedFromMissing": 0
+    },
+    {
+      "country": "Costa Rica",
+      "records": 67,
+      "resolved": 55,
+      "pending": 12,
+      "urlsIdentifiedFromMissing": 56
+    },
+    {
+      "country": "Cuba",
+      "records": 12,
+      "resolved": 9,
+      "pending": 3,
+      "urlsIdentifiedFromMissing": 0
+    },
+    {
+      "country": "Ecuador",
+      "records": 59,
+      "resolved": 54,
+      "pending": 5,
+      "urlsIdentifiedFromMissing": 39
+    },
+    {
+      "country": "El Salvador",
+      "records": 13,
+      "resolved": 10,
+      "pending": 3,
+      "urlsIdentifiedFromMissing": 0
+    },
+    {
+      "country": "Guatemala",
+      "records": 6,
+      "resolved": 5,
+      "pending": 1,
+      "urlsIdentifiedFromMissing": 1
+    },
+    {
+      "country": "Guyana",
+      "records": 2,
+      "resolved": 1,
+      "pending": 1,
+      "urlsIdentifiedFromMissing": 0
+    },
+    {
+      "country": "Haití",
+      "records": 3,
+      "resolved": 3,
+      "pending": 0,
+      "urlsIdentifiedFromMissing": 0
+    },
+    {
+      "country": "Honduras",
+      "records": 1,
+      "resolved": 1,
+      "pending": 0,
+      "urlsIdentifiedFromMissing": 0
+    },
+    {
+      "country": "México",
+      "records": 101,
+      "resolved": 82,
+      "pending": 19,
+      "urlsIdentifiedFromMissing": 0
+    },
+    {
+      "country": "Nicaragua",
+      "records": 12,
+      "resolved": 8,
+      "pending": 4,
+      "urlsIdentifiedFromMissing": 0
+    },
+    {
+      "country": "Panamá",
+      "records": 9,
+      "resolved": 4,
+      "pending": 5,
+      "urlsIdentifiedFromMissing": 0
+    },
+    {
+      "country": "Paraguay",
+      "records": 5,
+      "resolved": 5,
+      "pending": 0,
+      "urlsIdentifiedFromMissing": 1
+    },
+    {
+      "country": "Perú",
+      "records": 88,
+      "resolved": 77,
+      "pending": 11,
+      "urlsIdentifiedFromMissing": 55
+    },
+    {
+      "country": "República Dominicana",
+      "records": 4,
+      "resolved": 3,
+      "pending": 1,
+      "urlsIdentifiedFromMissing": 0
+    },
+    {
+      "country": "Venezuela",
+      "records": 18,
+      "resolved": 16,
+      "pending": 2,
+      "urlsIdentifiedFromMissing": 0
+    }
+  ],
+  "exclusiveOutcomes": {
+    "url_identified_access_pending": 29,
+    "resolved_operational_access": 402,
+    "identity_pending": 20,
+    "resolved_administrative": 19,
+    "resolved_partial_source": 115,
+    "access_pending": 38,
+    "url_unresolved": 3
+  },
+  "operationalDefinition": "Página universitaria pública con contenido académico e identidad concordante; no prueba exhaustividad temática, reconocimiento legal ni operatividad de todo el dominio.",
+  "partialSourceDefinition": "Subpágina, campus, repositorio, documento, grupo institucional o portal estatal institucional accesible. No equivale a portada universitaria operativa.",
+  "administrativeDefinition": "Cambio de nombre, duplicado histórico, cierre o proceso de cierre documentado; conserva la fila y la evidencia, sin crear una institución vigente.",
+  "recordsWithRecoveredSource": 517,
+  "originalMissingUrlResolved": 161,
+  "originalMissingUrlStillPending": 6
+}

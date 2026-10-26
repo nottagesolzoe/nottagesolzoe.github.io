@@ -12,7 +12,7 @@ cd nottagesolzoe.github.io
 python3 -m http.server 8000
 ```
 
-Abrir `http://localhost:8000/projects/redes-css-latam/`. No requiere claves ni servicios externos para consultar los datos publicados. El formulario de incorporación sí utiliza GitHub.
+Abrir `http://localhost:8000/projects/redes-css-latam/`. No requiere claves ni servicios externos para consultar los datos publicados. El formulario de incorporación utiliza Google Forms y no requiere cuenta GitHub.
 
 ## Recalcular el análisis de redes
 
@@ -38,7 +38,7 @@ Se comienza por América del Sur. Los registros de un directorio secundario de d
 
 ## Incorporaciones
 
-El [formulario público](https://github.com/nottagesolzoe/nottagesolzoe.github.io/issues/new?template=css-directorio.yml) permite solicitar una incorporación o corrección. Las propuestas requieren fuentes y revisión antes de modificar el dashboard. No hay incorporación automática.
+El [formulario público](https://docs.google.com/forms/d/e/1FAIpQLSdr3gL6pjNrBg8KMsZX2YFInMq2Nz2DG6jaxQd-FXc_IfJ63A/viewform) permite solicitar una incorporación o corrección. Las propuestas requieren fuentes y revisión antes de modificar el dashboard. No hay incorporación automática.
 
 ## Asistencia y atribución
 
@@ -94,3 +94,23 @@ The main journal catalog is data/css-latam/journals-latam.json; international jo
 Supersedes prior interface/network descriptions: the displayed graph is now a person–institution network restricted to24people with at least2distinct documented professional/teaching affiliations,15institution nodes and49unique links. It excludes article-only historical affiliations and event participation. It does not assert current simultaneous employment. Labels are full institutional names; people remain anonymous. Original coauthor and institutional publication graphs remain research data but are not displayed. All chart filters share state; program country writes the global country selection and program-type buttons select linked recorded teams. Journal catalog country and search subscribe to the same filter changes.
 
 Program reconciliation recovered8omitted programs from the newer retained local version (7Argentina,1Perú), preserving prior source dates and metadata. There are46programs,20inArgentina; this is not a claim of a fresh curriculum review. The UFLO journal is Desarrollos en Ciencias Sociales Computacionales, not El Faro. The catalog now contains5specialist CSC/technology-and-society journals. Source-verified full institution labels are documented in institution-names.json.
+
+## Recuperación de accesos y URLs, 26 de octubre de 2026
+
+Se revisaron los 459 registros con acceso fallido y los 167 sin URL del corte anterior. Los resultados actuales, sus denominadores y las categorías excluyentes están en `data/css-latam/recovery-summary-20261026.json`. La evidencia por registro se publica en `recovery-20261026.json`; `recovery-pending-20261026.json` conserva el motivo y la próxima acción de los casos que siguen abiertos. Las cifras del apartado del 25 de octubre describen ese corte histórico.
+
+La recuperación combinó reintentos de las URLs registradas, búsqueda nominal de dominios actuales en fuentes primarias, consulta de páginas alternativas o documentos institucionales y apertura en navegador cuando el contenido público requería JavaScript. Se comprobaron identidad, título y contenido académico. No se leyeron planes de estudio en profundidad. La revisión y consolidación fueron asistidas por agentes de IA; no constituyen validación humana integral.
+
+Los reintentos automatizados utilizaron TLS verificado, consulta de robots por origen, hasta tres variantes registradas, seis saltos de redirección, tiempos máximos de conexión y lectura de 4 y 12 segundos, respectivamente, y un máximo de 2 MB por respuesta. Se utilizaron hasta veinte tareas concurrentes. Las denegaciones explícitas previamente registradas no se repitieron. La recuperación manual buscó fuentes alternativas públicas; no eludió desafíos, acceso autenticado ni advertencias de certificado. Una respuesta HTTP 200 sin contenido institucional concordante, con publicidad ajena, dominio estacionado o mantenimiento no acreditó acceso recuperado.
+
+Se distinguen páginas institucionales operativas, fuentes parciales y aclaraciones históricas o administrativas. Un documento, una página de campus o un portal estatal dedicado no prueban que la portada universitaria funcione. Un cambio de nombre, un cierre programado o una suspensión no se interpretan automáticamente como cierre definitivo. Los alias probables conservan filas y procedencias separadas. Identificar una URL no garantiza su acceso ni demuestra reconocimiento legal.
+
+La actualización conserva el resultado inicial en `originalRapidReview` y los nuevos resultados en `recovery`. No modifica las decisiones temáticas, los perfiles ni los programas del dashboard. No se incorporan candidaturas sin evidencia temática. Los informes fechados del 25 de octubre se conservan como historial; el resumen del 26 es la referencia para el estado actual de la recuperación.
+
+Para volver a aplicar las decisiones publicadas al inventario, ejecutar:
+
+```sh
+python3 projects/redes-css-latam/research/apply_access_recovery.py
+```
+
+El inventario anterior a la recuperación se conserva en el historial Git, commit `31af1be`. El registro publicado permite inspeccionar las decisiones; las páginas externas pueden cambiar y una nueva consulta puede producir otro resultado. No se distribuyen copias integrales de páginas externas.
