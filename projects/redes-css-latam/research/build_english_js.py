@@ -39,6 +39,7 @@ replacements.update({'Seleccioná un país para filtrar toda la página. Los col
 replacements.update({'No hay personas para esta selección.':'No people match this selection.','No hay instituciones vinculadas a las personas de esta selección.':'No institutions are linked to the people in this selection.',' con ubicación fuera del mapa o sin confirmar':' located outside the map or with location unconfirmed','El mapa y el gráfico por país cuentan las mismas personas de la selección, de todas las categorías. Las ubicaciones fuera del mapa o sin confirmar se incluyen en el gráfico. Límites: Natural Earth.':'The map and country chart count the same selected people across all categories. Locations outside the map or unconfirmed locations are included in the chart. Boundaries: Natural Earth.'})
 replacements.update({'Base: ':'Base: ',' personas de la selección. Escala desde cero; etiquetas: porcentaje (personas).':' people in the selection. Scale starts at zero; labels: percentage (people).'})
 replacements.update({'Intensidad de color: 1 a ':'Color intensity: 1 to ',' personas; gris: ningún perfil registrado. ':' people; gray: no recorded profiles. '})
+replacements.update({'Perfil sin nombre público':'Profile without a public name','Instituciones de la selección. Los puntos de personas no muestran nombres.':'Selected institutions. Person nodes do not display names.'})
 for a,b in replacements.items():s=s.replace(a,b)
 lines=s.splitlines()
 for i,line in enumerate(lines):

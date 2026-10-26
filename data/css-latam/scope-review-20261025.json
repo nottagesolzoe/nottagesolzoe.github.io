@@ -1,0 +1,28 @@
+{
+  "checked": "2026-10-25",
+  "personGeographicRule": "Base institucional registrada en LATAM; nacionalidad no inferida. Ubicaciones mixtas o pendientes excluidas.",
+  "previousPeople": 396,
+  "retainedPeople": 347,
+  "excludedByRecordedCountry": {
+    "Estados Unidos": 10,
+    "Perú / Estados Unidos": 1,
+    "Base principal por confirmar": 26,
+    "Canadá": 2,
+    "Finlandia": 2,
+    "España": 4,
+    "Reino Unido": 2,
+    "Hungría": 1,
+    "Italia": 1
+  },
+  "eventEdgesRemovedFromAffiliations": 51,
+  "publicPersonNames": false,
+  "basis": "Source geography is retained, not represented as a new verification of every current affiliation.",
+  "conceptualReference": {
+    "authors": "Lazer et al.",
+    "year": 2020,
+    "title": "Computational social science: Obstacles and opportunities",
+    "doi": "10.1126/science.aaz8170",
+    "url": "https://www-prod.media.mit.edu/publications/computational-social-science-obstacles-and-opportunities/"
+  },
+  "conceptualRule": "Objeto de estudio social y desarrollo o aplicación de métodos computacionales documentados; la temática IA o gobernanza por sí sola no acredita CSC."
+}
