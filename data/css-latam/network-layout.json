@@ -1,0 +1,245 @@
+{
+  "method": "NetworkX spring_layout, seed42, weighted edges, 600 iterations; isolated nodes excluded. Coordinates describe graph layout only, not geography.",
+  "graphs": {
+    "coauthors": {
+      "person-0221": {
+        "x": 935.0,
+        "y": 620.5
+      },
+      "person-0222": {
+        "x": 933.68,
+        "y": 619.04
+      },
+      "person-0004": {
+        "x": 533.36,
+        "y": 342.22
+      },
+      "person-0075": {
+        "x": 532.52,
+        "y": 341.38
+      },
+      "person-0023": {
+        "x": 529.16,
+        "y": 340.99
+      },
+      "person-0083": {
+        "x": 533.95,
+        "y": 340.75
+      },
+      "person-0024": {
+        "x": 517.04,
+        "y": 341.28
+      },
+      "person-0025": {
+        "x": 522.4,
+        "y": 341.17
+      },
+      "person-0015": {
+        "x": 65.0,
+        "y": 218.06
+      },
+      "person-0016": {
+        "x": 67.4,
+        "y": 218.48
+      },
+      "person-0322": {
+        "x": 627.71,
+        "y": 344.78
+      },
+      "person-0324": {
+        "x": 630.85,
+        "y": 343.36
+      },
+      "person-0319": {
+        "x": 629.42,
+        "y": 342.87
+      },
+      "person-0318": {
+        "x": 629.39,
+        "y": 344.58
+      },
+      "person-0321": {
+        "x": 627.0,
+        "y": 344.01
+      },
+      "person-0320": {
+        "x": 628.93,
+        "y": 343.72
+      },
+      "person-0323": {
+        "x": 631.06,
+        "y": 344.2
+      },
+      "person-0006": {
+        "x": 630.14,
+        "y": 345.45
+      },
+      "person-0005": {
+        "x": 627.64,
+        "y": 343.17
+      },
+      "person-0081": {
+        "x": 528.75,
+        "y": 338.2
+      },
+      "person-0082": {
+        "x": 536.56,
+        "y": 341.5
+      },
+      "person-0080": {
+        "x": 524.92,
+        "y": 341.94
+      },
+      "person-0079": {
+        "x": 524.85,
+        "y": 340.4
+      },
+      "person-0107": {
+        "x": 726.67,
+        "y": 342.02
+      },
+      "person-0097": {
+        "x": 727.93,
+        "y": 341.21
+      },
+      "person-0110": {
+        "x": 724.1,
+        "y": 341.09
+      },
+      "person-0096": {
+        "x": 724.94,
+        "y": 340.21
+      },
+      "person-0102": {
+        "x": 726.91,
+        "y": 340.32
+      },
+      "person-0103": {
+        "x": 724.78,
+        "y": 342.01
+      },
+      "person-0038": {
+        "x": 332.11,
+        "y": 55.0
+      },
+      "person-0037": {
+        "x": 333.56,
+        "y": 56.51
+      },
+      "person-0191": {
+        "x": 802.12,
+        "y": 426.48
+      },
+      "person-0045": {
+        "x": 801.64,
+        "y": 424.88
+      },
+      "person-0042": {
+        "x": 634.19,
+        "y": 351.28
+      },
+      "person-0041": {
+        "x": 632.49,
+        "y": 348.82
+      },
+      "person-0007": {
+        "x": 639.0,
+        "y": 256.16
+      },
+      "person-0043": {
+        "x": 639.26,
+        "y": 254.22
+      },
+      "person-0040": {
+        "x": 640.99,
+        "y": 255.39
+      },
+      "person-0039": {
+        "x": 637.29,
+        "y": 255.25
+      },
+      "person-0077": {
+        "x": 535.22,
+        "y": 344.79
+      },
+      "person-0325": {
+        "x": 763.56,
+        "y": 242.26
+      },
+      "person-0326": {
+        "x": 765.61,
+        "y": 241.06
+      },
+      "person-0329": {
+        "x": 896.45,
+        "y": 273.18
+      },
+      "person-0328": {
+        "x": 897.53,
+        "y": 274.65
+      },
+      "person-0327": {
+        "x": 899.64,
+        "y": 273.38
+      },
+      "person-0331": {
+        "x": 534.71,
+        "y": 655.0
+      },
+      "person-0330": {
+        "x": 536.04,
+        "y": 653.55
+      }
+    },
+    "institutions": {
+      "inst-universidad-de-buenos-aires": {
+        "x": 923.51,
+        "y": 341.62
+      },
+      "inst-conicet": {
+        "x": 935.0,
+        "y": 343.57
+      },
+      "inst-catholic-university-nuestra-senora-de-la-asuncion": {
+        "x": 65.0,
+        "y": 140.43
+      },
+      "inst-united-nations-development-programme-asuncion": {
+        "x": 75.47,
+        "y": 143.8
+      },
+      "inst-centro-nacional-de-alta-tecnologia": {
+        "x": 263.51,
+        "y": 648.31
+      },
+      "inst-universidad-estatal-a-distancia": {
+        "x": 259.29,
+        "y": 655.0
+      },
+      "inst-fast-check-cl": {
+        "x": 639.38,
+        "y": 59.74
+      },
+      "inst-pontificia-universidad-catolica-de-chile": {
+        "x": 625.25,
+        "y": 56.18
+      },
+      "inst-universidad-de-talca": {
+        "x": 633.13,
+        "y": 63.97
+      },
+      "inst-universidad-de-valparaiso": {
+        "x": 631.22,
+        "y": 59.45
+      },
+      "inst-universidad-san-sebastian": {
+        "x": 634.52,
+        "y": 55.0
+      },
+      "inst-universidad-tecnica-federico-santa-maria": {
+        "x": 624.22,
+        "y": 61.72
+      }
+    }
+  }
+}

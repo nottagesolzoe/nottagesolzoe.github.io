@@ -1,0 +1,18 @@
+{
+  "title": "CSS LATAM · Solicitud de incorporación",
+  "publicUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdr3gL6pjNrBg8KMsZX2YFInMq2Nz2DG6jaxQd-FXc_IfJ63A/viewform",
+  "status": "published and respondent page visibly verified",
+  "publicAccess": "Cualquier persona con el enlace",
+  "collectEmail": "No recoger",
+  "limitOneResponse": false,
+  "fields": [
+    "Tipo de solicitud: Perfil, Institución, Programa, Revista",
+    "Nombre del perfil, institución, programa o revista",
+    "Institución o afiliación",
+    "País",
+    "Enlace público verificable",
+    "Comentario: relación con las ciencias sociales computacionales",
+    "Contacto opcional (correo o enlace profesional)"
+  ],
+  "verification": "Google Forms UI confirms published, anyone with link, no automatic email collection and login-dependent response limit disabled. Respondent page shows all seven fields and Enviar. No test response submitted."
+}

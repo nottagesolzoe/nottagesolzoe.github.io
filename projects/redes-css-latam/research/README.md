@@ -78,3 +78,12 @@ El directorio principal aplica base institucional registrada en LATAM, no nacion
 La formación se separa entre evidencia explícita en la ficha, formación afín y pendiente de verificación. Esta clasificación rápida de metadatos no sustituye una lectura del plan. El doctorado de Complejidad Social se excluyó por instrucción explícita de Sol. El catálogo de revistas separa tres con alcance CSC explícito y diecisiete contextuales.
 
 Los registros de consultas, fuentes revisadas, candidaturas, marcos oficiales y términos se conservan en los JSON fechados del directorio de datos. Se utilizaron rastreo automatizado y agentes de IA para búsqueda, revisión rápida y consolidación; no hubo validación humana integral.
+
+
+## Interface revision, 2026-10-25
+
+The English title is Computational Social Science, with Networks in Latin America. Both pages share bilingual map.js. The old translation builders are retained as no-op notices to prevent replacing the revised interface. Views are visible sections, not a view selector. Region and internal scope categories are not UI filters. Training is grouped by recorded program type, without implying equal CSC eligibility. The country map replaces the duplicate country lollipop chart.
+
+The two graph views use seeded NetworkX spring layouts (research/build_layout.py, seed42,600iterations), connected nodes only. Coauthorship has47connected nodes/86edges; institutional collaboration has12connected nodes/18edges. These views omit isolates, while directory counts still include all selected profiles. Node size reflects degree. Node color uses the first recorded affiliation for people and institution ID for institutions; the five permitted colors repeat when institutions outnumber colors. No personal names are displayed in graph labels or tooltips. The reference image does not supply any graph data.
+
+The main journal catalog is data/css-latam/journals-latam.json; international journals remain in the prior audit file but are not rendered. Google Forms incorporation URL and settings are in incorporation-form.json. Raw response data are not published. Audit logs and access failures remain downloadable source material and methodology, not dashboard panels.

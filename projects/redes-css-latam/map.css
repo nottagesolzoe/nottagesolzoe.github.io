@@ -39,3 +39,28 @@
 @media(max-width:650px){#atlas .rapid-journals{grid-template-columns:1fr}#atlas .rapid-chart .bar-row{grid-template-columns:minmax(85px,1fr) minmax(35px,1fr) 115px;gap:8px;font-size:12px}#atlas .rapid-chart .bar-value{font-size:11px}}
 
 #atlas .rapid-denominator{display:block;color:#666;font-size:11px;font-weight:400}#atlas .map-legend i{background:#462969}#atlas .map-legend i.square{background:#B31A15}
+/* Visible views, connected force layouts, Sol reference 2026-10-25. */
+#atlas .view-section{padding:56px 6vw;border-top:1px solid #ddd;scroll-margin-top:85px}
+#atlas .view-section h2{font-size:clamp(30px,4vw,52px);margin:12px 0 20px}
+#atlas .dashboard-filters{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px 22px;padding:26px 6vw;background:#fafafa;border-top:1px solid #ddd}
+#atlas .dashboard-filters label{margin:0;font-size:13px}#atlas .dashboard-filters button{align-self:end;height:42px}#atlas .dashboard-filters .selection-note{grid-column:1/-1;margin:0;padding:0;background:none;min-height:0}#atlas .selection-note:empty{display:none}
+#atlas .map-panel{min-height:0;max-width:1000px;margin:auto;border:1px solid #e5e5e5;background:white}
+#atlas #network{height:auto;max-height:660px;min-height:340px}
+#atlas .map-panel .source{padding:0 20px 10px;margin-top:0}
+#atlas .institution-chart{max-width:1050px;margin:30px 0}
+#atlas button.institution-row{display:grid;width:100%;border:0;text-align:left;padding:8px 0;font-size:15px;background:white;grid-template-columns:minmax(180px,1.4fr) minmax(80px,1fr) 100px}
+#atlas .institution-row .bar{background:currentColor;display:block}#atlas .institution-row .bar:after{background:inherit}
+#atlas .institution-row:hover{background:#f8f5fa}#atlas .institution-dot{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:8px;flex-shrink:0}
+#atlas .network-panel{background:white;border:1px solid #e5e5e5;margin-top:24px;overflow:hidden}#atlas .network-panel>svg{display:block;width:100%;height:auto;max-height:650px;min-height:320px}
+#atlas .network-node{cursor:pointer}#atlas .network-node:focus{outline:none;stroke:#111;stroke-width:2px}
+#atlas .network-summary{font-size:15px;font-weight:bold;color:#462969}
+#atlas .network-selection{min-height:24px;font-size:14px;color:#462969}
+#atlas .institution-legend{display:flex;flex-wrap:wrap;gap:12px 20px;padding:20px;border-top:1px solid #eee;font-size:12px}
+#atlas .institution-legend span{display:flex;align-items:center}#atlas .institution-legend i{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:7px}
+#atlas .program-type-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:12px;margin:25px 0 40px}
+#atlas .type-card{text-align:left;position:relative;min-height:110px;padding:16px;border-top:3px solid var(--category,#462969)}#atlas .type-card strong{display:block;font-size:32px;line-height:1.1;color:var(--category,#462969)}#atlas .type-card span{display:block;margin-top:9px;font-size:14px}#atlas .type-card i{position:absolute;bottom:0;left:0;height:3px;background:var(--category,#462969)}#atlas .type-card.selected{background:#f4eff6;outline:1px solid #462969}
+#atlas .program-controls{max-width:250px}#atlas .program-group-title{border-top:1px solid #ccc;padding-top:25px;margin:45px 0 0}#atlas .program-group-title span{font-size:17px;color:#6D0E4E;margin-left:12px}
+#atlas .program-grid{grid-template-columns:repeat(2,minmax(0,1fr));margin-top:20px}#atlas .program-grid article{padding:22px 0;border-top:2px solid #462969}#atlas .program-grid p{font-size:15px}#atlas .program-grid .small{font-size:12px}
+#atlas .downloads h2{flex-basis:100%}#atlas .downloads a{align-self:start}#atlas .form-note{display:block;font-size:13px;margin-top:16px}#atlas .submission-link{display:inline-block;padding:15px 22px;color:white;background:#462969;font-weight:bold;text-decoration:none}
+#atlas .rapid-journals{grid-template-columns:repeat(2,minmax(0,1fr));gap:25px 45px}#atlas .rapid-journals article{padding:20px 0}
+@media(max-width:650px){#atlas .dashboard-filters{grid-template-columns:1fr 1fr;padding:20px 6vw}#atlas .view-section{padding:40px 6vw}#atlas .program-grid,#atlas .rapid-journals{grid-template-columns:1fr}#atlas button.institution-row{grid-template-columns:minmax(100px,1.3fr) minmax(40px,1fr) 88px;font-size:13px;gap:9px}#atlas .bar-value{font-size:12px}#atlas .network-panel>svg{min-height:320px}#atlas .map-toolbar{font-size:10px}#atlas .map-toolbar button{padding:5px 8px}}

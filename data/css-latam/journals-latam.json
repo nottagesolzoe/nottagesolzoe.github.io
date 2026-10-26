@@ -1,0 +1,309 @@
+{
+  "checked": "2026-10-25",
+  "definition": {
+    "criterion": "Desarrollo o aplicación de métodos computacionales a datos complejos de conducta humana, normalmente a gran escala, incluidos datos simulados.",
+    "reference": "Lazer et al. (2020), Computational social science: Obstacles and opportunities",
+    "doi": "10.1126/science.aaz8170",
+    "sourceUrl": "https://www-prod.media.mit.edu/publications/computational-social-science-obstacles-and-opportunities/",
+    "verification": "Fuente y definición verificadas por agente principal; clasificación basada en alcances oficiales previamente recuperados."
+  },
+  "classificationUnit": "Alcance de la revista completa; las publicaciones o dossiers sobre IA no establecen especialización CSC.",
+  "classificationRules": [
+    "Se incluyen entidades editoras latinoamericanas; CTS es coedición iberoamericana explícitamente señalada.",
+    "Ninguno de estos9 alcances verificados define una revista especializada explícitamente en CSC.",
+    "Todas son elegibles para catálogo latinoamericano contextual, no para contar como revistas CSC especializadas."
+  ],
+  "counts": {
+    "total": 9,
+    "mainDashboardEligible": 0,
+    "contextual": 9,
+    "latamCatalogEligible": 9
+  },
+  "entries": [
+    {
+      "title": "Revista Mexicana de Sociología",
+      "publisher": "Instituto de Investigaciones Sociales, Universidad Nacional Autónoma de México",
+      "officialUrl": "https://revistamexicanadesociologia.unam.mx/index.php/rms/about",
+      "aimsScopeUrl": "https://revistamexicanadesociologia.unam.mx/index.php/rms/about",
+      "scopeSummary": "Revista de sociología que articula debates teóricos, investigación empírica e innovaciones metodológicas sobre procesos y problemas sociales contemporáneos.",
+      "fit": "Generalista de sociología; pertinente para investigación sociológica sobre IA o con métodos computacionales cuando existe una contribución social explícita.",
+      "topics": [
+        "sociología",
+        "problemas sociales",
+        "métodos de investigación"
+      ],
+      "evidenceChecked": "2026-10-25",
+      "notes": "Existencia y alcance contrastados en página primaria abierta. La afinidad temática es una valoración de esta revisión; no implica aceptación editorial. No se verificaron métricas ni indexación.",
+      "classification": "Ciencias sociales generales",
+      "criterionRationale": "El alcance incluye teoría, investigación empírica e innovación metodológica en sociología sin exigir métodos computacionales.",
+      "mainDashboardEligible": false,
+      "catalogPlacement": "catálogo contextual separado",
+      "topicTagsDoNotEstablishCSC": true,
+      "country": "México",
+      "editorialLocation": "Ciudad de México",
+      "region": "América Latina",
+      "regionalBasis": "Institución editora latinoamericana verificada en página oficial",
+      "verificationMethod": "Página editorial oficial abierta; alcance y entidad editora contrastados",
+      "latamCatalogEligible": true
+    },
+    {
+      "title": "Sociológica México",
+      "publisher": "Departamento de Sociología, Universidad Autónoma Metropolitana, Azcapotzalco",
+      "officialUrl": "https://sociologicamexico.azc.uam.mx/index.php/Sociologica/about",
+      "aimsScopeUrl": "https://sociologicamexico.azc.uam.mx/index.php/Sociologica/about",
+      "scopeSummary": "Sociología teórica y metodológica y sociologías especializadas, incluidas sociología política, del trabajo y de las nuevas tecnologías.",
+      "fit": "Generalista de sociología; el alcance menciona explícitamente sociología de las nuevas tecnologías.",
+      "topics": [
+        "sociología de las nuevas tecnologías",
+        "sociología política",
+        "sociología del trabajo",
+        "metodología"
+      ],
+      "evidenceChecked": "2026-10-25",
+      "notes": "Existencia y alcance contrastados en página primaria abierta. La afinidad temática es una valoración de esta revisión; no implica aceptación editorial. No se verificaron métricas ni indexación.",
+      "classification": "Ciencias sociales generales",
+      "criterionRationale": "El alcance incluye sociologías generales y especializadas, incluidas nuevas tecnologías, sin definir una orientación computacional obligatoria.",
+      "mainDashboardEligible": false,
+      "catalogPlacement": "catálogo contextual separado",
+      "topicTagsDoNotEstablishCSC": true,
+      "country": "México",
+      "editorialLocation": "Ciudad de México",
+      "region": "América Latina",
+      "regionalBasis": "Institución editora latinoamericana verificada en página oficial",
+      "verificationMethod": "Página editorial oficial abierta; alcance y entidad editora contrastados",
+      "latamCatalogEligible": true
+    },
+    {
+      "title": "Revista Iberoamericana de Ciencia, Tecnología y Sociedad – CTS",
+      "publisher": "OEI; Universidad de Salamanca; Centro REDES (Argentina); Universidade de Campinas / Labjor (Brasil); Instituto Universitário de Lisboa",
+      "officialUrl": "https://www.revistacts.net/acerca-de-cts/",
+      "aimsScopeUrl": "https://www.revistacts.net/acerca-de-cts/",
+      "scopeSummary": "Estudios de relaciones entre ciencia, tecnología y sociedad con perspectiva iberoamericana, plural e interdisciplinaria.",
+      "fit": "Especializada en estudios de ciencia, tecnología y sociedad, no exclusivamente en IA. Pertinente para gobernanza, impactos y políticas de IA.",
+      "topics": [
+        "ciencia tecnología y sociedad",
+        "políticas de ciencia y tecnología"
+      ],
+      "evidenceChecked": "2026-10-25",
+      "notes": "Existencia y alcance contrastados en página primaria abierta. La afinidad temática es una valoración de esta revisión; no implica aceptación editorial. No se verificaron métricas ni indexación. Coedición iberoamericana: incluye editores de España y Portugal; no es exclusivamente latinoamericana.",
+      "classification": "IA y sociedad como objeto",
+      "criterionRationale": "El alcance estudia relaciones entre ciencia, tecnología y sociedad, con pertinencia temática para IA pero sin especialización metodológica CSC.",
+      "mainDashboardEligible": false,
+      "catalogPlacement": "catálogo contextual separado",
+      "topicTagsDoNotEstablishCSC": true,
+      "country": "Argentina / Brasil (coedición iberoamericana)",
+      "editorialLocation": "Coedición latinoamericana e ibérica",
+      "region": "América Latina",
+      "regionalBasis": "Institución editora latinoamericana verificada en página oficial",
+      "verificationMethod": "Página editorial oficial abierta; alcance y entidad editora contrastados",
+      "latamCatalogEligible": true
+    },
+    {
+      "title": "Revista Latinoamericana de Metodología de las Ciencias Sociales",
+      "publisher": "Facultad de Humanidades y Ciencias de la Educación, Universidad Nacional de La Plata",
+      "officialUrl": "https://www.relmecs.fahce.unlp.edu.ar/about",
+      "aimsScopeUrl": "https://www.relmecs.fahce.unlp.edu.ar/about",
+      "scopeSummary": "Epistemología, métodos, técnicas y prácticas de investigación social, aplicaciones, historia y enseñanza de metodología desde América Latina.",
+      "fit": "Especializada en metodología social; pertinente para validación, medición o evaluación de métodos computacionales y de IA, sin ser revista de IA.",
+      "topics": [
+        "metodología"
+      ],
+      "evidenceChecked": "2026-10-25",
+      "notes": "Fuente primaria abierta. La portada anuncia próxima recepción del15/01/2027 al01/03/2027; esto no fue interpretado como recepción abierta el25/10/2026. No se verificaron métricas ni indexación.",
+      "classification": "Métodos sociales generales",
+      "criterionRationale": "El alcance cubre epistemología, métodos y técnicas de investigación social sin especialización computacional declarada.",
+      "mainDashboardEligible": false,
+      "catalogPlacement": "catálogo contextual separado",
+      "topicTagsDoNotEstablishCSC": true,
+      "country": "Argentina",
+      "editorialLocation": "La Plata",
+      "region": "América Latina",
+      "regionalBasis": "Institución editora latinoamericana verificada en página oficial",
+      "verificationMethod": "Página editorial oficial abierta; alcance y entidad editora contrastados",
+      "latamCatalogEligible": true
+    },
+    {
+      "title": "Opinião Pública",
+      "publisher": "Centro de Estudos de Opinião Pública, Universidade Estadual de Campinas",
+      "officialUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/op/about",
+      "aimsScopeUrl": "https://periodicos.sbu.unicamp.br/ojs/index.php/op/about",
+      "scopeSummary": "Teoría y metodología de opinión pública, comportamiento político y social, cultura política, democracia, medios, elecciones y representación; investigación empírica cuantitativa, cualitativa o documental.",
+      "fit": "Especializada por objeto político y opinión pública; pertinente para comunicación digital, comportamiento político y aplicaciones CSS que respondan preguntas de ese campo.",
+      "topics": [
+        "opinión pública",
+        "comportamiento político",
+        "medios",
+        "democracia",
+        "elecciones"
+      ],
+      "evidenceChecked": "2026-10-25",
+      "notes": "Páginas primarias de inicio y Sobre o Periódico abiertas; el alcance aparece en inicio: https://periodicos.sbu.unicamp.br/ojs/index.php/op/index . No es una revista exclusiva de IA ni CSS. No se verificaron métricas ni indexación.",
+      "classification": "Ciencias sociales generales",
+      "criterionRationale": "El alcance aborda opinión pública y comportamiento político con múltiples diseños empíricos sin especialización computacional.",
+      "mainDashboardEligible": false,
+      "catalogPlacement": "catálogo contextual separado",
+      "topicTagsDoNotEstablishCSC": true,
+      "country": "Brasil",
+      "editorialLocation": "Campinas",
+      "region": "América Latina",
+      "regionalBasis": "Institución editora latinoamericana verificada en página oficial",
+      "verificationMethod": "Página editorial oficial abierta; alcance y entidad editora contrastados",
+      "latamCatalogEligible": true
+    },
+    {
+      "title": "Revista de Sociologia e Política",
+      "publisher": "Programa de Pós-Graduação em Ciência Política, Universidade Federal do Paraná",
+      "officialUrl": "https://revistas.ufpr.br/rsp/about/index",
+      "aimsScopeUrl": "https://revistas.ufpr.br/rsp/about/index",
+      "scopeSummary": "Ciencia política y sociología política centradas en prácticas políticas de agentes sociales, con inferencias apoyadas en datos y evidencia empírica.",
+      "fit": "Especializada en ciencia política y sociología política; métodos computacionales o IA deben servir a su pregunta política.",
+      "topics": [
+        "sociología política",
+        "ciencia política",
+        "investigación empírica",
+        "prácticas políticas"
+      ],
+      "evidenceChecked": "2026-10-25",
+      "notes": "Página /about/index abierta con alcance. La ruta alternativa /about mostró mantenimiento. No es una revista exclusiva de IA ni CSS. No se verificaron métricas ni indexación.",
+      "classification": "Ciencias sociales generales",
+      "criterionRationale": "El alcance se ocupa de prácticas políticas e inferencias apoyadas en evidencia sin exigir métodos computacionales.",
+      "mainDashboardEligible": false,
+      "catalogPlacement": "catálogo contextual separado",
+      "topicTagsDoNotEstablishCSC": true,
+      "country": "Brasil",
+      "editorialLocation": "Curitiba",
+      "region": "América Latina",
+      "regionalBasis": "Institución editora latinoamericana verificada en página oficial",
+      "verificationMethod": "Página editorial oficial abierta; alcance y entidad editora contrastados",
+      "latamCatalogEligible": true
+    },
+    {
+      "title": "PAAKAT: Revista de Tecnología y Sociedad",
+      "publisher": "Universidad de Guadalajara",
+      "country": "México",
+      "editorialLocation": "Guadalajara",
+      "region": "América Latina",
+      "regionalBasis": "Entidad editora latinoamericana verificada en fuente institucional oficial",
+      "officialUrl": "https://vicerrectoriaacademica.udg.mx/publicaciones/revistas/paakat",
+      "aimsScopeUrl": "https://vicerrectoriaacademica.udg.mx/publicaciones/revistas/paakat",
+      "scopeSummary": "Aborda tecnología y sociedad, ambientes virtuales, tecnologías de comunicación y aspectos antropológicos, históricos y sociales de la tecnología, cibercultura y gobernanza electrónica.",
+      "fit": "generalista con área pertinente",
+      "topics": [
+        "tecnología y sociedad",
+        "cibercultura",
+        "gobernanza electrónica"
+      ],
+      "evidenceChecked": "2026-10-25",
+      "notes": "La ficha de la universidad confirma editor, sede y línea editorial; el acceso directo a /about en la revista devolvió502.",
+      "verificationMethod": "Página editorial o institucional oficial abierta; alcance y entidad editora contrastados",
+      "classification": "IA y sociedad como objeto",
+      "criterionRationale": "Su línea editorial estudia relaciones sociales de las tecnologías, sin exigir aplicaciones de métodos computacionales a preguntas sociales.",
+      "mainDashboardEligible": false,
+      "catalogPlacement": "catálogo contextual separado",
+      "topicTagsDoNotEstablishCSC": true,
+      "latamCatalogEligible": true,
+      "journalUrl": "https://paakat.cugdl.udg.mx/index.php/paakat/index"
+    },
+    {
+      "title": "Chasqui. Revista Latinoamericana de Comunicación",
+      "publisher": "Centro Internacional de Estudios Superiores de Comunicación para América Latina (CIESPAL)",
+      "country": "Ecuador",
+      "editorialLocation": "Quito",
+      "region": "América Latina",
+      "regionalBasis": "Entidad editora latinoamericana verificada en fuente institucional oficial",
+      "officialUrl": "https://revistachasqui.org/index.php/chasqui/Enfoque_y_alcance",
+      "aimsScopeUrl": "https://revistachasqui.org/index.php/chasqui/Enfoque_y_alcance",
+      "scopeSummary": "Publica investigación de comunicación y ciencias sociales sobre desarrollo, políticas de información, mediaciones, tecnologías de comunicación y política, periodismo y culturas informativas.",
+      "fit": "generalista con área pertinente",
+      "topics": [
+        "comunicación y política",
+        "tecnologías de comunicación",
+        "políticas de información"
+      ],
+      "evidenceChecked": "2026-10-25",
+      "notes": "Revista completa; monográficos y Diálogo de Saberes son secciones internas y no revistas independientes.",
+      "verificationMethod": "Página editorial o institucional oficial abierta; alcance y entidad editora contrastados",
+      "classification": "IA y sociedad como objeto",
+      "criterionRationale": "El alcance incluye tecnologías de comunicación y política como objetos de estudio, pero no una especialización metodológica CSC.",
+      "mainDashboardEligible": false,
+      "catalogPlacement": "catálogo contextual separado",
+      "topicTagsDoNotEstablishCSC": true,
+      "latamCatalogEligible": true
+    },
+    {
+      "title": "El Faro. Revista Digital de Docencia Universitaria",
+      "publisher": "Universidad de Flores (UFLO)",
+      "country": "Argentina",
+      "editorialLocation": "Argentina; ciudad editorial no especificada en la página consultada",
+      "region": "América Latina",
+      "regionalBasis": "Entidad editora latinoamericana verificada en fuente institucional oficial",
+      "officialUrl": "https://revistaelfaro.uflo.edu.ar/index.php/elfaro/about",
+      "aimsScopeUrl": "https://revistaelfaro.uflo.edu.ar/index.php/elfaro/about",
+      "scopeSummary": "Revista sobre docencia y formación universitaria que admite investigaciones y reflexiones sobre tecnología en educación superior, política y gestión universitaria.",
+      "fit": "generalista con área pertinente",
+      "topics": [
+        "docencia universitaria",
+        "tecnología educativa",
+        "IA y educación superior"
+      ],
+      "evidenceChecked": "2026-10-25",
+      "notes": "Publicación UFLO verificada; no se confirma que sea la revista concreta que la usuaria tenía en mente. La página de Memorias de Jornadas IA corresponde a un texto en sección Reseñas, no otra revista.",
+      "verificationMethod": "Página editorial o institucional oficial abierta; alcance y entidad editora contrastados",
+      "classification": "IA y sociedad como objeto",
+      "criterionRationale": "El alcance es educación universitaria y tecnología educativa; sus textos sobre IA no convierten la revista completa en CSC.",
+      "mainDashboardEligible": false,
+      "catalogPlacement": "catálogo contextual separado",
+      "topicTagsDoNotEstablishCSC": true,
+      "latamCatalogEligible": true,
+      "relatedOfficialSources": [
+        {
+          "url": "https://revistaelfaro.uflo.edu.ar/index.php/elfaro/article/view/16",
+          "title": "Memorias de las Jornadas de Inteligencia Artificial",
+          "type": "Reseña publicada en El Faro,2024"
+        },
+        {
+          "url": "https://www.uflouniversidad.edu.ar/seccion/investigacion/publicaciones/",
+          "title": "Publicaciones y Sistemas de Difusión UFLO",
+          "type": "Directorio institucional"
+        }
+      ]
+    }
+  ],
+  "ufloIdentification": {
+    "status": "Identificación de la revista aludida por la usuaria pendiente de título; no adivinada",
+    "verifiedJournal": "El Faro. Revista Digital de Docencia Universitaria",
+    "otherOfficialJournal": "Aportes al Derecho: https://revistajuridica.uflo.edu.ar/index.php/RevistaJuridica/about, revista jurídica general sin especialización IA/CSS declarada",
+    "verifiedBook": {
+      "title": "Mitos y representaciones de la inteligencia artificial",
+      "publisher": "Editorial UFLO",
+      "year": 2025,
+      "editors": [
+        "Gastón Becerra",
+        "Joaquín Mezzadra",
+        "Guillermo Movia"
+      ],
+      "url": "https://editorial.uflo.edu.ar/index.php/producto/mitos-y-representaciones-de-la-inteligencia-artificial/",
+      "doi": "10.63790/978-987-710-129-4",
+      "note": "Libro, no revista. La página editorial lo identifica expresamente como libro."
+    }
+  },
+  "queries": [
+    "site:revistas.unam.mx Revista Mexicana de Sociología Enfoque y alcance",
+    "site:revistas.unam.mx Revista Mexicana de Ciencias Políticas y Sociales Enfoque y alcance",
+    "Opinião Pública revista objetivo escopo unicamp",
+    "Política y Gobierno revista enfoque CIDE",
+    "Dados revista ciências sociais site oficial sobre revista",
+    "Revista Mexicana Sociologia acerca revista objetivo",
+    "Revista CTS ciencia tecnologia sociedad acerca revista",
+    "Revista Latinoamericana Metodologia Investigacion Social sobre revista",
+    "site.uflo.edu.ar revistas científicas",
+    "site.revistacientifica.uflo.edu.ar inteligencia artificial política sociología",
+    "Chasqui revista enfoque alcance CIESPAL",
+    "Paakat revista tecnología sociedad acerca UDG"
+  ],
+  "limitations": [
+    "Selección rápida de9revistas; no constituye censo de revistas latinoamericanas.",
+    "No se infiere especialización CSC por afinidad temática o por un artículo sobre IA.",
+    "Los alcances generales permiten afinidad temática pero no garantizan adecuación de cualquier manuscrito concreto."
+  ]
+}
