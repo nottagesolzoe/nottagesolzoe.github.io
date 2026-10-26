@@ -295,5 +295,7 @@
     "url": "https://www-prod.media.mit.edu/publications/computational-social-science-obstacles-and-opportunities/"
   },
   "conceptualRule": "Desarrollo o aplicación de métodos computacionales a datos complejos de conducta humana, incluida simulada. La temática IA o gobernanza no es criterio suficiente.",
-  "AIUse": "Búsqueda dirigida por agentes, rastreo automatizado, extracción y revisión rápida asistida por modelos; sin validación humana integral."
+  "AIUse": "Búsqueda dirigida por agentes, rastreo automatizado, extracción y revisión rápida asistida por modelos; sin validación humana integral.",
+  "retryAudit": "rapid-retry-20261025.json",
+  "retryNote": "Respuestas técnicas del reintento. No se reclasifican automáticamente como revisión institucional o temática; se conservan los denominadores del barrido inicial."
 }

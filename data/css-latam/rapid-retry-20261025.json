@@ -1,0 +1,6578 @@
+{
+  "checked": "2026-10-25",
+  "method": "Failed normalized origins only; exact registered URL; one robots request plus at most one page; no redirects followed; TLS verified;20workers;timeouts3/5sec;2MBlimit. Explicit prior denials excluded.",
+  "elapsedSeconds": 73.8,
+  "distinctOriginalOrigins": 460,
+  "skippedDenials": [
+    {
+      "canonicalOrigin": "https://iua.edu.ar/",
+      "reason": "previous explicit denial/disallow"
+    },
+    {
+      "canonicalOrigin": "https://ucsh.cl/",
+      "reason": "previous explicit denial/disallow"
+    },
+    {
+      "canonicalOrigin": "https://ucsal.br/",
+      "reason": "previous explicit denial/disallow"
+    },
+    {
+      "canonicalOrigin": "https://ufn.edu.br/",
+      "reason": "previous explicit denial/disallow"
+    },
+    {
+      "canonicalOrigin": "https://ucsm.edu.pe/",
+      "reason": "previous explicit denial/disallow"
+    },
+    {
+      "canonicalOrigin": "https://unsm.edu.pe/",
+      "reason": "previous explicit denial/disallow"
+    },
+    {
+      "canonicalOrigin": "https://up.edu.pe/",
+      "reason": "previous explicit denial/disallow"
+    },
+    {
+      "canonicalOrigin": "https://uexternado.edu.co/",
+      "reason": "previous explicit denial/disallow"
+    },
+    {
+      "canonicalOrigin": "https://uniguajira.edu.co/",
+      "reason": "previous explicit denial/disallow"
+    },
+    {
+      "canonicalOrigin": "https://ucimed.com/",
+      "reason": "previous explicit denial/disallow"
+    },
+    {
+      "canonicalOrigin": "https://galileo.edu/",
+      "reason": "previous explicit denial/disallow"
+    },
+    {
+      "canonicalOrigin": "https://azc.uam.mx/",
+      "reason": "previous explicit denial/disallow"
+    },
+    {
+      "canonicalOrigin": "https://cuauhtemoc.edu.mx/",
+      "reason": "previous explicit denial/disallow"
+    },
+    {
+      "canonicalOrigin": "https://universidadmotolinia.edu.mx/",
+      "reason": "previous explicit denial/disallow"
+    },
+    {
+      "canonicalOrigin": "https://unpa.edu.mx/",
+      "reason": "previous explicit denial/disallow"
+    },
+    {
+      "canonicalOrigin": "https://intec.edu.do/",
+      "reason": "previous explicit denial/disallow"
+    },
+    {
+      "canonicalOrigin": "https://unphu.edu.do/",
+      "reason": "previous explicit denial/disallow"
+    }
+  ],
+  "results": [
+    {
+      "url": "http://www.iupa.edu.ar",
+      "canonicalOrigin": "https://iupa.edu.ar/",
+      "institutionIds": [
+        "7e66d476709b482b"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.iupa.edu.ar/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www. https://iuv.edu.ar",
+      "canonicalOrigin": "https:// https/",
+      "institutionIds": [
+        "3f9f2f90fc28c9f2"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://iucs.uncoma.edu.ar/",
+      "canonicalOrigin": "https://iucs.uncoma.edu.ar/",
+      "institutionIds": [
+        "0a5a3d8bd5a96e98"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.inun.edu.ar/",
+      "canonicalOrigin": "https://inun.edu.ar/",
+      "institutionIds": [
+        "0bd760f987a42ecf"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.iupfa.edu.ar",
+      "canonicalOrigin": "https://iupfa.edu.ar/",
+      "institutionIds": [
+        "4585ef1f442912b7"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.iupfa.edu.ar/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.iese.edu.ar/",
+      "canonicalOrigin": "https://iese.edu.ar/",
+      "institutionIds": [
+        "adfdf5cda068b895"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.uapar.edu/",
+      "canonicalOrigin": "https://uapar.edu/",
+      "institutionIds": [
+        "a5d4f5045e210cca"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.uapar.edu/",
+          "http": 403,
+          "contentType": "text/html",
+          "bytes": 787
+        }
+      ],
+      "robots": {
+        "url": "http://www.uapar.edu/robots.txt",
+        "http": 404
+      },
+      "status": "original URL failed or denied",
+      "accessible": false
+    },
+    {
+      "url": "http://www.uader.edu.ar/",
+      "canonicalOrigin": "https://uader.edu.ar/",
+      "institutionIds": [
+        "24e929be8bc0e9fb"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.uader.edu.ar/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.caece.edu.ar/",
+      "canonicalOrigin": "https://caece.edu.ar/",
+      "institutionIds": [
+        "2297ccf8e719c583"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.caece.edu.ar/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.uccor.edu.ar/",
+      "canonicalOrigin": "https://uccor.edu.ar/",
+      "institutionIds": [
+        "a5952d9e80c1b674"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.uccor.edu.ar/robots.txt",
+        "http": 523
+      },
+      "status": "robots unavailable; no page requested"
+    },
+    {
+      "url": "http://www.ucasal.net/",
+      "canonicalOrigin": "https://ucasal.net/",
+      "institutionIds": [
+        "a9fd764c9b226a88"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.uesiglo21.edu.ar/",
+      "canonicalOrigin": "https://uesiglo21.edu.ar/",
+      "institutionIds": [
+        "04958bc8639f61a0"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.uesiglo21.edu.ar/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.maimonides.edu.ar/",
+      "canonicalOrigin": "https://maimonides.edu.ar/",
+      "institutionIds": [
+        "038c3d224b5f4f02"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.maimonides.edu.ar/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.iunma.edu.ar/",
+      "canonicalOrigin": "https://iunma.edu.ar/",
+      "institutionIds": [
+        "f2e636b746b92e85"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.unca.edu.ar/",
+      "canonicalOrigin": "https://unca.edu.ar/",
+      "institutionIds": [
+        "db803d6d107786c2"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unca.edu.ar/robots.txt",
+        "http": 302
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.unf.edu.ar/",
+      "canonicalOrigin": "https://unf.edu.ar/",
+      "institutionIds": [
+        "db29e20da7362077"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.unahur.edu.ar",
+      "canonicalOrigin": "https://unahur.edu.ar/",
+      "institutionIds": [
+        "10ab7623545f17d2"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.unju.edu.ar/",
+      "canonicalOrigin": "https://unju.edu.ar/",
+      "institutionIds": [
+        "5bec49bc3ca393dc"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unju.edu.ar/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.unlam.edu.ar/",
+      "canonicalOrigin": "https://unlam.edu.ar/",
+      "institutionIds": [
+        "c9f58303427cfff8"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unlam.edu.ar/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.unlar.edu.ar/",
+      "canonicalOrigin": "https://unlar.edu.ar/",
+      "institutionIds": [
+        "fec75e41e9fd4d88"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unlar.edu.ar/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.unr.edu.ar/",
+      "canonicalOrigin": "https://unr.edu.ar/",
+      "institutionIds": [
+        "d5da2894a008ea02"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unr.edu.ar/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.untref.edu.ar/",
+      "canonicalOrigin": "https://untref.edu.ar/",
+      "institutionIds": [
+        "3620d6bce51675d0"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.unpa.edu.ar/",
+      "canonicalOrigin": "https://unpa.edu.ar/",
+      "institutionIds": [
+        "1f557f647e8b71af"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unpa.edu.ar/robots.txt",
+        "http": 302
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.upso.edu.ar/",
+      "canonicalOrigin": "https://upso.edu.ar/",
+      "institutionIds": [
+        "a15e89b93ce7dc35"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.ucongres.edu.ar/",
+      "canonicalOrigin": "https://ucongres.edu.ar/",
+      "institutionIds": [
+        "b7d90fa80688b23f"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.ucp.edu.ar/",
+      "canonicalOrigin": "https://ucp.edu.ar/",
+      "institutionIds": [
+        "9e30545de050d749"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.ucp.edu.ar/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.ufasta.edu.ar/",
+      "canonicalOrigin": "https://ufasta.edu.ar/",
+      "institutionIds": [
+        "789c39ed9a4773cd"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.salvador.edu.ar/",
+      "canonicalOrigin": "https://salvador.edu.ar/",
+      "institutionIds": [
+        "9ecb09e11747927d"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.salvador.edu.ar/",
+          "http": 403,
+          "contentType": "text/html; charset=ISO-8859-1",
+          "bytes": 5039
+        }
+      ],
+      "robots": {
+        "url": "http://www.salvador.edu.ar/robots.txt",
+        "http": 404
+      },
+      "status": "original URL failed or denied",
+      "accessible": false
+    },
+    {
+      "url": "http://www.academia.cl/",
+      "canonicalOrigin": "https://academia.cl/",
+      "institutionIds": [
+        "9cf9148c7cf13c01"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.udp.cl/",
+      "canonicalOrigin": "https://udp.cl/",
+      "institutionIds": [
+        "9f0d71c81d959073"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.udp.cl/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.uctem.cl/",
+      "canonicalOrigin": "https://uctem.cl/",
+      "institutionIds": [
+        "4d7c12d5a65d7093"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.uctem.cl/",
+          "http": 200,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 43630,
+          "title": "uctem.cl"
+        }
+      ],
+      "robots": {
+        "url": "http://www.uctem.cl/robots.txt",
+        "http": 200
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "domain_only_title_possible_parking"
+    },
+    {
+      "url": "http://www.ubohiggins.cl/",
+      "canonicalOrigin": "https://ubohiggins.cl/",
+      "institutionIds": [
+        "84d0f5860ddc3ebb"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.ubohiggins.cl/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.ujso.cl/",
+      "canonicalOrigin": "https://ujso.cl/",
+      "institutionIds": [
+        "d3a22a753c090040"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.ume.cl/",
+      "canonicalOrigin": "https://ume.cl/",
+      "institutionIds": [
+        "ea56edda6cb6e6d3"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.ulare.cl/",
+      "canonicalOrigin": "https://ulare.cl/",
+      "institutionIds": [
+        "501ca943ebe5a04f"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.ulare.cl/",
+          "http": 200,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 43630,
+          "title": "ulare.cl"
+        }
+      ],
+      "robots": {
+        "url": "http://www.ulare.cl/robots.txt",
+        "http": 200
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "domain_only_title_possible_parking"
+    },
+    {
+      "url": "http://www.umaritima.cl/",
+      "canonicalOrigin": "https://umaritima.cl/",
+      "institutionIds": [
+        "a4dfa85daeceb279"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.umaritima.cl/",
+          "http": 200,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 43706,
+          "title": "umaritima.cl"
+        }
+      ],
+      "robots": {
+        "url": "http://www.umaritima.cl/robots.txt",
+        "http": 200
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "domain_only_title_possible_parking"
+    },
+    {
+      "url": "http://www.uisek.cl/",
+      "canonicalOrigin": "https://uisek.cl/",
+      "institutionIds": [
+        "98af85081044db35"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.uisek.cl/",
+          "http": 301,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 0,
+          "location": "https://usek.cl/"
+        }
+      ],
+      "robots": {
+        "url": "http://www.uisek.cl/robots.txt",
+        "http": 200
+      },
+      "status": "redirect not followed; pending"
+    },
+    {
+      "url": "http://www.ucervantes.cl/",
+      "canonicalOrigin": "https://ucervantes.cl/",
+      "institutionIds": [
+        "dc6e4233875e1a5c"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.unfa.cl/",
+      "canonicalOrigin": "https://unfa.cl/",
+      "institutionIds": [
+        "86b54fa5f6dc2510"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.umce.cl/",
+      "canonicalOrigin": "https://umce.cl/",
+      "institutionIds": [
+        "713f5b3e454c84ce"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.umce.cl/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.uvipro.cl/",
+      "canonicalOrigin": "https://uvipro.cl/",
+      "institutionIds": [
+        "05bee07eea33ef7b"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.arquitecturaucv.cl/",
+      "canonicalOrigin": "https://arquitecturaucv.cl/",
+      "institutionIds": [
+        "18ff9da2ca8b23bf"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.ucinf.cl/",
+      "canonicalOrigin": "https://ucinf.cl/",
+      "institutionIds": [
+        "5ce0edd9a1cf4555"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.ucinf.cl/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.uamericas.cl/",
+      "canonicalOrigin": "https://uamericas.cl/",
+      "institutionIds": [
+        "11a2ae709ed67065"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.uantof.cl/",
+      "canonicalOrigin": "https://uantof.cl/",
+      "institutionIds": [
+        "409a339013b7e2cc"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.uantof.cl/",
+          "http": 301,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 0,
+          "location": "https://www.uantof.cl/"
+        }
+      ],
+      "robots": {
+        "url": "http://www.uantof.cl/robots.txt",
+        "http": 200
+      },
+      "status": "redirect not followed; pending"
+    },
+    {
+      "url": "http://www.usanandres.cl/",
+      "canonicalOrigin": "https://usanandres.cl/",
+      "institutionIds": [
+        "086cd44be3428377"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.uaconcagua.cl/",
+      "canonicalOrigin": "https://uaconcagua.cl/",
+      "institutionIds": [
+        "b67109cf328c3416"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.ufro.cl/",
+      "canonicalOrigin": "https://ufro.cl/",
+      "institutionIds": [
+        "a860012e83d9a24c"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.ubiobio.cl/",
+      "canonicalOrigin": "https://ubiobio.cl/",
+      "institutionIds": [
+        "ded0dd843b26ba06"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.ubiobio.cl/",
+          "http": 302,
+          "contentType": "text/html",
+          "bytes": 0,
+          "location": "http://www.ubiobio.cl/w/"
+        }
+      ],
+      "robots": {
+        "url": "http://www.ubiobio.cl/robots.txt",
+        "http": 404
+      },
+      "status": "redirect not followed; pending"
+    },
+    {
+      "url": "http://www.userena.cl/",
+      "canonicalOrigin": "https://userena.cl/",
+      "institutionIds": [
+        "c816ff75e2133bbd"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.udesarrollo.cl/",
+      "canonicalOrigin": "https://udesarrollo.cl/",
+      "institutionIds": [
+        "fbbed4cb4ddcb0d3"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.uas.cl/",
+      "canonicalOrigin": "https://uas.cl/",
+      "institutionIds": [
+        "5b10013729de6f46"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.uamericana.edu.py/",
+      "canonicalOrigin": "https://uamericana.edu.py/",
+      "institutionIds": [
+        "e1a63eda41b0f607"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.utalca.cl/",
+      "canonicalOrigin": "https://utalca.cl/",
+      "institutionIds": [
+        "e6dbc8480c770316"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.utalca.cl/robots.txt",
+        "http": 302
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.uta.cl/",
+      "canonicalOrigin": "https://uta.cl/",
+      "institutionIds": [
+        "9f02976d96dafe7a"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.uta.cl/robots.txt",
+        "http": 302
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.une.edu.py/",
+      "canonicalOrigin": "https://une.edu.py/",
+      "institutionIds": [
+        "27eb47eeca79572e"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.une.edu.py/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.una.py/",
+      "canonicalOrigin": "https://una.py/",
+      "institutionIds": [
+        "e544f047403e3465"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.una.py/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.unachile.cl/",
+      "canonicalOrigin": "https://unachile.cl/",
+      "institutionIds": [
+        "8763f45e63f6224d"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.unimonte.br/",
+      "canonicalOrigin": "https://unimonte.br/",
+      "institutionIds": [
+        "118b730811dc48c1"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unimonte.br/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.newtonpaiva.br/",
+      "canonicalOrigin": "https://newtonpaiva.br/",
+      "institutionIds": [
+        "76c591ba36535369"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.newtonpaiva.br/",
+          "http": 301,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 0,
+          "location": "https://newtonpaiva.br/"
+        }
+      ],
+      "robots": {
+        "url": "http://www.newtonpaiva.br/robots.txt",
+        "http": 200
+      },
+      "status": "redirect not followed; pending"
+    },
+    {
+      "url": "http://www.unifeso.edu.br/",
+      "canonicalOrigin": "https://unifeso.edu.br/",
+      "institutionIds": [
+        "10c7eb6e2fcaa1fd"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.unipe.br/",
+      "canonicalOrigin": "https://unipe.br/",
+      "institutionIds": [
+        "b68fd10f5c405e06"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unipe.br/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "https://www.inpg.edu.br/",
+      "canonicalOrigin": "https://inpg.edu.br/",
+      "institutionIds": [
+        "587f4c1c73261399"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.unipli.com.br/",
+      "canonicalOrigin": "https://unipli.com.br/",
+      "institutionIds": [
+        "4d84cae853cc304f"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.faculdadescuritiba.br/",
+      "canonicalOrigin": "https://faculdadescuritiba.br/",
+      "institutionIds": [
+        "4290dc6bb0f275b5"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.fic.br/",
+      "canonicalOrigin": "https://fic.br/",
+      "institutionIds": [
+        "0142fb83acaa435b"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "https://www.sancarlos.edu.py/",
+      "canonicalOrigin": "https://sancarlos.edu.py/",
+      "institutionIds": [
+        "52ab53fe65f97b48"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "https://www.sancarlos.edu.py/",
+          "http": 500,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 2628
+        }
+      ],
+      "robots": {
+        "url": "https://www.sancarlos.edu.py/robots.txt",
+        "http": 200
+      },
+      "status": "original URL failed or denied",
+      "accessible": false
+    },
+    {
+      "url": "http://www.upis.br/",
+      "canonicalOrigin": "https://upis.br/",
+      "institutionIds": [
+        "380ec07802574f29"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.upis.br/",
+          "http": 200,
+          "contentType": "text/html",
+          "bytes": 2751,
+          "title": "Faculdade UPIS | UniÃ£o Pioneira da IntegraÃ§Ã£o Social"
+        }
+      ],
+      "robots": {
+        "url": "http://www.upis.br/robots.txt",
+        "http": 404
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "https://www.fho.edu.br/",
+      "canonicalOrigin": "https://fho.edu.br/",
+      "institutionIds": [
+        "1857045aabaae31e"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "https://www.fho.edu.br/",
+          "http": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 53412,
+          "title": "FHO | Fundação Hermínio Ometto"
+        }
+      ],
+      "robots": {
+        "url": "https://www.fho.edu.br/robots.txt",
+        "http": 200
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "https://www.insper.edu.br/",
+      "canonicalOrigin": "https://insper.edu.br/",
+      "institutionIds": [
+        "52b1ef9661b3d52d"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "https://www.insper.edu.br/",
+          "http": 403,
+          "contentType": "text/html",
+          "bytes": 375
+        }
+      ],
+      "robots": {
+        "url": "https://www.insper.edu.br/robots.txt",
+        "http": 200
+      },
+      "status": "original URL failed or denied",
+      "accessible": false
+    },
+    {
+      "url": "http://www.ita.br/",
+      "canonicalOrigin": "https://ita.br/",
+      "institutionIds": [
+        "22c47b62fe2f1a9e"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.ita.br/",
+          "http": 200,
+          "contentType": "text/html",
+          "bytes": 2910,
+          "title": "ITA | Instituto TecnolÃ³gico de AeronÃ¡utica"
+        }
+      ],
+      "robots": {
+        "url": "http://www.ita.br/robots.txt",
+        "http": 404
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "http://www.ime.eb.mil.br/",
+      "canonicalOrigin": "https://ime.eb.mil.br/",
+      "institutionIds": [
+        "9e91777dda3f4b30"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.ime.eb.mil.br/robots.txt",
+        "http": 302
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.brazcubas.br/",
+      "canonicalOrigin": "https://brazcubas.br/",
+      "institutionIds": [
+        "bbd6e2b4e8a310a9"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.brazcubas.br/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.uniban.br/",
+      "canonicalOrigin": "https://uniban.br/",
+      "institutionIds": [
+        "633942d84f5c2702"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.uniban.br/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.unibosco.br/",
+      "canonicalOrigin": "https://unibosco.br/",
+      "institutionIds": [
+        "bbef443fb2d97440"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.unibosco.br/",
+          "http": 404,
+          "contentType": "text/html; charset=us-ascii",
+          "bytes": 315
+        }
+      ],
+      "robots": {
+        "url": "http://www.unibosco.br/robots.txt",
+        "http": 404
+      },
+      "status": "original URL failed or denied",
+      "accessible": false
+    },
+    {
+      "url": "http://www.ucg.br/",
+      "canonicalOrigin": "https://ucg.br/",
+      "institutionIds": [
+        "3c74d26b4e7ffaa7"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.ucg.br/",
+          "http": 200,
+          "contentType": "text/html",
+          "bytes": 1433,
+          "title": "Under Construction"
+        }
+      ],
+      "robots": {
+        "url": "http://www.ucg.br/robots.txt",
+        "http": 404
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "placeholder_or_maintenance"
+    },
+    {
+      "url": "http://www.unicap.br/",
+      "canonicalOrigin": "https://unicap.br/",
+      "institutionIds": [
+        "fab7b8bf5eba694d"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unicap.br/robots.txt",
+        "http": 403
+      },
+      "status": "robots denied; no page requested"
+    },
+    {
+      "url": "http://www.unicid.br/",
+      "canonicalOrigin": "https://unicid.br/",
+      "institutionIds": [
+        "f1a2a25b19fbf6dc"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unicid.br/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.unicsul.br/",
+      "canonicalOrigin": "https://unicsul.br/",
+      "institutionIds": [
+        "c788aa43a5689090"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unicsul.br/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.ucpel.tche.br/",
+      "canonicalOrigin": "https://ucpel.tche.br/",
+      "institutionIds": [
+        "175480b4461d87f4"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.ucpel.tche.br/robots.txt",
+        "http": 307
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.uesb.br/",
+      "canonicalOrigin": "https://uesb.br/",
+      "institutionIds": [
+        "3a85e694e1a24b42"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.unicastelo.br/",
+      "canonicalOrigin": "https://unicastelo.br/",
+      "institutionIds": [
+        "b88454c9b8c0606d"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.uepb.edu.br/",
+      "canonicalOrigin": "https://uepb.edu.br/",
+      "institutionIds": [
+        "f4e21335d2e40a94"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.uepb.edu.br/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.uel.br/",
+      "canonicalOrigin": "https://uel.br/",
+      "institutionIds": [
+        "baac978de4fea640"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.uel.br/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.unimontes.br/",
+      "canonicalOrigin": "https://unimontes.br/",
+      "institutionIds": [
+        "48e6e25af0856433"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unimontes.br/robots.txt",
+        "http": 308
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.candidomendes.br/",
+      "canonicalOrigin": "https://candidomendes.br/",
+      "institutionIds": [
+        "b39cfa78743eff65"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.puccamp.br/",
+      "canonicalOrigin": "https://puccamp.br/",
+      "institutionIds": [
+        "2fca28fa0b0134a0"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.uvanet.br/",
+      "canonicalOrigin": "https://uvanet.br/",
+      "institutionIds": [
+        "d65f99f7cef997eb"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.uvanet.br/",
+          "http": 302,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 0,
+          "location": "https://www.uva.ce.gov.br"
+        }
+      ],
+      "robots": {
+        "url": "http://www.uvanet.br/robots.txt",
+        "http": 404
+      },
+      "status": "redirect not followed; pending"
+    },
+    {
+      "url": "http://www.uefs.br/",
+      "canonicalOrigin": "https://uefs.br/",
+      "institutionIds": [
+        "198f49882f6d6930"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.ufrpe.br/",
+      "canonicalOrigin": "https://ufrpe.br/",
+      "institutionIds": [
+        "f2dfa447a4522ffc"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.ufrpe.br/robots.txt",
+        "http": 403
+      },
+      "status": "robots denied; no page requested"
+    },
+    {
+      "url": "http://www.uenf.br/",
+      "canonicalOrigin": "https://uenf.br/",
+      "institutionIds": [
+        "fab1e4ea449c0a3e"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.uespi.br/",
+      "canonicalOrigin": "https://uespi.br/",
+      "institutionIds": [
+        "563975ec264a1611"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.uespi.br/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.ufrrj.br/",
+      "canonicalOrigin": "https://ufrrj.br/",
+      "institutionIds": [
+        "8e67e73edc77cb08"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.ufpe.br/",
+      "canonicalOrigin": "https://ufpe.br/",
+      "institutionIds": [
+        "cb18d07b848ff32b"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.ufcg.edu.br/",
+      "canonicalOrigin": "https://ufcg.edu.br/",
+      "institutionIds": [
+        "9389206162ffd2ec"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.ufmt.br/",
+      "canonicalOrigin": "https://ufmt.br/",
+      "institutionIds": [
+        "ef38762828503667"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.ufop.br/",
+      "canonicalOrigin": "https://ufop.br/",
+      "institutionIds": [
+        "f0f55d562f3288f0"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.ufop.br/robots.txt",
+        "http": 302
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.epm.br/",
+      "canonicalOrigin": "https://epm.br/",
+      "institutionIds": [
+        "9ba5be0b7bdad257"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.unir.br/",
+      "canonicalOrigin": "https://unir.br/",
+      "institutionIds": [
+        "6e846d7167d1feb9"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.ufac.br/",
+      "canonicalOrigin": "https://ufac.br/",
+      "institutionIds": [
+        "0620e1c341de1db5"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.ufac.br/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.ufpi.br/",
+      "canonicalOrigin": "https://ufpi.br/",
+      "institutionIds": [
+        "38d04161001b0871"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.ufpi.br/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.ufg.br/",
+      "canonicalOrigin": "https://ufg.br/",
+      "institutionIds": [
+        "ea8dbd4eb869b13d"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.ufg.br/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.univasf.edu.br/",
+      "canonicalOrigin": "https://univasf.edu.br/",
+      "institutionIds": [
+        "ed04968072e3f856"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.univasf.edu.br/robots.txt",
+        "http": 302
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.ufpr.br/",
+      "canonicalOrigin": "https://ufpr.br/",
+      "institutionIds": [
+        "e96c32ff7e43d751"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.ufpr.br/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.ufabc.edu.br/",
+      "canonicalOrigin": "https://ufabc.edu.br/",
+      "institutionIds": [
+        "a46530d7dde547ce"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.unimep.br/",
+      "canonicalOrigin": "https://unimep.br/",
+      "institutionIds": [
+        "6960adc271c62902"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.unimep.br/",
+          "http": 302,
+          "contentType": "text/html; charset=iso-8859-1",
+          "bytes": 287,
+          "location": "http://www.unimep.edu.br"
+        }
+      ],
+      "robots": {
+        "url": "http://www.unimep.br/robots.txt",
+        "http": 200
+      },
+      "status": "redirect not followed; pending"
+    },
+    {
+      "url": "http://www.ufma.br/",
+      "canonicalOrigin": "https://ufma.br/",
+      "institutionIds": [
+        "7131e6c86985b7c2"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.ufma.br/",
+          "http": 302,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 0,
+          "location": "https://portalpadrao.ufma.br"
+        }
+      ],
+      "robots": {
+        "url": "http://www.ufma.br/robots.txt",
+        "http": 404
+      },
+      "status": "redirect not followed; pending"
+    },
+    {
+      "url": "http://www.unijui.tche.br/",
+      "canonicalOrigin": "https://unijui.tche.br/",
+      "institutionIds": [
+        "553d23dea2481676"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.uri.br/",
+      "canonicalOrigin": "https://uri.br/",
+      "institutionIds": [
+        "2e1e3f5caf8a8f07"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.uri.br/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.usf.br/",
+      "canonicalOrigin": "https://usf.br/",
+      "institutionIds": [
+        "cf9719d5ce76de14"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.usu.br/",
+      "canonicalOrigin": "https://usu.br/",
+      "institutionIds": [
+        "ddf28b0936075eb1"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.usu.br/robots.txt",
+        "http": 520
+      },
+      "status": "robots unavailable; no page requested"
+    },
+    {
+      "url": "http://www.unit.br/",
+      "canonicalOrigin": "https://unit.br/",
+      "institutionIds": [
+        "672f1ed14689468d"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unit.br/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.universo.br/",
+      "canonicalOrigin": "https://universo.br/",
+      "institutionIds": [
+        "d650ad5c3dd392d2"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.universo.br/robots.txt",
+        "http": 200
+      },
+      "status": "robots disallow; no page requested"
+    },
+    {
+      "url": "http://www.ucs.tche.br/",
+      "canonicalOrigin": "https://ucs.tche.br/",
+      "institutionIds": [
+        "98e15cd22fc332c4"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.unama.br/",
+      "canonicalOrigin": "https://unama.br/",
+      "institutionIds": [
+        "6742683acd209930"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unama.br/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.unicruz.tche.br/",
+      "canonicalOrigin": "https://unicruz.tche.br/",
+      "institutionIds": [
+        "788f6a892bde4dbf"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.unifran.br/",
+      "canonicalOrigin": "https://unifran.br/",
+      "institutionIds": [
+        "2669644e935a62ce"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unifran.br/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.smarcos.br/",
+      "canonicalOrigin": "https://smarcos.br/",
+      "institutionIds": [
+        "d29288b224def7f1"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.unimar.br/",
+      "canonicalOrigin": "https://unimar.br/",
+      "institutionIds": [
+        "2bdb79863b210114"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unimar.br/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.ung.br/",
+      "canonicalOrigin": "https://ung.br/",
+      "institutionIds": [
+        "a77a1b3d8f8932fb"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.ung.br/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.upe.br/",
+      "canonicalOrigin": "https://upe.br/",
+      "institutionIds": [
+        "bbdfe4781e09898f"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.upe.br/",
+          "http": 200,
+          "contentType": "text/html",
+          "bytes": 134,
+          "title": ""
+        }
+      ],
+      "robots": {
+        "url": "http://www.upe.br/robots.txt",
+        "http": 200
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "title_absent_content_not_validated"
+    },
+    {
+      "url": "http://www.unaerp.br/",
+      "canonicalOrigin": "https://unaerp.br/",
+      "institutionIds": [
+        "6f502f74e8b200c1"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unaerp.br/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.pop-to.rnp.br/",
+      "canonicalOrigin": "https://pop-to.rnp.br/",
+      "institutionIds": [
+        "ed8e18150d399ea5"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.pop-to.rnp.br/robots.txt",
+        "http": 302
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.unitau.br/",
+      "canonicalOrigin": "https://unitau.br/",
+      "institutionIds": [
+        "eb055265c4187870"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unitau.br/robots.txt",
+        "http": 403
+      },
+      "status": "robots denied; no page requested"
+    },
+    {
+      "url": "http://www.urcamp.tche.br/",
+      "canonicalOrigin": "https://urcamp.tche.br/",
+      "institutionIds": [
+        "3d9e14a7e979c2bf"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.fua.br/",
+      "canonicalOrigin": "https://fua.br/",
+      "institutionIds": [
+        "53e8271f6ccbff6f"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.uerj.br/",
+      "canonicalOrigin": "https://uerj.br/",
+      "institutionIds": [
+        "697d563c2844764f"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.uern.br/",
+      "canonicalOrigin": "https://uern.br/",
+      "institutionIds": [
+        "990c35043a1c1bc0"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.uern.br/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.unirio.br/",
+      "canonicalOrigin": "https://unirio.br/",
+      "institutionIds": [
+        "9f2836ab3756db5a"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unirio.br/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.univali.rct-sc.br/",
+      "canonicalOrigin": "https://univali.rct-sc.br/",
+      "institutionIds": [
+        "4e9bd6fba3467389"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.ufvjm.edu.br/",
+      "canonicalOrigin": "https://ufvjm.edu.br/",
+      "institutionIds": [
+        "54dc7b36ff77f4b7"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.upf.tche.br/",
+      "canonicalOrigin": "https://upf.tche.br/",
+      "institutionIds": [
+        "ecd039c5ae917236"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.upf.tche.br/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "https://www.univap.br/",
+      "canonicalOrigin": "https://univap.br/",
+      "institutionIds": [
+        "32f9e52849ef9a23"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "https://www.univap.br/",
+          "http": 302,
+          "contentType": "text/html",
+          "bytes": 145,
+          "location": "https://www.univap.br/univap/"
+        }
+      ],
+      "robots": {
+        "url": "https://www.univap.br/robots.txt",
+        "http": 200
+      },
+      "status": "redirect not followed; pending"
+    },
+    {
+      "url": "http://www.uapnet.edu.bo/",
+      "canonicalOrigin": "https://uapnet.edu.bo/",
+      "institutionIds": [
+        "510d27d3504666fa"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.uab.edu.bo/",
+      "canonicalOrigin": "https://uab.edu.bo/",
+      "institutionIds": [
+        "eda146f3a6ab7829"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.uab.edu.bo/",
+          "http": 200,
+          "contentType": "text/html",
+          "bytes": 18382,
+          "title": "Universidad Adventista de Bolivia â Profesionales con valores"
+        }
+      ],
+      "robots": {
+        "url": "http://www.uab.edu.bo/robots.txt",
+        "http": 200
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "http://www.urca.br/",
+      "canonicalOrigin": "https://urca.br/",
+      "institutionIds": [
+        "dac854e0faedffd6"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.ucbcba.edu.bo/",
+      "canonicalOrigin": "https://ucbcba.edu.bo/",
+      "institutionIds": [
+        "66d4b081929ec163"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.ucbscz.edu.bo/",
+      "canonicalOrigin": "https://ucbscz.edu.bo/",
+      "institutionIds": [
+        "50685ae315c9095f"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.unikuljis.edu.bo/",
+      "canonicalOrigin": "https://unikuljis.edu.bo/",
+      "institutionIds": [
+        "ec51483e7c99bc0e"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.stcecilia.br/",
+      "canonicalOrigin": "https://stcecilia.br/",
+      "institutionIds": [
+        "5d19d538ec9e806c"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.uajms.edu.bo/",
+      "canonicalOrigin": "https://uajms.edu.bo/",
+      "institutionIds": [
+        "f9fe096b8d73e388"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.uajms.edu.bo/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.umsanet.edu.bo/",
+      "canonicalOrigin": "https://umsanet.edu.bo/",
+      "institutionIds": [
+        "ee1266b881ab7764"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.furb.rct-sc.br/",
+      "canonicalOrigin": "https://furb.rct-sc.br/",
+      "institutionIds": [
+        "d1c2f5112e5a3819"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.ufpel.tche.br/",
+      "canonicalOrigin": "https://ufpel.tche.br/",
+      "institutionIds": [
+        "0074af7970ab74e7"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.unsxx.edu.bo/",
+      "canonicalOrigin": "https://unsxx.edu.bo/",
+      "institutionIds": [
+        "f678c87c9f982225"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.uto.edu.bo/",
+      "canonicalOrigin": "https://uto.edu.bo/",
+      "institutionIds": [
+        "cf0fde3cf802cd6d"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.uto.edu.bo/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.unesc.rct-sc.br/",
+      "canonicalOrigin": "https://unesc.rct-sc.br/",
+      "institutionIds": [
+        "755fb0fdd6fe0f6a"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.univalle.edu/",
+      "canonicalOrigin": "https://univalle.edu/",
+      "institutionIds": [
+        "9e76536dbebc4a35"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.univalle.edu/",
+          "http": 301,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 0,
+          "location": "https://www.univalle.edu/"
+        }
+      ],
+      "robots": {
+        "url": "http://www.univalle.edu/robots.txt",
+        "http": 404
+      },
+      "status": "redirect not followed; pending"
+    },
+    {
+      "url": "http://www.ucsur.edu.pe/",
+      "canonicalOrigin": "https://ucsur.edu.pe/",
+      "institutionIds": [
+        "ee8d53ce443effad"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.upb.edu/",
+      "canonicalOrigin": "https://upb.edu/",
+      "institutionIds": [
+        "df043b0eb885f371"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.upb.edu/robots.txt",
+        "http": 308
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.champagnat.edu.pe/",
+      "canonicalOrigin": "https://champagnat.edu.pe/",
+      "institutionIds": [
+        "579d05c1eb9bc26d"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.champagnat.edu.pe/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.usat.edu.pe/",
+      "canonicalOrigin": "https://usat.edu.pe/",
+      "institutionIds": [
+        "687f72e353ac63ca"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.usat.edu.pe/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.unfv.edu.pe/",
+      "canonicalOrigin": "https://unfv.edu.pe/",
+      "institutionIds": [
+        "0ae54cbbae696a6f"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unfv.edu.pe/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.unas.edu.pe/",
+      "canonicalOrigin": "https://unas.edu.pe/",
+      "institutionIds": [
+        "e0115054768f52ec"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.unas.edu.pe/",
+          "http": 302,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 3,
+          "location": "http://www.unas.edu.pe/web"
+        }
+      ],
+      "robots": {
+        "url": "http://www.unas.edu.pe/robots.txt",
+        "http": 404
+      },
+      "status": "redirect not followed; pending"
+    },
+    {
+      "url": "http://www.unprg.edu.pe/",
+      "canonicalOrigin": "https://unprg.edu.pe/",
+      "institutionIds": [
+        "7fed51d7c5376e3e"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unprg.edu.pe/robots.txt",
+        "http": 403
+      },
+      "status": "robots denied; no page requested"
+    },
+    {
+      "url": "http://www.uladech.edu.pe/",
+      "canonicalOrigin": "https://uladech.edu.pe/",
+      "institutionIds": [
+        "1a9fddb44806810e"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.uladech.edu.pe/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.unmsm.edu.pe/",
+      "canonicalOrigin": "https://unmsm.edu.pe/",
+      "institutionIds": [
+        "8056aac7e8faf2d1"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unmsm.edu.pe/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.unc.edu.pe/",
+      "canonicalOrigin": "https://unc.edu.pe/",
+      "institutionIds": [
+        "f40a5bdb6537e457"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unc.edu.pe/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.pucp.edu.pe/",
+      "canonicalOrigin": "https://pucp.edu.pe/",
+      "institutionIds": [
+        "86159fe98e1e7286"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.unsa.edu.pe/",
+      "canonicalOrigin": "https://unsa.edu.pe/",
+      "institutionIds": [
+        "a9fea513e6a83e02"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unsa.edu.pe/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.usfx.info/",
+      "canonicalOrigin": "https://usfx.info/",
+      "institutionIds": [
+        "26551aed171826fd"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.usfx.info/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.unsch.edu.pe/",
+      "canonicalOrigin": "https://unsch.edu.pe/",
+      "institutionIds": [
+        "917ecbf3dd9202d2"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.unsaac.edu.pe/",
+      "canonicalOrigin": "https://unsaac.edu.pe/",
+      "institutionIds": [
+        "e991e0f738ddb659"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unsaac.edu.pe/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.lamolina.edu.pe/",
+      "canonicalOrigin": "https://lamolina.edu.pe/",
+      "institutionIds": [
+        "1540086c06a7182f"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.uns.edu.pe/",
+      "canonicalOrigin": "https://uns.edu.pe/",
+      "institutionIds": [
+        "bb8b6f33216f6272"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.uns.edu.pe/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.unap.edu.pe/",
+      "canonicalOrigin": "https://unap.edu.pe/",
+      "institutionIds": [
+        "e53e1613340ed955"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unap.edu.pe/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.unp.edu.pe/",
+      "canonicalOrigin": "https://unp.edu.pe/",
+      "institutionIds": [
+        "6e13e945f45a22ab"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unp.edu.pe/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.unapiquitos.edu.pe/",
+      "canonicalOrigin": "https://unapiquitos.edu.pe/",
+      "institutionIds": [
+        "07b353a9467bdf59"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unapiquitos.edu.pe/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.ugf.br/",
+      "canonicalOrigin": "https://ugf.br/",
+      "institutionIds": [
+        "11b5cfb07fd45c59"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.unidavi.rct-sc.br/",
+      "canonicalOrigin": "https://unidavi.rct-sc.br/",
+      "institutionIds": [
+        "4ad9c6649f9a9dfd"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.upch.edu.pe/",
+      "canonicalOrigin": "https://upch.edu.pe/",
+      "institutionIds": [
+        "348aa157f56067d7"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.upt.edu.pe/",
+      "canonicalOrigin": "https://upt.edu.pe/",
+      "institutionIds": [
+        "1e2aa0e60f38efba"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.upt.edu.pe/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.sil.edu.pe/",
+      "canonicalOrigin": "https://sil.edu.pe/",
+      "institutionIds": [
+        "1a470c308b49ccd1"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ReadTimeout"
+    },
+    {
+      "url": "http://www.urp.edu.pe/",
+      "canonicalOrigin": "https://urp.edu.pe/",
+      "institutionIds": [
+        "803be8bf6e3ec8ac"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.urp.edu.pe/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.usmp.edu.pe/",
+      "canonicalOrigin": "https://usmp.edu.pe/",
+      "institutionIds": [
+        "6e9b2460163f0568"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.usmp.edu.pe/robots.txt",
+        "http": 403
+      },
+      "status": "robots denied; no page requested"
+    },
+    {
+      "url": "http://www.upnorte.edu.pe/",
+      "canonicalOrigin": "https://upnorte.edu.pe/",
+      "institutionIds": [
+        "6567ab0ad27f0a7b"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.umb.edu.pe/",
+      "canonicalOrigin": "https://umb.edu.pe/",
+      "institutionIds": [
+        "6bcb9b38e5ce140d"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.udl.edu.pe/",
+      "canonicalOrigin": "https://udl.edu.pe/",
+      "institutionIds": [
+        "3e85542820e4704d"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.usanpedro.edu.pe/",
+      "canonicalOrigin": "https://usanpedro.edu.pe/",
+      "institutionIds": [
+        "a5fc40c459b540cd"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.usanpedro.edu.pe/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.brookdale.edu.ec/",
+      "canonicalOrigin": "https://brookdale.edu.ec/",
+      "institutionIds": [
+        "4a4bc51690b33c39"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.espoch.edu/",
+      "canonicalOrigin": "https://espoch.edu/",
+      "institutionIds": [
+        "4bf65c09263b1710"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.espe.edu.ec/",
+      "canonicalOrigin": "https://espe.edu.ec/",
+      "institutionIds": [
+        "d7039fdf5fbefbf8"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.puce.edu.ec/",
+      "canonicalOrigin": "https://puce.edu.ec/",
+      "institutionIds": [
+        "1cf421ac5a2422fd"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.espol.edu.ec/",
+      "canonicalOrigin": "https://espol.edu.ec/",
+      "institutionIds": [
+        "30f4bf0e4337a3f2"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.espol.edu.ec/",
+          "http": 301,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 350,
+          "location": "http://www.espol.edu.ec/es"
+        }
+      ],
+      "robots": {
+        "url": "http://www.espol.edu.ec/robots.txt",
+        "http": 200
+      },
+      "status": "redirect not followed; pending"
+    },
+    {
+      "url": "http://www.ucaazo.edu.ec/",
+      "canonicalOrigin": "https://ucaazo.edu.ec/",
+      "institutionIds": [
+        "028d7557eccd3c13"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.usp.edu.pe/",
+      "canonicalOrigin": "https://usp.edu.pe/",
+      "institutionIds": [
+        "ab54397ddb531d4f"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.ucentral.edu.ec/",
+      "canonicalOrigin": "https://ucentral.edu.ec/",
+      "institutionIds": [
+        "b03084cb29bb0d76"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.ueb.isfun.net/",
+      "canonicalOrigin": "https://ueb.isfun.net/",
+      "institutionIds": [
+        "61e3bf045086d5c4"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.udh.edu.pe/",
+      "canonicalOrigin": "https://udh.edu.pe/",
+      "institutionIds": [
+        "d7d1cf9d1f73953d"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.udh.edu.pe/",
+          "http": 200,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 75377,
+          "title": "UDH - Universidad de Huánuco, licenciado por SUNEDU - Login UDH - Sistema de Matricula - Acceso Académico"
+        }
+      ],
+      "robots": {
+        "url": "http://www.udh.edu.pe/robots.txt",
+        "http": 404
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "http://www.usfq.edu.ec/",
+      "canonicalOrigin": "https://usfq.edu.ec/",
+      "institutionIds": [
+        "d8b651c166bf659e"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.usfq.edu.ec/",
+          "http": 301,
+          "contentType": "text/html; charset=iso-8859-1",
+          "bytes": 232,
+          "location": "https://www.usfq.edu.ec/"
+        }
+      ],
+      "robots": {
+        "url": "http://www.usfq.edu.ec/robots.txt",
+        "http": 200
+      },
+      "status": "redirect not followed; pending"
+    },
+    {
+      "url": "http://www.uisrael.ec/",
+      "canonicalOrigin": "https://uisrael.ec/",
+      "institutionIds": [
+        "980a265f07aefa90"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.unita.edu.ec/",
+      "canonicalOrigin": "https://unita.edu.ec/",
+      "institutionIds": [
+        "6342c593e92999e4"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.usm.edu.ec/",
+      "canonicalOrigin": "https://usm.edu.ec/",
+      "institutionIds": [
+        "feff5771f64c7341"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.utsam.edu.ec/",
+      "canonicalOrigin": "https://utsam.edu.ec/",
+      "institutionIds": [
+        "4f594c85ccb6a5d7"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.utpl.edu.ec/",
+      "canonicalOrigin": "https://utpl.edu.ec/",
+      "institutionIds": [
+        "2605adeb98410fab"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.utpl.edu.ec/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.internacional.edu.ec/",
+      "canonicalOrigin": "https://internacional.edu.ec/",
+      "institutionIds": [
+        "80ca5aba16e23dbb"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.utc.edu.ec/",
+      "canonicalOrigin": "https://utc.edu.ec/",
+      "institutionIds": [
+        "376dd5f40caf5d0b"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.utc.edu.ec/",
+          "http": 200,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 85571,
+          "title": "Universidad Técnica de Cotopaxi > Home"
+        }
+      ],
+      "robots": {
+        "url": "http://www.utc.edu.ec/robots.txt",
+        "http": 200
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "http://www.ulaicavr.com/",
+      "canonicalOrigin": "https://ulaicavr.com/",
+      "institutionIds": [
+        "5f517797d9f309e3"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.uleam.edu.ec/",
+      "canonicalOrigin": "https://uleam.edu.ec/",
+      "institutionIds": [
+        "7e0f4090dbda01cd"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.uct.edu.ec/",
+      "canonicalOrigin": "https://uct.edu.ec/",
+      "institutionIds": [
+        "71edca5ef7d4b1c7"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.unach.edu.ec/",
+      "canonicalOrigin": "https://unach.edu.ec/",
+      "institutionIds": [
+        "8ca76a7c9ae64ffe"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.uanarino.edu.co/",
+      "canonicalOrigin": "https://uanarino.edu.co/",
+      "institutionIds": [
+        "bf168e098276a545"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "https://www.uan.edu.co",
+      "canonicalOrigin": "https://uan.edu.co/",
+      "institutionIds": [
+        "bf168e098276a545"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "https://www.uan.edu.co",
+          "http": 200,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 249529,
+          "title": "Universidad Antonio Nariño"
+        }
+      ],
+      "robots": {
+        "url": "https://www.uan.edu.co/robots.txt",
+        "http": 200
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "http://www.uan.edu.co/design/sedes/home.htm",
+      "canonicalOrigin": "https://uan.edu.co/",
+      "institutionIds": [
+        "bf168e098276a545"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.uan.edu.co/robots.txt",
+        "http": 302
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "https://www.unipiloto.edu.co",
+      "canonicalOrigin": "https://unipiloto.edu.co/",
+      "institutionIds": [
+        "436d2757ca6fc539"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "https://www.unipiloto.edu.co",
+          "http": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 400707,
+          "title": "Universidad Piloto de Colombia - Excelencia académica certificada"
+        }
+      ],
+      "robots": {
+        "url": "https://www.unipiloto.edu.co/robots.txt",
+        "http": 200
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "http://www.unipiloto.edu.co/",
+      "canonicalOrigin": "https://unipiloto.edu.co/",
+      "institutionIds": [
+        "1175acf5f7b6faeb"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unipiloto.edu.co/robots.txt",
+        "http": 302
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.iceit.edu.co/",
+      "canonicalOrigin": "https://iceit.edu.co/",
+      "institutionIds": [
+        "eccdfcc5ecd08910"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.cutb.edu.co/",
+      "canonicalOrigin": "https://cutb.edu.co/",
+      "institutionIds": [
+        "2f1ba7dfb8f90abd"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.cui.edu.co/",
+      "canonicalOrigin": "https://cui.edu.co/",
+      "institutionIds": [
+        "84f8103f7bd44f12"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.ean.edu.co/",
+      "canonicalOrigin": "https://ean.edu.co/",
+      "institutionIds": [
+        "065fac73d425dc2b"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.ean.edu.co/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "https://universidadean.edu.co/",
+      "canonicalOrigin": "https://universidadean.edu.co/",
+      "institutionIds": [
+        "fb20f1a14a15d824"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "https://universidadean.edu.co/",
+          "http": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 211880,
+          "title": "Universidad Ean | Emprendiendo un mundo mejor"
+        }
+      ],
+      "robots": {
+        "url": "https://universidadean.edu.co/robots.txt",
+        "http": 200
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "https://www.ean.edu.co",
+      "canonicalOrigin": "https://ean.edu.co/",
+      "institutionIds": [
+        "fb20f1a14a15d824"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "SSLError"
+    },
+    {
+      "url": "http://www.cesa.edu.co/",
+      "canonicalOrigin": "https://cesa.edu.co/",
+      "institutionIds": [
+        "2af03909436fef48"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.cesa.edu.co/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.escueladepolicia.edu.co/",
+      "canonicalOrigin": "https://escueladepolicia.edu.co/",
+      "institutionIds": [
+        "2a03af56a591a156"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.unisimonbolivar.edu.co/",
+      "canonicalOrigin": "https://unisimonbolivar.edu.co/",
+      "institutionIds": [
+        "ad246950ea20771b"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "https://www.unisimonbolivar.edu.co",
+      "canonicalOrigin": "https://unisimonbolivar.edu.co/",
+      "institutionIds": [
+        "d579afdfd229dc39"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.funandi.edu.co/",
+      "canonicalOrigin": "https://funandi.edu.co/",
+      "institutionIds": [
+        "c090a527e08782a3"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.sanmartin.edu.co/",
+      "canonicalOrigin": "https://sanmartin.edu.co/",
+      "institutionIds": [
+        "84ac732e3c90a4b9"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.sanmartin.edu.co/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.iberoamericana.edu.co/",
+      "canonicalOrigin": "https://iberoamericana.edu.co/",
+      "institutionIds": [
+        "32267e11e2ccaefc"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.iberoamericana.edu.co/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "https://www.colmayor.edu.co/",
+      "canonicalOrigin": "https://colmayor.edu.co/",
+      "institutionIds": [
+        "46b425d9cf2122ab"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "https://www.colmayor.edu.co/",
+          "http": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 133767,
+          "title": "Institución Universitaria Colegio Mayor de Antioquia"
+        }
+      ],
+      "robots": {
+        "url": "https://www.colmayor.edu.co/robots.txt",
+        "http": 200
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "http://www.politecjic.edu.co/",
+      "canonicalOrigin": "https://politecjic.edu.co/",
+      "institutionIds": [
+        "84db29831dce17c2"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.unipaz.edu.co/",
+      "canonicalOrigin": "https://unipaz.edu.co/",
+      "institutionIds": [
+        "dc3438fd65a4051c"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unipaz.edu.co/robots.txt",
+        "http": 403
+      },
+      "status": "robots denied; no page requested"
+    },
+    {
+      "url": "http://www.itm.edu.co/",
+      "canonicalOrigin": "https://itm.edu.co/",
+      "institutionIds": [
+        "b836a316727e6af1"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.itm.edu.co/",
+          "http": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 517345,
+          "title": "ITM &#8211; Institución Universitaria &#8211; Reacreditada en Alta Calidad"
+        }
+      ],
+      "robots": {
+        "url": "http://www.itm.edu.co/robots.txt",
+        "http": 200
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "https://www.utadeo.edu.co",
+      "canonicalOrigin": "https://utadeo.edu.co/",
+      "institutionIds": [
+        "2f5b11f3dea3184f"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "https://www.utadeo.edu.co/robots.txt",
+        "http": 403
+      },
+      "status": "robots denied; no page requested"
+    },
+    {
+      "url": "http://www.utadeo.edu.co/",
+      "canonicalOrigin": "https://utadeo.edu.co/",
+      "institutionIds": [
+        "2bdc90c50282db72"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.utadeo.edu.co/robots.txt",
+        "http": 403
+      },
+      "status": "robots denied; no page requested"
+    },
+    {
+      "url": "https://www.ucp.edu.co",
+      "canonicalOrigin": "https://ucp.edu.co/",
+      "institutionIds": [
+        "3225282223538a88"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "https://www.ucp.edu.co",
+          "http": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 1163513,
+          "title": "Inicio - Universidad Católica de Pereira"
+        }
+      ],
+      "robots": {
+        "url": "https://www.ucp.edu.co/robots.txt",
+        "http": 404
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "http://www.iue.edu.co/",
+      "canonicalOrigin": "https://iue.edu.co/",
+      "institutionIds": [
+        "f54a320f54342907"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.iue.edu.co/robots.txt",
+        "http": 307
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "https://www.iucesmag.edu.co",
+      "canonicalOrigin": "https://iucesmag.edu.co/",
+      "institutionIds": [
+        "5088bf8ac00382c8"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "https://www.udca.edu.co",
+      "canonicalOrigin": "https://udca.edu.co/",
+      "institutionIds": [
+        "d2b553487de7d4be"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "https://www.udca.edu.co/robots.txt",
+        "http": 403
+      },
+      "status": "robots denied; no page requested"
+    },
+    {
+      "url": "http://www.udca.edu.co/",
+      "canonicalOrigin": "https://udca.edu.co/",
+      "institutionIds": [
+        "36dfd5fee76f36cd"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.udca.edu.co/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "https://www.unibague.edu.co",
+      "canonicalOrigin": "https://unibague.edu.co/",
+      "institutionIds": [
+        "2707c3998172bb95"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "SSLError"
+    },
+    {
+      "url": "https://www.unipacifico.edu.co",
+      "canonicalOrigin": "https://unipacifico.edu.co/",
+      "institutionIds": [
+        "9c3e311ec06288b8"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "https://www.unipacifico.edu.co",
+          "http": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 260645,
+          "title": ".:: Universidad del Pacífico - Buenaventura - Colombia ::."
+        }
+      ],
+      "robots": {
+        "url": "https://www.unipacifico.edu.co/robots.txt",
+        "http": 200
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "https://www.udistrital.edu.co",
+      "canonicalOrigin": "https://udistrital.edu.co/",
+      "institutionIds": [
+        "7aaa21d02b489abc"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "https://www.udistrital.edu.co",
+          "http": 301,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 390,
+          "location": "https://www.udistrital.edu.co/inicio"
+        }
+      ],
+      "robots": {
+        "url": "https://www.udistrital.edu.co/robots.txt",
+        "http": 200
+      },
+      "status": "redirect not followed; pending"
+    },
+    {
+      "url": "http://www.udistrital.edu.co/",
+      "canonicalOrigin": "https://udistrital.edu.co/",
+      "institutionIds": [
+        "2467d7195f8fb164"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.udistrital.edu.co/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "https://www.eafit.edu.co",
+      "canonicalOrigin": "https://eafit.edu.co/",
+      "institutionIds": [
+        "c15c48048a282e5c"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "https://www.eafit.edu.co",
+          "http": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 388575,
+          "title": "¡Te damos la bienvenida a la Universidad EAFIT! - Universidad EAFIT"
+        }
+      ],
+      "robots": {
+        "url": "https://www.eafit.edu.co/robots.txt",
+        "http": 200
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "http://www.eafit.edu.co/",
+      "canonicalOrigin": "https://eafit.edu.co/",
+      "institutionIds": [
+        "20626190eb4dad75"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.eafit.edu.co/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "https://www.ucundinamarca.edu.co",
+      "canonicalOrigin": "https://ucundinamarca.edu.co/",
+      "institutionIds": [
+        "4cb7d2b5f3f123ab"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "SSLError"
+    },
+    {
+      "url": "https://www.uptc.edu.co",
+      "canonicalOrigin": "https://uptc.edu.co/",
+      "institutionIds": [
+        "47f5b36435b9b832"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "SSLError"
+    },
+    {
+      "url": "http://www.uptc.edu.co/",
+      "canonicalOrigin": "https://uptc.edu.co/",
+      "institutionIds": [
+        "94f0700706a98ba0"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.uptc.edu.co/",
+          "http": 301,
+          "contentType": "text/html",
+          "bytes": 185,
+          "location": "https://www.uptc.edu.co/"
+        }
+      ],
+      "robots": {
+        "url": "http://www.uptc.edu.co/robots.txt",
+        "http": 404
+      },
+      "status": "redirect not followed; pending"
+    },
+    {
+      "url": "https://www.unitecnologica.edu.co",
+      "canonicalOrigin": "https://unitecnologica.edu.co/",
+      "institutionIds": [
+        "46699b9113d78681"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "SSLError"
+    },
+    {
+      "url": "https://www.unad.edu.co",
+      "canonicalOrigin": "https://unad.edu.co/",
+      "institutionIds": [
+        "cc4ed8d2cf15d463"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "SSLError"
+    },
+    {
+      "url": "http://www.unad.edu.co/",
+      "canonicalOrigin": "https://unad.edu.co/",
+      "institutionIds": [
+        "a9ab290dda30897b"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "https://www.unicolmayor.edu.co",
+      "canonicalOrigin": "https://unicolmayor.edu.co/",
+      "institutionIds": [
+        "51231a6d46608caa"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.ucpr.edu.co/",
+      "canonicalOrigin": "https://ucpr.edu.co/",
+      "institutionIds": [
+        "e1193b2e929c91e0"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.unbosque.edu.co/",
+      "canonicalOrigin": "https://unbosque.edu.co/",
+      "institutionIds": [
+        "461f1114d2a19319"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unbosque.edu.co/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "https://www.unbosque.edu.co",
+      "canonicalOrigin": "https://unbosque.edu.co/",
+      "institutionIds": [
+        "461f1114d2a19319"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "https://www.unbosque.edu.co",
+          "http": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 1156102,
+          "title": "Universidad El Bosque | Carreras y Posgrados"
+        }
+      ],
+      "robots": {
+        "url": "https://www.unbosque.edu.co/robots.txt",
+        "http": 200
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "http://www.uniboyaca.edu.co/",
+      "canonicalOrigin": "https://uniboyaca.edu.co/",
+      "institutionIds": [
+        "cf489ce65c03ec5d"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "https://www.uniboyaca.edu.co",
+      "canonicalOrigin": "https://uniboyaca.edu.co/",
+      "institutionIds": [
+        "87cb32241a4ac5d0"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.pedagogica.edu.co/",
+      "canonicalOrigin": "https://pedagogica.edu.co/",
+      "institutionIds": [
+        "0176cc0090e54cef"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "https://www.pedagogica.edu.co",
+      "canonicalOrigin": "https://pedagogica.edu.co/",
+      "institutionIds": [
+        "0176cc0090e54cef"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.usaca.edu.co/",
+      "canonicalOrigin": "https://usaca.edu.co/",
+      "institutionIds": [
+        "bf01a32ca4203be1"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "https://www.usc.edu.co",
+      "canonicalOrigin": "https://usc.edu.co/",
+      "institutionIds": [
+        "bf01a32ca4203be1"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "https://www.usc.edu.co",
+          "http": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 297416,
+          "title": "Inicio - Universidad Santiago de Cali"
+        }
+      ],
+      "robots": {
+        "url": "https://www.usc.edu.co/robots.txt",
+        "http": 200
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "http://www.unicordoba.edu.co/",
+      "canonicalOrigin": "https://unicordoba.edu.co/",
+      "institutionIds": [
+        "95b2ab6ea447bdf9"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "https://www.unicordoba.edu.co",
+      "canonicalOrigin": "https://unicordoba.edu.co/",
+      "institutionIds": [
+        "95b2ab6ea447bdf9"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "SSLError"
+    },
+    {
+      "url": "http://www.uniandes.edu.co/",
+      "canonicalOrigin": "https://uniandes.edu.co/",
+      "institutionIds": [
+        "ed5614da5fa65cce"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.uniandes.edu.co/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "https://www.uniandes.edu.co",
+      "canonicalOrigin": "https://uniandes.edu.co/",
+      "institutionIds": [
+        "ed5614da5fa65cce"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "https://www.uniandes.edu.co",
+          "http": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 157444,
+          "title": "Universidad de los Andes – Colombia – Sitio oficial"
+        }
+      ],
+      "robots": {
+        "url": "https://www.uniandes.edu.co/robots.txt",
+        "http": 200
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "http://www.unal.edu.co/",
+      "canonicalOrigin": "https://unal.edu.co/",
+      "institutionIds": [
+        "ddb100a49208aa6a"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "https://www.unal.edu.co",
+      "canonicalOrigin": "https://unal.edu.co/",
+      "institutionIds": [
+        "ddb100a49208aa6a"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "https://www.medellin.unal.edu.co",
+      "canonicalOrigin": "https://medellin.unal.edu.co/",
+      "institutionIds": [
+        "ddb100a49208aa6a"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "https://www.manizales.unal.edu.co",
+      "canonicalOrigin": "https://manizales.unal.edu.co/",
+      "institutionIds": [
+        "ddb100a49208aa6a"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "SSLError"
+    },
+    {
+      "url": "https://www.palmira.unal.edu.co",
+      "canonicalOrigin": "https://palmira.unal.edu.co/",
+      "institutionIds": [
+        "ddb100a49208aa6a"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "SSLError"
+    },
+    {
+      "url": "https://www.arauca.unal.edu.co",
+      "canonicalOrigin": "https://arauca.unal.edu.co/",
+      "institutionIds": [
+        "ddb100a49208aa6a"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "SSLError"
+    },
+    {
+      "url": "https://www.imani.unal.edu.co",
+      "canonicalOrigin": "https://imani.unal.edu.co/",
+      "institutionIds": [
+        "ddb100a49208aa6a"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "https://www.caribe.unal.edu.co",
+      "canonicalOrigin": "https://caribe.unal.edu.co/",
+      "institutionIds": [
+        "ddb100a49208aa6a"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.tumaco-pacifico.unal.edu.co/",
+      "canonicalOrigin": "https://tumaco-pacifico.unal.edu.co/",
+      "institutionIds": [
+        "ddb100a49208aa6a"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.tumaco-pacifico.unal.edu.co/",
+          "http": 200,
+          "contentType": "text/html",
+          "bytes": 615,
+          "title": "Welcome to nginx!"
+        }
+      ],
+      "robots": {
+        "url": "http://www.tumaco-pacifico.unal.edu.co/robots.txt",
+        "http": 404
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "placeholder_or_maintenance"
+    },
+    {
+      "url": "http://delapaz.unal.edu.co/",
+      "canonicalOrigin": "https://delapaz.unal.edu.co/",
+      "institutionIds": [
+        "ddb100a49208aa6a"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://delapaz.unal.edu.co/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.usergioarboleda.edu.co/",
+      "canonicalOrigin": "https://usergioarboleda.edu.co/",
+      "institutionIds": [
+        "195cf990baf234c3"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "https://www.usergioarboleda.edu.co",
+      "canonicalOrigin": "https://usergioarboleda.edu.co/",
+      "institutionIds": [
+        "195cf990baf234c3"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.unipamplona.edu.co/",
+      "canonicalOrigin": "https://unipamplona.edu.co/",
+      "institutionIds": [
+        "42c9bd0340c6c635"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unipamplona.edu.co/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "https://www.unipamplona.edu.co",
+      "canonicalOrigin": "https://unipamplona.edu.co/",
+      "institutionIds": [
+        "42c9bd0340c6c635"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "https://www.unipamplona.edu.co",
+          "http": 200,
+          "contentType": "text/html",
+          "bytes": 98446,
+          "title": "Universidad de Pamplona"
+        }
+      ],
+      "robots": {
+        "url": "https://www.unipamplona.edu.co/robots.txt",
+        "http": 404
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "http://www.unicartagena.edu.co/",
+      "canonicalOrigin": "https://unicartagena.edu.co/",
+      "institutionIds": [
+        "5bd14535c5ba21d4"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "https://www.unicartagena.edu.co",
+      "canonicalOrigin": "https://unicartagena.edu.co/",
+      "institutionIds": [
+        "5bd14535c5ba21d4"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.uniamazonia.edu.co/",
+      "canonicalOrigin": "https://uniamazonia.edu.co/",
+      "institutionIds": [
+        "8a7d882e5bfb9e22"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.uniamazonia.edu.co/",
+          "http": 404,
+          "contentType": "text/html; charset=us-ascii",
+          "bytes": 315
+        }
+      ],
+      "robots": {
+        "url": "http://www.uniamazonia.edu.co/robots.txt",
+        "http": 404
+      },
+      "status": "original URL failed or denied",
+      "accessible": false
+    },
+    {
+      "url": "https://www.uniamazonia.edu.co",
+      "canonicalOrigin": "https://uniamazonia.edu.co/",
+      "institutionIds": [
+        "8a7d882e5bfb9e22"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "https://www.uniamazonia.edu.co",
+          "http": 200,
+          "contentType": "text/html",
+          "bytes": 31277,
+          "title": "Portal de Acceso Institucional | Universidad de la Amazonia"
+        }
+      ],
+      "robots": {
+        "url": "https://www.uniamazonia.edu.co/robots.txt",
+        "http": 404
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "http://www.ubv.edu.ve/",
+      "canonicalOrigin": "https://ubv.edu.ve/",
+      "institutionIds": [
+        "cca18bc4b292dc37"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.ubv.edu.ve/",
+          "http": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 4817,
+          "title": "Sitio en mantenimiento | Universidad Bolivariana de Venezuela"
+        }
+      ],
+      "robots": {
+        "url": "http://www.ubv.edu.ve/robots.txt",
+        "http": 404
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "placeholder_or_maintenance"
+    },
+    {
+      "url": "http://www.unica.edu.ve/",
+      "canonicalOrigin": "https://unica.edu.ve/",
+      "institutionIds": [
+        "0c1edc3904a41eb6"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unica.edu.ve/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.ucla.edu.ve/",
+      "canonicalOrigin": "https://ucla.edu.ve/",
+      "institutionIds": [
+        "c08a67a0431a62ca"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.ugma.edu.ve/",
+      "canonicalOrigin": "https://ugma.edu.ve/",
+      "institutionIds": [
+        "e130f36805185dc9"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.ugma.edu.ve/",
+          "http": 403,
+          "contentType": "text/html; charset=iso-8859-1",
+          "bytes": 199
+        }
+      ],
+      "robots": {
+        "url": "http://www.ugma.edu.ve/robots.txt",
+        "http": 404
+      },
+      "status": "original URL failed or denied",
+      "accessible": false
+    },
+    {
+      "url": "http://www.unillanos.edu.co/",
+      "canonicalOrigin": "https://unillanos.edu.co/",
+      "institutionIds": [
+        "3bf2233cb93c0b7e"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.unillanos.edu.co/",
+          "http": 301,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 0,
+          "location": "https://www.unillanos.edu.co/"
+        }
+      ],
+      "robots": {
+        "url": "http://www.unillanos.edu.co/robots.txt",
+        "http": 200
+      },
+      "status": "redirect not followed; pending"
+    },
+    {
+      "url": "https://www.rectoria@unillanos.edu.co",
+      "canonicalOrigin": "https://unillanos.edu.co/",
+      "institutionIds": [
+        "3bf2233cb93c0b7e"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "https://www.rectoria@unillanos.edu.co/robots.txt",
+        "http": 200
+      },
+      "status": "original URL request failed",
+      "error": "ReadTimeout"
+    },
+    {
+      "url": "http://www.universidad-monteavila.edu.ve/",
+      "canonicalOrigin": "https://universidad-monteavila.edu.ve/",
+      "institutionIds": [
+        "044aa99300adbd7d"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.ucv.ve/",
+      "canonicalOrigin": "https://ucv.ve/",
+      "institutionIds": [
+        "eb220527cf3d1cdc"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.ucv.ve/",
+          "http": 200,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 238239,
+          "title": "Universidad Central de Venezuela"
+        }
+      ],
+      "robots": {
+        "url": "http://www.ucv.ve/robots.txt",
+        "http": 404
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "http://www.unesr.edu.ve/",
+      "canonicalOrigin": "https://unesr.edu.ve/",
+      "institutionIds": [
+        "d62c26a3a15fb29b"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unesr.edu.ve/robots.txt",
+        "http": 302
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.unexpo.edu.ve/",
+      "canonicalOrigin": "https://unexpo.edu.ve/",
+      "institutionIds": [
+        "6fb77e8081a6618b"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unexpo.edu.ve/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://usm.trompo.com/",
+      "canonicalOrigin": "https://usm.trompo.com/",
+      "institutionIds": [
+        "fa6a05eff188c625"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.unermb.edu.ve/",
+      "canonicalOrigin": "https://unermb.edu.ve/",
+      "institutionIds": [
+        "2998a9d918e3cfbd"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.unermb.edu.ve/",
+          "http": 302,
+          "contentType": "text/html",
+          "bytes": 0,
+          "location": "https://unermb.web.ve"
+        }
+      ],
+      "robots": {
+        "url": "http://www.unermb.edu.ve/robots.txt",
+        "http": 200
+      },
+      "status": "redirect not followed; pending"
+    },
+    {
+      "url": "http://www.uru.edu/",
+      "canonicalOrigin": "https://uru.edu/",
+      "institutionIds": [
+        "f543296780513cb2"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.uru.edu/",
+          "http": 200,
+          "contentType": "text/html",
+          "bytes": 163,
+          "title": ""
+        }
+      ],
+      "robots": {
+        "url": "http://www.uru.edu/robots.txt",
+        "http": 404
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "title_absent_content_not_validated"
+    },
+    {
+      "url": "http://www.unefa.edu.ve/",
+      "canonicalOrigin": "https://unefa.edu.ve/",
+      "institutionIds": [
+        "48afd60692e9029d"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unefa.edu.ve/robots.txt",
+        "http": 302
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.gemsvilleuniversity.com/",
+      "canonicalOrigin": "https://gemsvilleuniversity.com/",
+      "institutionIds": [
+        "cdd0a7664a6e36f7"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.greenheartmed.org/",
+      "canonicalOrigin": "https://greenheartmed.org/",
+      "institutionIds": [
+        "ce819cc228ea7ebc"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.udo.edu.ve/",
+      "canonicalOrigin": "https://udo.edu.ve/",
+      "institutionIds": [
+        "9505c463c661f507"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.udo.edu.ve/",
+          "http": 200,
+          "contentType": "text/html",
+          "bytes": 10671,
+          "title": "Apache2 Ubuntu Default Page: It works"
+        }
+      ],
+      "robots": {
+        "url": "http://www.udo.edu.ve/robots.txt",
+        "http": 404
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "placeholder_or_maintenance"
+    },
+    {
+      "url": "http://www.floret.edu.pa/",
+      "canonicalOrigin": "https://floret.edu.pa/",
+      "institutionIds": [
+        "442a1320ef4b871d"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.institutoteima.ac.pa/",
+      "canonicalOrigin": "https://institutoteima.ac.pa/",
+      "institutionIds": [
+        "812cb63c0c86cf84"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.uc.edu.ve/",
+      "canonicalOrigin": "https://uc.edu.ve/",
+      "institutionIds": [
+        "062038dd7ae781b1"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.ula.ve/",
+      "canonicalOrigin": "https://ula.ve/",
+      "institutionIds": [
+        "8826aa610a694cda"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.uniedpa.com/",
+      "canonicalOrigin": "https://uniedpa.com/",
+      "institutionIds": [
+        "2e618e6d433d00c7"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.uniedpa.com/",
+          "http": 200,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 43689,
+          "title": "uniedpa.com"
+        }
+      ],
+      "robots": {
+        "url": "http://www.uniedpa.com/robots.txt",
+        "http": 200
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "domain_only_title_possible_parking"
+    },
+    {
+      "url": "http://www.ulacit.ac.pa/",
+      "canonicalOrigin": "https://ulacit.ac.pa/",
+      "institutionIds": [
+        "1784d770f1cfa204"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.ulat.ac.pa/",
+      "canonicalOrigin": "https://ulat.ac.pa/",
+      "institutionIds": [
+        "c60856bcc029adf9"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.udi.edu/",
+      "canonicalOrigin": "https://udi.edu/",
+      "institutionIds": [
+        "1fbb82b3ff44544f"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.viu.edu.pa/",
+      "canonicalOrigin": "https://viu.edu.pa/",
+      "institutionIds": [
+        "609c38535574b02a"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.westcoastuniversity-edu.com/",
+      "canonicalOrigin": "https://westcoastuniversity-edu.com/",
+      "institutionIds": [
+        "8c6899572652c5be"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.unam.ac.cr/",
+      "canonicalOrigin": "https://unam.ac.cr/",
+      "institutionIds": [
+        "17003995f90ed579"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.itcr.ac.cr/",
+      "canonicalOrigin": "https://itcr.ac.cr/",
+      "institutionIds": [
+        "9f0bd5a75e3e29d1"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.itcr.ac.cr/",
+          "http": 200,
+          "contentType": "text/html",
+          "bytes": 39628,
+          "title": ""
+        }
+      ],
+      "robots": {
+        "url": "http://www.itcr.ac.cr/robots.txt",
+        "http": 404
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "title_absent_content_not_validated"
+    },
+    {
+      "url": "http://www.universidadbrauliocarrillo.com/",
+      "canonicalOrigin": "https://universidadbrauliocarrillo.com/",
+      "institutionIds": [
+        "1ce5fbd238af5bf8"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.udelas.ac.pa/",
+      "canonicalOrigin": "https://udelas.ac.pa/",
+      "institutionIds": [
+        "3c219af37de1692a"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.udelas.ac.pa/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.uhispanoamericana.ac.cr/",
+      "canonicalOrigin": "https://uhispanoamericana.ac.cr/",
+      "institutionIds": [
+        "f494f9d5640eee28"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.una.ac.cr/",
+      "canonicalOrigin": "https://una.ac.cr/",
+      "institutionIds": [
+        "2a92fbdf5408dc80"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.una.ac.cr/robots.txt",
+        "http": 302
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.universidadcentral.com/",
+      "canonicalOrigin": "https://universidadcentral.com/",
+      "institutionIds": [
+        "20b4133a4ae08dbc"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ReadTimeout"
+    },
+    {
+      "url": "http://www.unellez.edu.ve/",
+      "canonicalOrigin": "https://unellez.edu.ve/",
+      "institutionIds": [
+        "b37d31ca74b978d2"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.uspsantapaula.com/",
+      "canonicalOrigin": "https://uspsantapaula.com/",
+      "institutionIds": [
+        "d041f51f5f3fd968"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.uca.edu.ni/",
+      "canonicalOrigin": "https://uca.edu.ni/",
+      "institutionIds": [
+        "2b0faacb78731fe5"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.uveritas.ac.cr/",
+      "canonicalOrigin": "https://uveritas.ac.cr/",
+      "institutionIds": [
+        "dd79a6e483f10279"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.ucem.edu.ni/",
+      "canonicalOrigin": "https://ucem.edu.ni/",
+      "institutionIds": [
+        "aca94c54c684f60f"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.ucem.edu.ni/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.uhispam.edu.ni/",
+      "canonicalOrigin": "https://uhispam.edu.ni/",
+      "institutionIds": [
+        "bab25381b256dc6d"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.unival.edu.ni/",
+      "canonicalOrigin": "https://unival.edu.ni/",
+      "institutionIds": [
+        "cc8dcf4f2eecf365"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.unan.edu.ni/",
+      "canonicalOrigin": "https://unan.edu.ni/",
+      "institutionIds": [
+        "c476c0aa829ada81"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.upoli.edu.ni/",
+      "canonicalOrigin": "https://upoli.edu.ni/",
+      "institutionIds": [
+        "e49cacda121a7fff"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.uponic.edu.ni/",
+      "canonicalOrigin": "https://uponic.edu.ni/",
+      "institutionIds": [
+        "d72a1171d81678eb"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.udem.edu.ni/",
+      "canonicalOrigin": "https://udem.edu.ni/",
+      "institutionIds": [
+        "ed031e5686645b87"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.udem.edu.ni/",
+          "http": 200,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 5876,
+          "title": "Universidad de Managua - UdeM"
+        }
+      ],
+      "robots": {
+        "url": "http://www.udem.edu.ni/robots.txt",
+        "http": 404
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "http://www.yacambu.edu.ve/",
+      "canonicalOrigin": "https://yacambu.edu.ve/",
+      "institutionIds": [
+        "f67f680b0817fd14"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.usb.ve/",
+      "canonicalOrigin": "https://usb.ve/",
+      "institutionIds": [
+        "34c896d0528bf2fb"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.ulam.edu.ni/",
+      "canonicalOrigin": "https://ulam.edu.ni/",
+      "institutionIds": [
+        "f0d460686d927994"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.ulam.edu.ni/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.unico.edu.sv/",
+      "canonicalOrigin": "https://unico.edu.sv/",
+      "institutionIds": [
+        "a2fdd9222eb54a27"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.uraccan.edu.ni/",
+      "canonicalOrigin": "https://uraccan.edu.ni/",
+      "institutionIds": [
+        "66f4f2626e9745db"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.uraccan.edu.ni/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.cdb.edu.sv/",
+      "canonicalOrigin": "https://cdb.edu.sv/",
+      "institutionIds": [
+        "f8ee4627631a8f8c"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.cdb.edu.sv/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.unab.edu.sv/",
+      "canonicalOrigin": "https://unab.edu.sv/",
+      "institutionIds": [
+        "ef74848a72f75e36"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unab.edu.sv/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.uees.edu.sv/",
+      "canonicalOrigin": "https://uees.edu.sv/",
+      "institutionIds": [
+        "90f03a6a34714d54"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.uees.edu.sv/",
+          "http": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 116,
+          "title": ""
+        }
+      ],
+      "robots": {
+        "url": "http://www.uees.edu.sv/robots.txt",
+        "http": 404
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "title_absent_content_not_validated"
+    },
+    {
+      "url": "http://www.usin.edu.sv/",
+      "canonicalOrigin": "https://usin.edu.sv/",
+      "institutionIds": [
+        "88509dd061241874"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.usps.edu.hn/",
+      "canonicalOrigin": "https://usps.edu.hn/",
+      "institutionIds": [
+        "8accd44a5e694ed3"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.usps.edu.hn/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.usap.edu/",
+      "canonicalOrigin": "https://usap.edu/",
+      "institutionIds": [
+        "8accd44a5e694ed3"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.usap.edu/",
+          "http": 301,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 4,
+          "location": "https://www.usap.edu/"
+        }
+      ],
+      "robots": {
+        "url": "http://www.usap.edu/robots.txt",
+        "http": 200
+      },
+      "status": "redirect not followed; pending"
+    },
+    {
+      "url": "http://www.uma.edu.sv/",
+      "canonicalOrigin": "https://uma.edu.sv/",
+      "institutionIds": [
+        "f2aa57abdee7449d"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.unssa.edu.sv/",
+      "canonicalOrigin": "https://unssa.edu.sv/",
+      "institutionIds": [
+        "6a5f7b8b8a9c0fda"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.uam.edu.ni/",
+      "canonicalOrigin": "https://uam.edu.ni/",
+      "institutionIds": [
+        "5ba7dd069e675dad"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.uam.edu.ni/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.universidadpedagogica.com/",
+      "canonicalOrigin": "https://universidadpedagogica.com/",
+      "institutionIds": [
+        "c7ad62588ff528d7"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.univo.edu.sv/",
+      "canonicalOrigin": "https://univo.edu.sv/",
+      "institutionIds": [
+        "794b18080625f20f"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.univo.edu.sv/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.ues.edu.sv/",
+      "canonicalOrigin": "https://ues.edu.sv/",
+      "institutionIds": [
+        "96b2a2b9be41ccd1"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.ues.edu.sv/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.umoar.edu.sv/",
+      "canonicalOrigin": "https://umoar.edu.sv/",
+      "institutionIds": [
+        "4bd1b0b06af2d2cf"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.upana.edu.gt/",
+      "canonicalOrigin": "https://upana.edu.gt/",
+      "institutionIds": [
+        "543b1db413b46fc7"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.url.edu.gt/",
+      "canonicalOrigin": "https://url.edu.gt/",
+      "institutionIds": [
+        "ff1252d82f6ed750"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.cetys.mx/",
+      "canonicalOrigin": "https://cetys.mx/",
+      "institutionIds": [
+        "09969396d8d6dc86"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.cetys.mx/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.ceux.mx/",
+      "canonicalOrigin": "https://ceux.mx/",
+      "institutionIds": [
+        "53d9dec07149eb2d"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.ceux.mx/",
+          "http": 200,
+          "contentType": "text/html",
+          "bytes": 1963,
+          "title": "Coming Soon"
+        }
+      ],
+      "robots": {
+        "url": "http://www.ceux.mx/robots.txt",
+        "http": 404
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "placeholder_or_maintenance"
+    },
+    {
+      "url": "http://www.upan.edu.sv/",
+      "canonicalOrigin": "https://upan.edu.sv/",
+      "institutionIds": [
+        "396706587532dcbd"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.upan.edu.sv/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.colech.edu.mx/",
+      "canonicalOrigin": "https://colech.edu.mx/",
+      "institutionIds": [
+        "139c26068af360a6"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.colech.edu.mx/",
+          "http": 200,
+          "contentType": "text/html",
+          "bytes": 29448,
+          "title": "Inicio | El Colegio de Chihuahua"
+        }
+      ],
+      "robots": {
+        "url": "http://www.colech.edu.mx/robots.txt",
+        "http": 404
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "https://www.colson.edu.mx/",
+      "canonicalOrigin": "https://colson.edu.mx/",
+      "institutionIds": [
+        "3edbbe8ef080d58c"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "https://www.colson.edu.mx/",
+          "http": 200,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 151804,
+          "title": "El Colegio de Sonora | Investigación y Posgrados en Ciencias Sociales"
+        }
+      ],
+      "robots": {
+        "url": "https://www.colson.edu.mx/robots.txt",
+        "http": 200
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "http://www.usac.edu.gt/",
+      "canonicalOrigin": "https://usac.edu.gt/",
+      "institutionIds": [
+        "3c01fe1aa67ba277",
+        "27d8bfab536b9440"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.una.edu.ni/",
+      "canonicalOrigin": "https://una.edu.ni/",
+      "institutionIds": [
+        "6644d0b3d084f843"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.una.edu.ni/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.itdurango.edu.mx/",
+      "canonicalOrigin": "https://itdurango.edu.mx/",
+      "institutionIds": [
+        "066ce5e998b29249"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.itdurango.edu.mx/robots.txt",
+        "http": 302
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.ceunix.com.mx/",
+      "canonicalOrigin": "https://ceunix.com.mx/",
+      "institutionIds": [
+        "7886729934eb00fa"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.ceti.mx/",
+      "canonicalOrigin": "https://ceti.mx/",
+      "institutionIds": [
+        "731444222a742e8f"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.ceu.edu.mx/",
+      "canonicalOrigin": "https://ceu.edu.mx/",
+      "institutionIds": [
+        "1153aade84742a65"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.colmex.mx/",
+      "canonicalOrigin": "https://colmex.mx/",
+      "institutionIds": [
+        "cd84ff9d9239ae4b"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.colmex.mx/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.itmorelia.edu.mx/",
+      "canonicalOrigin": "https://itmorelia.edu.mx/",
+      "institutionIds": [
+        "7b65330b8488cb88"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.ties.com.mx/",
+      "canonicalOrigin": "https://ties.com.mx/",
+      "institutionIds": [
+        "ba95b3d23b4ca77f"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.tecbc.mx/",
+      "canonicalOrigin": "https://tecbc.mx/",
+      "institutionIds": [
+        "7c6585a13b7b68f0"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.uabjo.mx/",
+      "canonicalOrigin": "https://uabjo.mx/",
+      "institutionIds": [
+        "c4429dd6c6b02cb5",
+        "ba3afdd04906ee64"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.uabjo.mx/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.ipn.edu.mx/",
+      "canonicalOrigin": "https://ipn.edu.mx/",
+      "institutionIds": [
+        "2d095d230b16e51f"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.uam.mx/",
+      "canonicalOrigin": "https://uam.mx/",
+      "institutionIds": [
+        "f381de7331a1b540"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.uam.mx/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.poligto.edu.mx/",
+      "canonicalOrigin": "https://poligto.edu.mx/",
+      "institutionIds": [
+        "5105e825c3736114"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.poligto.edu.mx/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://cueyatl.uam.mx/",
+      "canonicalOrigin": "https://cueyatl.uam.mx/",
+      "institutionIds": [
+        "bf91095798a68788"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.uabc.mx/",
+      "canonicalOrigin": "https://uabc.mx/",
+      "institutionIds": [
+        "aca8ac66c4f571b1"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.uabc.mx/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.uacj.mx/",
+      "canonicalOrigin": "https://uacj.mx/",
+      "institutionIds": [
+        "02494c2386a79a1a"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.uacj.mx/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.uadec.mx/",
+      "canonicalOrigin": "https://uadec.mx/",
+      "institutionIds": [
+        "8aa0c13ec4efc123"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.uadec.mx/",
+          "http": 301,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 0,
+          "location": "https://www.uadec.mx/"
+        }
+      ],
+      "robots": {
+        "url": "http://www.uadec.mx/robots.txt",
+        "http": 200
+      },
+      "status": "redirect not followed; pending"
+    },
+    {
+      "url": "http://www.uas.mx/",
+      "canonicalOrigin": "https://uas.mx/",
+      "institutionIds": [
+        "4e80e5fd80a45799"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.uas.mx/",
+          "http": 302,
+          "contentType": "text/html",
+          "bytes": 297,
+          "location": "http://web.uas.mx/uams/"
+        }
+      ],
+      "robots": {
+        "url": "http://www.uas.mx/robots.txt",
+        "http": 200
+      },
+      "status": "redirect not followed; pending"
+    },
+    {
+      "url": "http://www.uad.edu.mx/",
+      "canonicalOrigin": "https://uad.edu.mx/",
+      "institutionIds": [
+        "88f5ff2cc9f61ba6"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://itsncg.edu.mx/",
+      "canonicalOrigin": "https://itsncg.edu.mx/",
+      "institutionIds": [
+        "1fb9418e59f52977"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://itsncg.edu.mx/",
+          "http": 200,
+          "contentType": "text/html;charset=UTF-8",
+          "bytes": 264491,
+          "title": "ITSNCG | Tecnológico de Nuevo Casas Grandes"
+        }
+      ],
+      "robots": {
+        "url": "http://itsncg.edu.mx/robots.txt",
+        "http": 200
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "http://www.uaa.mx:8001/",
+      "canonicalOrigin": "https://uaa.mx/",
+      "institutionIds": [
+        "a25fcc19ece6d5d2"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "https://www.uaa.mx/",
+      "canonicalOrigin": "https://uaa.mx/",
+      "institutionIds": [
+        "a25fcc19ece6d5d2"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.uaq.mx/",
+      "canonicalOrigin": "https://uaq.mx/",
+      "institutionIds": [
+        "b367f8ccece8b281"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "https://www.uaq.mx/",
+      "canonicalOrigin": "https://uaq.mx/",
+      "institutionIds": [
+        "b367f8ccece8b281"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.uat.mx/",
+      "canonicalOrigin": "https://uat.mx/",
+      "institutionIds": [
+        "e4bce0e21d9473ee"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "https://www.uat.edu.mx/",
+      "canonicalOrigin": "https://uat.edu.mx/",
+      "institutionIds": [
+        "e4bce0e21d9473ee"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.uaslp.mx/",
+      "canonicalOrigin": "https://uaslp.mx/",
+      "institutionIds": [
+        "96e6114ca4f33f4f"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.uasnet.mx/",
+      "canonicalOrigin": "https://uasnet.mx/",
+      "institutionIds": [
+        "b58c5c1d88c2a317"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.uas.edu.mx/",
+      "canonicalOrigin": "https://uas.edu.mx/",
+      "institutionIds": [
+        "b58c5c1d88c2a317"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.uas.edu.mx/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.univillarica.mx/",
+      "canonicalOrigin": "https://univillarica.mx/",
+      "institutionIds": [
+        "7e7784d288fec030"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.unacar.mx/",
+      "canonicalOrigin": "https://unacar.mx/",
+      "institutionIds": [
+        "3047b95c1063a080"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.unacar.mx/",
+          "http": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 157333,
+          "title": "Universidad Autónoma del Carmen"
+        }
+      ],
+      "robots": {
+        "url": "http://www.unacar.mx/robots.txt",
+        "http": 404
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "http://www.reduaz.mx/",
+      "canonicalOrigin": "https://reduaz.mx/",
+      "institutionIds": [
+        "64e69aff353865d9"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.champagnat.edu.mx/",
+      "canonicalOrigin": "https://champagnat.edu.mx/",
+      "institutionIds": [
+        "37eb1f959d9535bf"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.ual.mx/",
+      "canonicalOrigin": "https://ual.mx/",
+      "institutionIds": [
+        "52a505ea5f5e6483"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.ual.mx/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "https://www.uaz.edu.mx/",
+      "canonicalOrigin": "https://uaz.edu.mx/",
+      "institutionIds": [
+        "3addc0cc6ddd9641"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "https://www.uaz.edu.mx/",
+          "http": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 257415,
+          "title": "Universidad Autónoma de Zacatecas &#8211; UAZ Oficial"
+        }
+      ],
+      "robots": {
+        "url": "https://www.uaz.edu.mx/robots.txt",
+        "http": 200
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "http://www.udv.edu.mx/",
+      "canonicalOrigin": "https://udv.edu.mx/",
+      "institutionIds": [
+        "2ef14b4ba1e386c8"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ReadTimeout"
+    },
+    {
+      "url": "http://www.uaemex.mx/",
+      "canonicalOrigin": "https://uaemex.mx/",
+      "institutionIds": [
+        "f1387503cbc16a77"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "https://www.ues.mx/",
+      "canonicalOrigin": "https://ues.mx/",
+      "institutionIds": [
+        "c0439d3443705db9"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "https://www.ues.mx/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.ver.ucc.mx/",
+      "canonicalOrigin": "https://ver.ucc.mx/",
+      "institutionIds": [
+        "9dbb83db2180a25e"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.uia.mx/",
+      "canonicalOrigin": "https://uia.mx/",
+      "institutionIds": [
+        "aacf6d48120a18d5"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.uia.mx/robots.txt",
+        "http": 302
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.itmina.edu.mx/",
+      "canonicalOrigin": "https://itmina.edu.mx/",
+      "institutionIds": [
+        "a6a8c48200d206f5"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "https://www.unich.edu.mx/",
+      "canonicalOrigin": "https://unich.edu.mx/",
+      "institutionIds": [
+        "a8c73f61c89ef85b"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "https://www.unich.edu.mx/",
+          "http": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 131978,
+          "title": "UNICH | Por un Chiapas Igualitario y Plural"
+        }
+      ],
+      "robots": {
+        "url": "https://www.unich.edu.mx/robots.txt",
+        "http": 200
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "http://www.uaf.mx/",
+      "canonicalOrigin": "https://uaf.mx/",
+      "institutionIds": [
+        "b914320f2dcc5024"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.uaf.mx/",
+          "http": 200,
+          "contentType": "text/html",
+          "bytes": 423,
+          "title": "Redireccion"
+        }
+      ],
+      "robots": {
+        "url": "http://www.uaf.mx/robots.txt",
+        "http": 404
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "placeholder_or_maintenance"
+    },
+    {
+      "url": "http://www.reduaeh.mx/",
+      "canonicalOrigin": "https://reduaeh.mx/",
+      "institutionIds": [
+        "7fe4f5090d29d259"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "https://www.uaeh.edu.mx/",
+      "canonicalOrigin": "https://uaeh.edu.mx/",
+      "institutionIds": [
+        "7fe4f5090d29d259"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "https://uigto.com.mx",
+      "canonicalOrigin": "https://uigto.com.mx/",
+      "institutionIds": [
+        "db70f4845a772433"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.uileon.edu.mx/",
+      "canonicalOrigin": "https://uileon.edu.mx/",
+      "institutionIds": [
+        "0d6bfbd1abe49eb1"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.uic.edu.mx/",
+      "canonicalOrigin": "https://uic.edu.mx/",
+      "institutionIds": [
+        "fd2577726c5f48d1"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.uic.edu.mx/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.itslp.edu.mx/",
+      "canonicalOrigin": "https://itslp.edu.mx/",
+      "institutionIds": [
+        "0f18c4c976de9876"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.itq.edu.mx/",
+      "canonicalOrigin": "https://itq.edu.mx/",
+      "institutionIds": [
+        "34d465f58a5412b1"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.ujed.mx/",
+      "canonicalOrigin": "https://ujed.mx/",
+      "institutionIds": [
+        "785362c05e8efcda"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.ujed.mx/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "https://www.ujed.mx/",
+      "canonicalOrigin": "https://ujed.mx/",
+      "institutionIds": [
+        "785362c05e8efcda"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "https://www.ujed.mx/",
+          "http": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 46284,
+          "title": "Universidad Juárez del Estado de Durango UJED"
+        }
+      ],
+      "robots": {
+        "url": "https://www.ujed.mx/robots.txt",
+        "http": 200
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "http://uiem.edomex.gob.mx/",
+      "canonicalOrigin": "https://uiem.edomex.gob.mx/",
+      "institutionIds": [
+        "49b52aed4c40290a"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.unla.edu.mx/",
+      "canonicalOrigin": "https://unla.edu.mx/",
+      "institutionIds": [
+        "d7ac00df7d1f04ee"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unla.edu.mx/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "https://www.uiim.edu.mx/",
+      "canonicalOrigin": "https://uiim.edu.mx/",
+      "institutionIds": [
+        "d36db1ea5d3968f3"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "https://www.uiim.edu.mx/",
+          "http": 301,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 0,
+          "location": "https://uiim.edu.mx/"
+        }
+      ],
+      "robots": {
+        "url": "https://www.uiim.edu.mx/robots.txt",
+        "http": 200
+      },
+      "status": "redirect not followed; pending"
+    },
+    {
+      "url": "http://www.umne.edu.mx/",
+      "canonicalOrigin": "https://umne.edu.mx/",
+      "institutionIds": [
+        "a12630d435ebe6d8"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.ujsierra.mx/",
+      "canonicalOrigin": "https://ujsierra.mx/",
+      "institutionIds": [
+        "c3835902a5f386c0"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.ulsa.edu.mx/",
+      "canonicalOrigin": "https://ulsa.edu.mx/",
+      "institutionIds": [
+        "677ecdc3fd8ea849"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.unum.edu.mx/",
+      "canonicalOrigin": "https://unum.edu.mx/",
+      "institutionIds": [
+        "30a04893df35b923"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.uom.edu.mx/",
+      "canonicalOrigin": "https://uom.edu.mx/",
+      "institutionIds": [
+        "9cc8e4390ac8e929"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.uom.edu.mx/",
+          "http": 200,
+          "contentType": "text/html",
+          "bytes": 756,
+          "title": "uom.mx"
+        }
+      ],
+      "robots": {
+        "url": "http://www.uom.edu.mx/robots.txt",
+        "http": 404
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "domain_only_title_possible_parking"
+    },
+    {
+      "url": "http://www.up.mx/",
+      "canonicalOrigin": "https://up.mx/",
+      "institutionIds": [
+        "bf217c59b53aa1d3"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.lef.upn.mx/",
+      "canonicalOrigin": "https://lef.upn.mx/",
+      "institutionIds": [
+        "d9a75ffec397583a"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.secupv.org/",
+      "canonicalOrigin": "https://secupv.org/",
+      "institutionIds": [
+        "50bd3d2b437bb9c6"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.ur.mx/",
+      "canonicalOrigin": "https://ur.mx/",
+      "institutionIds": [
+        "138c8015cb4bc0a5"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.univchapultepec.edu.mx/",
+      "canonicalOrigin": "https://univchapultepec.edu.mx/",
+      "institutionIds": [
+        "a6526d4e85a77065"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://hispano.edu.mx/",
+      "canonicalOrigin": "https://hispano.edu.mx/",
+      "institutionIds": [
+        "f20128f02436adc8"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.dgit.gob.mx/",
+      "canonicalOrigin": "https://dgit.gob.mx/",
+      "institutionIds": [
+        "242dd1177be7b6be"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.uvg1.net/",
+      "canonicalOrigin": "https://uvg1.net/",
+      "institutionIds": [
+        "72e9f58910610ad1"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.utm.mx/",
+      "canonicalOrigin": "https://utm.mx/",
+      "institutionIds": [
+        "0c819d26d4e8fa78"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.utm.mx/robots.txt",
+        "http": 302
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.uxac.edu.mx/",
+      "canonicalOrigin": "https://uxac.edu.mx/",
+      "institutionIds": [
+        "aee49d84ce1cb0c2"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.uxac.edu.mx/",
+          "http": 200,
+          "contentType": "text/html",
+          "bytes": 163,
+          "title": ""
+        }
+      ],
+      "robots": {
+        "url": "http://www.uxac.edu.mx/robots.txt",
+        "http": 404
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "title_absent_content_not_validated"
+    },
+    {
+      "url": "http://www.ucol.mx/",
+      "canonicalOrigin": "https://ucol.mx/",
+      "institutionIds": [
+        "6c6df27709ff594e"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.ucol.mx/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "https://www.ucol.mx/",
+      "canonicalOrigin": "https://ucol.mx/",
+      "institutionIds": [
+        "6c6df27709ff594e"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "https://www.ucol.mx/",
+          "http": 468,
+          "contentType": "text/html",
+          "bytes": 14838
+        }
+      ],
+      "robots": {
+        "url": "https://www.ucol.mx/robots.txt",
+        "http": 200
+      },
+      "status": "original URL failed or denied",
+      "accessible": false
+    },
+    {
+      "url": "http://www.udeci.edu.mx/",
+      "canonicalOrigin": "https://udeci.edu.mx/",
+      "institutionIds": [
+        "3d0a6d0220abc8b2"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.urmh.edu.mx/",
+      "canonicalOrigin": "https://urmh.edu.mx/",
+      "institutionIds": [
+        "9f1510df561e10b8"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.urmh.edu.mx/",
+          "http": 404,
+          "contentType": "application/json",
+          "bytes": 22
+        }
+      ],
+      "robots": {
+        "url": "http://www.urmh.edu.mx/robots.txt",
+        "http": 404
+      },
+      "status": "original URL failed or denied",
+      "accessible": false
+    },
+    {
+      "url": "http://www.campusleon.ugto.mx/",
+      "canonicalOrigin": "https://campusleon.ugto.mx/",
+      "institutionIds": [
+        "345c33f7a3b23b90"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.campusleon.ugto.mx/",
+          "http": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 419,
+          "title": ""
+        }
+      ],
+      "robots": {
+        "url": "http://www.campusleon.ugto.mx/robots.txt",
+        "http": 200
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "title_absent_content_not_validated"
+    },
+    {
+      "url": "http://www.udeh.edu.mx/",
+      "canonicalOrigin": "https://udeh.edu.mx/",
+      "institutionIds": [
+        "ebebc760e536483a"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://bajio.delasalle.edu.mx/",
+      "canonicalOrigin": "https://bajio.delasalle.edu.mx/",
+      "institutionIds": [
+        "50d4f50b2b44a5e8"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.udesanmiguel.edu.mx/",
+      "canonicalOrigin": "https://udesanmiguel.edu.mx/",
+      "institutionIds": [
+        "356e2fe92f193c4b"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.usac.edu.mx/",
+      "canonicalOrigin": "https://usac.edu.mx/",
+      "institutionIds": [
+        "e90aa028f95079f6"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.usac.edu.mx/",
+          "http": 200,
+          "contentType": "text/html",
+          "bytes": 5069,
+          "title": "HTTP Server Test Page powered by CentOS-WebPanel.com"
+        }
+      ],
+      "robots": {
+        "url": "http://www.usac.edu.mx/robots.txt",
+        "http": 404
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "placeholder_or_maintenance"
+    },
+    {
+      "url": "http://www.unsij.edu.mx/",
+      "canonicalOrigin": "https://unsij.edu.mx/",
+      "institutionIds": [
+        "8a5b13bc6216d1af"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unsij.edu.mx/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.udo.mx/",
+      "canonicalOrigin": "https://udo.mx/",
+      "institutionIds": [
+        "d1d022f5e67cbf80"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.ulsac.edu.mx/",
+      "canonicalOrigin": "https://ulsac.edu.mx/",
+      "institutionIds": [
+        "347e599a998f361b"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.unistmo.edu.mx/",
+      "canonicalOrigin": "https://unistmo.edu.mx/",
+      "institutionIds": [
+        "33018a2fb8bea339"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.unistmo.edu.mx/",
+          "http": 200,
+          "contentType": "text/html",
+          "bytes": 401,
+          "title": "Universidad del Istmo"
+        }
+      ],
+      "robots": {
+        "url": "http://www.unistmo.edu.mx/robots.txt",
+        "http": 404
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "http://www.unimayab.edu.mx/",
+      "canonicalOrigin": "https://unimayab.edu.mx/",
+      "institutionIds": [
+        "544c5a1ad3b3fdac"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.une.edu.mx/",
+      "canonicalOrigin": "https://une.edu.mx/",
+      "institutionIds": [
+        "b600c7e601976038"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.une.edu.mx/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.umar.mx/",
+      "canonicalOrigin": "https://umar.mx/",
+      "institutionIds": [
+        "70e283347f40e1c0"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.umar.mx/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "https://uniyaqui.sonora.edu.mx",
+      "canonicalOrigin": "https://uniyaqui.sonora.edu.mx/",
+      "institutionIds": [
+        "809766c592def84a"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "SSLError"
+    },
+    {
+      "url": "http://www.unisierra.edu.mx/",
+      "canonicalOrigin": "https://unisierra.edu.mx/",
+      "institutionIds": [
+        "1941f74300323d61"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectTimeout"
+    },
+    {
+      "url": "http://www.utneza.edu.mx/",
+      "canonicalOrigin": "https://utneza.edu.mx/",
+      "institutionIds": [
+        "d9578b06246a0f08"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.utneza.edu.mx/",
+          "http": 200,
+          "contentType": "text/html",
+          "bytes": 412,
+          "title": "Redireccion"
+        }
+      ],
+      "robots": {
+        "url": "http://www.utneza.edu.mx/robots.txt",
+        "http": 404
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "placeholder_or_maintenance"
+    },
+    {
+      "url": "http://www.westhill.edu.mx/",
+      "canonicalOrigin": "https://westhill.edu.mx/",
+      "institutionIds": [
+        "de1fdb27a05c1aad"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.westhill.edu.mx/robots.txt",
+        "http": 500
+      },
+      "status": "robots unavailable; no page requested"
+    },
+    {
+      "url": "http://www.udla.mx/",
+      "canonicalOrigin": "https://udla.mx/",
+      "institutionIds": [
+        "5bbb6d2916af47d7"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.udla.mx/",
+          "http": 200,
+          "contentType": "text/html",
+          "bytes": 2812,
+          "title": "Universidad de las Am&eacute;ricas, UDLA, Educaci&oacute;n Superior, Ciudad de M&eacute;xico"
+        }
+      ],
+      "robots": {
+        "url": "http://www.udla.mx/robots.txt",
+        "http": 404
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "http://www.ubac.edu.mx/",
+      "canonicalOrigin": "https://ubac.edu.mx/",
+      "institutionIds": [
+        "81eb36c9f715175a"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.unam.mx/",
+      "canonicalOrigin": "https://unam.mx/",
+      "institutionIds": [
+        "fca67b1b84120b6d"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unam.mx/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.ispcmw.rimed.cu/",
+      "canonicalOrigin": "https://ispcmw.rimed.cu/",
+      "institutionIds": [
+        "4ce28da028219783"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.cujae.edu.cu/",
+      "canonicalOrigin": "https://cujae.edu.cu/",
+      "institutionIds": [
+        "eaea4c7e3053a7da"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.unica.cu/",
+      "canonicalOrigin": "https://unica.cu/",
+      "institutionIds": [
+        "e162778c5860d973"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unica.cu/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.reduc.edu.cu/",
+      "canonicalOrigin": "https://reduc.edu.cu/",
+      "institutionIds": [
+        "b60785d97f42a7ac"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.reduc.edu.cu/robots.txt",
+        "http": 302
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.uh.cu/",
+      "canonicalOrigin": "https://uh.cu/",
+      "institutionIds": [
+        "6e08c4fdff42f900"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.uh.cu/robots.txt",
+        "http": 500
+      },
+      "status": "robots unavailable; no page requested"
+    },
+    {
+      "url": "http://www.uo.edu.cu/",
+      "canonicalOrigin": "https://uo.edu.cu/",
+      "institutionIds": [
+        "a73d40f022bb1763"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.uo.edu.cu/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.uho.edu.cu/",
+      "canonicalOrigin": "https://uho.edu.cu/",
+      "institutionIds": [
+        "603ca9ba2631f7d7"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.uho.edu.cu/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.unicach.edu.mx/",
+      "canonicalOrigin": "https://unicach.edu.mx/",
+      "institutionIds": [
+        "05bc8d1dfce3f7ff"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.ucf.edu.cu/",
+      "canonicalOrigin": "https://ucf.edu.cu/",
+      "institutionIds": [
+        "5cbd1d023a0ba5ed"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.ucf.edu.cu/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.upr.edu.cu/",
+      "canonicalOrigin": "https://upr.edu.cu/",
+      "institutionIds": [
+        "4382bb3b75c1aee8"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.upr.edu.cu/",
+          "http": 200,
+          "contentType": "text/html",
+          "bytes": 6867,
+          "title": "Universidad de Pinar del RÃ­o \"Hermanos SaÃ­z Montes de Oca"
+        }
+      ],
+      "robots": {
+        "url": "http://www.upr.edu.cu/robots.txt",
+        "http": 200
+      },
+      "status": "accessible original URL; content not thematically reviewed",
+      "accessible": true,
+      "contentCheck": "institutional_looking_title_not_validated"
+    },
+    {
+      "url": "http://www.umcc.cu/",
+      "canonicalOrigin": "https://umcc.cu/",
+      "institutionIds": [
+        "a75a7fd64e5fb94c"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.umcc.cu/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.uvmnet.edu/",
+      "canonicalOrigin": "https://uvmnet.edu/",
+      "institutionIds": [
+        "c1e79a854662b57f"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.uvmnet.edu/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.umontemorelos.edu.mx/",
+      "canonicalOrigin": "https://umontemorelos.edu.mx/",
+      "institutionIds": [
+        "9b1a0619c5a4c62e"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.unica.edu.do/",
+      "canonicalOrigin": "https://unica.edu.do/",
+      "institutionIds": [
+        "742e471accfd2496"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "robots": {
+        "url": "http://www.unica.edu.do/robots.txt",
+        "http": 301
+      },
+      "status": "robots redirect not followed; pending"
+    },
+    {
+      "url": "http://www.unev-rd.edu.do/",
+      "canonicalOrigin": "https://unev-rd.edu.do/",
+      "institutionIds": [
+        "bf1e4e2a02eb072f"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.uno.mx/",
+      "canonicalOrigin": "https://uno.mx/",
+      "institutionIds": [
+        "1bf1a455894337af"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.undh.org/",
+      "canonicalOrigin": "https://undh.org/",
+      "institutionIds": [
+        "6604a02bd8a76c46"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.frayluca.edu.mx/",
+      "canonicalOrigin": "https://frayluca.edu.mx/",
+      "institutionIds": [
+        "6e4f0384a4e917f0"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.uneph.org/",
+      "canonicalOrigin": "https://uneph.org/",
+      "institutionIds": [
+        "58406abd9abfe4d6"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.auchaiti.org/",
+      "canonicalOrigin": "https://auchaiti.org/",
+      "institutionIds": [
+        "ed205091679c5066"
+      ],
+      "checked": "2026-10-25",
+      "pages": [
+        {
+          "url": "http://www.auchaiti.org/",
+          "http": 301,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 167,
+          "location": "https://www.auchaiti.org/"
+        }
+      ],
+      "robots": {
+        "url": "http://www.auchaiti.org/robots.txt",
+        "http": 200
+      },
+      "status": "redirect not followed; pending"
+    },
+    {
+      "url": "http://www.ismm.edu.cu/",
+      "canonicalOrigin": "https://ismm.edu.cu/",
+      "institutionIds": [
+        "6d8b6e24bd6124e8"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    },
+    {
+      "url": "http://www.udg.co.cu/",
+      "canonicalOrigin": "https://udg.co.cu/",
+      "institutionIds": [
+        "cc59ffc4b6a87af6"
+      ],
+      "checked": "2026-10-25",
+      "pages": [],
+      "status": "original URL request failed",
+      "error": "ConnectionError"
+    }
+  ],
+  "summary": {
+    "robots redirect not followed; pending": 130,
+    "original URL request failed": 236,
+    "original URL failed or denied": 9,
+    "robots unavailable; no page requested": 4,
+    "accessible original URL; content not thematically reviewed": 50,
+    "redirect not followed; pending": 21,
+    "robots denied; no page requested": 9,
+    "robots disallow; no page requested": 1
+  },
+  "contentCheckSummary": {
+    "domain_only_title_possible_parking": 5,
+    "institutional_looking_title_not_validated": 31,
+    "placeholder_or_maintenance": 8,
+    "title_absent_content_not_validated": 6
+  },
+  "limits": [
+    "HTTP200 solamente confirma respuesta: hay páginas aparcadas, mantenimiento y páginas por defecto. No equivalen a revisión temática ni institución vigente.",
+    "No se siguieron redirecciones, incluso de robots; se conservaron para revisión posterior.",
+    "No se descargaron más de robots y una página por origen real."
+  ],
+  "interpretation": "Respuestas técnicas del reintento. No se reclasifican automáticamente como revisión institucional o temática; se conservan los denominadores del barrido inicial."
+}

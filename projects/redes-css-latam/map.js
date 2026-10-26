@@ -3,7 +3,7 @@
 const $=s=>document.querySelector(s), esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])), fold=s=>String(s??'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
 const link=(u,t)=>/^https?:\/\//.test(u||'')?`<a href="${esc(u)}" target="_blank" rel="noopener noreferrer">${esc(t)} ↗</a>`:esc(t);
 try{
-const [D,N,P,programs,coverage,audit,geo]=await Promise.all(['directory','network','corpus','programs','coverage','audit','geography'].map(async f=>{const r=await fetch('/data/css-latam/'+f+'.json');if(!r.ok)throw Error(f);return r.json()}));
+const [D,N,P,programs,coverage,audit,geo]=await Promise.all(['directory','network','corpus','programs','coverage','audit','geography'].map(async f=>{const r=await fetch('/data/css-latam/'+f+'.json',{cache:'no-store'});if(!r.ok)throw Error(f);return r.json()}));
 const records=new Map(D.map(x=>[x.id,x])),papers=new Map(P.map(p=>[p.id,p])),S=N.stats;
 const affiliationIds=new Set(N.affiliations.nodes.map(n=>n.id));let missingIndex=0;for(const d of D){if(!affiliationIds.has(d.id)){N.affiliations.nodes.push({id:d.id,record:d.id,name:d.name,country:d.country,kind:d.type==='Persona'?'person':'institution',x:60+(missingIndex%14)*66,y:580+Math.floor(missingIndex/14)*32});missingIndex++}}
 const people=D.filter(d=>d.type==='Persona'),core=people.filter(d=>d.fit==='CSS directa'&&d.baseStatus==='Base regional documentada');
