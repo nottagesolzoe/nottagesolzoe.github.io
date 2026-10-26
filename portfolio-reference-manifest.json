@@ -69,19 +69,11 @@
   },
   "content_recovery": {
     "date": "2026-10-25",
-    "site_project_id": "appgprj_6a7bfa15ebdc81918e5a0fae12080c4c",
-    "site_version": 21,
-    "source_commit": "1e0fb94cd2c4e2decb6fdada2bead89031a072bf",
-    "scope": "Full replacement with original Site version 21 text at Sol’s explicit selection. Preserve current design and the separately maintained CSS atlas charts and data.",
-    "pages": [
-      "/",
-      "/about/",
-      "/projects/",
-      "/research/",
-      "/publications/",
-      "/presentations/",
-      "/resources/",
-      "Spanish equivalents"
-    ]
+    "authoritative_local_edit": "2026-10-22T17:31:14-04:00",
+    "restored_content_commit": "4d9539d",
+    "original_recovery_commit": "2cba780",
+    "obsolete_site_source_commit": "1e0fb94cd2c4e2decb6fdada2bead89031a072bf",
+    "obsolete_site_edit": "2026-09-03T23:57:14-04:00",
+    "scope": "Restore the later October content, photo mosaics, original narrative, combined research/publications and own/external tools, according to explicit user corrections. Preserve subsequent atlas chart styling and data."
   }
 }

@@ -1,11 +1,19 @@
 # Sol’s portfolio
 
-Host and publish this personal website exclusively at https://nottagesolzoe.github.io/. Never create or deploy an alternative on Sites or another service unless Sol explicitly changes this instruction.
+Host and publish exclusively at https://nottagesolzoe.github.io/. Never deploy another personal Site unless Sol explicitly changes this instruction.
 
-The current site is the original static HTML/CSS/JS portfolio recovered from the work of 2026-10-22. Edit the root HTML pages and their es/ equivalents, css/, js/, assets/, and relevant data/ files directly. No framework build is required. The old portfolio-source/ directory is a superseded migration attempt; do not build or copy it over this site.
+## Authoritative content and chronology
 
-Preserve the exact recovered design, Rosario typography, original fileteado hover, red/violet accents, white background, square mosaics, separate English/Spanish pages, and current CSS atlas research data. The latest user instruction selects the original Site text in full, replacing later biographical prose and portfolio entries. Every update must be published and verified on github.io.
+The last original Site commit, 1e0fb94, was dated 2026-09-03. It is an obsolete reference. Do not use its version number 21 as evidence that its text is newer.
 
-For charts and analytical maps, apply Sol’s visualizations skill. Use assets/chart-palette.json, Rosario, white backgrounds, direct percentage (count) labels with explicit denominators, and zero-based horizontal lollipops for a single measure. Use exact palette colors and consistent categories. Do not restore orange, yellow, green or mint data colors.
+The authoritative later portfolio was edited locally on 2026-10-22 at 17:31 America/New_York, retained at /private/tmp/css-portfolio and in the 20261020_css_web backup, then recovered in commit 2cba780 on 2026-10-23. The matching content is also retained in commit 4d9539d. Sol’s explicit corrections on 2026-10-25 confirm this later content over the September Site.
 
-Portfolio text was recovered from the latest saved original Site, version 21, source commit 1e0fb94cd2c4e2decb6fdada2bead89031a072bf, on 2026-10-25. Sol explicitly selected full replacement with the original Site prose on 2026-10-25. Do not merge subsequent biographical prose or project entries back into these pages unless requested. The Site is a read-only migration reference; publish exclusively to github.io.
+Edit root HTML, es/ equivalents, css/, js/, assets/ and data/ directly. No framework build is required. Do not build portfolio-source/ or copy the old Site over these files.
+
+Preserve Rosario, red/violet accents, white background, fileteado, square boxes and photo mosaics, Sol’s street portrait, the National Flag Memorial photo (assets/images/css-latam-user-city.png), and teaching, Geneva and UN photographs. Preserve the full personal narrative; do not restore Education, Leadership and Recognition cards.
+
+Use Visualization projects or Visualizations, not Data, for the visualization destination. Keep publications below ongoing research on Research & writing. Keep Tools divided between Sol’s own GitHub tools and useful external resources, including Hugging Face and Google Apps Script. Do not restore the News Data Bias Toolkit. Do not remove later photos, publications or project entries merely to match the September Site. Update both languages together.
+
+For analytical charts and maps, apply Sol’s visualizations skill and assets/chart-palette.json. Preserve the latest atlas data, filter consistency, Rosario typography, exact approved palette and zero-based lollipops with percentage (count) labels and explicit denominators. Do not restore yellow, orange, green or mint data colors. Keep website branding and chart data colors distinct where required by the skills.
+
+Publish each authorized update on github.io and verify deployment.
